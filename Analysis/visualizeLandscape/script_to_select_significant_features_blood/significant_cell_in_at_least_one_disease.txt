@@ -1,0 +1,17 @@
+naive_B_cell
+neutrophil
+CD56dim_natural_killer_cell
+CD4_positive_alpha_beta_T_cell
+macrophage_m0
+plasmacytoid_dendritic_cell
+macrophage_m2
+CD8_positive_alpha_beta_T_cell
+CD56bright_natural_killer_cell
+macrophage_m1
+MAST_cell
+myeloid_dendritic_cell
+memory_B_cell
+plasma_cell
+gamma_delta_T_cell
+CD16_positive_monocyte
+basophil
