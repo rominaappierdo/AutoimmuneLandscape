@@ -1,0 +1,5 @@
+natural_killer_cell
+monocyte
+B_cell
+T_cell
+granulocyte
