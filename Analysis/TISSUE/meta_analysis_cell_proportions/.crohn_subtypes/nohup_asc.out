@@ -1,0 +1,59 @@
+nohup: ignoring input
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.2     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.0
+✔ ggplot2   3.4.3     ✔ tibble    3.2.1
+✔ lubridate 1.9.2     ✔ tidyr     1.3.0
+✔ purrr     1.0.2     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:lubridate’:
+
+    hour, isoweek, mday, minute, month, quarter, second, wday, week,
+    yday, year
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+
+Attaching package: ‘rlang’
+
+The following object is masked from ‘package:data.table’:
+
+    :=
+
+The following objects are masked from ‘package:purrr’:
+
+    %@%, flatten, flatten_chr, flatten_dbl, flatten_int, flatten_lgl,
+    flatten_raw, invoke, splice
+
+ℹ Loading metapipeline
+Loading required package: DBI
+Setting options('download.file.method.GEOquery'='auto')
+Setting options('GEOquery.inmemory.gpl'=FALSE)
+Found 1 file(s)
+GSE48634_series_matrix.txt.gz
+Using locally cached version: ../../../../geo_data//GSE48634_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../geo_data//GPL10558.soft.gz 
+         Length Class  Mode
+GSE48634 1      -none- list
+[1] "GSE48634_series_matrix.txt.gz"
+ [1] "GSE48634"  "GSE101794" "GSE111889" "GSE112057" "GSE117993" "GSE137344"
+ [7] "GSE138364" "GSE143507" "GSE151686" "GSE156044" "GSE171244" "GSE179128"
+[13] "GSE186507" "GSE193677" "GSE208303" "GSE66207"  "GSE83687"  "GSE85499" 
+[1] "GSE48634"
+Computing effect sizes...[1] "SUCCESS!"
+Error in .combine.effect.sizes(all.ES) : 
+Calls: run_pipeline ... runMetaAnalysis -> .runMetaAnalysisCore -> .combine.effect.sizes
+Execution halted

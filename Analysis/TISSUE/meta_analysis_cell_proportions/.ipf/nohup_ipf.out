@@ -1,0 +1,89 @@
+nohup: ignoring input
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.2     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.0
+✔ ggplot2   3.4.3     ✔ tibble    3.2.1
+✔ lubridate 1.9.2     ✔ tidyr     1.3.0
+✔ purrr     1.0.2     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:lubridate’:
+
+    hour, isoweek, mday, minute, month, quarter, second, wday, week,
+    yday, year
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+
+Attaching package: ‘rlang’
+
+The following object is masked from ‘package:data.table’:
+
+    :=
+
+The following objects are masked from ‘package:purrr’:
+
+    %@%, flatten, flatten_chr, flatten_dbl, flatten_int, flatten_lgl,
+    flatten_raw, invoke, splice
+
+ℹ Loading metapipeline
+Setting options('download.file.method.GEOquery'='auto')
+Setting options('GEOquery.inmemory.gpl'=FALSE)
+Found 1 file(s)
+GSE10667_series_matrix.txt.gz
+Using locally cached version: ../../../../geo_data//GSE10667_series_matrix.txt.gz
+Using locally cached version of GPL4133 found here:
+../../../../geo_data//GPL4133.soft.gz 
+Found 1 file(s)
+GSE110147_series_matrix.txt.gz
+Using locally cached version: ../../../../geo_data//GSE110147_series_matrix.txt.gz
+Using locally cached version of GPL6244 found here:
+../../../../geo_data//GPL6244.soft.gz 
+Found 1 file(s)
+GSE24206_series_matrix.txt.gz
+Using locally cached version: ../../../../geo_data//GSE24206_series_matrix.txt.gz
+Using locally cached version of GPL570 found here:
+../../../../geo_data//GPL570.soft.gz 
+Found 1 file(s)
+GSE35145_series_matrix.txt.gz
+Using locally cached version: ../../../../geo_data//GSE35145_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE48149_series_matrix.txt.gz
+Using locally cached version: ../../../../geo_data//GSE48149_series_matrix.txt.gz
+Using locally cached version of GPL16221 found here:
+../../../../geo_data//GPL16221.soft.gz 
+          Length Class  Mode
+GSE10667  1      -none- list
+GSE110147 1      -none- list
+GSE24206  1      -none- list
+GSE35145  1      -none- list
+GSE48149  1      -none- list
+[1] "GSE10667_series_matrix.txt.gz"
+[1] "GSE110147_series_matrix.txt.gz"
+[1] "GSE24206_series_matrix.txt.gz"
+[1] "GSE35145_series_matrix.txt.gz"
+[1] "GSE48149_series_matrix.txt.gz"
+ [1] "GSE10667"  "GSE110147" "GSE24206"  "GSE35145"  "GSE48149"  "GSE124685"
+ [7] "GSE150910" "GSE169500" "GSE199152" "GSE199949" "GSE83717"  "GSE92592" 
+[13] "GSE99621" 
+ [1] "GSE10667"  "GSE110147" "GSE24206"  "GSE35145"  "GSE48149"  "GSE124685"
+ [7] "GSE150910" "GSE169500" "GSE199949" "GSE83717"  "GSE92592"  "GSE99621" 
+Error in gzfile(file, mode) : cannot open the connection
+Calls: run_pipeline ... immunoStatesMeta -> immunoStatesDecov -> saveRDS -> gzfile
+In addition: Warning message:
+In gzfile(file, mode) :
+  cannot open compressed file '/mnt/data2/disk_4T/appierdo/dottorato/data/goodness_of_fit/stuff.RDS', probable reason 'Permission denied'
+Execution halted
