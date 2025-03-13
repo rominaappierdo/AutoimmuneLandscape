@@ -1,0 +1,17 @@
+macrophage_m1
+neutrophil
+MAST_cell
+plasmacytoid_dendritic_cell
+eosinophil
+naive_B_cell
+plasma_cell
+macrophage_m2
+basophil
+CD8_positive_alpha_beta_T_cell
+CD56dim_natural_killer_cell
+memory_B_cell
+macrophage_m0
+CD4_positive_alpha_beta_T_cell
+CD14_positive_monocyte
+myeloid_dendritic_cell
+hematopoietic_progenitor
