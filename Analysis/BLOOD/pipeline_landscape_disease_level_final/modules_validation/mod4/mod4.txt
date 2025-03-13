@@ -1,9 +1,0 @@
-CD8_positive_alpha_beta_T_cell
-CXCL12_cyto
-ITGA8_cyto
-LIF_cyto
-hsa-miR-302a-3p
-hsa-miR-34c-5p
-hsa-miR-361-5p
-hsa-miR-519d-3p
-TWIST1_tf
