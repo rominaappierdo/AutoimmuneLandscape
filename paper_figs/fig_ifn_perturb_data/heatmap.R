@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/modules_applications/perturbation_experiment_ifn/")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/fig_ifn_perturb_data")
 library(MetaIntegrator)
 library(data.table)
 library(ComplexHeatmap)
@@ -14,7 +14,7 @@ gse<-'GSE78193'
 
 ########## set module
 module_name <- "mod5"
-module <- readLines("../../BLOOD/pipeline_landscape_disease_level_final/modules_files/mod5/mod5.txt")
+module <- readLines("../../Analysis/BLOOD/pipeline_landscape_disease_level_final/modules_files/mod5/mod5.txt")
 module_interpretation <- 'IFN-g module'
 
 ########## get expression data
@@ -82,3 +82,9 @@ p <- Heatmap(as.matrix(total_df),
              
 )
 p<-draw(p, annotation_legend_side = "left", heatmap_legend_side = "bottom")
+
+
+
+png(filename = 'ht.png', res = 600, width = 10000, height = 7000)
+p
+dev.off()
