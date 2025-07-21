@@ -39,11 +39,11 @@ p <- ComplexHeatmap::Heatmap(as.matrix(correlation_matrix),
 p <- draw(p, padding = unit(c(2, 2, 2, 2), "mm"))
 
 
-saveRDS(row_dend, file= 'row_dend.rds')
+#saveRDS(row_dend, file= 'row_dend.rds')
 
 cluster_membership <- as.data.frame(cutree(column_dend, k= nclusters))
 colnames(cluster_membership) <- c('cluster')
 cluster_membership$feature <- rownames(cluster_membership)
 clusters<- split(cluster_membership$feature, cluster_membership$cluster)
-saveRDS(clusters, file= 'clusters.rds')
+#saveRDS(clusters, file= 'clusters.rds')
 

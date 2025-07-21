@@ -1,5 +1,4 @@
 setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/pipeline_landscape_disease_level_final")
-#source("../../../utils_functions/functions_to_process_RNAseq_Data.R")
 source("/mnt/data3/appierdo/PhD-project/utils_functions/functions_to_process_RNAseq_Data.R")
 library(MetaIntegrator)
 library(ComplexHeatmap)
@@ -9,13 +8,14 @@ redundant_cell_types <- readLines("../../../gene_sets/redundant_cell_types.txt")
 cells_mat <- data.frame(matrix(nrow = length(colnames(immunoStates)), ncol = 0, dimnames = list(colnames(immunoStates))))
 
 source.dir <- "../meta_analysis_cell_proportions/"
+
 for (file in list.files(source.dir, pattern = '.*complete_res.*', recursive = T, full.names = T)) {
-  disease <- strsplit(file, '/')[[1]][4]
-  cell_prop <- read.csv(file, sep = '\t')
-  cell_prop <- cell_prop[!cell_prop$gene %in% redundant_cell_types, ]
-  cell_prop <- cell_prop[, c("gene", "effectSize")]
-  cell_prop <- cbind(cell_prop, 'disease' = rep(disease,nrow(cell_prop)))
-  cell_prop <- reshape(cell_prop, idvar = "gene", timevar = "disease", direction = "wide")
+  disease <- strsplit(file, '/')[[1]][4] #get disease name
+  cell_prop <- read.csv(file, sep = '\t') #read meta-analysis results
+  cell_prop <- cell_prop[!cell_prop$gene %in% redundant_cell_types, ] #remove redundant cell types
+  cell_prop <- cell_prop[, c("gene", "effectSize")] #retain only feature name and effect size value
+  cell_prop <- cbind(cell_prop, 'disease' = rep(disease,nrow(cell_prop))) #add a column with disease name
+  cell_prop <- reshape(cell_prop, idvar = "gene", timevar = "disease", direction = "wide") #long to wide
   rownames(cell_prop) <- cell_prop$gene
   cell_prop$gene <- NULL
   colnames(cell_prop) <- disease
@@ -25,6 +25,7 @@ for (file in list.files(source.dir, pattern = '.*complete_res.*', recursive = T,
 }
 cells_mat <- cells_mat[rownames(cells_mat) %in% readLines("../../visualizeLandscape/script_to_select_significant_features_blood/significant_cell_in_at_least_one_disease.txt"), ]
 cells_mat <- na.omit(cells_mat)
+
 
 hallmarks_list <- names(readRDS("../../../gene_sets/hallmarks_list_GENE_SYMBOL.RData"))
 hall_mat <- data.frame(matrix(nrow = length(hallmarks_list), ncol = 0, dimnames = list(hallmarks_list)))
@@ -184,17 +185,21 @@ ht <- Heatmap(
   #bottom_annotation = column_ha,
   #column_gap = unit(2, "mm"),
   heatmap_height = unit(6.4, "mm")*nrow(df),
-  heatmap_width = unit(0.66, "mm")*ncol(df),
+  heatmap_width = unit(0.5, "mm")*ncol(df),
   na_col = 'black',
   show_column_names = F,
   rect_gp = gpar(col = "black", lwd = 0.03),
   show_heatmap_legend = T,
-  column_title_gp = gpar(col = c("steelblue", "darkgreen", "orange", "darkviolet", "red"), font = rep(2, 5)),
+  column_title_gp = gpar(col = c("orange", "darkviolet","steelblue", "darkgreen", "red"), font = rep(2, 5)),
   heatmap_legend_param = list(
     legend_direction = "horizontal")
 )
 
 ht <- draw(ht, heatmap_legend_side = "bottom")
 
-write.table(df, file = 'input_correlation_mat.tsv', sep ='\t', quote = F, row.names = T, col.names = NA)
+jpeg('fig2C.jpeg', width = 40 ,height = 10, units = 'cm', res = 600)
+draw(ht, heatmap_legend_side = "bottom")
+dev.off()
+
+#write.table(df, file = 'input_correlation_mat.tsv', sep ='\t', quote = F, row.names = T, col.names = NA)
 

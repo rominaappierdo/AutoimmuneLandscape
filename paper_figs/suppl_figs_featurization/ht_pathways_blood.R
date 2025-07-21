@@ -72,6 +72,6 @@ ht <- Heatmap(as.matrix(data),
 draw(ht, heatmap_legend_side = 'left')
 
 
-jpeg("ht_pathways.jpeg", units="in", width=15, height=8, res=600)
+jpeg("ht_pathways_blood.jpeg", units="in", width=15, height=8, res=600)
 draw(ht, heatmap_legend_side = 'left')
 dev.off()

@@ -1,9 +1,11 @@
 setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/visualizeLandscape")
-source("/mnt/data3/appierdo/PhD-project//utils_functions/functions_to_process_RNAseq_Data.R")
+source("../../../PhD-project/utils_functions/functions_to_process_RNAseq_Data.R")
 library(MetaIntegrator)
 library(ComplexHeatmap)
 
 
+nDiseases <- 10
+cols <- c("crohn", "diabetes", "jia", "lupus", "multiple_sclerosis", "psoriasis", "ra", "scleroderma", "sjogren", "uc")
 immunoStates <- immunoStatesMatrix
 redundant_cell_types <- readLines("../../gene_sets/redundant_cell_types.txt")
 cells_mat <- data.frame(matrix(nrow = length(colnames(immunoStates)), ncol = 0, dimnames = list(colnames(immunoStates))))
@@ -11,6 +13,7 @@ cells_mat <- data.frame(matrix(nrow = length(colnames(immunoStates)), ncol = 0, 
 source.dir <- "../BLOOD/meta_analysis_cell_proportions/"
 for (file in list.files(source.dir, pattern = '.*complete_res.*', recursive = T, full.names = T)) {
   disease <- strsplit(file, '/')[[1]][5]
+  
   cell_prop <- read.csv(file, sep = '\t')
   cell_prop <- cell_prop[!cell_prop$gene %in% redundant_cell_types, ]
   cell_prop <- cell_prop[, c("gene", "effectSize")]
@@ -23,8 +26,10 @@ for (file in list.files(source.dir, pattern = '.*complete_res.*', recursive = T,
   rownames(cells_mat) <- cells_mat$Row.names
   cells_mat$Row.names <- NULL
 }
+cells_mat <- na.omit(cells_mat)
 cells_mat <- cells_mat[rownames(cells_mat) %in% readLines("script_to_select_significant_features_blood/significant_cell_in_at_least_one_disease.txt"), ]
-#cells_mat <- na.omit(cells_mat)
+
+
 
 hallmarks_list <- names(readRDS("../../gene_sets/hallmarks_list_GENE_SYMBOL.RData"))
 hall_mat <- data.frame(matrix(nrow = length(hallmarks_list), ncol = 0, dimnames = list(hallmarks_list)))
@@ -91,7 +96,6 @@ wiki_mat <- wiki_mat[rownames(wiki_mat) %in% readLines("script_to_select_signifi
 wiki_mat <- wiki_mat[rownames(wiki_mat) %in% readLines("../../gene_sets/wiki_immune_related.txt"), ]
 
 
-
 tf_list <- names(readRDS("../../gene_sets/collecTRI_regulons_dorothea_08122023.rds"))
 tf_mat <- data.frame(matrix(nrow = length(tf_list), ncol = 0, dimnames = list(tf_list)))
 source.dir <- "../BLOOD/TFs/meta_analysis_tf_activity/"
@@ -113,7 +117,6 @@ rownames(tf_mat) <- unlist(lapply(rownames(tf_mat), function(x) paste0(x, '_tf')
 tf_mat <- na.omit(tf_mat)
 
 
-
 mirna_list <- names(readRDS("../../gene_sets/miRTarBase_regulons.rds"))
 mirna_mat <- data.frame(matrix(nrow = length(mirna_list), ncol = 0, dimnames = list(mirna_list)))
 source.dir <- "../BLOOD/miRNA/meta_analysis_mirna_activity/"
@@ -132,6 +135,7 @@ for (file in list.files(source.dir, pattern = '.*complete_res.*', recursive = T,
 }
 mirna_mat <- mirna_mat[rownames(mirna_mat) %in% readLines("script_to_select_significant_features_blood/significant_mirna_in_at_least_one_disease.txt"), ]
 mirna_mat <- na.omit(mirna_mat)
+
 
 
 cyto_list <- readLines("../../signaling_molecules/curated_kines/all_kines.txt")
@@ -168,9 +172,9 @@ column_split <- c(rep('Cell\nproportions', nrow(cells_mat)), rep('Pathways activ
 df <- rename_single_column(df, 'diabetes', 'type1_diabetes')
 df <- t((df))
 
-# rownames(df) <- c("Crohn's disease", "Type 1 diabetes", "Juvenile idiopathic arthritis", "Lupus", "Multiple sclerosis", 
-#                   "Psoriasis", "Rheumatoid arthritis", "Scleroderma", "Sjogren's syndrome", 
-#                   "Ulcerative colitis")
+rownames(df) <- c("Crohn's disease", "Type 1 diabetes", "Juvenile idiopathic arthritis", "Lupus", "Multiple sclerosis", 
+                  "Psoriasis", "Rheumatoid arthritis", "Scleroderma", "Sjogren's syndrome", 
+                  "Ulcerative colitis")
 
 
 
@@ -191,9 +195,19 @@ ht <- Heatmap(
   show_column_names = F,
   rect_gp = gpar(col = "black", lwd = 0.03),
   show_heatmap_legend = T,
-  column_title_gp = gpar(col = c("steelblue", "darkgreen", "orange", "darkviolet", "red"), font = rep(2, 5)),
+  column_title_gp = gpar(col = c("steelblue","orange", "darkviolet", "darkgreen",  "red"), font = rep(2, 5)),
   heatmap_legend_param = list(
     legend_direction = "horizontal")
 )
 
 ht <- draw(ht, heatmap_legend_side = "bottom")
+
+
+
+
+jpeg("ht_lanadscape_blood.jpeg", units="in", width=15, height=5, res=600)
+draw(ht)
+dev.off()
+
+
+

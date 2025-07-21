@@ -8,7 +8,7 @@ library(ggthemes)
 library(ggpubr)
 library(factoextra)
 source("/mnt/data3/appierdo/PhD-project/utils_functions/functions_to_process_RNAseq_Data.R")
-source("/mnt/data3/appierdo/PhD-project/utils_functions/function_compute_all_features_for_module.R")
+source("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/module_validation_figs/psoriasis_GSE117239/Untitled.R")
 
 gse<-'GSE78193'
 
@@ -34,6 +34,7 @@ meta <- fread("/mnt/data3/appierdo/PhD-project/Data_Collection/raw_data/step6_st
 meta <- meta[meta$series_id==gse]
 meta <- meta[meta$cell_type=='cultured sample', ]
 meta <- sort_by_col(meta, colname = 'geo_accession')
+
 
 if (!identical(meta$geo_accession, colnames(expr))) {
   stop("different samples from expression and metadata")
@@ -99,6 +100,6 @@ for (i in strip_both) {
 grid.draw(g)
 
 
-png(filename = 'boxplot.png', res = 600, width = 4000, height = 3000)
+png(filename = 'boxplot_new.png', res = 600, width = 4000, height = 3000)
 grid.draw(g)
 dev.off()

@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/module_validation_figs/pso_first")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/module_validation_figs/psoriasis_GSE249936")
 library(MetaIntegrator)
 library(data.table)
 library(ComplexHeatmap)
@@ -10,12 +10,13 @@ library(mclust)
 library(ggplot2)
 library(ggthemes)
 source("/mnt/data3/appierdo/PhD-project/utils_functions/functions_to_process_RNAseq_Data.R")
-source("/mnt/data3/appierdo/PhD-project/utils_functions/function_compute_all_features_for_module.R")
+source("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/module_validation_figs/psoriasis_GSE117239/Untitled.R")
+
 
 gse <- 'GSE249936'
 
 #read all modules
-source("/mnt/data3/appierdo/PhD-project/Analysis/BLOOD/pipeline_landscape_disease_level_final/modules_validation/readLines_all_modules.R")
+source("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/pipeline_landscape_disease_level_final/modules_files/readLines_all_modules.R")
 
 list_modules <- list(mod1, mod2, mod3, mod4, mod5, mod6, mod7, mod8, mod9, mod10, mod11, mod12, mod13, mod14, mod15)
 module_names <-  c("Th1 response",  "Monocyte/macrophage_NK_crosstalk", "T_cell_activation_and_recruitment", 
@@ -211,7 +212,7 @@ for (i in 1:length(list_boxplot_new)) {
 }
 
 
-jpeg(file = 'boxplot_psoriasis.jpeg', width = 68 , units = 'cm', height = 35, res = 600)
+jpeg(file = 'Fig7C_boxplot_psoriasis.jpeg', width = 68 , units = 'cm', height = 35, res = 600)
 do.call(grid.arrange,c(list_boxplot_new, ncol = 4))
 dev.off()
 

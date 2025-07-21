@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis//visualizeLandscape")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/visualizeLandscape")
 source("../../../PhD-project/utils_functions/functions_to_process_RNAseq_Data.R")
 library(MetaIntegrator)
 library(ComplexHeatmap)
@@ -196,3 +196,11 @@ ht <- Heatmap(
 )
 
 ht <- draw(ht, heatmap_legend_side = "bottom")
+
+
+
+jpeg("ht_lanadscape_tissue.jpeg", units="in", width=18, height=5, res=600)
+draw(ht)
+dev.off()
+
+
