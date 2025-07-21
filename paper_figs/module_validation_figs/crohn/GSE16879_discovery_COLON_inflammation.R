@@ -12,6 +12,9 @@ source("/mnt/data3/appierdo/PhD-project/utils_functions/function_compute_all_fea
 source("/mnt/data3/appierdo/PhD-project/Analysis/BLOOD/pipeline_landscape_disease_level_final/modules_validation/readLines_all_modules.R")
 
 
+source("/mnt/data3/appierdo/AutoimmuneLandscape/utils_functions/function_compute_all_features_for_module.R")
+
+
 gse <- 'GSE16879'
 
 

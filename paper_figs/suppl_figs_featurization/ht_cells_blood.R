@@ -74,6 +74,6 @@ ht <- Heatmap(as.matrix(data),
 ht
 
 
-jpeg("ht_cell.jpeg", units="in", width=10, height=10, res=600)
+jpeg("ht_cell_blood.jpeg", units="in", width=10, height=10, res=600)
 draw(ht)
 dev.off()

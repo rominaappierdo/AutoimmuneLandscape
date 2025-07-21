@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/PhD-project/paper/paper_figs/module_validation_figs/pso_second")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/module_validation_figs/psoriasis_GSE117239")
 library(MetaIntegrator)
 library(data.table)
 library(ComplexHeatmap)
@@ -8,7 +8,7 @@ library(ggthemes)
 library(ggpubr)
 library(factoextra)
 source("/mnt/data3/appierdo/PhD-project/utils_functions/functions_to_process_RNAseq_Data.R")
-source("/mnt/data3/appierdo/PhD-project/utils_functions/function_compute_all_features_for_module.R")
+source("/mnt/data3/appierdo/AutoimmuneLandscape/utils_functions/function_compute_all_features_for_module.R")
 source("/mnt/data3/appierdo/PhD-project/Analysis/BLOOD/pipeline_landscape_disease_level_final/modules_validation/readLines_all_modules.R")
 
 
@@ -141,9 +141,9 @@ for (module in list_modules) {
    
   list_plot[[c]] <- p
   
-  pdf(file = paste0('module_', c, '.pdf'), width = 15, height = 10)
-  print(p)
-  dev.off()
+  # pdf(file = paste0('module_', c, '.pdf'), width = 15, height = 10)
+  # print(p)
+  # dev.off()
 }
 
 
@@ -178,9 +178,9 @@ pl1 <- ggplot(merged, aes(y = pasi, x = timepoint, fill = response)) +
 
 pl1
 
-jpeg(file = "PASI_score_at_baseline_vs_week_12.jpeg", units = 'cm', res = 300, width = 25, height = 20)
-pl1
-dev.off()
+# jpeg(file = "PASI_score_at_baseline_vs_week_12.jpeg", units = 'cm', res = 300, width = 25, height = 20)
+# pl1
+# dev.off()
 
 
 
@@ -205,9 +205,58 @@ pl2 <- ggplot(merged, aes(y = pasi, x = timepoint, fill = response)) +
 
 pl2
 
-jpeg(file = "PASI_score_at_baseline_vs_week_12_facet_treatment.jpeg", units = 'cm', res = 600, width = 30, height = 15)
-pl2
-dev.off()
+# jpeg(file = "PASI_score_at_baseline_vs_week_12_facet_treatment.jpeg", units = 'cm', res = 600, width = 30, height = 15)
+# pl2
+# dev.off()
+
+
+#significant reductions in PASI scores were observed in responders treated with ustekinumab (both 45 mg and 90 mg) and etanercept  
+#pl3
+new_merged <- merged
+new_merged <- new_merged[new_merged$response == 'R', ]
+
+pl3 <- ggplot(new_merged, aes(y = pasi, x = timepoint, fill = response)) +
+  geom_boxplot()+
+  stat_compare_means(method = 't.test', size = 4.5) +
+  theme_classic() +
+  #scale_fill_tableau(palette = 'Superfishel Stone')
+  scale_fill_tableau(palette = 'Nuriel Stone', name = 'Response') +
+  ylab("PASI")+
+  xlab("") +
+  theme(axis.title = element_text(size = 18),
+        axis.text = element_text(size = 12),
+        axis.text.x = element_text(size = 14),
+        strip.text.x = element_text(size = 16, face = 'bold'),
+        legend.text = element_text(size = 12),
+        legend.title = element_text(size = 14))+
+  # ggtitle("PASI score at baseline vs week 12")+
+  facet_wrap(~treatment)
+
+pl3
+
+
+new_merged <- merged
+new_merged2 <- new_merged[new_merged$response == 'NR', ]
+
+pl4 <- ggplot(new_merged2, aes(y = pasi, x = timepoint, fill = response)) +
+  geom_boxplot()+
+  stat_compare_means(method = 't.test', size = 4.5) +
+  theme_classic() +
+  #scale_fill_tableau(palette = 'Superfishel Stone')
+  scale_fill_tableau(palette = 'Nuriel Stone', name = 'Response') +
+  ylab("PASI")+
+  xlab("") +
+  theme(axis.title = element_text(size = 18),
+        axis.text = element_text(size = 12),
+        axis.text.x = element_text(size = 14),
+        strip.text.x = element_text(size = 16, face = 'bold'),
+        legend.text = element_text(size = 12),
+        legend.title = element_text(size = 14))+
+  # ggtitle("PASI score at baseline vs week 12")+
+  facet_wrap(~treatment)
+
+pl4
+
 
 #correlation inflammation module
 corr_plot <- ggplot(merged, aes(x = Inflammation_module, y = pasi)) +
@@ -227,10 +276,10 @@ corr_plot <- ggplot(merged, aes(x = Inflammation_module, y = pasi)) +
   xlab('Inflammation module')
 
 corr_plot
-jpeg(file = "corr_plot.jpeg", units = 'cm', res = 600, width = 30, height = 15)
-corr_plot
-dev.off()
 stop()
+# jpeg(file = "corr_plot.jpeg", units = 'cm', res = 600, width = 30, height = 15)
+# corr_plot
+# dev.off()
 
 
 #CORRELATIONS ALL MODULES
