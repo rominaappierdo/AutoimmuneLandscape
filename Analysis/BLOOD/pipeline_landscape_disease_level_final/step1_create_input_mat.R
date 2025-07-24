@@ -1,5 +1,5 @@
 setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/pipeline_landscape_disease_level_final")
-source("/mnt/data3/appierdo/PhD-project/utils_functions/functions_to_process_RNAseq_Data.R")
+source("../../../utils_functions/functions_to_process_RNAseq_Data.R")
 library(MetaIntegrator)
 library(ComplexHeatmap)
 
