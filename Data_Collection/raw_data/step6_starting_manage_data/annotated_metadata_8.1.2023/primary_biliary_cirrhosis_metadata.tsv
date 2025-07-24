@@ -1,0 +1,416 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	superseries	channel_count
+NA	GSE159676	GSM4837490	LTH_1	healthy	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837491	LTH_2	healthy	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837492	LTH_3	healthy	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837493	LTH_4	healthy	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837494	LTH_5	healthy	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837495	LTH_6	healthy	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837496	NASH_1	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837497	NASH_2	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837498	NASH_3	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837499	NASH_4	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837500	NASH_5	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837501	NASH_6	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837502	NASH_7	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837503	PSC_1_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837504	PSC_2_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837505	PSC_3_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837506	PSC_4_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837507	PSC_5_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837508	PSC_6_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837509	PSC_1_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837510	PSC_2_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837511	PSC_3_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837512	PSC_4_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837513	PSC_5_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837514	PSC_6_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837515	ML-1	primary biliary cirrhosis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837516	ML-2	primary biliary cirrhosis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837517	ML-3	haemochromatosis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837518	ML-4	autoimmune hepatitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837519	ML-5	autoimmune hepatitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837520	ML-6	alcohol related	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837521	ML-7	autoimmune hepatitis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE159676	GSM4837522	ML-8	primary biliary cirrhosis	tissue	liver	NA	NA	NA	NA	NA		1
+NA	GSE93170	GSM2445826	Sample_1	healthy	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE93170	GSM2445827	Sample_2	healthy	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE93170	GSM2445828	Sample_3	healthy	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE93170	GSM2445829	Sample_4	healthy	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE93170	GSM2445830	Sample_5	healthy	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE93170	GSM2445831	Sample_6	healthy	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE93170	GSM2445832	Sample_7	primary biliary cirrhosis	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE93170	GSM2445833	Sample_8	primary biliary cirrhosis	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE93170	GSM2445834	Sample_9	primary biliary cirrhosis	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE93170	GSM2445835	Sample_10	primary biliary cirrhosis	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE93170	GSM2445836	Sample_11	primary biliary cirrhosis	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE93170	GSM2445837	Sample_12	primary biliary cirrhosis	PBMCs	bood	NA	NA	CD4+ T cells	NA	NA	GSE93172	1
+NA	GSE119600	GSM3378193	p1	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378187	p2	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378188	p3	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378189	p4	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378190	p5	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378191	p6	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378279	p7	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378280	p8	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378281	p9	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378282	p10	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378283	p11	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378284	p12	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378285	p13	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378370	p14	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378371	p15	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378372	p16	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378373	p17	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378375	p18	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378377	p19	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378185	p20	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378194	p21	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378195	p22	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378196	p23	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378197	p24	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378198	p25	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378199	p26	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378484	p27	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378200	p28	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378201	p29	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378202	p30	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378203	p31	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378204	p32	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378205	p33	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378206	p34	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378207	p35	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378208	p36	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378286	p37	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378287	p38	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378288	p39	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378289	p40	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378290	p41	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378291	p42	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378292	p43	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378293	p44	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378294	p45	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378295	p46	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378296	p47	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378297	p48	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378480	p49	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378298	p50	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378299	p51	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378481	p52	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378385	p53	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378300	p54	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378482	p55	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378376	p56	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378301	p57	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378374	p58	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378192	p59	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378378	p60	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378386	p61	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378278	p62	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378387	p63	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378483	p64	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378388	p65	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378467	p66	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378381	p67	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378390	p68	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378391	p69	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378392	p70	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378466	p71	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378393	p72	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378479	p73	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378478	p74	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378380	p75	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378477	p76	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378461	p77	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378382	p78	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378465	p79	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378473	p80	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378471	p81	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378469	p82	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378462	p83	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378383	p84	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378474	p85	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378463	p86	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378476	p87	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378470	p88	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378379	p89	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378389	p90	crohn's disease	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378384	p91	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378475	p92	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378468	p93	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378472	p94	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378464	p95	crohn's disease	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378358	h1	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378447	h2	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378458	h3	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378156	h4	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378162	h5	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378169	h6	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378175	h7	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378354	h8	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378450	h9	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378456	h10	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378457	h11	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378356	h12	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378270	h13	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378357	h14	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378366	h15	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378445	h16	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378455	h17	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378158	h18	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378160	h19	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378164	h20	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378171	h21	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378173	h22	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378263	h23	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378267	h24	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378271	h25	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378359	h26	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378362	h27	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378367	h28	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378154	h29	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378266	h30	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378363	h31	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378177	h32	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378265	h33	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378274	h34	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378446	h35	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378449	h36	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378179	h37	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378264	h38	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378364	h39	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378453	h40	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378448	h41	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378272	h42	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378273	h43	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378355	h44	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378365	h45	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378275	h46	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378454	h47	healthy	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378243	p96	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378244	p97	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378245	p98	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378247	p99	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378233	p100	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378235	p101	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378237	p102	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378238	p103	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378239	p104	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378438	p105	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378441	p106	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378276	p107	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378277	p108	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378325	p109	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378326	p110	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378328	p111	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378329	p112	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378330	p113	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378331	p114	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378332	p115	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378360	p116	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378361	p117	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378437	p118	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378443	p119	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378444	p120	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378451	p121	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378452	p122	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378459	p123	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378460	p124	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378336	p125	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378234	p126	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378242	p127	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378439	p128	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378269	p129	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378101	p130	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378103	p131	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378109	p132	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378120	p133	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378334	p134	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378423	p135	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378430	p136	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378433	p137	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378435	p138	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378323	p139	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378248	p140	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378268	p141	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378240	p142	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378236	p143	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378246	p144	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378442	p145	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378335	p146	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378241	p147	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378421	p148	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378440	p149	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378111	p150	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378324	p151	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378337	p152	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378422	p153	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378333	p154	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378327	p155	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378436	p156	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378183	p157	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378419	p158	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378431	p159	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378432	p160	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378425	p161	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378097	p162	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378424	p163	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378181	p164	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378420	p165	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378095	p166	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378428	p167	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378166	p168	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378086	p169	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378418	p170	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378434	p171	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378369	p172	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378368	p173	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378427	p174	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378093	p175	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378105	p176	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378167	p177	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378112	p178	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378121	p179	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378426	p180	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378099	p181	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378429	p182	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378107	p183	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378115	p184	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378118	p185	primary biliary cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378260	p186	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378148	p187	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378338	p188	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378340	p189	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378350	p190	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378257	p191	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378136	p192	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378258	p193	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378124	p194	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378132	p195	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378152	p196	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378346	p197	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378353	p198	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378343	p199	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378143	p200	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378255	p201	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378259	p202	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378345	p203	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378347	p204	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378150	p205	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378126	p206	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378146	p207	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378138	p208	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378250	p209	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378253	p210	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378342	p211	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378348	p212	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378256	p213	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378261	p214	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378141	p215	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378134	p216	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378349	p217	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378140	p218	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378128	p219	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378130	p220	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378344	p221	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378254	p222	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378262	p223	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378252	p224	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378249	p225	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378251	p226	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378351	p227	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378339	p228	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378341	p229	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378352	p230	primary sclerosing cholangitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378403	p231	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378407	p232	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378485	p233	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378491	p234	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378499	p235	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378211	p236	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378216	p237	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378305	p238	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378309	p239	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378210	p240	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378217	p241	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378396	p242	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378218	p243	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378209	p244	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378219	p245	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378401	p246	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378220	p247	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378221	p248	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378306	p249	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378307	p250	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378308	p251	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378506	p252	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378222	p253	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378223	p254	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378507	p255	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378224	p256	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378225	p257	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378505	p258	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378226	p259	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378227	p260	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378228	p261	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378400	p262	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378399	p263	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378229	p264	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378230	p265	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378395	p266	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378394	p267	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378397	p268	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378398	p269	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378504	p270	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378502	p271	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378503	p272	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378231	p273	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378310	p274	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378212	p275	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378311	p276	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378213	p277	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378312	p278	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378232	p279	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378303	p280	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378313	p281	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378302	p282	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378314	p283	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378315	p284	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378316	p285	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378317	p286	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378318	p287	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378402	p288	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378495	p289	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378214	p290	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378508	p291	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378319	p292	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378304	p293	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378404	p294	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378215	p295	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378320	p296	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378321	p297	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378322	p298	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378410	p299	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378411	p300	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378496	p301	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378405	p302	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378412	p303	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378413	p304	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378486	p305	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378497	p306	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378493	p307	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378488	p308	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378487	p309	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378408	p310	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378409	p311	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378414	p312	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378494	p313	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378498	p314	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378415	p315	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378416	p316	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378417	p317	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378406	p318	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378501	p319	ulcerative colitis	whole blood	whole blood	adult	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378500	p320	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378489	p321	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378490	p322	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA
+NA	GSE119600	GSM3378492	p323	ulcerative colitis	whole blood	whole blood	child	NA	NA	NA	NA		NA

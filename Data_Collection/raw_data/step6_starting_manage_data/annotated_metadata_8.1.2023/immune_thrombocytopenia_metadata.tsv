@@ -1,0 +1,55 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	rtt..response.to.treatment.	superseries	channel_count
+NA	GSE196676	GSM5898060	ITP_1	immune thrombocytopenia	tissue	single-cell RNA-seq, bone marrow	23	F	CD34+ HSPCs					1
+NA	GSE196676	GSM5898061	ITP_2	immune thrombocytopenia	tissue	single-cell RNA-seq, bone marrow	19	M	CD34+ HSPCs					1
+NA	GSE196676	GSM5898062	ITP_3	immune thrombocytopenia	tissue	single-cell RNA-seq, bone marrow	46	F	CD34+ HSPCs					1
+NA	GSE196676	GSM5898063	ITP_4	immune thrombocytopenia	tissue	single-cell RNA-seq, bone marrow	54	M	CD34+ HSPCs					1
+NA	GSE196676	GSM5898064	HC_1	healthy	tissue	single-cell RNA-seq, bone marrow	48	M	CD34+ HSPCs					1
+NA	GSE196676	GSM5898065	HC_2	healthy	tissue	single-cell RNA-seq, bone marrow	40	M	CD34+ HSPCs					1
+NA	GSE196676	GSM5898066	HC_3	healthy	tissue	single-cell RNA-seq, bone marrow	35	F	CD34+ HSPCs					1
+NA	GSE196676	GSM5898067	HC_4	healthy	tissue	single-cell RNA-seq, bone marrow	40	F	CD34+ HSPCs					1
+NA	GSE154703	GSM4677632	Patient 1	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	pre		responder		1
+NA	GSE154703	GSM4677633	Patient 2	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	pre		responder		1
+NA	GSE154703	GSM4677634	Patient 3	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	pre		responder		1
+NA	GSE154703	GSM4677635	Patient 4	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	pre		responder		1
+NA	GSE154703	GSM4677636	Patient 5	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	pre		non-responder		1
+NA	GSE154703	GSM4677637	Patient 6	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	pre		non-responder		1
+NA	GSE154703	GSM4677638	Patient 7	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	pre		non-responder		1
+NA	GSE154703	GSM4677639	Patient 1	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	post	decitabine	responder		1
+NA	GSE154703	GSM4677640	Patient 2	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	post	decitabine	responder		1
+NA	GSE154703	GSM4677641	Patient 3	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	post	decitabine	responder		1
+NA	GSE154703	GSM4677642	Patient 4	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	post	decitabine	responder		1
+NA	GSE154703	GSM4677643	Patient 5	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	post	decitabine	non-responder		1
+NA	GSE154703	GSM4677644	Patient 6	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	post	decitabine	non-responder		1
+NA	GSE154703	GSM4677645	Patient 7	immune thrombocytopenia	PBMCs	blood	NA	NA	NA	post	decitabine	non-responder		1
+NA	GSE46922	GSM1141222	ITP 6	immune thrombocytopenia (newly diagnosed)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141224	ITP 4	immune thrombocytopenia (newly diagnosed)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141225	ITP 2	immune thrombocytopenia (newly diagnosed)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141223	ITP 7	immune thrombocytopenia (newly diagnosed)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141226	ITP 3	immune thrombocytopenia (newly diagnosed)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141227	ITP 5	immune thrombocytopenia (newly diagnosed)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141228	ITP 1	immune thrombocytopenia (newly diagnosed)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141229	ITP 5	immune thrombocytopenia (chronic)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141230	ITP 1	immune thrombocytopenia (chronic)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141231	ITP 2	immune thrombocytopenia (chronic)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141232	ITP 6	immune thrombocytopenia (chronic)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141233	ITP 4	immune thrombocytopenia (chronic)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE46922	GSM1141234	ITP 3	immune thrombocytopenia (chronic)	PBMCs	blood	NA	NA	T cells					1
+NA	GSE43177	GSM1057943	Control10	healthy	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057944	Control1	healthy	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057945	Control2	healthy	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057947	Control4	healthy	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057949	Control6	healthy	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057950	Control7	healthy	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057951	Control8	healthy	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057952	Control9	healthy	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057953	Patient1	immune thrombocytopenia	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057954	Patient2	immune thrombocytopenia	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057955	Patient3	immune thrombocytopenia	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057956	Patient4	immune thrombocytopenia	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057957	Patient5	immune thrombocytopenia	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057958	Patient6	immune thrombocytopenia	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057959	Patient7	immune thrombocytopenia	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057960	Patient8	immune thrombocytopenia	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057961	Patient9	immune thrombocytopenia	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057946	Control3	healthy	PBMCs	blood	NA	NA	T cells				GSE43179	1
+NA	GSE43177	GSM1057948	Control5	healthy	PBMCs	blood	NA	NA	T cells				GSE43179	1

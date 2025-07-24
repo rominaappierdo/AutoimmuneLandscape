@@ -1,0 +1,1785 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	ethnicity	other	channel_count
+	GSE127952	GSM3657186	pSS-37	sjogren's syndrome (primary)	tissue	minor salivary gland	62	F	NA					1
+	GSE127952	GSM3657188	pSS-101	sjogren's syndrome (primary)	tissue	minor salivary gland	58	F	NA					1
+	GSE127952	GSM3657189	pSS-105	sjogren's syndrome (primary)	tissue	minor salivary gland	42	F	NA					1
+	GSE127952	GSM3657190	pSS-106	sjogren's syndrome (primary)	tissue	minor salivary gland	31	F	NA					1
+	GSE127952	GSM3657191	pSS-139	sjogren's syndrome (primary)	tissue	minor salivary gland	46	F	NA					1
+	GSE127952	GSM3657193	pSS-144	sjogren's syndrome (primary)	tissue	minor salivary gland	50	F	NA					1
+	GSE127952	GSM3657194	HV-81	healthy	tissue	minor salivary gland	54	F	NA					1
+	GSE127952	GSM3657195	HV-85	healthy	tissue	minor salivary gland	37	F	NA					1
+	GSE127952	GSM3657196	HV-86	healthy	tissue	minor salivary gland	53	F	NA					1
+	GSE127952	GSM3657198	HV-102	healthy	tissue	minor salivary gland	44	F	NA					1
+	GSE127952	GSM3657199	HV-122	healthy	tissue	minor salivary gland	30	F	NA					1
+	GSE127952	GSM3657187	pSS-94	sjogren's syndrome (primary)	tissue	minor salivary gland	60	F	NA					1
+	GSE127952	GSM3657192	pSS-141	sjogren's syndrome (primary)	tissue	minor salivary gland	55	F	NA					1
+	GSE127952	GSM3657197	HV-88	healthy	tissue	minor salivary gland	34	F	NA					1
+	GSE135635	GSM4024030	Disc-HC1	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024031	Disc-HC2	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024032	Disc-HC3	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024033	Disc-HC4	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024034	Disc-HC5	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024035	Disc-HC6	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024036	Disc-HC7	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024037	Disc-HC8	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024038	Disc-nSS1	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024039	Disc-nSS2	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024040	Disc-nSS3	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024041	Disc-nSS4	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024042	Disc-nSS5	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024043	Disc-nSS6	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024044	Disc-nSS7	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024045	Disc-nSS8	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024046	Disc-nSS9	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024047	Disc-pSS1	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024048	Disc-pSS2	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024049	Disc-pSS3	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024050	Disc-pSS4	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024051	Disc-pSS5	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024052	Disc-pSS6	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024053	Disc-pSS7	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024054	Disc-pSS8	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024055	Disc-pSS9	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024056	Disc-pSS10	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024057	Disc-pSS11	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024058	Disc-pSS12	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024059	Disc-pSS13	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024060	Disc-pSS14	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Discovery	1
+	GSE135635	GSM4024061	Repl-HC2	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024062	Repl-HC3	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024063	Repl-HC4	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024064	Repl-HC5	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024065	Repl-HC6	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024066	Repl-HC8	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024067	Repl-HC9	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024068	Repl-HC10	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024069	Repl-HC11	healthy	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024070	Repl-nSS1	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024071	Repl-nSS2	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024072	Repl-nSS3	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024073	Repl-nSS4	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024074	Repl-nSS5	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024075	Repl-nSS6	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024076	Repl-nSS7	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024077	Repl-nSS8	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024078	Repl-nSS9	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024079	Repl-nSS10	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024080	Repl-nSS11	non-sjogren's sicca	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024081	Repl-pSS1	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024082	Repl-pSS2	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024083	Repl-pSS3	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024084	Repl-pSS4	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024085	Repl-pSS5	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024086	Repl-pSS6	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024087	Repl-pSS7	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024088	Repl-pSS8	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024089	Repl-pSS9	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024090	Repl-pSS10	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135635	GSM4024091	Repl-pSS11	sjogren's syndrome	PBMCs	blood	NA	NA	plasmacytoid dendritic cells				cohort: Replication	1
+	GSE135809	GSM4030545	HC-1	healthy	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030546	HC-2	healthy	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030547	HC-3	healthy	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030548	HC-4	healthy	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030549	HC-5	healthy	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030550	HC-6	healthy	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030569	pSS-1	sjogren's syndrome	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030570	pSS-2	sjogren's syndrome	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030571	pSS-3	sjogren's syndrome	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030572	pSS-4	sjogren's syndrome	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030573	pSS-5	sjogren's syndrome	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030574	pSS-6	sjogren's syndrome	PBMCs	blood	NA	NA	Bm1 cells					1
+	GSE135809	GSM4030563	HC-1	healthy	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030564	HC-2	healthy	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030565	HC-3	healthy	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030566	HC-4	healthy	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030567	HC-5	healthy	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030568	HC-6	healthy	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030587	pSS-1	sjogren's syndrome	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030588	pSS-2	sjogren's syndrome	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030589	pSS-3	sjogren's syndrome	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030590	pSS-4	sjogren's syndrome	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030591	pSS-5	sjogren's syndrome	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030592	pSS-6	sjogren's syndrome	PBMCs	blood	NA	NA	memory B cells					1
+	GSE135809	GSM4030551	HC-1	healthy	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030552	HC-2	healthy	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030553	HC-3	healthy	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030554	HC-4	healthy	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030555	HC-5	healthy	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030556	HC-6	healthy	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030575	pSS-1	sjogren's syndrome	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030576	pSS-2	sjogren's syndrome	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030577	pSS-3	sjogren's syndrome	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030578	pSS-4	sjogren's syndrome	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030579	pSS-5	sjogren's syndrome	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030580	pSS-6	sjogren's syndrome	PBMCs	blood	NA	NA	naive B cells					1
+	GSE135809	GSM4030557	HC-1	healthy	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE135809	GSM4030558	HC-2	healthy	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE135809	GSM4030559	HC-3	healthy	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE135809	GSM4030560	HC-4	healthy	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE135809	GSM4030561	HC-5	healthy	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE135809	GSM4030562	HC-6	healthy	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE135809	GSM4030581	pSS-1	sjogren's syndrome	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE135809	GSM4030582	pSS-2	sjogren's syndrome	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE135809	GSM4030583	pSS-3	sjogren's syndrome	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE135809	GSM4030584	pSS-4	sjogren's syndrome	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE135809	GSM4030585	pSS-5	sjogren's syndrome	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE135809	GSM4030586	pSS-6	sjogren's syndrome	PBMCs	blood	NA	NA	pre-germinal centre B cells					1
+	GSE140161	GSM4155114	Patient_ASSESS_1	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155115	Patient_ASSESS_2	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155116	Patient_ASSESS_3	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155117	Patient_ASSESS_4	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155118	Patient_ASSESS_5	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155119	Patient_ASSESS_6	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155120	Patient_ASSESS_7	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155122	Patient_ASSESS_9	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155123	Patient_ASSESS_10	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155124	Patient_ASSESS_11	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155125	Patient_ASSESS_12	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155126	Patient_ASSESS_13	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155127	Patient_ASSESS_14	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155128	Patient_ASSESS_15	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155129	Patient_ASSESS_16	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155130	Patient_ASSESS_17	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155131	Patient_ASSESS_18	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155132	Patient_ASSESS_19	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155133	Patient_ASSESS_20	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155134	Patient_ASSESS_21	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155135	Patient_ASSESS_22	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155136	Patient_ASSESS_23	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155137	Patient_ASSESS_24	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155138	Patient_ASSESS_25	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155139	Patient_ASSESS_26	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155140	Patient_ASSESS_27	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155141	Patient_ASSESS_28	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155142	Patient_ASSESS_29	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155143	Patient_ASSESS_30	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155144	Patient_ASSESS_31	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155145	Patient_ASSESS_32	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155146	Patient_ASSESS_33	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155147	Patient_ASSESS_34	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155148	Patient_ASSESS_35	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155149	Patient_ASSESS_36	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155150	Patient_ASSESS_37	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155151	Patient_ASSESS_38	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155152	Patient_ASSESS_39	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155153	Patient_ASSESS_40	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155154	Patient_ASSESS_41	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155155	Patient_ASSESS_42	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155156	Patient_ASSESS_43	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155157	Patient_ASSESS_44	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155158	Patient_ASSESS_45	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155159	Patient_ASSESS_46	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155160	Patient_ASSESS_47	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155162	Patient_ASSESS_49	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155163	Patient_ASSESS_50	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155164	Patient_ASSESS_51	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155165	Patient_ASSESS_52	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155166	Patient_ASSESS_53	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155167	Patient_ASSESS_54	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155168	Patient_ASSESS_55	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155169	Patient_ASSESS_56	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155170	Patient_ASSESS_57	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155172	Patient_ASSESS_59	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155173	Patient_ASSESS_60	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155174	Patient_ASSESS_61	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155175	Patient_ASSESS_62	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155176	Patient_ASSESS_63	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155177	Patient_ASSESS_64	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155178	Patient_ASSESS_65	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155179	Patient_ASSESS_66	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155180	Patient_ASSESS_67	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155181	Patient_ASSESS_68	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155182	Patient_ASSESS_69	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155183	Patient_ASSESS_70	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155184	Patient_ASSESS_71	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155185	Patient_ASSESS_72	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155186	Patient_ASSESS_73	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155187	Patient_ASSESS_74	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155188	Patient_ASSESS_75	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155189	Patient_ASSESS_76	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155190	Patient_ASSESS_77	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155191	Patient_ASSESS_78	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155192	Patient_ASSESS_79	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155193	Patient_ASSESS_80	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155194	Patient_ASSESS_81	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155195	Patient_ASSESS_82	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155196	Patient_ASSESS_83	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155197	Patient_ASSESS_84	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155199	Patient_ASSESS_86	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155200	Patient_ASSESS_87	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155201	Patient_ASSESS_88	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155202	Patient_ASSESS_89	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155203	Patient_ASSESS_90	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155204	Patient_ASSESS_91	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155205	Patient_ASSESS_92	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155206	Patient_ASSESS_93	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155207	Patient_ASSESS_94	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155208	Patient_ASSESS_95	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155209	Patient_ASSESS_96	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155210	Patient_ASSESS_97	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155211	Patient_ASSESS_98	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155212	Patient_ASSESS_99	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155213	Patient_ASSESS_100	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155214	Patient_ASSESS_101	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155215	Patient_ASSESS_102	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155217	Patient_ASSESS_104	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155218	Patient_ASSESS_105	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155219	Patient_ASSESS_106	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155220	Patient_ASSESS_107	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155221	Patient_ASSESS_108	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155222	Patient_ASSESS_109	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155223	Patient_ASSESS_110	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155224	Patient_ASSESS_111	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155225	Patient_ASSESS_112	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155226	Patient_ASSESS_113	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155227	Patient_ASSESS_114	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155229	Patient_ASSESS_116	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155230	Patient_ASSESS_117	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155231	Patient_ASSESS_118	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155232	Patient_ASSESS_119	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155233	Patient_ASSESS_120	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155234	Patient_ASSESS_121	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155235	Patient_ASSESS_122	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155236	Patient_ASSESS_123	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155237	Patient_ASSESS_124	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155238	Patient_ASSESS_125	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155239	Patient_ASSESS_126	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155240	Patient_ASSESS_127	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155241	Patient_ASSESS_128	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155242	Patient_ASSESS_129	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155243	Patient_ASSESS_130	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155244	Patient_ASSESS_131	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155245	Patient_ASSESS_132	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155246	Patient_ASSESS_133	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155247	Patient_ASSESS_134	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155248	Patient_ASSESS_135	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155249	Patient_ASSESS_136	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155250	Patient_ASSESS_137	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155251	Patient_ASSESS_138	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155252	Patient_ASSESS_139	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155253	Patient_ASSESS_140	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155254	Patient_ASSESS_141	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155255	Patient_ASSESS_142	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155256	Patient_ASSESS_143	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155257	Patient_ASSESS_144	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155258	Patient_ASSESS_145	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155259	Patient_ASSESS_146	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155260	Patient_ASSESS_147	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155261	Patient_ASSESS_148	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155262	Patient_ASSESS_149	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155263	Patient_ASSESS_150	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155264	Patient_ASSESS_151	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155265	Patient_ASSESS_152	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155266	Patient_ASSESS_153	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155267	Patient_ASSESS_154	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155268	Patient_ASSESS_155	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155269	Patient_ASSESS_156	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155270	Patient_ASSESS_157	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155271	Patient_ASSESS_158	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155272	Patient_ASSESS_159	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155273	Patient_ASSESS_160	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155274	Patient_ASSESS_161	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155275	Patient_ASSESS_162	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155276	Patient_ASSESS_163	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155277	Patient_ASSESS_164	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155278	Patient_ASSESS_165	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155279	Patient_ASSESS_166	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155280	Patient_ASSESS_167	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155281	Patient_ASSESS_168	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155282	Patient_ASSESS_169	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155283	Patient_ASSESS_170	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155284	Patient_ASSESS_171	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155285	Patient_ASSESS_172	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155286	Patient_ASSESS_173	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155287	Patient_ASSESS_174	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155288	Patient_ASSESS_175	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155289	Patient_ASSESS_176	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155290	Patient_ASSESS_177	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155291	Patient_ASSESS_178	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155292	Patient_ASSESS_179	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155293	Patient_ASSESS_180	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155294	Patient_ASSESS_181	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155295	Patient_ASSESS_182	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155296	Patient_ASSESS_183	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155297	Patient_ASSESS_184	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155298	Patient_ASSESS_185	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155299	Patient_ASSESS_186	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155300	Patient_ASSESS_187	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155301	Patient_ASSESS_188	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155302	Patient_ASSESS_189	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155303	Patient_ASSESS_190	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155304	Patient_ASSESS_191	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155306	Patient_ASSESS_193	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155307	Patient_ASSESS_194	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155308	Patient_ASSESS_195	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155309	Patient_ASSESS_196	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155310	Patient_ASSESS_197	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155311	Patient_ASSESS_198	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155312	Patient_ASSESS_199	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155313	Patient_ASSESS_200	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155314	Patient_ASSESS_201	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155315	Patient_ASSESS_202	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155316	Patient_ASSESS_203	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155317	Patient_ASSESS_204	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155318	Patient_ASSESS_205	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155319	Patient_ASSESS_206	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155320	Patient_ASSESS_207	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155321	Patient_ASSESS_208	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155322	Patient_ASSESS_209	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155323	Patient_ASSESS_210	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155324	Patient_ASSESS_211	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155325	Patient_ASSESS_212	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155326	Patient_ASSESS_213	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155327	Patient_ASSESS_214	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155328	Patient_ASSESS_215	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155329	Patient_ASSESS_216	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155330	Patient_ASSESS_217	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155331	Patient_ASSESS_218	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155332	Patient_ASSESS_219	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155333	Patient_ASSESS_220	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155334	Patient_ASSESS_221	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155335	Patient_ASSESS_222	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155336	Patient_ASSESS_223	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155337	Patient_ASSESS_224	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155338	Patient_ASSESS_225	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155339	Patient_ASSESS_226	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155340	Patient_ASSESS_227	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155341	Patient_ASSESS_228	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155342	Patient_ASSESS_229	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155343	Patient_ASSESS_230	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155344	Patient_ASSESS_231	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155345	Patient_ASSESS_232	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155346	Patient_ASSESS_233	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155347	Patient_ASSESS_234	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155349	Patient_ASSESS_236	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155350	Patient_ASSESS_237	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155351	Patient_ASSESS_238	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155352	Patient_ASSESS_239	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155354	Patient_ASSESS_241	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155355	Patient_ASSESS_242	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155357	Patient_ASSESS_244	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155358	Patient_ASSESS_245	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155359	Patient_ASSESS_246	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155360	Patient_ASSESS_247	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155361	Patient_ASSESS_248	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155363	Patient_ASSESS_250	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155364	Patient_ASSESS_251	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155365	Patient_ASSESS_252	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155366	Patient_ASSESS_253	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155367	Patient_ASSESS_254	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155368	Patient_ASSESS_255	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155369	Patient_ASSESS_256	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155370	Patient_ASSESS_257	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155371	Patient_ASSESS_258	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155372	Patient_ASSESS_259	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155373	Patient_ASSESS_260	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155374	Patient_ASSESS_261	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155375	Patient_ASSESS_262	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155376	Patient_ASSESS_263	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155377	Patient_ASSESS_264	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155378	Patient_ASSESS_265	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155379	Patient_ASSESS_266	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155380	Patient_ASSESS_267	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155381	Patient_ASSESS_268	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155382	Patient_ASSESS_269	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155383	Patient_ASSESS_270	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155384	Patient_ASSESS_271	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155385	Patient_ASSESS_272	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155386	Patient_ASSESS_273	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155387	Patient_ASSESS_274	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155388	Patient_ASSESS_275	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155389	Patient_ASSESS_276	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155390	Patient_ASSESS_277	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155391	Patient_ASSESS_278	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155392	Patient_ASSESS_279	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155393	Patient_ASSESS_280	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155394	Patient_ASSESS_281	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155395	Patient_ASSESS_282	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155396	Patient_ASSESS_283	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155397	Patient_ASSESS_284	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155398	Patient_ASSESS_285	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155399	Patient_ASSESS_286	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155400	Patient_ASSESS_287	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155401	Patient_ASSESS_288	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155402	Patient_ASSESS_289	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155403	Patient_ASSESS_290	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155404	Patient_ASSESS_291	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155405	Patient_ASSESS_292	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155406	Patient_ASSESS_293	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155407	Patient_ASSESS_294	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155408	Patient_ASSESS_295	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155409	Patient_ASSESS_296	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155410	Patient_ASSESS_297	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155411	Patient_ASSESS_298	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155412	Patient_ASSESS_299	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155413	Patient_ASSESS_300	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155414	Patient_ASSESS_301	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155415	Patient_ASSESS_302	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155416	Patient_ASSESS_303	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155417	Patient_ASSESS_304	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155418	Patient_ASSESS_305	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155419	Patient_ASSESS_306	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155420	Patient_ASSESS_307	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155421	Patient_ASSESS_308	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155422	Patient_ASSESS_309	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155423	Patient_ASSESS_310	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155424	Patient_ASSESS_311	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155425	Patient_ASSESS_312	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155426	Patient_ASSESS_313	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155428	Patient_ASSESS_315	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155429	Patient_ASSESS_316	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155430	Patient_ASSESS_317	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155431	Patient_ASSESS_318	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155432	Patient_ASSESS_319	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155433	Patient_ASSESS_320	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155434	Patient_ASSESS_321	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155435	Patient_ASSESS_322	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155436	Patient_ASSESS_323	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155437	Patient_ASSESS_324	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155438	Patient_ASSESS_325	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155439	Patient_ASSESS_326	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155440	Patient_ASSESS_327	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155441	Patient_ASSESS_328	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155442	Patient_ASSESS_329	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155443	Patient_ASSESS_330	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155444	Patient_ASSESS_331	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155445	Patient_ASSESS_332	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155446	Patient_ASSESS_333	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155447	Patient_ASSESS_334	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155448	Patient_ASSESS_335	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155449	Patient_ASSESS_336	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155450	Patient_ASSESS_337	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155451	Patient_ASSESS_338	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155452	Patient_ASSESS_339	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155453	Patient_ASSESS_340	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155454	Patient_ASSESS_341	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155455	Patient_ASSESS_342	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155456	Patient_ASSESS_343	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155457	Patient_ASSESS_344	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155458	Patient_ASSESS_345	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155459	Patient_ASSESS_346	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155460	Patient_ASSESS_347	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155461	Patient_ASSESS_348	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155462	Patient_ASSESS_349	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155463	Patient_ASSESS_350	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155121	Patient_ASSESS_8	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155161	Patient_ASSESS_48	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155171	Patient_ASSESS_58	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155198	Patient_ASSESS_85	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155216	Patient_ASSESS_103	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155228	Patient_ASSESS_115	sjogren's syndrome	whole blood	whole blood	NA	M	NA					1
+	GSE140161	GSM4155305	Patient_ASSESS_192	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155348	Patient_ASSESS_235	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155356	Patient_ASSESS_243	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155427	Patient_ASSESS_314	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155464	Patient_ASSESS_351	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155353	Patient_ASSESS_240	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE140161	GSM4155362	Patient_ASSESS_249	sjogren's syndrome	whole blood	whole blood	NA	F	NA					1
+	GSE143153	GSM4251023	Subject 3	control, healthy	tissue	minor salivary gland	37	F	CD4+ T cells			white		1
+	GSE143153	GSM4251024	Subject 4	control, healthy	tissue	minor salivary gland	40	F	CD4+ T cells			white		1
+	GSE143153	GSM4251025	Subject 5	control, healthy	tissue	minor salivary gland	41	F	CD4+ T cells			more than one		1
+	GSE143153	GSM4251032	Subject 12	control, healthy	tissue	minor salivary gland	43	F	CD4+ T cells			more than one		1
+	GSE143153	GSM4251033	Subject 13	control, healthy	tissue	minor salivary gland	62	F	CD4+ T cells			white		1
+	GSE143153	GSM4251034	Subject 14	control, healthy	tissue	minor salivary gland	46	F	CD4+ T cells			more than one		1
+	GSE143153	GSM4251035	Subject 15	control, healthy	tissue	minor salivary gland	58	M	CD4+ T cells			native american		1
+	GSE143153	GSM4251036	Subject 16	control, healthy	tissue	minor salivary gland	40	F	CD4+ T cells			native american		1
+	GSE143153	GSM4251046	Subject 26	control, healthy	tissue	minor salivary gland	30	F	CD4+ T cells			more than one		1
+	GSE143153	GSM4251047	Subject 27	control, healthy	tissue	minor salivary gland	31	F	CD4+ T cells			more than one		1
+	GSE143153	GSM4251048	Subject 28	control, healthy	tissue	minor salivary gland	45	F	CD4+ T cells			white		1
+	GSE143153	GSM4251049	Subject 29	control, healthy	tissue	minor salivary gland	38	F	CD4+ T cells			white		1
+	GSE143153	GSM4251050	Subject 30	control, healthy	tissue	minor salivary gland	43	F	CD4+ T cells			more than one		1
+	GSE143153	GSM4251051	Subject 31	control, healthy	tissue	minor salivary gland	37	M	CD4+ T cells			more than one		1
+	GSE143153	GSM4251052	Subject 32	control, healthy	tissue	minor salivary gland	41	F	CD4+ T cells			black		1
+	GSE143153	GSM4251021	Subject 1	sjogren's syndrome (primary)	tissue	minor salivary gland	56	M	CD4+ T cells			white		1
+	GSE143153	GSM4251022	Subject 2	sjogren's syndrome (primary)	tissue	minor salivary gland	51	F	CD4+ T cells			white		1
+	GSE143153	GSM4251026	Subject 6	sjogren's syndrome (primary)	tissue	minor salivary gland	50	F	CD4+ T cells			more than one		1
+	GSE143153	GSM4251027	Subject 7	sjogren's syndrome (primary)	tissue	minor salivary gland	38	F	CD4+ T cells			white		1
+	GSE143153	GSM4251028	Subject 8	sjogren's syndrome (primary)	tissue	minor salivary gland	50	F	CD4+ T cells			white		1
+	GSE143153	GSM4251029	Subject 9	sjogren's syndrome (primary)	tissue	minor salivary gland	58	F	CD4+ T cells			white		1
+	GSE143153	GSM4251030	Subject 10	sjogren's syndrome (primary)	tissue	minor salivary gland	55	F	CD4+ T cells			white		1
+	GSE143153	GSM4251031	Subject 11	sjogren's syndrome (primary)	tissue	minor salivary gland	35	F	CD4+ T cells			white		1
+	GSE143153	GSM4251037	Subject 17	sjogren's syndrome (primary)	tissue	minor salivary gland	66	F	CD4+ T cells			more than one		1
+	GSE143153	GSM4251038	Subject 18	sjogren's syndrome (primary)	tissue	minor salivary gland	35	F	CD4+ T cells			white		1
+	GSE143153	GSM4251039	Subject 19	sjogren's syndrome (primary)	tissue	minor salivary gland	58	F	CD4+ T cells			more than one		1
+	GSE143153	GSM4251040	Subject 20	sjogren's syndrome (primary)	tissue	minor salivary gland	60	F	CD4+ T cells			white		1
+	GSE143153	GSM4251041	Subject 21	sjogren's syndrome (primary)	tissue	minor salivary gland	63	F	CD4+ T cells			white		1
+	GSE143153	GSM4251042	Subject 22	sjogren's syndrome (primary)	tissue	minor salivary gland	56	F	CD4+ T cells			black		1
+	GSE143153	GSM4251043	Subject 23	sjogren's syndrome (primary)	tissue	minor salivary gland	19	F	CD4+ T cells			more than one		1
+	GSE143153	GSM4251045	Subject 25	sjogren's syndrome (primary)	tissue	minor salivary gland	71	F	CD4+ T cells			more than one		1
+	GSE143153	GSM4251044	Subject 24	sjogren's syndrome (primary)	tissue	minor salivary gland	64	F	CD4+ T cells			white		1
+	GSE145065	GSM4305650	ss_1	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE145065	GSM4305651	ss_2	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE145065	GSM4305652	ss_3	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE145065	GSM4305653	ss_4	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE145065	GSM4305654	ss_5	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE145065	GSM4305655	hc_1	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE145065	GSM4305656	hc_2	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE145065	GSM4305657	hc_3	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE145065	GSM4305658	hc_4	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE145065	GSM4305659	hc_5	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE154926	GSM4683895	C_10	healthy	tissue	minor salivary gland	52	F	NA			brazilian		1
+	GSE154926	GSM4683889	C_2	healthy	tissue	minor salivary gland	21	F	NA			brazilian		1
+	GSE154926	GSM4683890	C_3	healthy	tissue	minor salivary gland	59	F	NA			brazilian		1
+	GSE154926	GSM4683891	C_4	healthy	tissue	minor salivary gland	71	F	NA			brazilian		1
+	GSE154926	GSM4683892	C_5	healthy	tissue	minor salivary gland	24	F	NA			brazilian		1
+	GSE154926	GSM4683893	C_6	healthy	tissue	minor salivary gland	61	F	NA			brazilian		1
+	GSE154926	GSM4683894	C_9	healthy	tissue	minor salivary gland	14	F	NA			brazilian		1
+	GSE154926	GSM4683897	NS_23	sjogren's syndrome (primary)	tissue	minor salivary gland	55	F	NA			brazilian		1
+	GSE154926	GSM4683896	NS_8	sjogren's syndrome (primary)	tissue	minor salivary gland	53	F	NA			brazilian		1
+	GSE154926	GSM4683898	PS_1	sjogren's syndrome (primary)	tissue	minor salivary gland	51	F	NA			brazilian		1
+	GSE154926	GSM4683907	PS_10	sjogren's syndrome (primary)	tissue	minor salivary gland	49	F	NA			brazilian		1
+	GSE154926	GSM4683908	PS_11	sjogren's syndrome (primary)	tissue	minor salivary gland	43	F	NA			brazilian		1
+	GSE154926	GSM4683909	PS_12	sjogren's syndrome (primary)	tissue	minor salivary gland	43	F	NA			brazilian		1
+	GSE154926	GSM4683910	PS_13	sjogren's syndrome (primary)	tissue	minor salivary gland	37	F	NA			brazilian		1
+	GSE154926	GSM4683911	PS_14	sjogren's syndrome (primary)	tissue	minor salivary gland	69	F	NA			brazilian		1
+	GSE154926	GSM4683912	PS_15	sjogren's syndrome (primary)	tissue	minor salivary gland	27	F	NA			brazilian		1
+	GSE154926	GSM4683913	PS_16	sjogren's syndrome (primary)	tissue	minor salivary gland	62	F	NA			brazilian		1
+	GSE154926	GSM4683914	PS_17	sjogren's syndrome (primary)	tissue	minor salivary gland	66	F	NA			brazilian		1
+	GSE154926	GSM4683915	PS_18	sjogren's syndrome (primary)	tissue	minor salivary gland	22	F	NA			brazilian		1
+	GSE154926	GSM4683916	PS_19	sjogren's syndrome (primary)	tissue	minor salivary gland	59	F	NA			brazilian		1
+	GSE154926	GSM4683899	PS_2	sjogren's syndrome (primary)	tissue	minor salivary gland	51	F	NA			brazilian		1
+	GSE154926	GSM4683917	PS_20	sjogren's syndrome (primary)	tissue	minor salivary gland	51	F	NA			brazilian		1
+	GSE154926	GSM4683918	PS_21	sjogren's syndrome (primary)	tissue	minor salivary gland	56	F	NA			brazilian		1
+	GSE154926	GSM4683919	PS_22	sjogren's syndrome (primary)	tissue	minor salivary gland	36	F	NA			brazilian		1
+	GSE154926	GSM4683920	PS_25	sjogren's syndrome (primary)	tissue	minor salivary gland	76	F	NA			brazilian		1
+	GSE154926	GSM4683921	PS_26	sjogren's syndrome (primary)	tissue	minor salivary gland	50	F	NA			brazilian		1
+	GSE154926	GSM4683922	PS_27	sjogren's syndrome (primary)	tissue	minor salivary gland	80	F	NA			brazilian		1
+	GSE154926	GSM4683923	PS_28	sjogren's syndrome (primary)	tissue	minor salivary gland	54	F	NA			brazilian		1
+	GSE154926	GSM4683924	PS_29	sjogren's syndrome (primary)	tissue	minor salivary gland	41	F	NA			brazilian		1
+	GSE154926	GSM4683900	PS_3	sjogren's syndrome (primary)	tissue	minor salivary gland	48	F	NA			brazilian		1
+	GSE154926	GSM4683925	PS_30	sjogren's syndrome (primary)	tissue	minor salivary gland	40	F	NA			brazilian		1
+	GSE154926	GSM4683926	PS_31	sjogren's syndrome (primary)	tissue	minor salivary gland	49	F	NA			brazilian		1
+	GSE154926	GSM4683927	PS_32	sjogren's syndrome (primary)	tissue	minor salivary gland	56	F	NA			brazilian		1
+	GSE154926	GSM4683928	PS_33	sjogren's syndrome (primary)	tissue	minor salivary gland	41	F	NA			brazilian		1
+	GSE154926	GSM4683929	PS_34	sjogren's syndrome (primary)	tissue	minor salivary gland	39	F	NA			brazilian		1
+	GSE154926	GSM4683930	PS_36	sjogren's syndrome (primary)	tissue	minor salivary gland	35	F	NA			brazilian		1
+	GSE154926	GSM4683931	PS_37	sjogren's syndrome (primary)	tissue	minor salivary gland	51	F	NA			brazilian		1
+	GSE154926	GSM4683932	PS_38	sjogren's syndrome (primary)	tissue	minor salivary gland	75	F	NA			brazilian		1
+	GSE154926	GSM4683933	PS_39	sjogren's syndrome (primary)	tissue	minor salivary gland	68	F	NA			brazilian		1
+	GSE154926	GSM4683901	PS_4	sjogren's syndrome (primary)	tissue	minor salivary gland	58	F	NA			brazilian		1
+	GSE154926	GSM4683934	PS_40	sjogren's syndrome (primary)	tissue	minor salivary gland	56	F	NA			brazilian		1
+	GSE154926	GSM4683935	PS_41	sjogren's syndrome (primary)	tissue	minor salivary gland	72	F	NA			brazilian		1
+	GSE154926	GSM4683936	PS_42	sjogren's syndrome (primary)	tissue	minor salivary gland	40	F	NA			brazilian		1
+	GSE154926	GSM4683902	PS_5	sjogren's syndrome (primary)	tissue	minor salivary gland	65	F	NA			brazilian		1
+	GSE154926	GSM4683903	PS_6	sjogren's syndrome (primary)	tissue	minor salivary gland	69	F	NA			brazilian		1
+	GSE154926	GSM4683904	PS_7	sjogren's syndrome (primary)	tissue	minor salivary gland	29	F	NA			brazilian		1
+	GSE154926	GSM4683905	PS_8	sjogren's syndrome (primary)	tissue	minor salivary gland	68	F	NA			brazilian		1
+	GSE154926	GSM4683906	PS_9	sjogren's syndrome (primary)	tissue	minor salivary gland	51	F	NA			brazilian		1
+	GSE154926	GSM4683937	SS_20	sjogren's syndrome (primary)	tissue	minor salivary gland	33	F	NA			brazilian		1
+	GSE154926	GSM4683938	SS_21	sjogren's syndrome (primary)	tissue	minor salivary gland	67	F	NA			brazilian		1
+	GSE157159	GSM4756893	S1	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756898	S11	sjogren's syndrome	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756899	S12	sjogren's syndrome	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756904	S14	sjogren's syndrome	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756905	S15	sjogren's syndrome	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756902	S16	sjogren's syndrome	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756907	S18	sjogren's syndrome	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756895	S19	sjogren's syndrome	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756897	S2	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756900	S20	sjogren's syndrome	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756901	S3	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756903	S4	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756906	S5	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756908	S6	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756894	S7	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756896	S8	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE157159	GSM4756909	S17	sjogren's syndrome	tissue	minor salivary gland	NA	NA	NA					1
+x	GSE157278	GSM4760620	HC-1	healthy	PBMCs	single-cell RNA-seq, blood	NA	F	NA					1
+x	GSE157278	GSM4760621	HC-2	healthy	PBMCs	single-cell RNA-seq, blood	NA	F	NA					1
+x	GSE157278	GSM4760622	HC-3	healthy	PBMCs	single-cell RNA-seq, blood	NA	F	NA					1
+x	GSE157278	GSM4760623	HC-4	healthy	PBMCs	single-cell RNA-seq, blood	NA	F	NA					1
+x	GSE157278	GSM4760624	HC-5	healthy	PBMCs	single-cell RNA-seq, blood	NA	F	NA					1
+x	GSE157278	GSM4760625	pSS-1	sjogren's syndrome	PBMCs	single-cell RNA-seq, blood	NA	F	NA					1
+x	GSE157278	GSM4760626	pSS-2	sjogren's syndrome	PBMCs	single-cell RNA-seq, blood	NA	F	NA					1
+x	GSE157278	GSM4760627	pSS-3	sjogren's syndrome	PBMCs	single-cell RNA-seq, blood	NA	F	NA					1
+x	GSE157278	GSM4760628	pSS-4	sjogren's syndrome	PBMCs	single-cell RNA-seq, blood	NA	F	NA					1
+x	GSE157278	GSM4760629	HC-6	healthy	PBMCs	single-cell RNA-seq, blood	NA	F	NA					1
+	GSE159574	GSM4832585	N1608171	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832586	N1608181	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832587	N1609261	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832588	N1609281	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832589	N1609291	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832590	N1611082	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832591	N1612131	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832592	N1701063	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832593	N1701161	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832594	N1701241	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832595	N1701243	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832596	N1703281	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832597	N1709057	control, healthy	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832598	Y1609211	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832599	Y1610111	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832600	Y1610201	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832601	Y1610271	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832602	Y1611101	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832603	Y1612021	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832604	Y1612091	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832605	Y1612231	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832606	Y1702101	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832607	Y1702211	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832608	Y1703072	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832609	Y1704061	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832610	Y1704141	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832611	Y1704182	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832612	Y1704281	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE159574	GSM4832613	Y1705161	sjogren's syndrome (primary)	tissue	salivary glands	NA	NA	NA					1
+	GSE164885	GSM5022426	PSS1	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA				lncRNA and mRNA	1
+	GSE164885	GSM5022427	PSS2	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA				lncRNA and mRNA	1
+	GSE164885	GSM5022428	PSS3	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA				lncRNA and mRNA	1
+	GSE164885	GSM5022429	PSS4	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA				lncRNA and mRNA	1
+	GSE164885	GSM5022430	HC1	healthy	PBMCs	blood	NA	NA	NA				lncRNA and mRNA	1
+	GSE164885	GSM5022431	HC2	healthy	PBMCs	blood	NA	NA	NA				lncRNA and mRNA	1
+	GSE164885	GSM5022432	HC3	healthy	PBMCs	blood	NA	NA	NA				lncRNA and mRNA	1
+	GSE164885	GSM5022433	HC4	healthy	PBMCs	blood	NA	NA	NA				lncRNA and mRNA	1
+x	GSE171896	GSM5236554	FRAS190074447	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236555	FRAS190074422	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236556	FRAS190074363	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236557	FRAS190074342	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236558	FRAS190074299	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236559	FRAS190074279	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236560	FRAS190074247	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236561	FRAS190053313	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236562	FRAS190053302	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236563	FRAS190053156	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236564	FRAS190074379	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236565	FRAS190053331	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236566	FRAS190053322	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236567	FRAS190053283	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236568	FRAS190053282	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236569	FRAS190053211	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236570	FRAS190053173	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236571	FRAS190053171	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236572	FRAS190036277	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236573	FRAS190036227	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236574	FRAS190036208	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236575	FRAS190036206	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236576	FRAL190074243	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236577	FRAS190053298	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236578	FRAS190053293	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236579	FRAS190053179	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236580	FRAS190053198	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236581	FRAS190074251	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236582	FRAS190074365	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236583	FRAS190053279	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236584	FRAS190074386	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236585	FRAS190074240	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236586	FRAS190074338	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236587	FRAS190074301	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236588	FRAS190074381	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236589	FRAS190074428	sjogren's syndrome-associated interstitial lung disease	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236590	FRAS190074457	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236591	FRAS190074448	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236592	FRAS190075084	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236593	FRAS190074454	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236594	FRAS190074452	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236595	FRAS190074443	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236596	FRAS190074442	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236597	FRAS190074441	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236598	FRAS190074440	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236599	FRAS190074438	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236600	FRAS190074437	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236601	FRAS190074436	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236602	FRAS190074434	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236603	FRAS190074430	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236604	FRAS190074426	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236605	FRAS190074420	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236606	FRAS190074417	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236607	FRAS190074416	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236608	FRAS190074410	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236609	FRAS190074408	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236610	FRAS190074405	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236611	FRAS190074402	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236612	FRAS190074394	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236613	FRAS190074392	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236614	FRAS190074378	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236615	FRAS190074375	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236616	FRAS190074373	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236617	FRAS190074370	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236618	FRAS190074368	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236619	FRAS190074355	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236620	FRAS190074354	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236621	FRAS190074343	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236622	FRAS190074337	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236623	FRAS190074336	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236624	FRAS190074333	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236625	FRAS190074329	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236626	FRAS190074325	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236627	FRAS190074322	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236628	FRAS190074321	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236629	FRAS190074313	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236630	FRAS190074303	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236631	FRAS190074291	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236632	FRAS190074289	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236633	FRAS190074285	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236634	FRAS190074284	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236635	FRAS190074277	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236636	FRAS190074273	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236637	FRAS190074269	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236638	FRAS190074266	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236639	FRAS190074264	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236640	FRAS190074260	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236641	FRAS190074252	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236642	FRAS190074249	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236643	FRAS190074246	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236644	FRAS190074233	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236645	FRAS190074232	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236646	FRAS190053342	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236647	FRAS190053339	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236648	FRAS190053333	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236649	FRAS190053329	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236650	FRAS190053327	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236651	FRAS190053325	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236652	FRAS190053320	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236653	FRAS190053318	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236654	FRAS190053314	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236655	FRAS190053311	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236656	FRAS190053309	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236657	FRAS190053303	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236658	FRAS190053300	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236659	FRAS190053297	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236660	FRAS190053290	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236661	FRAS190053285	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236662	FRAS190053277	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236663	FRAS190053276	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236664	FRAS190053274	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236665	FRAS190053273	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236666	FRAS190053223	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236667	FRAS190053219	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236668	FRAS190053218	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236669	FRAS190053209	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236670	FRAS190053206	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236671	FRAS190053201	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236672	FRAS190053200	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236673	FRAS190053196	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236674	FRAS190053195	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236675	FRAS190053192	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236676	FRAS190053191	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236677	FRAS190053185	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236678	FRAS190053184	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236679	FRAS190053183	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236680	FRAS190053176	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236681	FRAS190053175	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236682	FRAS190053174	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236683	FRAS190053160	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236684	FRAS190053155	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236685	FRAS190053151	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236686	FRAS190053149	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236687	FRAS190036244	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236688	FRAS190036243	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236689	FRAS190036242	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236690	FRAS190036238	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236691	FRAS190036237	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236692	FRAS190036234	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236693	FRAS190036233	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236694	FRAS190036232	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236695	FRAS190036222	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236696	FRAS190036218	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236697	FRAS190036217	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236698	FRAS190036216	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236699	FRAS190036215	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236700	FRAS190036213	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236701	FRAS190036211	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236702	FRAS190036210	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236703	FRAS190036209	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236704	FRAS190036205	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236705	FRAS190036204	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236706	FRAS190036203	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236707	FRAS190036202	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236708	FRAS190036201	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236709	FRAS190036199	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236710	FRAS190036193	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236711	FRAS190036189	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236712	FRAS190036187	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236713	FRAS190036186	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236714	FRAL190074305	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236715	FRAL190074270	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236716	FRAL190053199	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+x	GSE171896	GSM5236717	FRAL190036196	sjogren's syndrome	tissue	salivary glands	NA	NA	NA				**The submitter states that the 'disease state' characteristic and fastq files for some of the Samples might by inaccurate. Corrections are in progress. [Dec 06, 2022]**	1
+	GSE173635	GSM5272851	HC11	healthy	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272852	HC11	healthy	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272853	HC17	healthy	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272854	HC17	healthy	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272855	HC18	healthy	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272856	HC18	healthy	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272857	HC18	healthy	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272858	HC3	healthy	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272859	HC3	healthy	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272860	HC3	healthy	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272861	HC32	healthy	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272862	HC32	healthy	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272863	HC32	healthy	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272864	HC33	healthy	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272865	HC33	healthy	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272866	HC33	healthy	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272867	HC34	healthy	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272868	HC34	healthy	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272869	HC34	healthy	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272830	SjS14	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272831	SjS14	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272832	SjS14	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272833	SjS15	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272834	SjS15	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272835	SjS15	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272836	SjS21	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272837	SjS21	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272838	SjS21	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272839	SjS22	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272840	SjS22	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272841	SjS22	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272842	SjS5	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272843	SjS5	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272844	SjS5	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272845	SjS52	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272846	SjS52	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272847	SjS52	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173635	GSM5272848	SjS53	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9+ helper T cells					1
+	GSE173635	GSM5272849	SjS53	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CXCR5+ helper T cells					1
+	GSE173635	GSM5272850	SjS53	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	CCR9-CXCR5- helper T cells					1
+	GSE173670	GSM5273459	HC_01	healthy	PBMCs	blood	29	M	CD14+ monocytes					1
+	GSE173670	GSM5273460	HC_02	healthy	PBMCs	blood	59	F	CD14+ monocytes					1
+	GSE173670	GSM5273461	HC_03	healthy	PBMCs	blood	51	F	CD14+ monocytes					1
+	GSE173670	GSM5273462	HC_04	healthy	PBMCs	blood	55	F	CD14+ monocytes					1
+	GSE173670	GSM5273463	HC_05	healthy	PBMCs	blood	47	F	CD14+ monocytes					1
+	GSE173670	GSM5273464	HC_06	healthy	PBMCs	blood	45	F	CD14+ monocytes					1
+	GSE173670	GSM5273465	HC_07	healthy	PBMCs	blood	48	F	CD14+ monocytes					1
+	GSE173670	GSM5273466	HC_08	healthy	PBMCs	blood	49	F	CD14+ monocytes					1
+	GSE173670	GSM5273467	HC_09	healthy	PBMCs	blood	51	F	CD14+ monocytes					1
+	GSE173670	GSM5273468	HC_10	healthy	PBMCs	blood	54	F	CD14+ monocytes					1
+	GSE173670	GSM5273469	HC_11	healthy	PBMCs	blood	51	F	CD14+ monocytes					1
+	GSE173670	GSM5273470	nSS_01	non-sjogren's sicca	PBMCs	blood	37	F	CD14+ monocytes					1
+	GSE173670	GSM5273471	nSS_02	non-sjogren's sicca	PBMCs	blood	68	F	CD14+ monocytes					1
+	GSE173670	GSM5273472	nSS_03	non-sjogren's sicca	PBMCs	blood	47	F	CD14+ monocytes					1
+	GSE173670	GSM5273473	nSS_04	non-sjogren's sicca	PBMCs	blood	58	F	CD14+ monocytes					1
+	GSE173670	GSM5273474	nSS_05	non-sjogren's sicca	PBMCs	blood	43	F	CD14+ monocytes					1
+	GSE173670	GSM5273475	nSS_06	non-sjogren's sicca	PBMCs	blood	69	F	CD14+ monocytes					1
+	GSE173670	GSM5273476	nSS_07	non-sjogren's sicca	PBMCs	blood	45	F	CD14+ monocytes					1
+	GSE173670	GSM5273477	nSS_08	non-sjogren's sicca	PBMCs	blood	24	F	CD14+ monocytes					1
+	GSE173670	GSM5273478	pSS_01	sjogren's syndrome (primary)	PBMCs	blood	58	F	CD14+ monocytes					1
+	GSE173670	GSM5273479	pSS_02	sjogren's syndrome (primary)	PBMCs	blood	33	F	CD14+ monocytes					1
+	GSE173670	GSM5273480	pSS_03	sjogren's syndrome (primary)	PBMCs	blood	53	F	CD14+ monocytes					1
+	GSE173670	GSM5273481	pSS_04	sjogren's syndrome (primary)	PBMCs	blood	55	F	CD14+ monocytes					1
+	GSE173670	GSM5273482	pSS_05	sjogren's syndrome (primary)	PBMCs	blood	26	F	CD14+ monocytes					1
+	GSE173670	GSM5273483	pSS_06	sjogren's syndrome (primary)	PBMCs	blood	76	F	CD14+ monocytes					1
+	GSE173670	GSM5273484	pSS_07	sjogren's syndrome (primary)	PBMCs	blood	40	F	CD14+ monocytes					1
+	GSE173670	GSM5273485	pSS_08	sjogren's syndrome (primary)	PBMCs	blood	60	F	CD14+ monocytes					1
+	GSE173670	GSM5273486	pSS_09	sjogren's syndrome (primary)	PBMCs	blood	55	F	CD14+ monocytes					1
+	GSE173670	GSM5273487	pSS_10	sjogren's syndrome (primary)	PBMCs	blood	71	F	CD14+ monocytes					1
+	GSE173670	GSM5273488	pSS_11	sjogren's syndrome (primary)	PBMCs	blood	58	M	CD14+ monocytes					1
+	GSE173670	GSM5273489	pSS_12	sjogren's syndrome (primary)	PBMCs	blood	49	M	CD14+ monocytes					1
+	GSE173808	GSM5279010	SJ169	sjogren's syndrome (primary)	tissue	parotid gland	52.47	F	NA					1
+	GSE173808	GSM5279060	SJ169	sjogren's syndrome (primary)	tissue	labial gland	52.47	F	NA					1
+	GSE173808	GSM5278978	SJ172	sjogren's syndrome (primary)	tissue	parotid gland	69.26	F	NA					1
+	GSE173808	GSM5279032	SJ172	sjogren's syndrome (primary)	tissue	labial gland	69.26	F	NA					1
+	GSE173808	GSM5278982	SJ184	non-sjogren's sicca	tissue	parotid gland	45.93	F	NA					1
+	GSE173808	GSM5279063	SJ184	non-sjogren's sicca	tissue	labial gland	45.93	F	NA					1
+	GSE173808	GSM5279006	SJ188	sjogren's syndrome (primary)	tissue	parotid gland	53.32	F	NA					1
+	GSE173808	GSM5279066	SJ188	sjogren's syndrome (primary)	tissue	labial gland	53.32	F	NA					1
+	GSE173808	GSM5278983	SJ189	sjogren's syndrome (primary)	tissue	parotid gland	63.62	F	NA					1
+	GSE173808	GSM5279045	SJ189	sjogren's syndrome (primary)	tissue	labial gland	63.62	F	NA					1
+	GSE173808	GSM5278961	SJ199	non-sjogren's sicca	tissue	parotid gland	44.96	M	NA					1
+	GSE173808	GSM5279056	SJ199	non-sjogren's sicca	tissue	labial gland	44.96	M	NA					1
+	GSE173808	GSM5278980	SJ203	non-sjogren's sicca	tissue	parotid gland	66.28	F	NA					1
+	GSE173808	GSM5279038	SJ203	non-sjogren's sicca	tissue	labial gland	66.28	F	NA					1
+	GSE173808	GSM5279009	SJ206	sjogren's syndrome (primary)	tissue	parotid gland	48.5	F	NA					1
+	GSE173808	GSM5279015	SJ206	sjogren's syndrome (primary)	tissue	labial gland	48.5	F	NA					1
+	GSE173808	GSM5278963	SJ208	sjogren's syndrome (primary)	tissue	parotid gland	30.24	F	NA					1
+	GSE173808	GSM5278996	SJ222	sjogren's syndrome (primary)	tissue	parotid gland	46.32	F	NA					1
+	GSE173808	GSM5279025	SJ222	sjogren's syndrome (primary)	tissue	labial gland	46.32	F	NA					1
+	GSE173808	GSM5279008	SJ233	non-sjogren's sicca	tissue	parotid gland	55.28	F	NA					1
+	GSE173808	GSM5279023	SJ233	non-sjogren's sicca	tissue	labial gland	55.28	F	NA					1
+	GSE173808	GSM5279002	SJ237	sjogren's syndrome (primary)	tissue	parotid gland	62.72	F	NA					1
+	GSE173808	GSM5279021	SJ237	sjogren's syndrome (primary)	tissue	labial gland	62.72	F	NA					1
+	GSE173808	GSM5278985	SJ245	sjogren's syndrome (primary)	tissue	parotid gland	72.13	F	NA					1
+	GSE173808	GSM5279017	SJ245	sjogren's syndrome (primary)	tissue	labial gland	72.13	F	NA					1
+	GSE173808	GSM5278969	SJ249	sjogren's syndrome (primary)	tissue	parotid gland	44.09	F	NA					1
+	GSE173808	GSM5279062	SJ249	sjogren's syndrome (primary)	tissue	labial gland	44.09	F	NA					1
+	GSE173808	GSM5278977	SJ251	non-sjogren's sicca	tissue	parotid gland	53.03	F	NA					1
+	GSE173808	GSM5279003	SJ257	sjogren's syndrome (primary)	tissue	parotid gland	62.2	F	NA					1
+	GSE173808	GSM5279061	SJ257	sjogren's syndrome (primary)	tissue	labial gland	62.2	F	NA					1
+	GSE173808	GSM5278998	SJ266	sjogren's syndrome (primary)	tissue	parotid gland	61.12	F	NA					1
+	GSE173808	GSM5279016	SJ266	sjogren's syndrome (primary)	tissue	labial gland	61.12	F	NA					1
+	GSE173808	GSM5278955	SJ273	sjogren's syndrome (primary)	tissue	parotid gland	58.72	F	NA					1
+	GSE173808	GSM5279044	SJ273	sjogren's syndrome (primary)	tissue	labial gland	58.72	F	NA					1
+	GSE173808	GSM5278975	SJ281	sjogren's syndrome (primary)	tissue	parotid gland	26.81	F	NA					1
+	GSE173808	GSM5279029	SJ281	sjogren's syndrome (primary)	tissue	labial gland	26.81	F	NA					1
+	GSE173808	GSM5279007	SJ284	sjogren's syndrome (primary)	tissue	parotid gland	23.67	F	NA					1
+	GSE173808	GSM5279047	SJ284	sjogren's syndrome (primary)	tissue	labial gland	23.67	F	NA					1
+	GSE173808	GSM5279018	SJ285	sjogren's syndrome (primary)	tissue	labial gland	77.49	F	NA					1
+	GSE173808	GSM5278984	SJ286	sjogren's syndrome (primary)	tissue	parotid gland	60.48	F	NA					1
+	GSE173808	GSM5279051	SJ286	sjogren's syndrome (primary)	tissue	labial gland	60.48	F	NA					1
+	GSE173808	GSM5278987	SJ287	sjogren's syndrome (primary)	tissue	parotid gland	28.45	F	NA					1
+	GSE173808	GSM5279020	SJ287	sjogren's syndrome (primary)	tissue	labial gland	28.45	F	NA					1
+	GSE173808	GSM5278991	SJ290	non-sjogren's sicca	tissue	parotid gland	71.09	F	NA					1
+	GSE173808	GSM5279054	SJ290	non-sjogren's sicca	tissue	labial gland	71.09	F	NA					1
+	GSE173808	GSM5278994	SJ291	non-sjogren's sicca	tissue	parotid gland	59.49	F	NA					1
+	GSE173808	GSM5279053	SJ291	non-sjogren's sicca	tissue	labial gland	59.49	F	NA					1
+	GSE173808	GSM5278965	SJ298	non-sjogren's sicca	tissue	parotid gland	42.12	F	NA					1
+	GSE173808	GSM5279028	SJ298	non-sjogren's sicca	tissue	labial gland	42.12	F	NA					1
+	GSE173808	GSM5278999	SJ302	sjogren's syndrome (primary)	tissue	parotid gland	51.67	F	NA					1
+	GSE173808	GSM5279035	SJ302	sjogren's syndrome (primary)	tissue	labial gland	51.67	F	NA					1
+	GSE173808	GSM5278970	SJ306	non-sjogren's sicca	tissue	parotid gland	27.19	F	NA					1
+	GSE173808	GSM5279027	SJ306	non-sjogren's sicca	tissue	labial gland	27.19	F	NA					1
+	GSE173808	GSM5278960	SJ307	sjogren's syndrome (primary)	tissue	parotid gland	73.58	F	NA					1
+	GSE173808	GSM5279065	SJ307	sjogren's syndrome (primary)	tissue	labial gland	73.58	F	NA					1
+	GSE173808	GSM5279000	SJ309	sjogren's syndrome (primary)	tissue	parotid gland	31.66	F	NA					1
+	GSE173808	GSM5279024	SJ309	sjogren's syndrome (primary)	tissue	labial gland	31.66	F	NA					1
+	GSE173808	GSM5278993	SJ311	sjogren's syndrome (primary)	tissue	parotid gland	45.3	F	NA					1
+	GSE173808	GSM5279046	SJ311	sjogren's syndrome (primary)	tissue	labial gland	45.3	F	NA					1
+	GSE173808	GSM5278954	SJ312	non-sjogren's sicca	tissue	parotid gland	30.81	F	NA					1
+	GSE173808	GSM5279014	SJ312	non-sjogren's sicca	tissue	labial gland	30.81	F	NA					1
+	GSE173808	GSM5278973	SJ318	sjogren's syndrome (primary)	tissue	parotid gland	46.51	F	NA					1
+	GSE173808	GSM5279064	SJ318	sjogren's syndrome (primary)	tissue	labial gland	46.51	F	NA					1
+	GSE173808	GSM5278988	SJ319	non-sjogren's sicca	tissue	parotid gland	54.9	F	NA					1
+	GSE173808	GSM5279012	SJ319	non-sjogren's sicca	tissue	labial gland	54.9	F	NA					1
+	GSE173808	GSM5278958	SJ320	non-sjogren's sicca	tissue	parotid gland	61.28	F	NA					1
+	GSE173808	GSM5279022	SJ320	non-sjogren's sicca	tissue	labial gland	61.28	F	NA					1
+	GSE173808	GSM5278967	SJ321	sjogren's syndrome (primary)	tissue	parotid gland	45.49	F	NA					1
+	GSE173808	GSM5279055	SJ321	sjogren's syndrome (primary)	tissue	labial gland	45.49	F	NA					1
+	GSE173808	GSM5278989	SJ322	sjogren's syndrome (primary)	tissue	parotid gland	63.51	F	NA					1
+	GSE173808	GSM5279059	SJ322	sjogren's syndrome (primary)	tissue	labial gland	63.51	F	NA					1
+	GSE173808	GSM5278979	SJ325	non-sjogren's sicca	tissue	parotid gland	51.52	F	NA					1
+	GSE173808	GSM5279041	SJ325	non-sjogren's sicca	tissue	labial gland	51.52	F	NA					1
+	GSE173808	GSM5278966	SJ326	sjogren's syndrome (primary)	tissue	parotid gland	57.1	F	NA					1
+	GSE173808	GSM5279040	SJ326	sjogren's syndrome (primary)	tissue	labial gland	57.1	F	NA					1
+	GSE173808	GSM5278962	SJ327	sjogren's syndrome (primary)	tissue	parotid gland	44.91	F	NA					1
+	GSE173808	GSM5279036	SJ327	sjogren's syndrome (primary)	tissue	labial gland	44.91	F	NA					1
+	GSE173808	GSM5278995	SJ328	sjogren's syndrome (primary)	tissue	parotid gland	44.19	F	NA					1
+	GSE173808	GSM5279011	SJ328	sjogren's syndrome (primary)	tissue	labial gland	44.19	F	NA					1
+	GSE173808	GSM5278986	SJ331	sjogren's syndrome (primary)	tissue	parotid gland	67.17	F	NA					1
+	GSE173808	GSM5279037	SJ331	sjogren's syndrome (primary)	tissue	labial gland	67.17	F	NA					1
+	GSE173808	GSM5278971	SJ332	sjogren's syndrome (primary)	tissue	parotid gland	36.05	F	NA					1
+	GSE173808	GSM5279067	SJ332	sjogren's syndrome (primary)	tissue	labial gland	36.05	F	NA					1
+	GSE173808	GSM5278959	SJ333	sjogren's syndrome (primary)	tissue	parotid gland	47.33	M	NA					1
+	GSE173808	GSM5279013	SJ333	sjogren's syndrome (primary)	tissue	labial gland	47.33	M	NA					1
+	GSE173808	GSM5279050	SJ334	sjogren's syndrome (primary)	tissue	labial gland	53.81	F	NA					1
+	GSE173808	GSM5279004	SJ336	non-sjogren's sicca	tissue	parotid gland	35.03	F	NA					1
+	GSE173808	GSM5279019	SJ336	non-sjogren's sicca	tissue	labial gland	35.03	F	NA					1
+	GSE173808	GSM5278957	SJ345	non-sjogren's sicca	tissue	parotid gland	39.49	F	NA					1
+	GSE173808	GSM5279033	SJ345	non-sjogren's sicca	tissue	labial gland	39.49	F	NA					1
+	GSE173808	GSM5278964	SJ346	non-sjogren's sicca	tissue	parotid gland	25.63	F	NA					1
+	GSE173808	GSM5279052	SJ346	non-sjogren's sicca	tissue	labial gland	25.63	F	NA					1
+	GSE173808	GSM5278968	SJ347	sjogren's syndrome (primary)	tissue	parotid gland	33.74	F	NA					1
+	GSE173808	GSM5279048	SJ347	sjogren's syndrome (primary)	tissue	labial gland	33.74	F	NA					1
+	GSE173808	GSM5278981	SJ348	non-sjogren's sicca	tissue	parotid gland	62.89	F	NA					1
+	GSE173808	GSM5279030	SJ348	non-sjogren's sicca	tissue	labial gland	62.89	F	NA					1
+	GSE173808	GSM5278974	SJ349	non-sjogren's sicca	tissue	parotid gland	45.47	F	NA					1
+	GSE173808	GSM5279039	SJ349	non-sjogren's sicca	tissue	labial gland	45.47	F	NA					1
+	GSE173808	GSM5278997	SJ354	sjogren's syndrome (primary)	tissue	parotid gland	68.44	F	NA					1
+	GSE173808	GSM5279034	SJ354	sjogren's syndrome (primary)	tissue	labial gland	68.44	F	NA					1
+	GSE173808	GSM5278990	SJ355	sjogren's syndrome (primary)	tissue	parotid gland	47.26	F	NA					1
+	GSE173808	GSM5279042	SJ355	sjogren's syndrome (primary)	tissue	labial gland	47.26	F	NA					1
+	GSE173808	GSM5279005	SJ358	sjogren's syndrome (primary)	tissue	parotid gland	53.7	F	NA					1
+	GSE173808	GSM5279026	SJ358	sjogren's syndrome (primary)	tissue	labial gland	53.7	F	NA					1
+	GSE173808	GSM5278992	SJ361	non-sjogren's sicca	tissue	parotid gland	50.78	F	NA					1
+	GSE173808	GSM5279058	SJ361	non-sjogren's sicca	tissue	labial gland	50.78	F	NA					1
+	GSE173808	GSM5278956	SJ362	sjogren's syndrome (primary)	tissue	parotid gland	51.79	F	NA					1
+	GSE173808	GSM5279049	SJ362	sjogren's syndrome (primary)	tissue	labial gland	51.79	F	NA					1
+	GSE173808	GSM5278976	SJ364	non-sjogren's sicca	tissue	parotid gland	71.72	F	NA					1
+	GSE173808	GSM5279043	SJ364	non-sjogren's sicca	tissue	labial gland	71.72	F	NA					1
+	GSE173808	GSM5278972	SJ372	sjogren's syndrome (primary)	tissue	parotid gland	57.41	F	NA					1
+	GSE173808	GSM5279057	SJ372	sjogren's syndrome (primary)	tissue	labial gland	57.41	F	NA					1
+	GSE173808	GSM5279001	SJ373	sjogren's syndrome (primary)	tissue	parotid gland	57.97	F	NA					1
+	GSE173808	GSM5279031	SJ373	sjogren's syndrome (primary)	tissue	labial gland	57.97	F	NA					1
+	GSE175709	GSM5387675	SS-1	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387676	SS-2	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387677	SS-3	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387678	SS-4	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387679	SS-5	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387680	SS-6	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387681	SS-7	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387682	SS-8	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387683	SS-9	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387684	SS-10	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387685	SS-11	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387686	SS-12	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387687	SS-13	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387688	SS-14	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387689	SS-15	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387690	SS-16	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387691	SS-17	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387692	SS-18	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387693	SS-19	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE175709	GSM5387694	SS-20	sjogren's syndrome	tissue	labial salivary gland	NA	NA	NA					1
+	GSE176510	GSM5368415	subj_1902	healthy	tissue	conjunctiva	50	F	NA					1
+	GSE176510	GSM5368416	subj_1903	healthy	tissue	conjunctiva	59	F	NA					1
+	GSE176510	GSM5368417	subj_1904	healthy	tissue	conjunctiva	49	F	NA					1
+	GSE176510	GSM5368418	subj_1905	healthy	tissue	conjunctiva	50	F	NA					1
+	GSE176510	GSM5368421	subj_1914	healthy	tissue	conjunctiva	39	F	NA					1
+	GSE176510	GSM5368422	subj_1915	healthy	tissue	conjunctiva	51	F	NA					1
+	GSE176510	GSM5368424	subj_2001	healthy	tissue	conjunctiva	47	F	NA					1
+	GSE176510	GSM5368425	subj_2002	healthy	tissue	conjunctiva	76	F	NA					1
+	GSE176510	GSM5368426	subj_2003	healthy	tissue	conjunctiva	59	F	NA					1
+	GSE176510	GSM5368427	subj_2005	healthy	tissue	conjunctiva	67	F	NA					1
+	GSE176510	GSM5368428	subj_2007	healthy	tissue	conjunctiva	66	F	NA					1
+	GSE176510	GSM5368431	subj_2010	healthy	tissue	conjunctiva	59	F	NA					1
+	GSE176510	GSM5368432	subj_2011	healthy	tissue	conjunctiva	63	F	NA					1
+	GSE176510	GSM5368433	subj_2012	healthy	tissue	conjunctiva	47	F	NA					1
+	GSE176510	GSM5368434	subj_2013	healthy	tissue	conjunctiva	41	F	NA					1
+	GSE176510	GSM5368435	subj_2014	healthy	tissue	conjunctiva	67	F	NA					1
+	GSE176510	GSM5368436	subj_2015	healthy	tissue	conjunctiva	53	F	NA					1
+	GSE176510	GSM5368437	subj_2016	healthy	tissue	conjunctiva	70	F	NA					1
+	GSE176510	GSM5368438	subj_2017	healthy	tissue	conjunctiva	69	F	NA					1
+	GSE176510	GSM5368414	subj_1901	sjogren's syndrome (keratoconjunctivitis sicca)	tissue	conjunctiva	49	F	NA					1
+	GSE176510	GSM5368419	subj_1910	sjogren's syndrome (keratoconjunctivitis sicca)	tissue	conjunctiva	55	F	NA					1
+	GSE176510	GSM5368420	subj_1913	sjogren's syndrome (keratoconjunctivitis sicca)	tissue	conjunctiva	40	F	NA					1
+	GSE176510	GSM5368423	subj_1917	sjogren's syndrome (keratoconjunctivitis sicca)	tissue	conjunctiva	62	F	NA					1
+	GSE176510	GSM5368429	subj_2008	sjogren's syndrome (keratoconjunctivitis sicca)	tissue	conjunctiva	68	F	NA					1
+	GSE176510	GSM5368430	subj_2009	sjogren's syndrome (keratoconjunctivitis sicca)	tissue	conjunctiva	64	F	NA					1
+	GSE176510	GSM5368439	subj_2018	sjogren's syndrome (keratoconjunctivitis sicca)	tissue	conjunctiva	70	F	NA					1
+	GSE194234	GSM5831329	control_1	healthy	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831330	control_2	healthy	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831331	control_3	healthy	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831332	control_4	healthy	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831333	control_5	healthy	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831334	control_6	healthy	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831335	pSS_1	sjogren's syndrome (primary)	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831336	pSS_2	sjogren's syndrome (primary)	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831337	pSS_3	sjogren's syndrome (primary)	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831338	pSS_4	sjogren's syndrome (primary)	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831339	pSS_5	sjogren's syndrome (primary)	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831340	pSS_6	sjogren's syndrome (primary)	blood	blood	NA	NA	neutrophils					1
+	GSE194234	GSM5831341	pSS_7	sjogren's syndrome (primary)	blood	blood	NA	NA	neutrophils					1
+	GSE208260	GSM6339855	SJ184	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339858	SJ199	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339859	SJ203	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339863	SJ233	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339867	SJ251	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339876	SJ290	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339877	SJ291	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339879	SJ306	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339883	SJ312	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339885	SJ319	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339886	SJ320	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339889	SJ325	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339896	SJ336	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339898	SJ345	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339899	SJ346	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339901	SJ348	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339902	SJ349	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339906	SJ361	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339908	SJ364	non-sjogren's sicca	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339854	SJ169	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339856	SJ188	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339857	SJ189	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339860	SJ206	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339861	SJ208	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339862	SJ222	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339864	SJ237	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339865	SJ245	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339866	SJ249	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339868	SJ257	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339869	SJ266	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339870	SJ273	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339871	SJ281	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339872	SJ284	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339873	SJ285	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339874	SJ286	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339875	SJ287	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339878	SJ302	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339880	SJ307	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339881	SJ309	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339882	SJ311	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339884	SJ318	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339887	SJ321	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339888	SJ322	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339890	SJ326	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339891	SJ327	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339892	SJ328	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339893	SJ332	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339894	SJ333	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339895	SJ334	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339897	SJ337	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339900	SJ347	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339903	SJ354	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339904	SJ355	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339905	SJ358	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339907	SJ362	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339909	SJ372	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE208260	GSM6339910	SJ373	sjogren's syndrome (primary)	PBMCs	blood	NA	NA	NA					1
+	GSE23117	GSM569477	patient 1	control, sjogren's syndrome, healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569473	patient 16	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569474	patient 17	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569475	patient 18	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569476	patient 19	healthy	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569471	patient 10	sjogren's syndrome (advanced)	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569472	patient 11	sjogren's syndrome (advanced)	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569478	patient 20	sjogren's syndrome (early)	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569479	patient 21	sjogren's syndrome (early)	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569480	patient 4	sjogren's syndrome (early)	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569482	patient 6	sjogren's syndrome (early)	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569481	patient 5	sjogren's syndrome (early)	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569483	patient 22	sjogren's syndrome (moderate)	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569484	patient 7	sjogren's syndrome (moderate)	tissue	minor salivary gland	NA	NA	NA					1
+	GSE23117	GSM569485	patient 9	sjogren's syndrome (moderate)	tissue	minor salivary gland	NA	NA	NA					1
+	GSE40568	GSM1389608	SS_1	sjogren's syndrome	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389609	SS_2	sjogren's syndrome	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389610	SS_3	sjogren's syndrome	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389611	SS_4	sjogren's syndrome	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389612	SS_5	sjogren's syndrome	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389613	IgG4RD_1	IgG4-related disease	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389614	IgG4RD_2	IgG4-related disease	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389615	IgG4RD_3	IgG4-related disease	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389616	IgG4RD_4	IgG4-related disease	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389617	IgG4RD_5	IgG4-related disease	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389618	HC_1	healthy	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389619	HC_2	healthy	tissue	labial salivary gland	NA	F	NA					1
+	GSE40568	GSM1389620	HC_3	healthy	tissue	labial salivary gland	NA	F	NA					1
+	GSE40611	GSM997850	control_1	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997858	control_10	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997859	control_12	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997860	control_13	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997861	control_14	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997862	control_15	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997863	control_16	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997864	control_17	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997865	control_18	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997866	control_19	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997851	control_2	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997867	control_20	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997852	control_3	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997853	control_4	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997854	control_5	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997855	control_7	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997856	control_8	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997857	control_9	healthy	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997868	patient_1	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997877	patient_10	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997892	patient_13	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997893	patient_14	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997894	patient_15	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997895	patient_16	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997896	patient_17	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997897	patient_18	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997898	patient_19	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997869	patient_2	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997870	patient_3	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997871	patient_4	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997872	patient_5	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997873	patient_6	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997874	patient_7	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997875	patient_8	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997876	patient_9	sjogren's syndrome (primary)	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997878	SC03	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997879	SC04	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997880	SC05	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997881	SC06	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997882	SC08	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997883	SC09	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997884	SC10	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997885	SC12	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997886	SC13	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997887	SC15	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997888	SC16	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997889	SC17	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997890	SC19	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE40611	GSM997891	SC20	non-sjogren's sicca	tissue	parotid	NA	NA	NA					1
+	GSE48378	GSM1176751	HC1	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176752	HC2	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176753	HC3	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176754	HC4	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176755	HC5	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176756	HC6	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176757	HC7	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176758	HC8	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176759	HC9	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176760	HC10	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176761	HC11	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176762	HC12	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176763	HC13	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176764	HC14	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176765	HC15	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176766	HC16	healthy	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176767	pSS1	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176768	pSS2	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176769	pSS3	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176770	pSS4	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176771	pSS5	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176772	pSS6	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176773	pSS7	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176774	pSS8	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176775	pSS9	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176776	pSS10	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE48378	GSM1176777	pSS11	sjogren's syndrome	PBMCs	blood	NA	NA	NA					1
+	GSE51092	GSM1238429	control 1	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238430	control 2	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238431	control 3	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238432	control 4	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238433	control 5	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238434	control 6	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238435	control 7	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238436	control 8	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238437	control 9	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238438	control 10	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238439	control 11	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238440	control 12	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238441	control 13	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238442	control 14	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238443	control 15	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238444	control 16	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238445	control 17	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238446	control 18	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238447	control 19	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238448	control 20	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238449	control 21	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238450	control 22	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238451	control 23	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238452	control 24	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238453	control 25	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238454	control 26	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238455	control 27	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238456	control 28	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238457	control 29	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238458	control 30	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238459	control 31	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238460	control 32	healthy	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238461	case 1	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238462	case 2	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238463	case 3	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238464	case 4	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238465	case 5	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238466	case 6	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238467	case 7	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238468	case 8	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238469	case 9	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238470	case 10	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238471	case 11	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238472	case 12	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238473	case 13	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238474	case 14	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238475	case 15	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238476	case 16	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238477	case 17	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238478	case 18	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238479	case 19	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238480	case 20	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238481	case 21	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238482	case 22	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238483	case 23	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238484	case 24	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238485	case 25	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238486	case 26	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238487	case 27	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238488	case 28	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238489	case 29	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238490	case 30	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238491	case 31	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238492	case 32	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238493	case 33	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238494	case 34	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238495	case 35	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238496	case 36	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238498	case 38	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238499	case 39	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238500	case 40	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238501	case 41	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238502	case 42	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238503	case 43	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238504	case 44	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238505	case 45	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238506	case 46	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238507	case 47	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238508	case 48	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238509	case 49	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238510	case 50	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238511	case 51	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238512	case 52	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238513	case 53	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238514	case 54	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238515	case 55	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238516	case 56	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238517	case 57	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238518	case 58	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238519	case 59	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238520	case 60	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238521	case 61	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238522	case 62	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238523	case 63	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238524	case 64	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238525	case 65	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238526	case 66	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238527	case 67	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238528	case 68	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238529	case 69	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238530	case 70	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238531	case 71	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238532	case 72	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238533	case 73	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238534	case 74	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238535	case 75	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238536	case 76	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238537	case 77	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238538	case 78	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238539	case 79	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238541	case 81	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238542	case 82	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238544	case 84	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238545	case 85	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238546	case 86	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238548	case 88	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238549	case 89	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238550	case 90	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238551	case 91	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238552	case 92	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238553	case 93	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238554	case 94	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238555	case 95	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238556	case 96	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238557	case 97	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238559	case 99	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238560	case 100	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238561	case 101	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238562	case 102	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238563	case 103	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238564	case 104	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238565	case 105	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238566	case 106	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238567	case 107	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238568	case 108	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238569	case 109	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238570	case 110	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238571	case 111	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238572	case 112	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238573	case 113	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238574	case 114	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238575	case 115	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238576	case 116	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238577	case 117	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238578	case 118	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238579	case 119	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238580	case 120	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238581	case 121	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238582	case 122	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238583	case 123	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238584	case 124	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238585	case 125	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238586	case 126	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238587	case 127	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238588	case 128	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238589	case 129	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238590	case 130	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238591	case 131	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238592	case 132	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238593	case 133	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238594	case 134	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238595	case 135	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238596	case 136	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238598	case 137	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238599	case 138	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238601	case 139	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238603	case 140	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238605	case 141	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238607	case 142	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238608	case 143	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238610	case 144	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238611	case 145	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238612	case 146	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238613	case 147	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238614	case 148	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238615	case 149	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238616	case 150	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238617	case 151	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238618	case 152	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238619	case 153	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238621	case 155	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238622	case 156	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238623	case 157	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238624	case 158	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238625	case 159	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238627	case 161	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238628	case 162	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238629	case 163	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238630	case 164	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238631	case 165	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238632	case 166	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238633	case 167	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238634	case 168	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238635	case 169	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238636	case 170	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238637	case 171	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238638	case 172	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238639	case 173	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238640	case 174	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238641	case 175	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238642	case 176	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238643	case 177	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238644	case 178	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238645	case 179	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238646	case 180	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238647	case 181	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238648	case 182	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238649	case 183	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238650	case 184	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238652	case 186	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238653	case 187	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238654	case 188	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238655	case 189	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238656	case 190	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238497	case 37	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238543	case 83	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238547	case 87	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238558	case 98	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238620	case 154	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238626	case 160	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238651	case 185	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE51092	GSM1238540	case 80	sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+	GSE66795	GSM1632237	control-1	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632240	control-3	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632242	control-4	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632244	control-5	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632246	control-6	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632249	control-7	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632255	control-8	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632265	control-9	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632269	control-10	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632271	control-11	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632272	control-12	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632280	control-13	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632295	control-16	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632299	control-17	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632301	control-18	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632309	control-19	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632329	control-20	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632342	control-21	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632349	control-22	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632355	control-23	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632359	control-24	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632364	control-25	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632366	control-26	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632373	control-27	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632376	control-28	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632385	control-29	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632238	control-2	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632282	control-14	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632285	control-15	healthy	whole blood	whole blood	NA	F	NA				fatigue status: Control	1
+	GSE66795	GSM1632241	subj_1	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632291	subj_10	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632293	subj_11	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632294	subj_12	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632297	subj_13	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632312	subj_14	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632313	subj_15	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632314	subj_16	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632323	subj_17	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632330	subj_18	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632334	subj_19	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632245	subj_2	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632338	subj_20	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632344	subj_21	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632351	subj_22	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632352	subj_23	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632357	subj_24	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632362	subj_25	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632365	subj_26	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632367	subj_27	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632371	subj_28	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632378	subj_29	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632247	subj_3	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632381	subj_30	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632383	subj_31	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632384	subj_32	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632386	subj_33	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632388	subj_34	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632391	subj_35	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632394	subj_36	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632248	subj_4	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632250	subj_5	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632256	subj_6	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632261	subj_7	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632276	subj_8	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632289	subj_9	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: High	1
+	GSE66795	GSM1632258	subj_1	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632311	subj_10	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632317	subj_11	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632318	subj_12	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632322	subj_13	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632328	subj_14	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632335	subj_15	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632341	subj_16	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632346	subj_17	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632358	subj_18	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632382	subj_19	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632260	subj_2	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632393	subj_20	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632396	subj_21	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632263	subj_3	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632274	subj_4	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632286	subj_5	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632302	subj_6	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632305	subj_7	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632306	subj_8	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632310	subj_9	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Low	1
+	GSE66795	GSM1632239	subj_1	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632264	subj_10	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632266	subj_11	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632267	subj_12	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632268	subj_13	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632270	subj_14	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632273	subj_15	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632275	subj_16	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632277	subj_17	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632278	subj_18	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632279	subj_19	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632243	subj_2	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632281	subj_20	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632283	subj_21	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632284	subj_22	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632287	subj_23	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632288	subj_24	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632290	subj_25	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632292	subj_26	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632296	subj_27	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632298	subj_28	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632300	subj_29	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632251	subj_3	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632303	subj_30	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632304	subj_31	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632307	subj_32	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632308	subj_33	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632315	subj_34	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632316	subj_35	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632319	subj_36	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632320	subj_37	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632321	subj_38	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632324	subj_39	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632252	subj_4	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632325	subj_40	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632326	subj_41	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632327	subj_42	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632331	subj_43	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632332	subj_44	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632333	subj_45	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632336	subj_46	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632337	subj_47	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632339	subj_48	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632340	subj_49	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632253	subj_5	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632343	subj_50	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632345	subj_51	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632347	subj_52	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632348	subj_53	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632350	subj_54	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632353	subj_55	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632354	subj_56	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632356	subj_57	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632360	subj_58	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632361	subj_59	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632254	subj_6	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632363	subj_60	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632368	subj_61	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632369	subj_62	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632370	subj_63	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632372	subj_64	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632374	subj_65	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632375	subj_66	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632377	subj_67	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632379	subj_68	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632380	subj_69	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632257	subj_7	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632387	subj_70	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632389	subj_71	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632390	subj_72	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632392	subj_73	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632395	subj_74	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632259	subj_8	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE66795	GSM1632262	subj_9	sjogren's syndrome (primary)	whole blood	whole blood	NA	F	NA				fatigue status: Mid	1
+	GSE7451	GSM178746	control 5	healthy	whole saliva	whole saliva	22	F	NA					1
+	GSE7451	GSM180372	control 1	healthy	whole saliva	whole saliva	26	F	NA					1
+	GSE7451	GSM180373	control 2	healthy	whole saliva	whole saliva	36	F	NA					1
+	GSE7451	GSM180374	control 3	healthy	whole saliva	whole saliva	51	F	NA					1
+	GSE7451	GSM180375	control 4	healthy	whole saliva	whole saliva	36	F	NA					1
+	GSE7451	GSM180376	control 6	healthy	whole saliva	whole saliva	43	F	NA					1
+	GSE7451	GSM180378	control 8	healthy	whole saliva	whole saliva	35	F	NA					1
+	GSE7451	GSM180379	control 9	healthy	whole saliva	whole saliva	27	F	NA					1
+	GSE7451	GSM180380	control 10	healthy	whole saliva	whole saliva	51	F	NA					1
+	GSE7451	GSM180377	control 7	healthy	whole saliva	whole saliva	45	F	NA					1
+	GSE7451	GSM180381	patient 1	sjogren's syndrome (primary)	whole saliva	whole saliva	26	F	NA					1
+	GSE7451	GSM180389	patient 10	sjogren's syndrome (primary)	whole saliva	whole saliva	49	F	NA					1
+	GSE7451	GSM180382	patient 2	sjogren's syndrome (primary)	whole saliva	whole saliva	36	F	NA					1
+	GSE7451	GSM180383	patient 3	sjogren's syndrome (primary)	whole saliva	whole saliva	46	F	NA					1
+	GSE7451	GSM180384	patient 4	sjogren's syndrome (primary)	whole saliva	whole saliva	38	F	NA					1
+	GSE7451	GSM180385	patient 5	sjogren's syndrome (primary)	whole saliva	whole saliva	21	F	NA					1
+	GSE7451	GSM180390	patient 6	sjogren's syndrome (primary)	whole saliva	whole saliva	43	F	NA					1
+	GSE7451	GSM180386	patient 7	sjogren's syndrome (primary)	whole saliva	whole saliva	45	F	NA					1
+	GSE7451	GSM180387	patient 8	sjogren's syndrome (primary)	whole saliva	whole saliva	38	F	NA					1
+	GSE7451	GSM180388	patient 9	sjogren's syndrome (primary)	whole saliva	whole saliva	27	F	NA					1
+	GSE80805	GSM2137747	S1	sjogren's syndrome	tissue	minor salivary glands of the lower lip	NA	F	NA					1
+	GSE80805	GSM2137748	S2	sjogren's syndrome	tissue	minor salivary glands of the lower lip	NA	F	NA					1
+	GSE80805	GSM2137749	NS1	control, healthy	tissue	minor salivary glands of the lower lip	NA	F	NA					1
+	GSE80805	GSM2137750	NS2	control, healthy	tissue	minor salivary glands of the lower lip	NA	F	NA					1
+	GSE83558	GSM2209622	control_1	healthy	PBMCs	blood	54	F	CD123+BDCA4+ plasmacytoid dendritic cells					1
+	GSE83558	GSM2209623	control_2	healthy	PBMCs	blood	54	F	CD123+BDCA4+ plasmacytoid dendritic cells					1
+	GSE83558	GSM2209624	EST01	sjogren's syndrome (primary)	PBMCs	blood	59	F	CD123+BDCA4+ plasmacytoid dendritic cells					1
+	GSE83558	GSM2209625	EST02	sjogren's syndrome (primary)	PBMCs	blood	55	F	CD123+BDCA4+ plasmacytoid dendritic cells					1
+	GSE83558	GSM2209626	EST03	sjogren's syndrome (primary)	PBMCs	blood	61	F	CD123+BDCA4+ plasmacytoid dendritic cells					1
+	GSE83558	GSM2209627	EST06	sjogren's syndrome (primary)	PBMCs	blood	52	F	CD123+BDCA4+ plasmacytoid dendritic cells					1
+	GSE83558	GSM2209628	EST07	sjogren's syndrome (primary)	PBMCs	blood	63	F	CD123+BDCA4+ plasmacytoid dendritic cells					1
+	GSE84844	GSM2252122	HC002	healthy	whole blood	whole blood	40	F	NA					1
+	GSE84844	GSM2252123	HC003	healthy	whole blood	whole blood	54	F	NA					1
+	GSE84844	GSM2252124	HC004	healthy	whole blood	whole blood	50	F	NA					1
+	GSE84844	GSM2252125	HC005	healthy	whole blood	whole blood	31	F	NA					1
+	GSE84844	GSM2252126	HC006	healthy	whole blood	whole blood	44	F	NA					1
+	GSE84844	GSM2252128	HC008	healthy	whole blood	whole blood	25	F	NA					1
+	GSE84844	GSM2252129	HC009	healthy	whole blood	whole blood	29	F	NA					1
+	GSE84844	GSM2252131	HC011	healthy	whole blood	whole blood	28	F	NA					1
+	GSE84844	GSM2252133	HC013	healthy	whole blood	whole blood	31	F	NA					1
+	GSE84844	GSM2252134	HC014	healthy	whole blood	whole blood	30	F	NA					1
+	GSE84844	GSM2252135	HC015	healthy	whole blood	whole blood	30	F	NA					1
+	GSE84844	GSM2252136	HC016	healthy	whole blood	whole blood	44	F	NA					1
+	GSE84844	GSM2252137	HC017	healthy	whole blood	whole blood	24	F	NA					1
+	GSE84844	GSM2252138	HC018	healthy	whole blood	whole blood	38	F	NA					1
+	GSE84844	GSM2252139	HC019	healthy	whole blood	whole blood	52	F	NA					1
+	GSE84844	GSM2252140	HC020	healthy	whole blood	whole blood	49	F	NA					1
+	GSE84844	GSM2252141	HC021	healthy	whole blood	whole blood	26	F	NA					1
+	GSE84844	GSM2252142	HC022	healthy	whole blood	whole blood	52	F	NA					1
+	GSE84844	GSM2252143	HC023	healthy	whole blood	whole blood	48	F	NA					1
+	GSE84844	GSM2252144	HC024	healthy	whole blood	whole blood	55	F	NA					1
+	GSE84844	GSM2252145	HC025	healthy	whole blood	whole blood	33	F	NA					1
+	GSE84844	GSM2252146	HC026	healthy	whole blood	whole blood	33	F	NA					1
+	GSE84844	GSM2252147	HC027	healthy	whole blood	whole blood	44	F	NA					1
+	GSE84844	GSM2252148	HC028	healthy	whole blood	whole blood	44	F	NA					1
+	GSE84844	GSM2252149	HC029	healthy	whole blood	whole blood	42	F	NA					1
+	GSE84844	GSM2252150	HC030	healthy	whole blood	whole blood	47	F	NA					1
+	GSE84844	GSM2252127	HC007	healthy	whole blood	whole blood	43	F	NA					1
+	GSE84844	GSM2252130	HC010	healthy	whole blood	whole blood	38	F	NA					1
+	GSE84844	GSM2252121	HC001	healthy	whole blood	whole blood	45	F	NA					1
+	GSE84844	GSM2252132	HC012	healthy	whole blood	whole blood	31	F	NA					1
+	GSE84844	GSM2252151	pSS001	sjogren's syndrome (primary)	whole blood	whole blood	39	F	NA					1
+	GSE84844	GSM2252152	pSS002	sjogren's syndrome (primary)	whole blood	whole blood	63	F	NA					1
+	GSE84844	GSM2252153	pSS003	sjogren's syndrome (primary)	whole blood	whole blood	68	F	NA					1
+	GSE84844	GSM2252154	pSS004	sjogren's syndrome (primary)	whole blood	whole blood	71	F	NA					1
+	GSE84844	GSM2252155	pSS005	sjogren's syndrome (primary)	whole blood	whole blood	46	F	NA					1
+	GSE84844	GSM2252157	pSS007	sjogren's syndrome (primary)	whole blood	whole blood	71	F	NA					1
+	GSE84844	GSM2252158	pSS008	sjogren's syndrome (primary)	whole blood	whole blood	60	F	NA					1
+	GSE84844	GSM2252159	pSS009	sjogren's syndrome (primary)	whole blood	whole blood	66	F	NA					1
+	GSE84844	GSM2252160	pSS010	sjogren's syndrome (primary)	whole blood	whole blood	70	F	NA					1
+	GSE84844	GSM2252161	pSS011	sjogren's syndrome (primary)	whole blood	whole blood	75	F	NA					1
+	GSE84844	GSM2252163	pSS013	sjogren's syndrome (primary)	whole blood	whole blood	66	F	NA					1
+	GSE84844	GSM2252164	pSS014	sjogren's syndrome (primary)	whole blood	whole blood	47	F	NA					1
+	GSE84844	GSM2252165	pSS015	sjogren's syndrome (primary)	whole blood	whole blood	63	F	NA					1
+	GSE84844	GSM2252167	pSS017	sjogren's syndrome (primary)	whole blood	whole blood	59	M	NA					1
+	GSE84844	GSM2252168	pSS018	sjogren's syndrome (primary)	whole blood	whole blood	70	F	NA					1
+	GSE84844	GSM2252169	pSS019	sjogren's syndrome (primary)	whole blood	whole blood	48	F	NA					1
+	GSE84844	GSM2252170	pSS020	sjogren's syndrome (primary)	whole blood	whole blood	47	F	NA					1
+	GSE84844	GSM2252171	pSS021	sjogren's syndrome (primary)	whole blood	whole blood	71	F	NA					1
+	GSE84844	GSM2252173	pSS023	sjogren's syndrome (primary)	whole blood	whole blood	71	F	NA					1
+	GSE84844	GSM2252174	pSS024	sjogren's syndrome (primary)	whole blood	whole blood	66	F	NA					1
+	GSE84844	GSM2252175	pSS025	sjogren's syndrome (primary)	whole blood	whole blood	66	F	NA					1
+	GSE84844	GSM2252176	pSS026	sjogren's syndrome (primary)	whole blood	whole blood	53	F	NA					1
+	GSE84844	GSM2252177	pSS027	sjogren's syndrome (primary)	whole blood	whole blood	54	F	NA					1
+	GSE84844	GSM2252178	pSS028	sjogren's syndrome (primary)	whole blood	whole blood	34	F	NA					1
+	GSE84844	GSM2252179	pSS029	sjogren's syndrome (primary)	whole blood	whole blood	76	F	NA					1
+	GSE84844	GSM2252156	pSS006	sjogren's syndrome (primary)	whole blood	whole blood	62	F	NA					1
+	GSE84844	GSM2252162	pSS012	sjogren's syndrome (primary)	whole blood	whole blood	70	F	NA					1
+	GSE84844	GSM2252166	pSS016	sjogren's syndrome (primary)	whole blood	whole blood	56	F	NA					1
+	GSE84844	GSM2252172	pSS022	sjogren's syndrome (primary)	whole blood	whole blood	59	F	NA					1
+	GSE84844	GSM2252180	pSS030	sjogren's syndrome (primary)	whole blood	whole blood	65	F	NA					1
+x	GSE92472	GSM2430375		celiac disease	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430377		multiple sclerosis (clinically isolated syndrome)	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430373		crohn's disease	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430376		fibromyalgia syndrome	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430380		healthy	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430374		irritable bowel syndrome	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430379		multiple sclerosis (established)	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430378		multiple sclerosis (naive)	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430384		psoriasis	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430385		psoriatic arthritis	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430382		rheumatoid arthritis	whole blood	whole blood	NA	NA	NA		methotrexate			1
+x	GSE92472	GSM2430381		rheumatoid arthritis	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430386		sjogren's syndrome	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430383		systemic lupus erythematosus	whole blood	whole blood	NA	NA	NA					1
+x	GSE92472	GSM2430372		ulcerative colitis	whole blood	whole blood	NA	NA	NA					1
+	GSE93683	GSM2460436	HC-026	healthy	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460434	HC-026	healthy	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460435	HC-026	healthy	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460433	HC-026	healthy	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE93683	GSM2460440	HC-031	healthy	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460438	HC-031	healthy	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460439	HC-031	healthy	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460437	HC-031	healthy	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE93683	GSM2460444	HC-033	healthy	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460442	HC-033	healthy	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460443	HC-033	healthy	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460441	HC-033	healthy	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE93683	GSM2460448	HC-K	healthy	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460446	HC-K	healthy	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460447	HC-K	healthy	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460445	HC-K	healthy	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE93683	GSM2460452	HC-L	healthy	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460450	HC-L	healthy	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460451	HC-L	healthy	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460449	HC-L	healthy	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE93683	GSM2460456	HC-M	healthy	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460454	HC-M	healthy	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460455	HC-M	healthy	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460453	HC-M	healthy	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE93683	GSM2460472	K3657	sjogren's syndrome (primary)	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460470	K3657	sjogren's syndrome (primary)	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460471	K3657	sjogren's syndrome (primary)	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460469	K3657	sjogren's syndrome (primary)	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE93683	GSM2460468	K3797	sjogren's syndrome (primary)	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460466	K3797	sjogren's syndrome (primary)	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460467	K3797	sjogren's syndrome (primary)	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460465	K3797	sjogren's syndrome (primary)	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE93683	GSM2460464	K4674	sjogren's syndrome (primary)	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460462	K4674	sjogren's syndrome (primary)	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460463	K4674	sjogren's syndrome (primary)	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460461	K4674	sjogren's syndrome (primary)	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE93683	GSM2460480	K7734	sjogren's syndrome (primary)	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460478	K7734	sjogren's syndrome (primary)	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460479	K7734	sjogren's syndrome (primary)	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460477	K7734	sjogren's syndrome (primary)	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE93683	GSM2460460	K9120	sjogren's syndrome (primary)	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460458	K9120	sjogren's syndrome (primary)	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460459	K9120	sjogren's syndrome (primary)	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460457	K9120	sjogren's syndrome (primary)	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE93683	GSM2460476	K9370	sjogren's syndrome (primary)	PBMCs	blood	NA	F	terminally differentiated effector memory CD8 T cells					1
+	GSE93683	GSM2460474	K9370	sjogren's syndrome (primary)	PBMCs	blood	NA	F	central memory CD8 T cells					1
+	GSE93683	GSM2460475	K9370	sjogren's syndrome (primary)	PBMCs	blood	NA	F	effector memory CD8 T cells					1
+	GSE93683	GSM2460473	K9370	sjogren's syndrome (primary)	PBMCs	blood	NA	F	naive CD8 T cells					1
+	GSE94510	GSM2477209	HC-26	healthy	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477212	HC-31	healthy	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477215	HC-J	healthy	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477218	HC-K	healthy	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477221	HC-M	healthy	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477224	HC-N	healthy	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477227	K9576	sjogren's syndrome	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477230	K3797	sjogren's syndrome	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477233	K1017	sjogren's syndrome	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477236	K9008	sjogren's syndrome	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477239	K3775	sjogren's syndrome	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477242	K7734	sjogren's syndrome	PBMCs	blood	NA	F	central memory CD4 T cells					1
+	GSE94510	GSM2477210	HC-26	healthy	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477213	HC-31	healthy	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477216	HC-J	healthy	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477219	HC-K	healthy	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477222	HC-M	healthy	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477225	HC-N	healthy	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477228	K9576	sjogren's syndrome	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477231	K3797	sjogren's syndrome	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477234	K1017	sjogren's syndrome	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477237	K9008	sjogren's syndrome	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477240	K3775	sjogren's syndrome	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477243	K7734	sjogren's syndrome	PBMCs	blood	NA	F	effector memory CD4 T cells					1
+	GSE94510	GSM2477208	HC-26	healthy	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE94510	GSM2477211	HC-31	healthy	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE94510	GSM2477214	HC-J	healthy	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE94510	GSM2477223	HC-N	healthy	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE94510	GSM2477226	K9576	sjogren's syndrome	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE94510	GSM2477229	K3797	sjogren's syndrome	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE94510	GSM2477232	K1017	sjogren's syndrome	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE94510	GSM2477235	K9008	sjogren's syndrome	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE94510	GSM2477238	K3775	sjogren's syndrome	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE94510	GSM2477241	K7734	sjogren's syndrome	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE94510	GSM2477220	HC-M	healthy	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE94510	GSM2477217	HC-K	healthy	PBMCs	blood	NA	F	naive CD4 T cells					1
+	GSE80225	GSM2121214	s1	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep1	treated	NA	bmp6 treatment (ng/ml): 6	NA
+	GSE80225	GSM2121215	s2	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep1	untreated	NA	bmp6 treatment (ng/ml): 0	NA
+	GSE80225	GSM2121216	s3	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep1	treated	NA	bmp6 treatment (ng/ml): 0.1	NA
+	GSE80225	GSM2121217	s4	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep2	untreated	NA	bmp6 treatment (ng/ml): 0	NA
+	GSE80225	GSM2121218	s5	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep2	treated	NA	bmp6 treatment (ng/ml): 0.1	NA
+	GSE80225	GSM2121219	s6	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep3	untreated	NA	bmp6 treatment (ng/ml): 0	NA
+	GSE80225	GSM2121220	s7	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep2	treated	NA	bmp6 treatment (ng/ml): 6	NA
+	GSE80225	GSM2121221	s8	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep4	untreated	NA	bmp6 treatment (ng/ml): 0	NA
+	GSE80225	GSM2121222	s9	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep5	untreated	NA	bmp6 treatment (ng/ml): 0	NA
+	GSE80225	GSM2121223	s10	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep6	untreated	NA	bmp6 treatment (ng/ml): 0	NA
+	GSE80225	GSM2121224	s11	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep1	treated	NA	bmp6 treatment (ng/ml): 150	NA
+	GSE80225	GSM2121225	s12	NA	tissue	salivary gland	NA	NA	cultured salivary gland cell line (HSG)	rep2	treated	NA	bmp6 treatment (ng/ml): 150	NA

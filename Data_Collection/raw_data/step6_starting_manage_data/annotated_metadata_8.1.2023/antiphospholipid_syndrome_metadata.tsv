@@ -1,0 +1,31 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	ethnicity	channel_count
+NA	GSE102215	GSM2730425	CON_57	healthy	blood	blood	58	F	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730426	CON_60	healthy	blood	blood	42	F	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730427	CON_61	healthy	blood	blood	27	F	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730428	CON_62	healthy	blood	blood	38	M	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730429	CON_63	healthy	blood	blood	52	M	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730430	CON_64	healthy	blood	blood	48	F	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730431	CON_65	healthy	blood	blood	55	F	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730432	CON_67	healthy	blood	blood	35	F	neutrophils	NA	NA	black	1
+NA	GSE102215	GSM2730433	CON_69	healthy	blood	blood	40	M	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730434	APS_12	primary antiphospholipid syndrome	blood	blood	45	F	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730435	APS_37	primary antiphospholipid syndrome	blood	blood	27	F	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730436	APS_38	primary antiphospholipid syndrome	blood	blood	57	F	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730437	APS_39	primary antiphospholipid syndrome	blood	blood	47	F	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730438	APS_42	primary antiphospholipid syndrome	blood	blood	42	M	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730439	APS_47	primary antiphospholipid syndrome	blood	blood	36	F	neutrophils	NA	NA	black	1
+NA	GSE102215	GSM2730440	APS_50	primary antiphospholipid syndrome	blood	blood	56	M	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730441	APS_51	primary antiphospholipid syndrome	blood	blood	57	F	neutrophils	NA	NA	white	1
+NA	GSE102215	GSM2730442	APS_6	primary antiphospholipid syndrome	blood	blood	35	M	neutrophils	NA	NA	white	1
+NA	GSE50395	GSM1218028	09NG467	primary antiphospholipid syndrome	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1
+NA	GSE50395	GSM1218029	09NG474	primary antiphospholipid syndrome	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1
+NA	GSE50395	GSM1218030	09NG477	primary antiphospholipid syndrome	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1
+NA	GSE50395	GSM1218031	09NG449	healthy	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1
+NA	GSE50395	GSM1218032	10NG209	healthy	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1
+NA	GSE50395	GSM1218033	10NG210	healthy	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1
+NA	GSE50395	GSM1218034	09NG464	primary antiphospholipid syndrome, systemic lupus erythematosus	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1
+NA	GSE50395	GSM1218035	09NG465	primary antiphospholipid syndrome, systemic lupus erythematosus	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1
+NA	GSE50395	GSM1218036	09NG475	primary antiphospholipid syndrome, systemic lupus erythematosus	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1
+NA	GSE50395	GSM1218037	09NG456	systemic lupus erythematosus	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1
+NA	GSE50395	GSM1218038	09NG476	systemic lupus erythematosus	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1
+NA	GSE50395	GSM1218039	10NG216	systemic lupus erythematosus	PBMCs	blood	NA	NA	monocytes	NA	NA	NA	1

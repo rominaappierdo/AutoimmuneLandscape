@@ -1,0 +1,5 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	channel_count
+NA	GSE183031	GSM5549903	Hu_HC01	healthy	tissue	single-cell RNA-seq, cheek skin	66	M	live CD45- CD31- Ecadherin- CD235a- stromal cells	NA	NA	1
+NA	GSE183031	GSM5549904	Hu_HC02	healthy	tissue	single-cell RNA-seq, forehead skin	67	M	live CD45- CD31- Ecadherin- CD235a- stromal cells	NA	NA	1
+NA	GSE183031	GSM5549905	Hu_HC03	healthy	tissue	single-cell RNA-seq, leg skin	64	M	live CD45- CD31- Ecadherin- CD235a- stromal cells	NA	NA	1
+NA	GSE183031	GSM5549906	Hu_EF01	eosinophilic_fasciitis	tissue	single-cell RNA-seq, forearm skin	52	F	live CD45- CD31- Ecadherin- CD235a- stromal cells	NA	NA	1

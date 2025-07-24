@@ -1,0 +1,155 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	other	superseries	channel_count
+NA	GSE150954	GSM4594224	T1	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594212	T1	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594225	T10	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594213	T10	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594226	T2	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594214	T2	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594223	T7	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594211	T7	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594221	T8	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594209	T8	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594222	T9	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594210	T9	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	NBUVB			1
+NA	GSE150954	GSM4594215	UT1	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	none			1
+NA	GSE150954	GSM4594203	UT1	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	none			1
+NA	GSE150954	GSM4594217	UT2	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	none			1
+NA	GSE150954	GSM4594205	UT2	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	none			1
+NA	GSE150954	GSM4594219	UT3	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	none			1
+NA	GSE150954	GSM4594207	UT3	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	none			1
+NA	GSE150954	GSM4594220	UT4	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	none			1
+NA	GSE150954	GSM4594208	UT4	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	none			1
+NA	GSE150954	GSM4594216	UT7	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	none			1
+NA	GSE150954	GSM4594204	UT7	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	none			1
+NA	GSE150954	GSM4594218	UT8	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	keratinocytes	NA	none			1
+NA	GSE150954	GSM4594206	UT8	vitiligo	tissue	hair follicle bulge outer root sheath	NA	NA	melanocytes	NA	none			1
+NA	GSE168325	GSM5136288	subj1	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE168325	GSM5136289	subj1	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE186928	GSM5663816	NP1	healthy	PBMCs	blood	19	M	NA	NA				1
+NA	GSE186928	GSM5663817	NP2	healthy	PBMCs	blood	29	F	NA	NA				1
+NA	GSE186928	GSM5663818	NP3	healthy	PBMCs	blood	25	M	NA	NA				1
+NA	GSE186928	GSM5663819	NP4	healthy	PBMCs	blood	30	M	NA	NA				1
+NA	GSE186928	GSM5663820	NP5	healthy	PBMCs	blood	28	F	NA	NA				1
+NA	GSE186928	GSM5663821	VP1	vitiligo (non-segmental)	PBMCs	blood	18	M	NA	NA				1
+NA	GSE186928	GSM5663822	VP2	vitiligo (non-segmental)	PBMCs	blood	31	F	NA	NA				1
+NA	GSE186928	GSM5663823	VP3	vitiligo (non-segmental)	PBMCs	blood	20	M	NA	NA				1
+NA	GSE186928	GSM5663824	VP4	vitiligo (non-segmental)	PBMCs	blood	32	M	NA	NA				1
+NA	GSE186928	GSM5663825	NP6	healthy	PBMCs	blood	19	M	NA	NA				1
+NA	GSE203262	GSM6165458	PtA	vitiligo	tissue	single-cell RNA-seq, skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE203262	GSM6165459	PtA	vitiligo	tissue	single-cell RNA-seq, skin (lesional)	NA	NA	NA	NA				1
+NA	GSE203262	GSM6165460	PtC	vitiligo	tissue	single-cell RNA-seq, skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE203262	GSM6165461	PtC	vitiligo	tissue	single-cell RNA-seq, skin (lesional)	NA	NA	NA	NA				1
+NA	GSE203262	GSM6165462	PtD	vitiligo	tissue	single-cell RNA-seq, skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE203262	GSM6165463	PtD	vitiligo	tissue	single-cell RNA-seq, skin (lesional)	NA	NA	NA	NA				1
+NA	GSE203262	GSM6165464	PtE	vitiligo	tissue	single-cell RNA-seq, skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE203262	GSM6165465	PtE	vitiligo	tissue	single-cell RNA-seq, skin (lesional)	NA	NA	NA	NA				1
+NA	GSE203262	GSM6165466	PtF	vitiligo	tissue	single-cell RNA-seq, skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE203262	GSM6165467	PtF	vitiligo	tissue	single-cell RNA-seq, skin (lesional)	NA	NA	NA	NA				1
+NA	GSE203262	GSM6165468	PtG	vitiligo	tissue	single-cell RNA-seq, skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE203262	GSM6165469	PtG	vitiligo	tissue	single-cell RNA-seq, skin (lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587710	S01	healthy	tissue	skin	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587711	S02	healthy	tissue	skin	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587712	S03	healthy	tissue	skin	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587713	S04	healthy	tissue	skin	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587714	S05	healthy	tissue	skin	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587718	S06	healthy	tissue	skin	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587709	S07	healthy	tissue	skin	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587715	S08	healthy	tissue	skin	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587716	S09	healthy	tissue	skin	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587717	S10	healthy	tissue	skin	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587719	S11	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587729	S11	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587739	S11	vitiligo	tissue	skin (peri-lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587720	S12	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587730	S12	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587740	S12	vitiligo	tissue	skin (peri-lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587721	S13	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587731	S13	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587741	S13	vitiligo	tissue	skin (peri-lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587722	S14	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587732	S14	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587742	S14	vitiligo	tissue	skin (peri-lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587723	S15	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587733	S15	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587743	S15	vitiligo	tissue	skin (peri-lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587724	S16	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587734	S16	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587744	S16	vitiligo	tissue	skin (peri-lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587725	S17	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587735	S17	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587745	S17	vitiligo	tissue	skin (peri-lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587726	S18	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587736	S18	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587746	S18	vitiligo	tissue	skin (peri-lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587727	S19	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587737	S19	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587747	S19	vitiligo	tissue	skin (peri-lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587728	S20	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587738	S20	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE65127	GSM1587748	S20	vitiligo	tissue	skin (peri-lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968434	VD13	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968435	VD13	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968436	VD18	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968437	VD18	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968438	VD19	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968439	VD19	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968440	VD20	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968441	VD20	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968442	VD23	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968443	VD23	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968444	VD24	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968445	VD24	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968446	VD22	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968447	VD22	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968448	VD32	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968449	VD32	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968450	VD33	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968451	VD33	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968452	VD37	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968453	VD37	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968454	VD39	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968455	VD39	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968456	VD38	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968457	VD38	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968458	VD40	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968459	VD40	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968460	VD44	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968461	VD44	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968462	VD49	vitiligo	tissue	skin (non lesional)	NA	NA	NA	NA				1
+NA	GSE75819	GSM1968463	VD49	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA				1
+NA	GSE80009	GSM2110244	X001	vitiligo (generalized)	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE80009	GSM2110245	X002	vitiligo (generalized)	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE80009	GSM2110246	X003	vitiligo (generalized)	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE80009	GSM2110247	X004	vitiligo (generalized)	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE80009	GSM2110248	J005	vitiligo (segmental)	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE80009	GSM2110249	J006	vitiligo (segmental)	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE80009	GSM2110250	J007	vitiligo (segmental)	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE80009	GSM2110251	J008	vitiligo (segmental)	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE80009	GSM2110252	Z009	healthy	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE80009	GSM2110253	Z010	healthy	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE80009	GSM2110254	Z011	healthy	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE80009	GSM2110255	Z012	healthy	PBMCs	blood	NA	NA	leukocytes	NA		pooled samples from same patient		1
+NA	GSE90880	GSM2416905	Control 1	healthy	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416906	Control 2	healthy	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416907	Control 3	healthy	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416908	Control 4	healthy	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416909	Control 5	healthy	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416910	Control 6	healthy	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416911	Vitiligo 1	vitiligo (non-segmental)	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416912	Vitiligo 2	vitiligo (non-segmental)	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416914	Vitiligo 3	vitiligo (non-segmental)	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416915	Vitiligo 4	vitiligo (non-segmental)	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416916	Vitiligo 5	vitiligo (non-segmental)	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416917	Vitiligo 6	vitiligo (non-segmental)	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416918	Vitiligo 7	vitiligo (non-segmental)	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE90880	GSM2416913	Vitiligo 8	vitiligo (non-segmental)	PBMCs	blood	NA	NA	NA	NA				1
+NA	GSE53146	GSM1283004	control_7	healthy	tissue	skin	NA	NA	NA	NA			GSE53148	1
+NA	GSE53146	GSM1283005	control_8	healthy	tissue	skin	NA	NA	NA	NA			GSE53148	1
+NA	GSE53146	GSM1283006	control_9	healthy	tissue	skin	NA	NA	NA	NA			GSE53148	1
+NA	GSE53146	GSM1283007	control_10	healthy	tissue	skin	NA	NA	NA	NA			GSE53148	1
+NA	GSE53146	GSM1283008	control_11	healthy	tissue	skin	NA	NA	NA	NA			GSE53148	1
+NA	GSE53146	GSM1283009	patient_1	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA			GSE53148	1
+NA	GSE53146	GSM1283010	patient_2	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA			GSE53148	1
+NA	GSE53146	GSM1283011	patient_3	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA			GSE53148	1
+NA	GSE53146	GSM1283012	patient_4	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA			GSE53148	1
+NA	GSE53146	GSM1283013	patient_5	vitiligo	tissue	skin (lesional)	NA	NA	NA	NA			GSE53148	1

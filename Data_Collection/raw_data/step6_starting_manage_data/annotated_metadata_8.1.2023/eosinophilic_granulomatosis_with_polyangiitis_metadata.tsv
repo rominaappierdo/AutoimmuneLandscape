@@ -1,0 +1,8 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	channel_count
+NA	GSE144302	GSM4285430	CE7	eosinophilic granulomatosis with polyangiitis	tissue	lung	NA	NA	NA	NA	NA	1
+NA	GSE144302	GSM4285431	CE23.2	eosinophilic granulomatosis with polyangiitis	tissue	lung	NA	NA	NA	NA	NA	1
+NA	GSE144302	GSM4285432	CE24.2	eosinophilic granulomatosis with polyangiitis	tissue	lung	NA	NA	NA	NA	NA	1
+NA	GSE144302	GSM4285433	CE20.2	healthy	tissue	lung	NA	NA	NA	NA	NA	1
+NA	GSE144302	GSM4285434	CE21.2	healthy	tissue	lung	NA	NA	NA	NA	NA	1
+NA	GSE144302	GSM4285435	CE27	healthy	tissue	lung	NA	NA	NA	NA	NA	1
+NA	GSE144302	GSM4285436	CE28	healthy	tissue	lung	NA	NA	NA	NA	NA	1

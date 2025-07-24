@@ -1,0 +1,455 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	ethnicity	smoking_status	other	channel_count
+x	GSE105149	GSM2823303	GPA 1	granulomatosis with polyangiitis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823304	GPA 2	granulomatosis with polyangiitis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823305	GPA 3	granulomatosis with polyangiitis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823306	Normal 1	healthy	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823307	Normal 3	healthy	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823308	Normal 4	healthy	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823309	Normal 6	healthy	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823310	Normal 2	healthy	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823311	Normal 5	healthy	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823312	Normal 7	healthy	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823313	NSOI 10	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823314	NSOI 11	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823315	NSOI 12	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823316	NSOI 14	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823317	NSOI 15	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823318	NSOI 16	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823319	NSOI 17	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823320	NSOI 18	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823321	NSOI 19	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823322	NSOI 1	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823323	NSOI 20	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823324	NSOI 21	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823325	NSOI 24	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823326	NSOI 26	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823327	NSOI 2	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823328	NSOI 6	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823329	NSOI 7	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823330	NSOI 8	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823331	NSOI 13	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823332	NSOI 22	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823333	NSOI 23	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823334	NSOI 25	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823335	NSOI 27	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823336	NSOI 3	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823337	NSOI 4	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823338	NSOI 5	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823339	NSOI 9	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823340	Sarcoidosis 28	sarcoidosis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823341	Sarcoidosis 29	sarcoidosis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823342	Sarcoidosis 30  block A	sarcoidosis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823343	Sarcoidosis 30  block D	sarcoidosis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823344	Sarcoidosis 33	sarcoidosis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823345	Sarcoidosis 34	sarcoidosis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823346	Sarcoidosis 31	sarcoidosis	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823347	Sarcoidosis 32	sarcoidosis	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823348	TED 1	graves disease	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823349	TED 2	graves disease	tissue	lacrimal gland	NA	F	NA						1
+x	GSE105149	GSM2823350	TED 3	graves disease	tissue	lacrimal gland	NA	M	NA						1
+x	GSE105149	GSM2823351	TED 4	graves disease	tissue	lacrimal gland	NA	M	NA						1
+	GSE119136	GSM3359427	N1001	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	31	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359428	N1002	healthy	tissue	nasal brushings	27	M	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359444	N1003	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	63	F	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359411	N1004	granulomatosis with polyangiitis (active nasal disease)	tissue	nasal brushings	62	F	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359417	N1006	allergic rhinitis	tissue	nasal brushings	52	M	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359412	N1007	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	43	M	NA		none	white	Former	additional informations	1
+	GSE119136	GSM3359418	N1009	healthy	tissue	nasal brushings	61	F	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359419	N1011	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	54	M	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359420	N1012	allergic rhinitis	tissue	nasal brushings	52	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359429	N1013	granulomatosis with polyangiitis (no history of nasal disease)	tissue	nasal brushings	61	M	NA		steroids	white	Current	additional informations	1
+	GSE119136	GSM3359421	N1014	healthy	tissue	nasal brushings	59	F	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359422	N1015	granulomatosis with polyangiitis (active nasal disease)	tissue	nasal brushings	19	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359430	N1016	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	51	M	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359413	N1017	granulomatosis with polyangiitis (no history of nasal disease)	tissue	nasal brushings	64	F	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359423	N1018	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	72	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359431	N1019	healthy	tissue	nasal brushings	76	M	NA		none	white	Former	additional informations	1
+	GSE119136	GSM3359424	N1021	granulomatosis with polyangiitis (no history of nasal disease)	tissue	nasal brushings	54	M	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359432	N1024	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	67	M	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359414	N1025	healthy	tissue	nasal brushings	67	F	NA		none	white	Former	additional informations	1
+	GSE119136	GSM3359425	N1026	granulomatosis with polyangiitis (no history of nasal disease)	tissue	nasal brushings	78	F	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359433	N1027	sarcoidosis	tissue	nasal brushings	69	M	NA		none	white	Former	additional informations	1
+	GSE119136	GSM3359434	N1028	sarcoidosis	tissue	nasal brushings	40	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359426	N1029	sarcoidosis	tissue	nasal brushings	51	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359415	N1030	sarcoidosis	tissue	nasal brushings	63	F	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359435	N1031	granulomatosis with polyangiitis (no history of nasal disease)	tissue	nasal brushings	44	F	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359436	N1032	healthy	tissue	nasal brushings	47	M	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359416	N1033	sarcoidosis	tissue	nasal brushings	67	M	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359437	N1034	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	48	M	NA		none	white	Current	additional informations	1
+	GSE119136	GSM3359438	N1036	allergic rhinitis	tissue	nasal brushings	39	M	NA		steroids	asian	Never	additional informations	1
+	GSE119136	GSM3359439	N1037	sarcoidosis	tissue	nasal brushings	44	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359440	N1038	allergic rhinitis	tissue	nasal brushings	18	F	NA		steroids	black	Never	additional informations	1
+	GSE119136	GSM3359441	N1040	granulomatosis with polyangiitis (active nasal disease)	tissue	nasal brushings	32	F	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359442	N1041	granulomatosis with polyangiitis (active nasal disease)	tissue	nasal brushings	56	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359445	N1042A	granulomatosis with polyangiitis (active nasal disease)	tissue	nasal brushings	42	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359446	N1043B	healthy	tissue	nasal brushings	38	F	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359447	N1044B	granulomatosis with polyangiitis (active nasal disease)	tissue	nasal brushings	40	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359448	N1048B	granulomatosis with polyangiitis (active nasal disease)	tissue	nasal brushings	63	M	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359449	N1050A	granulomatosis with polyangiitis (active nasal disease)	tissue	nasal brushings	44	F	NA		steroids	arabic	Never	additional informations	1
+	GSE119136	GSM3359450	N1052A	granulomatosis with polyangiitis (no history of nasal disease)	tissue	nasal brushings	69	F	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359451	N1053B	granulomatosis with polyangiitis (no history of nasal disease)	tissue	nasal brushings	48	M	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359452	N1055B	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	47	F	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359453	N1057A	granulomatosis with polyangiitis (no history of nasal disease)	tissue	nasal brushings	75	F	NA		none	white	Former	additional informations	1
+	GSE119136	GSM3359454	N1058	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	29	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359455	N1060	granulomatosis with polyangiitis (no history of nasal disease)	tissue	nasal brushings	58	M	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359456	N1061	granulomatosis with polyangiitis (active nasal disease)	tissue	nasal brushings	55	F	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359457	N1064	healthy	tissue	nasal brushings	57	M	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359458	N1066	healthy	tissue	nasal brushings	71	M	NA		none	white	Former	additional informations	1
+	GSE119136	GSM3359459	N1068	sarcoidosis	tissue	nasal brushings	51	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359460	N1069	sarcoidosis	tissue	nasal brushings	51	F	NA		steroids	black	Never	additional informations	1
+	GSE119136	GSM3359461	N1070	sarcoidosis	tissue	nasal brushings	43	M	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359462	N1073	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	56	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359463	N1074	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	71	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359464	N1081	healthy	tissue	nasal brushings	62	F	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359465	N1082	sarcoidosis	tissue	nasal brushings	45	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359466	N1086	allergic rhinitis	tissue	nasal brushings	41	M	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359467	N1087	sarcoidosis	tissue	nasal brushings	51	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359468	N1088	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	23	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359469	N1091	granulomatosis with polyangiitis (prior nasal disease)	tissue	nasal brushings	64	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359470	N1092	healthy	tissue	nasal brushings	59	F	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359443	N1093	sarcoidosis	tissue	nasal brushings	28	M	NA		none	white	Former	additional informations	1
+	GSE119136	GSM3359471	N1094	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	63	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359472	N1095	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	52	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359473	N1096	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	64	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359474	N1097	healthy	tissue	nasal brushings	66	M	NA		none	white	Never	additional informations	1
+	GSE119136	GSM3359475	N1098	sarcoidosis	tissue	nasal brushings	59	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359476	N1099	sarcoidosis	tissue	nasal brushings	53	M	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359477	N1100	granulomatosis with polyangiitis (active nasal disease)	tissue	nasal brushings	43	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359478	N1101	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	68	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359479	N1102	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	68	M	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359480	N1103	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	42	M	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359481	N1104	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	50	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359482	N1105	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	28	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359483	N1106	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	73	F	NA		steroids	white	Former	additional informations	1
+	GSE119136	GSM3359484	N1107	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	70	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359485	N1108	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	56	F	NA		steroids	white	Never	additional informations	1
+	GSE119136	GSM3359486	N1110	eosinophilic granulomatosis with polyangiitis	tissue	nasal brushings	38	M	NA		steroids	asian	Never	additional informations	1
+	GSE144302	GSM4285430	CE7	eosinophilic granulomatosis with polyangiitis	tissue	lung	NA	NA	NA						1
+	GSE144302	GSM4285431	CE23.2	eosinophilic granulomatosis with polyangiitis	tissue	lung	NA	NA	NA						1
+	GSE144302	GSM4285432	CE24.2	eosinophilic granulomatosis with polyangiitis	tissue	lung	NA	NA	NA						1
+	GSE144302	GSM4285433	CE20.2	healthy	tissue	lung	NA	NA	NA						1
+	GSE144302	GSM4285434	CE21.2	healthy	tissue	lung	NA	NA	NA						1
+	GSE144302	GSM4285435	CE27	healthy	tissue	lung	NA	NA	NA						1
+	GSE144302	GSM4285436	CE28	healthy	tissue	lung	NA	NA	NA						1
+	GSE184898	GSM5599962	GPA1	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h					1
+	GSE184898	GSM5599963	GPA1	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h	TCR				1
+	GSE184898	GSM5599964	GPA2	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h					1
+	GSE184898	GSM5599965	GPA2	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h	TCR				1
+	GSE184898	GSM5599966	GPA3	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h					1
+	GSE184898	GSM5599967	GPA3	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h	TCR				1
+	GSE184898	GSM5599968	GPA4	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h					1
+	GSE184898	GSM5599969	GPA4	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h	TCR				1
+	GSE184898	GSM5599970	GPA5	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h					1
+	GSE184898	GSM5599971	GPA6	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h					1
+	GSE184898	GSM5599972	GPA5	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h	TCR				1
+	GSE184898	GSM5599973	GPA6	granulomatosis with polyangiitis	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h	TCR				1
+	GSE184898	GSM5599974	HC2	healthy	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h					1
+	GSE184898	GSM5599975	HC2	healthy	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h	TCR				1
+	GSE184898	GSM5599976	HC3	healthy	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h					1
+	GSE184898	GSM5599977	HC3	healthy	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h	TCR				1
+	GSE184898	GSM5599978	HC4	healthy	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h					1
+	GSE184898	GSM5599979	HC4	healthy	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h	TCR				1
+	GSE184898	GSM5599980	HC5	healthy	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h					1
+	GSE184898	GSM5599981	HC5	healthy	PBMCs	blood	NA	NA	cultured naive CD4+ T cells	2h	TCR				1
+	GSE18885	GSM468054	SAMPLE 2	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468055	SAMPLE 3	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468057	SAMPLE 5	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468059	SAMPLE 7	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468060	SAMPLE 8	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468061	SAMPLE 9	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468062	SAMPLE 10	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468063	SAMPLE 11	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468064	SAMPLE 12	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468065	SAMPLE 13	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468066	SAMPLE 14	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468067	SAMPLE 15	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468068	SAMPLE 16	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468069	SAMPLE 17	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468070	SAMPLE 18	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468072	SAMPLE 20	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468073	SAMPLE 21	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468074	SAMPLE 22	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468075	SAMPLE 23	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468076	SAMPLE 24	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468077	SAMPLE 25	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468078	SAMPLE 26	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468079	SAMPLE 27	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468080	SAMPLE 28	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468081	SAMPLE 29	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468082	SAMPLE 30	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468083	SAMPLE 31	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468084	SAMPLE 32	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468085	SAMPLE 33	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468086	SAMPLE 34	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468087	SAMPLE 35	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468088	SAMPLE 36	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468089	SAMPLE 37	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468090	SAMPLE 38	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468091	SAMPLE 39	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468092	SAMPLE 40	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468093	SAMPLE 41	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468095	SAMPLE 43	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468096	SAMPLE 44	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468097	SAMPLE 45	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468098	SAMPLE 46	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468099	SAMPLE 47	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468100	SAMPLE 48	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468101	SAMPLE 49	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468102	SAMPLE 50	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468103	SAMPLE 51	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468104	SAMPLE 52	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468105	SAMPLE 53	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468106	SAMPLE 54	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468107	SAMPLE 55	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468109	SAMPLE 57	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468110	SAMPLE 58	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468111	SAMPLE 59	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468112	SAMPLE 60	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468113	SAMPLE 61	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468114	SAMPLE 62	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468115	SAMPLE 63	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468116	SAMPLE 64	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468117	SAMPLE 1	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468119	SAMPLE 3	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468120	SAMPLE 4	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468121	SAMPLE 5	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468123	SAMPLE 7	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468125	SAMPLE 9	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468126	SAMPLE 10	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468127	SAMPLE 11	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468128	SAMPLE 12	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468129	SAMPLE 13	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468130	SAMPLE 14	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468131	SAMPLE 15	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468132	SAMPLE 16	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468133	SAMPLE 17	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468134	SAMPLE 18	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468135	SAMPLE 19	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468137	SAMPLE 21	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468138	SAMPLE 22	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468139	SAMPLE 23	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468140	SAMPLE 24	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468141	SAMPLE 25	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468142	SAMPLE 26	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468143	SAMPLE 27	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468144	SAMPLE 28	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468145	SAMPLE 29	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468146	SAMPLE 30	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468147	SAMPLE 31	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468148	SAMPLE 32	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468149	SAMPLE 33	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468150	SAMPLE 34	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468151	SAMPLE 36	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468152	SAMPLE 37	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468153	SAMPLE 38	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468154	SAMPLE 39	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468155	SAMPLE 40	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468156	SAMPLE 41	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468157	SAMPLE 42	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468158	SAMPLE 43	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468159	SAMPLE 44	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468160	SAMPLE 45	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468161	SAMPLE 46	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468162	SAMPLE 47	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468163	SAMPLE 48	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468164	SAMPLE 49	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468165	SAMPLE 50	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468166	SAMPLE 51	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468167	SAMPLE 52	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468168	SAMPLE 53	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468169	SAMPLE 54	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468170	SAMPLE 55	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468171	SAMPLE 56	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468172	SAMPLE 57	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468174	SAMPLE 59	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468175	SAMPLE 60	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468176	SAMPLE 61	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468177	SAMPLE 62	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468178	SAMPLE 63	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468179	SAMPLE 64	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468053	SAMPLE 1	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468056	SAMPLE 4	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468058	SAMPLE 6	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468071	SAMPLE 19	healthy	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468094	SAMPLE 42	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468108	SAMPLE 56	wegener's granulomatosis	PBMCs	blood	NA	NA	PBMCs						1
+	GSE18885	GSM468118	SAMPLE 2	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468122	SAMPLE 6	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468124	SAMPLE 8	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468136	SAMPLE 20	healthy	PMNs	blood	NA	NA	PMNs						1
+	GSE18885	GSM468173	SAMPLE 58	wegener's granulomatosis	PMNs	blood	NA	NA	PMNs						1
+x	GSE58331	GSM1407182	2AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407183	2BGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407184	3AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407185	4.2AGr	graves disease	tissue	anterior orbit	NA	F	NA	rep2					1
+x	GSE58331	GSM1407186	5AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407187	6AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407188	7AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407189	8AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407190	9AGr	graves disease	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407191	10AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407192	11AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407193	12AGr	graves disease	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407194	13AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407195	14.1AGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep1					1
+x	GSE58331	GSM1407196	14.2AGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep2					1
+x	GSE58331	GSM1407197	15AGr	graves disease	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407198	16AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407199	17.1AGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep1					1
+x	GSE58331	GSM1407200	17.2AGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep2					1
+x	GSE58331	GSM1407201	18AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407202	19AGr	graves disease	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407203	19.1BGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep1					1
+x	GSE58331	GSM1407204	19.2BGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep2					1
+x	GSE58331	GSM1407205	20AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407206	21AGr	graves disease	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407207	22AGr	graves disease	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407208	22BGr	graves disease	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407209	23AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407210	24AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407211	25AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407212	26AGr	graves disease	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407213	26.1BGr	graves disease	tissue	anterior orbit	NA	F	NA	rep1					1
+x	GSE58331	GSM1407214	26.2BGr	graves disease	tissue	anterior orbit	NA	F	NA	rep2					1
+x	GSE58331	GSM1407215	28.1AGr	graves disease	tissue	anterior orbit	NA	F	NA	rep1					1
+x	GSE58331	GSM1407216	28.2AGr	graves disease	tissue	anterior orbit	NA	M	NA	rep2					1
+x	GSE58331	GSM1407217	1ALy	lymphoma	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407218	1ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407219	2ANo	healthy	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407220	3ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407221	4BNo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407222	5ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407223	6ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407224	7ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407225	8ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407226	9ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407227	10ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407228	11ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407229	12ANo	healthy	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407230	13ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407231	14.1ANo	healthy	tissue	anterior orbit	NA	F	NA	rep1					1
+x	GSE58331	GSM1407232	14.2ANo	healthy	tissue	anterior orbit	NA	F	NA	rep2					1
+x	GSE58331	GSM1407233	15ANo	healthy	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407234	16ANo	healthy	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407235	17ANo	healthy	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407236	18ANo	healthy	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407237	19ANo	healthy	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407238	20ANo	healthy	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407239	21ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407240	22ANo	healthy	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407241	23ANo	healthy	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407242	24ANo	healthy	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407243	25ANo	healthy	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407244	26ANo	healthy	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407245	27ANo	healthy	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407246	28ANo	healthy	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407247	1ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407248	2ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407249	3ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407250	5ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407251	6ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407252	7ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407253	8.1ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep1					1
+x	GSE58331	GSM1407254	8.2ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep2					1
+x	GSE58331	GSM1407255	8.1BNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep1					1
+x	GSE58331	GSM1407256	8.2BNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep2					1
+x	GSE58331	GSM1407257	9ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407258	10BNS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407259	10CNS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407260	11.1ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep1					1
+x	GSE58331	GSM1407261	11.2ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep2					1
+x	GSE58331	GSM1407262	12ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407263	12.1CNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep1					1
+x	GSE58331	GSM1407264	12.2CNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep2					1
+x	GSE58331	GSM1407265	13ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407266	14ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407267	15.1ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep1					1
+x	GSE58331	GSM1407268	15.2ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep2					1
+x	GSE58331	GSM1407269	15DNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407270	16ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407271	17ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407272	18ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407273	18BNS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407274	19ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407275	19BNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407276	20ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407277	21ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407278	22ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407279	23.1ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep1					1
+x	GSE58331	GSM1407280	23.2ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep2					1
+x	GSE58331	GSM1407281	24BNS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407282	25ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407283	26ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407284	27ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407285	28ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407286	29ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407287	29BNS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407288	30ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407289	30BNS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407290	31ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407291	32ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407292	33ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407293	33BNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407294	34ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407295	35ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407296	36ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407297	37ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407298	38ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407299	39ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407300	40.1ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep1					1
+x	GSE58331	GSM1407301	40.2ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep2					1
+x	GSE58331	GSM1407302	41ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407303	42ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407304	43ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407305	45ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407306	46ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407307	47ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407308	48ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407309	49ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407310	50ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407311	51ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407312	52ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407313	53ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407314	54ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407315	55ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407316	56ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407317	57ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407318	58ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407319	59ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407320	60ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407321	61ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA						1
+x	GSE58331	GSM1407322	1ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407323	2.1ASa	sarcoidosis	tissue	anterior orbit	NA	F	NA	rep1					1
+x	GSE58331	GSM1407324	2.2ASa	sarcoidosis	tissue	anterior orbit	NA	F	NA	rep2					1
+x	GSE58331	GSM1407325	3.1ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep1					1
+x	GSE58331	GSM1407326	3.2ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep2					1
+x	GSE58331	GSM1407327	3BSa	sarcoidosis	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407328	3CSa	sarcoidosis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407329	3DSa	sarcoidosis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407330	4.1ASa	sarcoidosis	tissue	lacrimal gland	NA	M	NA	rep1					1
+x	GSE58331	GSM1407331	4.2ASa	sarcoidosis	tissue	lacrimal gland	NA	M	NA	rep2					1
+x	GSE58331	GSM1407332	5ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407333	6ASa	sarcoidosis	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407334	7ASa	sarcoidosis	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407335	8.1ASa	sarcoidosis	tissue	lacrimal gland	NA	M	NA	rep1					1
+x	GSE58331	GSM1407336	8.2ASa	sarcoidosis	tissue	lacrimal gland	NA	M	NA	rep2					1
+x	GSE58331	GSM1407337	9ASa	sarcoidosis	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407338	10ASa	sarcoidosis	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407339	11.1ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep1					1
+x	GSE58331	GSM1407340	11.2ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep2					1
+x	GSE58331	GSM1407341	12.1ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep1					1
+x	GSE58331	GSM1407342	12.2ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep2					1
+x	GSE58331	GSM1407343	13ASa	sarcoidosis	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407344	1.1AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep1					1
+x	GSE58331	GSM1407345	1.2AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep2					NA
+x	GSE58331	GSM1407346	2AWe	granulomatosis with polyangiitis	tissue	lacrimal gland	NA	F	NA						1
+x	GSE58331	GSM1407347	3AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	M	NA						1
+x	GSE58331	GSM1407348	4.1AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	M	NA	rep1					1
+x	GSE58331	GSM1407349	4.2AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	M	NA	rep2					1
+x	GSE58331	GSM1407350	5.1AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep1					1
+x	GSE58331	GSM1407351	5.2AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep2					1
+x	GSE58331	GSM1407352	6AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407353	7.1AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep1					1
+x	GSE58331	GSM1407354	7.2AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep2					1
+x	GSE58331	GSM1407355	1AXa	xanthogranuloma	tissue	anterior orbit	NA	F	NA						1
+x	GSE58331	GSM1407356	2AXa	xanthogranuloma	tissue	lacrimal gland	NA	F	NA						1

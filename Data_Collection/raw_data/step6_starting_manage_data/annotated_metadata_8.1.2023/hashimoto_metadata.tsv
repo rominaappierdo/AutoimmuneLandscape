@@ -1,0 +1,108 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	channel_count
+NA	GSE138198	GSM4101749	subj_1	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101750	subj_2	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101751	subj_3	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101752	subj_4	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101753	subj_5	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101754	subj_6	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101755	subj_7	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101756	subj_8	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101757	subj_9	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101758	subj_10	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101759	subj_11	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101760	subj_12	hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101761	subj_13	hashimoto's thyroiditis	tissue	NA	NA	M	NA	NA	NA	1
+NA	GSE138198	GSM4101762	subj_14	papillary thyroid carcinoma, hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101763	subj_15	papillary thyroid carcinoma, hashimoto's thyroiditis	tissue	NA	NA	M	NA	NA	NA	1
+NA	GSE138198	GSM4101764	subj_16	papillary thyroid carcinoma, hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101765	subj_17	papillary thyroid carcinoma, hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101766	subj_18	papillary thyroid carcinoma, hashimoto's thyroiditis	tissue	NA	NA	M	NA	NA	NA	1
+NA	GSE138198	GSM4101767	subj_19	papillary thyroid carcinoma, hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101768	subj_20	papillary thyroid carcinoma, hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101769	subj_21	papillary thyroid carcinoma, hashimoto's thyroiditis	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101770	subj_22	papillary thyroid carcinoma	tissue	NA	NA	M	NA	NA	NA	1
+NA	GSE138198	GSM4101771	subj_23	papillary thyroid carcinoma	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101772	subj_24	papillary thyroid carcinoma	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101773	subj_25	papillary thyroid carcinoma	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101774	subj_26	papillary thyroid carcinoma	tissue	NA	NA	M	NA	NA	NA	1
+NA	GSE138198	GSM4101775	subj_27	papillary thyroid carcinoma	tissue	NA	NA	M	NA	NA	NA	1
+NA	GSE138198	GSM4101776	subj_28	micro papillary thyroid carcinoma	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101777	subj_29	micro papillary thyroid carcinoma	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101778	subj_30	micro papillary thyroid carcinoma	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101779	subj_31	micro papillary thyroid carcinoma	tissue	NA	NA	M	NA	NA	NA	1
+NA	GSE138198	GSM4101780	subj_32	micro papillary thyroid carcinoma	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101781	subj_33	micro papillary thyroid carcinoma	tissue	NA	NA	F	NA	NA	NA	1
+NA	GSE138198	GSM4101782	control_1	healthy	tissue	NA	NA	NA	NA	NA	NA	1
+NA	GSE138198	GSM4101783	control_2	healthy	tissue	NA	NA	NA	NA	NA	NA	1
+NA	GSE138198	GSM4101784	control_3	healthy	tissue	NA	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724450	FA001	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724451	FA002	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724452	FA003	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724453	FA004	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724454	FA005	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724455	FA006	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724456	FA007	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724457	FA008	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724458	FA009	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724459	FA010	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724460	FA011	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724461	FA012	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724462	FA013	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724463	FA014	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724464	FA015	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724465	FA016	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724466	FA017	follicular adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724467	FTC001	follicular thyroid carcinoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724468	FTC002	follicular thyroid carcinoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724469	FTC003	follicular thyroid carcinoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724470	FTC004	follicular thyroid carcinoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724471	FTC005	follicular thyroid carcinoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724472	FTC008	follicular thyroid carcinoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724473	FTC009	follicular thyroid carcinoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724474	FVPTC008	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724475	FVPTC009	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724476	FVPTC001	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724477	FVPTC002	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724478	FVPTC003	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724479	FVPTC004	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724480	FVPTC005	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724481	FVPTC006	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724482	FVPTC007	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724483	FVPTC010	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724484	FVPTC011	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724485	FVPTC012	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724486	FVPTC013	papillary thyroid carcinoma (follicular variant)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724487	Ftc006	thyroid carcinoma (follicular)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724488	Ftc007	thyroid carcinoma (follicular)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724489	HS001	hashimoto's thyroiditis	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724490	HS002	hashimoto's thyroiditis	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724491	HS003	hashimoto's thyroiditis	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724492	HS004	hashimoto's thyroiditis	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724493	HS005	hashimoto's thyroiditis	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724494	HS006	hashimoto's thyroiditis	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724495	HYP001	hyperplasia	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724496	HYP002	hyperplasia	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724497	HYP005	hyperplasia	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724498	HYP006	hyperplasia	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724499	HYP007	hyperplasia	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724500	HYP008	hyperplasia	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724501	HYP009	hyperplasia	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724502	HYP010	hyperplasia	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724503	Hurthle001	hurthle cell adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724504	Hurthle002	hurthle cell adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724505	Hurthle007	hurthle cell adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724506	Hurthle008	hurthle cell adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724507	Hurthle009	hurthle cell adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724508	Hurthle010	hurthle cell adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724509	Hurthle011	hurthle cell adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724510	Hurthle012	hurthle cell adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724511	Hurthle013	hurthle cell adenoma	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724512	PTC004	thyroid carcinoma (papillary)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724513	PTC005	thyroid carcinoma (papillary)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724514	PTC006	thyroid carcinoma (papillary)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724515	PTC007	thyroid carcinoma (papillary)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724516	PTC008	thyroid carcinoma (papillary)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724517	PTC009	thyroid carcinoma (papillary)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724518	PTC010	thyroid carcinoma (papillary)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724519	PTC011	thyroid carcinoma (papillary)	tissue	thyroid	NA	NA	NA	NA	NA	1
+NA	GSE29315	GSM724520	Ptc003	thyroid carcinoma (papillary)	tissue	thyroid	NA	NA	NA	NA	NA	1

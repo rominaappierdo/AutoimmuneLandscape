@@ -1,0 +1,119 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	other	channel_count
+NA	GSE198533	GSM5951802	BDV1	behcet's disease	PBMCs	blood	46	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951803	BDV2	behcet's disease	PBMCs	blood	24	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951804	BDV3	behcet's disease	PBMCs	blood	42	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951805	BDV4	behcet's disease	PBMCs	blood	31	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951806	BDV5	behcet's disease	PBMCs	blood	58	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951807	BDV6	behcet's disease	PBMCs	blood	41	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951808	BDU1	behcet's disease	PBMCs	blood	24	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951809	BDU2	behcet's disease	PBMCs	blood	30	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951810	BDU3	behcet's disease	PBMCs	blood	25	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951811	HC1	healthy	PBMCs	blood	18	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951812	HC2	healthy	PBMCs	blood	47	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951813	HC3	healthy	PBMCs	blood	18	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951814	HC4	healthy	PBMCs	blood	53	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951815	HC5	healthy	PBMCs	blood	58	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951816	HC6	healthy	PBMCs	blood	18	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951817	HC7	healthy	PBMCs	blood	41	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951818	HC8	healthy	PBMCs	blood	36	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951819	HC9	healthy	PBMCs	blood	36	M	NA	NA	NA	NA	1
+NA	GSE198533	GSM5951820	HC10	healthy	PBMCs	blood	48	M	NA	NA	NA	NA	1
+NA	GSE198616	GSM5953759	BD_1	behcet's disease	PBMCs	single-cell RNA-seq, blood	35	F	CD14+ monocyte	NA	NA	NA	1
+NA	GSE198616	GSM5953760	BD_2	behcet's disease	PBMCs	single-cell RNA-seq, blood	67	F	CD14+ monocyte	NA	NA	NA	1
+NA	GSE198616	GSM5953763	HC_1	healthy	PBMCs	single-cell RNA-seq, blood	44	F	CD14+ monocyte	NA	NA	NA	1
+NA	GSE198616	GSM5953764	HC_2	healthy	PBMCs	single-cell RNA-seq, blood	66	F	CD14+ monocyte	NA	NA	NA	1
+NA	GSE198616	GSM5953765	HC_3	healthy	PBMCs	single-cell RNA-seq, blood	31	F	CD14+ monocyte	NA	NA	NA	1
+NA	GSE198616	GSM5953761	BD_3	behcet's disease	PBMCs	single-cell RNA-seq, blood	31	M	CD14+ monocyte	NA	NA	NA	1
+NA	GSE198616	GSM5953762	BD_4	behcet's disease	PBMCs	single-cell RNA-seq, blood	45	M	CD14+ monocyte	NA	NA	NA	1
+NA	GSE198616	GSM5953766	HC_4	healthy	PBMCs	single-cell RNA-seq, blood	35	M	CD14+ monocyte	NA	NA	NA	1
+NA	GSE198616	GSM5953771	HC_1	healthy	PBMCs	single-cell RNA-seq, blood	30	F	PBMC	NA	NA	NA	1
+NA	GSE198616	GSM5953767	BD_1	behcet's disease	PBMCs	single-cell RNA-seq, blood	30	M	PBMC	NA	NA	NA	1
+NA	GSE198616	GSM5953768	BD_2	behcet's disease	PBMCs	single-cell RNA-seq, blood	31	M	PBMC	NA	NA	NA	1
+NA	GSE198616	GSM5953769	BD_3	behcet's disease	PBMCs	single-cell RNA-seq, blood	58	M	PBMC	NA	NA	NA	1
+NA	GSE198616	GSM5953770	BD_4	behcet's disease	PBMCs	single-cell RNA-seq, blood	41	M	PBMC	NA	NA	NA	1
+NA	GSE198616	GSM5953772	HC_2	healthy	PBMCs	single-cell RNA-seq, blood	31	M	PBMC	NA	NA	NA	1
+NA	GSE198616	GSM5953773	HC_3	healthy	PBMCs	single-cell RNA-seq, blood	58	M	PBMC	NA	NA	NA	1
+NA	GSE198616	GSM5953774	HC_4	healthy	PBMCs	single-cell RNA-seq, blood	41	M	PBMC	NA	NA	NA	1
+NA	GSE165254	GSM5028914	N270	behcet's disease	PBMCs	blood	54	F	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028913	N267	behcet's disease	PBMCs	blood	45	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028915	N199	behcet's disease	PBMCs	blood	30	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028916	N202	behcet's disease	PBMCs	blood	30	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028917	N232	behcet's disease	PBMCs	blood	42	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028918	N145	behcet's disease	PBMCs	blood	62	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028919	N146	behcet's disease	PBMCs	blood	43	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028920	N158	behcet's disease	PBMCs	blood	39	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028921	N161	behcet's disease	PBMCs	blood	59	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028922	N166	behcet's disease	PBMCs	blood	27	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028923	N178	behcet's disease	PBMCs	blood	26	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028924	N185	behcet's disease	PBMCs	blood	29	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028925	N197	behcet's disease	PBMCs	blood	37	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028926	N142	behcet's disease	PBMCs	blood	47	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028902	N259	healthy	PBMCs	blood	23	F	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028907	N269	healthy	PBMCs	blood	31	F	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028903	N260	healthy	PBMCs	blood	27	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028904	N261	healthy	PBMCs	blood	40	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028905	N263	healthy	PBMCs	blood	30	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028906	N268	healthy	PBMCs	blood	26	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028908	N254	healthy	PBMCs	blood	34	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028909	N255	healthy	PBMCs	blood	47	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028910	N256	healthy	PBMCs	blood	40	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028911	N257	healthy	PBMCs	blood	56	M	NA	NA	NA	NA	1
+NA	GSE165254	GSM5028912	N258	healthy	PBMCs	blood	38	M	NA	NA	NA	NA	1
+NA	GSE61399	GSM1503928	Control_1	healthy	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503929	Control_2	healthy	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503930	Control_3	healthy	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503931	BD_1	behcet's disease	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503932	BD_2	behcet's disease	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503933	BD_3	behcet's disease	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503934	BD_4	behcet's disease	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503935	BD_5	behcet's disease	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503936	BD_6	behcet's disease	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503937	BD_7	behcet's disease	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503938	BD_8	behcet's disease	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503939	BD_9	behcet's disease	PBMCs	blood	NA	NA	CD4+ T cells	NA	NA	NA	1
+NA	GSE61399	GSM1503940	Control_1	healthy	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503941	Control_2	healthy	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503942	Control_3	healthy	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503943	Control_4	healthy	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503944	Control_5	healthy	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503945	Control_6	healthy	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503946	Control_7	healthy	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503947	Control_8	healthy	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503948	Control_9	healthy	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503949	BD_1	behcet's disease	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503950	BD_2	behcet's disease	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503952	BD_4	behcet's disease	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503953	BD_5	behcet's disease	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503954	BD_6	behcet's disease	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503955	BD_7	behcet's disease	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503956	BD_8	behcet's disease	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE61399	GSM1503957	BD_9	behcet's disease	PBMCs	blood	NA	NA	CD14+ monocytes	NA	NA	NA	1
+NA	GSE17114	GSM428037	BD_1	behcet's disease	PBMCs	blood	29	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428038	BD_2	behcet's disease	PBMCs	blood	40	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428039	BD_3	behcet's disease	PBMCs	blood	36	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428040	BD_4	behcet's disease	PBMCs	blood	29	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428041	BD_5	behcet's disease	PBMCs	blood	55	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428042	BD_6	behcet's disease	PBMCs	blood	30	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428043	BD_7	behcet's disease	PBMCs	blood	44	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428044	BD_8	behcet's disease	PBMCs	blood	46	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428045	BD_9	behcet's disease	PBMCs	blood	20	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428046	BD_10	behcet's disease	PBMCs	blood	57	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428047	BD_11	behcet's disease	PBMCs	blood	50	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428048	BD_12	behcet's disease	PBMCs	blood	30	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428049	BD_13	behcet's disease	PBMCs	blood	33	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428050	BD_14	behcet's disease	PBMCs	blood	29	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428051	BD_15	behcet's disease	PBMCs	blood	28	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428052	Control_1	healthy	PBMCs	blood	27	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428053	Control_2	healthy	PBMCs	blood	32	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428054	Control_3	healthy	PBMCs	blood	62	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428055	Control_4	healthy	PBMCs	blood	51	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428056	Control_5	healthy	PBMCs	blood	26	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428057	Control_6	healthy	PBMCs	blood	26	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428058	Control_7	healthy	PBMCs	blood	46	F	NA	NA	NA	NA	1
+NA	GSE17114	GSM428059	Control_8	healthy	PBMCs	blood	35	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428060	Control_9	healthy	PBMCs	blood	42	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428061	Control_10	healthy	PBMCs	blood	31	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428062	Control_11	healthy	PBMCs	blood	28	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428063	Control_12	healthy	PBMCs	blood	61	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428064	Control_13	healthy	PBMCs	blood	26	M	NA	NA	NA	NA	1
+NA	GSE17114	GSM428065	Control_14	healthy	PBMCs	blood	21	M	NA	NA	NA	NA	1

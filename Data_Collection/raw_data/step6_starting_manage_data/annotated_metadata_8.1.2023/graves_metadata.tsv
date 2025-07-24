@@ -1,0 +1,474 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	other	superseries	channel_count
+	GSE9340	GSM237803	Patient 15	hyperthyroidism	tissue	thyroid	17	F	NA					1
+	GSE9340	GSM237800	Patient 12	hyperthyroidism	tissue	thyroid	19	F	NA					1
+	GSE9340	GSM237806	Patient 18	hyperthyroidism	tissue	thyroid	19	F	NA					1
+	GSE9340	GSM237789	Patient 1	hyperthyroidism, ophthalmopathy	tissue	thyroid	20	F	NA					1
+	GSE9340	GSM237801	Patient 13	hyperthyroidism	tissue	thyroid	26	F	NA					1
+	GSE9340	GSM237797	Patient 9	hyperthyroidism, ophthalmopathy	tissue	thyroid	29	F	NA					1
+	GSE9340	GSM237805	Patient 17	hyperthyroidism, ophthalmopathy	tissue	thyroid	32	F	NA					1
+	GSE9340	GSM237794	Patient 6	hyperthyroidism, ophthalmopathy	tissue	thyroid	33	F	NA					1
+	GSE9340	GSM237790	Patient 2	hyperthyroidism	tissue	thyroid	33	F	NA					1
+	GSE9340	GSM237792	Patient 4	hyperthyroidism	tissue	thyroid	34	F	NA					1
+	GSE9340	GSM237798	Patient 10	hyperthyroidism	tissue	thyroid	34	F	NA					1
+	GSE9340	GSM237793	Patient 5	hyperthyroidism, ophthalmopathy	tissue	thyroid	35	F	NA					1
+	GSE9340	GSM237804	Patient 16	hyperthyroidism, ophthalmopathy	tissue	thyroid	40	F	NA					1
+	GSE9340	GSM237796	Patient 8	hyperthyroidism	tissue	thyroid	44	F	NA					1
+	GSE9340	GSM237802	Patient 14	hyperthyroidism, ophthalmopathy	tissue	thyroid	46	M	NA					1
+	GSE9340	GSM237795	Patient 7	hyperthyroidism, ophthalmopathy	tissue	thyroid	48	F	NA					1
+	GSE9340	GSM237799	Patient 11	hyperthyroidism, ophthalmopathy	tissue	thyroid	56	F	NA					1
+	GSE9340	GSM237791	Patient 3	hyperthyroidism, ophthalmopathy	tissue	thyroid	57	F	NA					1
+	GSE71956	GSM1848160	h1	healthy	PBMCs	blood	37	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848139	h10	healthy	PBMCs	blood	52	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848164	h11	healthy	PBMCs	blood	52	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848165	h12	healthy	PBMCs	blood	36	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848140	h13	healthy	PBMCs	blood	59	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848141	h14	healthy	PBMCs	blood	52	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848166	h15	healthy	PBMCs	blood	54	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848142	h16	healthy	PBMCs	blood	36	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848167	h17	healthy	PBMCs	blood	54	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848143	h18	healthy	PBMCs	blood	54	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848135	h2	healthy	PBMCs	blood	50	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848144	h3	healthy	PBMCs	blood	63	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848136	h4	healthy	PBMCs	blood	51	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848161	h5	healthy	PBMCs	blood	51	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848137	h6	healthy	PBMCs	blood	50	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848162	h7	healthy	PBMCs	blood	52	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848138	h8	healthy	PBMCs	blood	54	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848163	h9	healthy	PBMCs	blood	59	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848168	subj_1	graves disease	PBMCs	blood	28	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848180	subj_10	graves disease	PBMCs	blood	55	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848181	subj_11	graves disease	PBMCs	blood	26	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848158	subj_12	graves disease	PBMCs	blood	54	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848159	subj_13	graves disease	PBMCs	blood	38	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848182	subj_14	graves disease	PBMCs	blood	54	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848183	subj_15	graves disease	PBMCs	blood	38	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848146	subj_16	graves disease	PBMCs	blood	38	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848169	subj_17	graves disease	PBMCs	blood	51	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848147	subj_18	graves disease	PBMCs	blood	35	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848170	subj_19	graves disease	PBMCs	blood	57	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848145	subj_2	graves disease	PBMCs	blood	51	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848171	subj_20	graves disease	PBMCs	blood	38	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848148	subj_21	graves disease	PBMCs	blood	45	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848172	subj_22	graves disease	PBMCs	blood	35	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848149	subj_23	graves disease	PBMCs	blood	52	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848173	subj_24	graves disease	PBMCs	blood	45	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848150	subj_25	graves disease	PBMCs	blood	54	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848151	subj_26	graves disease	PBMCs	blood	56	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848174	subj_27	graves disease	PBMCs	blood	59	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848152	subj_28	graves disease	PBMCs	blood	39	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848175	subj_29	graves disease	PBMCs	blood	52	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848154	subj_3	graves disease	PBMCs	blood	54	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848153	subj_30	graves disease	PBMCs	blood	36	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848176	subj_31	graves disease	PBMCs	blood	54	F	CD8+ T cells				GSE71957	1
+	GSE71956	GSM1848177	subj_4	graves disease	PBMCs	blood	56	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848178	subj_5	graves disease	PBMCs	blood	39	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848155	subj_6	graves disease	PBMCs	blood	44	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848179	subj_7	graves disease	PBMCs	blood	44	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848156	subj_8	graves disease	PBMCs	blood	55	F	CD4+ T cells				GSE71957	1
+	GSE71956	GSM1848157	subj_9	graves disease	PBMCs	blood	26	F	CD4+ T cells				GSE71957	1
+	GSE6339	GSM146578	sample 188	atypical follicular adenoma	tissue	thyroid	37	F	NA			thyroiditis: no		1
+	GSE6339	GSM146640	sample 59	atypical follicular adenoma	tissue	thyroid	39	F	NA			thyroiditis: no		1
+	GSE6339	GSM146582	sample 1	atypical follicular adenoma	tissue	thyroid	39	M	NA			thyroiditis: no		1
+	GSE6339	GSM146596	sample 15	atypical follicular adenoma	tissue	thyroid	58	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146672	sample 91	atypical follicular adenoma	tissue	thyroid	59	M	NA			thyroiditis: no		1
+	GSE6339	GSM146597	sample 16	atypical follicular adenoma	tissue	thyroid	69	F	NA			thyroiditis: no		1
+	GSE6339	GSM146574	sample 184	atypical follicular adenoma	tissue	thyroid	69	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146584	sample 3	atypical follicular adenoma	tissue	thyroid	77	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146585	sample 4	atypical follicular adenoma	tissue	thyroid	78	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146676	sample 95	atypical follicular adenoma	tissue	thyroid	78	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146543	sample 153	atypical oncocytic adenoma	tissue	thyroid	48	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146561	sample 171	atypical oncocytic adenoma	tissue	thyroid	50	M	NA			thyroiditis: no		1
+	GSE6339	GSM146573	sample 183	atypical oncocytic adenoma	tissue	thyroid	52	F	NA			thyroiditis: no		1
+	GSE6339	GSM146576	sample 186	atypical oncocytic adenoma	tissue	thyroid	73	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146583	sample 2	atypical oncocytic adenoma	tissue	thyroid	73	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146546	sample 156	autoimmune thyroiditis	tissue	thyroid	34	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146641	sample 60	autoimmune thyroiditis	tissue	thyroid	40	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146565	sample 175	autoimmune thyroiditis	tissue	thyroid	48	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146554	sample 164	autoimmune thyroiditis	tissue	thyroid	52	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146639	sample 58	autoimmune thyroiditis	tissue	thyroid	55	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146587	sample 6	follicular carcinoma	tissue	thyroid	28	F	NA			thyroiditis: no		1
+	GSE6339	GSM146521	sample 130	follicular carcinoma	tissue	thyroid	43	M	NA			thyroiditis: no		1
+	GSE6339	GSM146526	sample 135	follicular carcinoma	tissue	thyroid	43	M	NA			thyroiditis: no		1
+	GSE6339	GSM146559	sample 169	graves disease	tissue	thyroid	30	F	NA			thyroiditis: no		1
+	GSE6339	GSM146637	sample 56	graves disease	tissue	thyroid	55	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146638	sample 57	graves disease	tissue	thyroid	55	M	NA			thyroiditis: no		1
+	GSE6339	GSM146632	sample 51	graves disease	tissue	thyroid	63	F	NA			thyroiditis: no		1
+	GSE6339	GSM146626	sample 45	graves disease	tissue	thyroid	78	F	NA			thyroiditis: no		1
+	GSE6339	GSM146592	sample 11	healthy	tissue	thyroid	28	F	NA			thyroiditis: no		1
+	GSE6339	GSM146549	sample 159	healthy	tissue	thyroid	35	F	NA			thyroiditis: no		1
+	GSE6339	GSM146527	sample 136	healthy	tissue	thyroid	36	F	NA			thyroiditis: no		1
+	GSE6339	GSM146598	sample 17	healthy	tissue	thyroid	37	F	NA			thyroiditis: no		1
+	GSE6339	GSM146556	sample 166	healthy	tissue	thyroid	39	F	NA			thyroiditis: no		1
+	GSE6339	GSM146533	sample 142	healthy	tissue	thyroid	43	M	NA			thyroiditis: no		1
+	GSE6339	GSM146555	sample 165	healthy	tissue	thyroid	45	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146590	sample 9	healthy	tissue	thyroid	45	F	NA			thyroiditis: no		1
+	GSE6339	GSM146518	sample 127	healthy	tissue	thyroid	45	M	NA			thyroiditis: no		1
+	GSE6339	GSM146545	sample 155	healthy	tissue	thyroid	48	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146673	sample 92	healthy	tissue	thyroid	51	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146575	sample 185	healthy	tissue	thyroid	52	F	NA			thyroiditis: no		1
+	GSE6339	GSM146586	sample 5	healthy	tissue	thyroid	54	F	NA			thyroiditis: no		1
+	GSE6339	GSM146589	sample 8	healthy	tissue	thyroid	57	F	NA			thyroiditis: no		1
+	GSE6339	GSM146535	sample 144	healthy	tissue	thyroid	60	F	NA			thyroiditis: no		1
+	GSE6339	GSM146541	sample 151	healthy	tissue	thyroid	62	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146675	sample 94	healthy	tissue	thyroid	62	M	NA			thyroiditis: medium		1
+	GSE6339	GSM146599	sample 18	healthy	tissue	thyroid	64	F	NA			thyroiditis: no		1
+	GSE6339	GSM146595	sample 14	healthy	tissue	thyroid	69	F	NA			thyroiditis: no		1
+	GSE6339	GSM146523	sample 132	healthy	tissue	thyroid	74	F	NA			thyroiditis: no		1
+	GSE6339	GSM146551	sample 161	healthy	tissue	thyroid	75	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146677	sample 96	healthy	tissue	thyroid	77	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146530	sample 139	healthy	tissue	thyroid	NA	F	NA			thyroiditis: no		1
+	GSE6339	GSM146577	sample 187	healthy	tissue	thyroid	NA	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146540	sample 149	macrofollicular adenoma	tissue	thyroid	24	F	NA			thyroiditis: no		1
+	GSE6339	GSM146608	sample 27	macrofollicular adenoma	tissue	thyroid	30	F	NA			thyroiditis: no		1
+	GSE6339	GSM146645	sample 64	macrofollicular adenoma	tissue	thyroid	30	F	NA			thyroiditis: no		1
+	GSE6339	GSM146631	sample 50	macrofollicular adenoma	tissue	thyroid	34	F	NA			thyroiditis: no		1
+	GSE6339	GSM146538	sample 147	macrofollicular adenoma	tissue	thyroid	36	F	NA			thyroiditis: no		1
+	GSE6339	GSM146630	sample 49	macrofollicular adenoma	tissue	thyroid	38	M	NA			thyroiditis: no		1
+	GSE6339	GSM146636	sample 55	macrofollicular adenoma	tissue	thyroid	46	M	NA			thyroiditis: no		1
+	GSE6339	GSM146610	sample 29	macrofollicular adenoma	tissue	thyroid	49	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146602	sample 21	macrofollicular adenoma	tissue	thyroid	51	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146628	sample 47	macrofollicular adenoma	tissue	thyroid	51	M	NA			thyroiditis: no		1
+	GSE6339	GSM146620	sample 39	macrofollicular adenoma	tissue	thyroid	52	F	NA			thyroiditis: no		1
+	GSE6339	GSM146600	sample 19	macrofollicular adenoma	tissue	thyroid	54	F	NA			thyroiditis: no		1
+	GSE6339	GSM146601	sample 20	macrofollicular adenoma	tissue	thyroid	54	F	NA			thyroiditis: no		1
+	GSE6339	GSM146607	sample 26	macrofollicular adenoma	tissue	thyroid	55	F	NA			thyroiditis: no		1
+	GSE6339	GSM146615	sample 34	macrofollicular adenoma	tissue	thyroid	56	F	NA			thyroiditis: no		1
+	GSE6339	GSM146624	sample 43	macrofollicular adenoma	tissue	thyroid	56	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146569	sample 179	macrofollicular adenoma	tissue	thyroid	58	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146611	sample 30	macrofollicular adenoma	tissue	thyroid	59	M	NA			thyroiditis: no		1
+	GSE6339	GSM146617	sample 36	macrofollicular adenoma	tissue	thyroid	60	F	NA			thyroiditis: no		1
+	GSE6339	GSM146622	sample 41	macrofollicular adenoma	tissue	thyroid	61	M	NA			thyroiditis: no		1
+	GSE6339	GSM146623	sample 42	macrofollicular adenoma	tissue	thyroid	62	F	NA			thyroiditis: no		1
+	GSE6339	GSM146558	sample 168	macrofollicular adenoma	tissue	thyroid	63	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146635	sample 54	macrofollicular adenoma	tissue	thyroid	63	F	NA			thyroiditis: no		1
+	GSE6339	GSM146609	sample 28	macrofollicular adenoma	tissue	thyroid	69	F	NA			thyroiditis: no		1
+	GSE6339	GSM146557	sample 167	macrofollicular adenoma	tissue	thyroid	70	F	NA			thyroiditis: no		1
+	GSE6339	GSM146629	sample 48	macrofollicular adenoma	tissue	thyroid	73	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146519	sample 128	microfollicular adenoma	tissue	thyroid	28	F	NA			thyroiditis: no		1
+	GSE6339	GSM146570	sample 180	microfollicular adenoma	tissue	thyroid	31	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146562	sample 172	microfollicular adenoma	tissue	thyroid	34	M	NA			thyroiditis: no		1
+	GSE6339	GSM146642	sample 61	microfollicular adenoma	tissue	thyroid	53	F	NA			thyroiditis: no		1
+	GSE6339	GSM146581	sample 191	microfollicular adenoma	tissue	thyroid	54	F	NA			thyroiditis: no		1
+	GSE6339	GSM146649	sample 68	microfollicular adenoma	tissue	thyroid	54	F	NA			thyroiditis: no		1
+	GSE6339	GSM146566	sample 176	microfollicular adenoma	tissue	thyroid	55	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146654	sample 73	microfollicular adenoma	tissue	thyroid	56	F	NA			thyroiditis: no		1
+	GSE6339	GSM146633	sample 52	microfollicular adenoma	tissue	thyroid	57	M	NA			thyroiditis: no		1
+	GSE6339	GSM146648	sample 67	microfollicular adenoma	tissue	thyroid	57	M	NA			thyroiditis: no		1
+	GSE6339	GSM146572	sample 182	microfollicular adenoma	tissue	thyroid	59	M	NA			thyroiditis: no		1
+	GSE6339	GSM146625	sample 44	microfollicular adenoma	tissue	thyroid	69	F	NA			thyroiditis: no		1
+	GSE6339	GSM146606	sample 25	microfollicular adenoma	tissue	thyroid	70	F	NA			thyroiditis: no		1
+	GSE6339	GSM146560	sample 170	microfollicular adenoma	tissue	thyroid	73	F	NA			thyroiditis: no		1
+	GSE6339	GSM146544	sample 154	microfollicular adenoma	tissue	thyroid	76	F	NA			thyroiditis: no		1
+	GSE6339	GSM146619	sample 38	microfollicular adenoma	tissue	thyroid	87	M	NA			thyroiditis: no		1
+	GSE6339	GSM146616	sample 35	microfollicular adenoma	tissue	thyroid	91	F	NA			thyroiditis: no		1
+	GSE6339	GSM146534	sample 143	multinodular goiter	tissue	thyroid	39	F	NA			thyroiditis: no		1
+	GSE6339	GSM146614	sample 33	multinodular goiter	tissue	thyroid	39	M	NA			thyroiditis: no		1
+	GSE6339	GSM146522	sample 131	multinodular goiter	tissue	thyroid	40	F	NA			thyroiditis: no		1
+	GSE6339	GSM146528	sample 137	multinodular goiter	tissue	thyroid	40	F	NA			thyroiditis: no		1
+	GSE6339	GSM146650	sample 69	multinodular goiter	tissue	thyroid	42	F	NA			thyroiditis: no		1
+	GSE6339	GSM146568	sample 178	multinodular goiter	tissue	thyroid	43	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146618	sample 37	multinodular goiter	tissue	thyroid	45	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146627	sample 46	multinodular goiter	tissue	thyroid	48	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146646	sample 65	multinodular goiter	tissue	thyroid	48	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146605	sample 24	multinodular goiter	tissue	thyroid	54	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146643	sample 62	multinodular goiter	tissue	thyroid	54	F	NA			thyroiditis: no		1
+	GSE6339	GSM146571	sample 181	multinodular goiter	tissue	thyroid	56	M	NA			thyroiditis: no		1
+	GSE6339	GSM146613	sample 32	multinodular goiter	tissue	thyroid	58	F	NA			thyroiditis: no		1
+	GSE6339	GSM146603	sample 22	multinodular goiter	tissue	thyroid	59	F	NA			thyroiditis: no		1
+	GSE6339	GSM146536	sample 145	multinodular goiter	tissue	thyroid	60	F	NA			thyroiditis: no		1
+	GSE6339	GSM146647	sample 66	multinodular goiter	tissue	thyroid	60	F	NA			thyroiditis: no		1
+	GSE6339	GSM146644	sample 63	multinodular goiter	tissue	thyroid	62	F	NA			thyroiditis: no		1
+	GSE6339	GSM146621	sample 40	multinodular goiter	tissue	thyroid	62	M	NA			thyroiditis: no		1
+	GSE6339	GSM146653	sample 72	multinodular goiter	tissue	thyroid	65	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146604	sample 23	multinodular goiter	tissue	thyroid	68	F	NA			thyroiditis: no		1
+	GSE6339	GSM146634	sample 53	multinodular goiter	tissue	thyroid	68	F	NA			thyroiditis: no		1
+	GSE6339	GSM146612	sample 31	multinodular goiter	tissue	thyroid	71	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146553	sample 163	multinodular goiter	tissue	thyroid	72	F	NA			thyroiditis: no		1
+	GSE6339	GSM146529	sample 138	multinodular goiter	tissue	thyroid	NA	F	NA			thyroiditis: no		1
+	GSE6339	GSM146507	sample 112	oncocytic adenoma	tissue	thyroid	40	F	NA			thyroiditis: no		1
+	GSE6339	GSM146505	sample 110	oncocytic adenoma	tissue	thyroid	42	F	NA			thyroiditis: no		1
+	GSE6339	GSM146591	sample 10	oncocytic adenoma	tissue	thyroid	44	M	NA			thyroiditis: no		1
+	GSE6339	GSM146497	sample 100	oncocytic adenoma	tissue	thyroid	46	F	NA			thyroiditis: no		1
+	GSE6339	GSM146513	sample 121	oncocytic adenoma	tissue	thyroid	48	F	NA			thyroiditis: no		1
+	GSE6339	GSM146512	sample 120	oncocytic adenoma	tissue	thyroid	49	F	NA			thyroiditis: no		1
+	GSE6339	GSM146511	sample 117	oncocytic adenoma	tissue	thyroid	51	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146652	sample 71	oncocytic adenoma	tissue	thyroid	51	F	NA			thyroiditis: no		1
+	GSE6339	GSM146674	sample 93	oncocytic adenoma	tissue	thyroid	51	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146503	sample 108	oncocytic adenoma	tissue	thyroid	52	F	NA			thyroiditis: no		1
+	GSE6339	GSM146593	sample 12	oncocytic adenoma	tissue	thyroid	54	F	NA			thyroiditis: no		1
+	GSE6339	GSM146510	sample 115	oncocytic adenoma	tissue	thyroid	55	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146517	sample 126	oncocytic adenoma	tissue	thyroid	55	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146651	sample 70	oncocytic adenoma	tissue	thyroid	57	F	NA			thyroiditis: no		1
+	GSE6339	GSM146504	sample 109	oncocytic adenoma	tissue	thyroid	58	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146539	sample 148	oncocytic adenoma	tissue	thyroid	62	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146671	sample 90	oncocytic adenoma	tissue	thyroid	62	M	NA			thyroiditis: medium		1
+	GSE6339	GSM146499	sample 102	oncocytic adenoma	tissue	thyroid	64	F	NA			thyroiditis: no		1
+	GSE6339	GSM146509	sample 114	oncocytic adenoma	tissue	thyroid	64	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146564	sample 174	oncocytic adenoma	tissue	thyroid	64	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146588	sample 7	oncocytic adenoma	tissue	thyroid	64	F	NA			thyroiditis: no		1
+	GSE6339	GSM146502	sample 107	oncocytic adenoma	tissue	thyroid	64	M	NA			thyroiditis: no		1
+	GSE6339	GSM146579	sample 189	oncocytic adenoma	tissue	thyroid	65	M	NA			thyroiditis: no		1
+	GSE6339	GSM146501	sample 106	oncocytic adenoma	tissue	thyroid	68	F	NA			thyroiditis: no		1
+	GSE6339	GSM146506	sample 111	oncocytic adenoma	tissue	thyroid	68	M	NA			thyroiditis: no		1
+	GSE6339	GSM146516	sample 125	oncocytic adenoma	tissue	thyroid	69	F	NA			thyroiditis: no		1
+	GSE6339	GSM146552	sample 162	oncocytic adenoma	tissue	thyroid	74	F	NA			thyroiditis: no		1
+	GSE6339	GSM146550	sample 160	oncocytic adenoma	tissue	thyroid	75	F	NA			thyroiditis: medium		1
+	GSE6339	GSM146524	sample 133	oncocytic adenoma	tissue	thyroid	80	F	NA			thyroiditis: no		1
+	GSE6339	GSM146525	sample 134	oncocytic adenoma	tissue	thyroid	84	F	NA			thyroiditis: no		1
+	GSE6339	GSM146514	sample 122	oncocytic carcinoma	tissue	thyroid	45	F	NA			thyroiditis: no		1
+	GSE6339	GSM146520	sample 129	oncocytic carcinoma	tissue	thyroid	45	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146594	sample 13	oncocytic carcinoma	tissue	thyroid	57	F	NA			thyroiditis: no		1
+	GSE6339	GSM146498	sample 101	oncocytic carcinoma	tissue	thyroid	69	M	NA			thyroiditis: no		1
+	GSE6339	GSM146542	sample 152	papillary carcinoma	tissue	thyroid	19	F	NA			thyroiditis: no		1
+	GSE6339	GSM146496	sample 98	papillary carcinoma	tissue	thyroid	23	F	NA			thyroiditis: no		1
+	GSE6339	GSM146532	sample 141	papillary carcinoma	tissue	thyroid	25	F	NA			thyroiditis: no		1
+	GSE6339	GSM146563	sample 173	papillary carcinoma	tissue	thyroid	34	F	NA			thyroiditis: no		1
+	GSE6339	GSM146567	sample 177	papillary carcinoma	tissue	thyroid	34	F	NA			thyroiditis: no		1
+	GSE6339	GSM146547	sample 157	papillary carcinoma	tissue	thyroid	35	F	NA			thyroiditis: no		1
+	GSE6339	GSM146548	sample 158	papillary carcinoma	tissue	thyroid	35	F	NA			thyroiditis: no		1
+	GSE6339	GSM146500	sample 104	papillary carcinoma	tissue	thyroid	37	F	NA			thyroiditis: no		1
+	GSE6339	GSM146531	sample 140	papillary carcinoma	tissue	thyroid	45	M	NA			thyroiditis: no		1
+	GSE6339	GSM146515	sample 124	papillary carcinoma	tissue	thyroid	51	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146508	sample 113	papillary carcinoma	tissue	thyroid	55	F	NA			thyroiditis: yes		1
+	GSE6339	GSM146537	sample 146	papillary carcinoma	tissue	thyroid	64	M	NA			thyroiditis: no		1
+	GSE6339	GSM146495	sample 97	papillary carcinoma	tissue	thyroid	67	F	NA			thyroiditis: no		1
+x	GSE58331	GSM1407182	2AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407183	2BGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407184	3AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407185	4.2AGr	graves disease	tissue	anterior orbit	NA	F	NA	rep2				1
+x	GSE58331	GSM1407186	5AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407187	6AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407188	7AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407189	8AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407190	9AGr	graves disease	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407191	10AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407192	11AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407193	12AGr	graves disease	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407194	13AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407195	14.1AGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep1				1
+x	GSE58331	GSM1407196	14.2AGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep2				1
+x	GSE58331	GSM1407197	15AGr	graves disease	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407198	16AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407199	17.1AGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep1				1
+x	GSE58331	GSM1407200	17.2AGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep2				1
+x	GSE58331	GSM1407201	18AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407202	19AGr	graves disease	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407203	19.1BGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep1				1
+x	GSE58331	GSM1407204	19.2BGr	graves disease	tissue	lacrimal gland	NA	F	NA	rep2				1
+x	GSE58331	GSM1407205	20AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407206	21AGr	graves disease	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407207	22AGr	graves disease	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407208	22BGr	graves disease	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407209	23AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407210	24AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407211	25AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407212	26AGr	graves disease	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407213	26.1BGr	graves disease	tissue	anterior orbit	NA	F	NA	rep1				1
+x	GSE58331	GSM1407214	26.2BGr	graves disease	tissue	anterior orbit	NA	F	NA	rep2				1
+x	GSE58331	GSM1407215	28.1AGr	graves disease	tissue	anterior orbit	NA	F	NA	rep1				1
+x	GSE58331	GSM1407216	28.2AGr	graves disease	tissue	anterior orbit	NA	M	NA	rep2				1
+x	GSE58331	GSM1407217	1ALy	lymphoma	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407218	1ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407219	2ANo	healthy	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407220	3ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407221	4BNo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407222	5ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407223	6ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407224	7ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407225	8ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407226	9ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407227	10ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407228	11ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407229	12ANo	healthy	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407230	13ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407231	14.1ANo	healthy	tissue	anterior orbit	NA	F	NA	rep1				1
+x	GSE58331	GSM1407232	14.2ANo	healthy	tissue	anterior orbit	NA	F	NA	rep2				1
+x	GSE58331	GSM1407233	15ANo	healthy	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407234	16ANo	healthy	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407235	17ANo	healthy	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407236	18ANo	healthy	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407237	19ANo	healthy	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407238	20ANo	healthy	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407239	21ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407240	22ANo	healthy	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407241	23ANo	healthy	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407242	24ANo	healthy	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407243	25ANo	healthy	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407244	26ANo	healthy	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407245	27ANo	healthy	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407246	28ANo	healthy	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407247	1ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407248	2ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407249	3ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407250	5ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407251	6ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407252	7ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407253	8.1ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep1				1
+x	GSE58331	GSM1407254	8.2ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep2				1
+x	GSE58331	GSM1407255	8.1BNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep1				1
+x	GSE58331	GSM1407256	8.2BNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep2				1
+x	GSE58331	GSM1407257	9ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407258	10BNS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407259	10CNS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407260	11.1ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep1				1
+x	GSE58331	GSM1407261	11.2ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep2				1
+x	GSE58331	GSM1407262	12ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407263	12.1CNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep1				1
+x	GSE58331	GSM1407264	12.2CNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep2				1
+x	GSE58331	GSM1407265	13ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407266	14ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407267	15.1ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep1				1
+x	GSE58331	GSM1407268	15.2ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA	rep2				1
+x	GSE58331	GSM1407269	15DNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407270	16ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407271	17ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407272	18ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407273	18BNS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407274	19ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407275	19BNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407276	20ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407277	21ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407278	22ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407279	23.1ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep1				1
+x	GSE58331	GSM1407280	23.2ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep2				1
+x	GSE58331	GSM1407281	24BNS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407282	25ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407283	26ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407284	27ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407285	28ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407286	29ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407287	29BNS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407288	30ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407289	30BNS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407290	31ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407291	32ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407292	33ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407293	33BNS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407294	34ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407295	35ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407296	36ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407297	37ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407298	38ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407299	39ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407300	40.1ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep1				1
+x	GSE58331	GSM1407301	40.2ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA	rep2				1
+x	GSE58331	GSM1407302	41ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407303	42ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407304	43ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407305	45ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407306	46ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407307	47ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407308	48ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407309	49ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407310	50ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407311	51ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407312	52ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407313	53ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407314	54ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407315	55ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407316	56ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407317	57ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407318	58ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407319	59ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407320	60ANS	non-specific orbital inflammation	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407321	61ANS	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE58331	GSM1407322	1ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407323	2.1ASa	sarcoidosis	tissue	anterior orbit	NA	F	NA	rep1				1
+x	GSE58331	GSM1407324	2.2ASa	sarcoidosis	tissue	anterior orbit	NA	F	NA	rep2				1
+x	GSE58331	GSM1407325	3.1ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep1				1
+x	GSE58331	GSM1407326	3.2ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep2				1
+x	GSE58331	GSM1407327	3BSa	sarcoidosis	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407328	3CSa	sarcoidosis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407329	3DSa	sarcoidosis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407330	4.1ASa	sarcoidosis	tissue	lacrimal gland	NA	M	NA	rep1				1
+x	GSE58331	GSM1407331	4.2ASa	sarcoidosis	tissue	lacrimal gland	NA	M	NA	rep2				1
+x	GSE58331	GSM1407332	5ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407333	6ASa	sarcoidosis	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407334	7ASa	sarcoidosis	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407335	8.1ASa	sarcoidosis	tissue	lacrimal gland	NA	M	NA	rep1				1
+x	GSE58331	GSM1407336	8.2ASa	sarcoidosis	tissue	lacrimal gland	NA	M	NA	rep2				1
+x	GSE58331	GSM1407337	9ASa	sarcoidosis	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407338	10ASa	sarcoidosis	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407339	11.1ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep1				1
+x	GSE58331	GSM1407340	11.2ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep2				1
+x	GSE58331	GSM1407341	12.1ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep1				1
+x	GSE58331	GSM1407342	12.2ASa	sarcoidosis	tissue	lacrimal gland	NA	F	NA	rep2				1
+x	GSE58331	GSM1407343	13ASa	sarcoidosis	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407344	1.1AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep1				1
+x	GSE58331	GSM1407345	1.2AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep2				1
+x	GSE58331	GSM1407346	2AWe	granulomatosis with polyangiitis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE58331	GSM1407347	3AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	M	NA					1
+x	GSE58331	GSM1407348	4.1AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	M	NA	rep1				1
+x	GSE58331	GSM1407349	4.2AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	M	NA	rep2				1
+x	GSE58331	GSM1407350	5.1AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep1				1
+x	GSE58331	GSM1407351	5.2AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep2				1
+x	GSE58331	GSM1407352	6AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407353	7.1AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep1				1
+x	GSE58331	GSM1407354	7.2AWe	granulomatosis with polyangiitis	tissue	anterior orbit	NA	F	NA	rep2				1
+x	GSE58331	GSM1407355	1AXa	xanthogranuloma	tissue	anterior orbit	NA	F	NA					1
+x	GSE58331	GSM1407356	2AXa	xanthogranuloma	tissue	lacrimal gland	NA	F	NA					1
+	GSE194323	GSM5833506	TAOADIPOSE1123	graves disease	tissue	single-cell RNA-seq, orbital adipose tissue	NA	NA	NA				GSE194324	1
+	GSE194323	GSM5833507	NC_ADIPOSE1228	healthy	tissue	single-cell RNA-seq, orbital adipose tissue	NA	NA	NA				GSE194324	1
+	GSE194322	GSM5833500	T1	graves disease	tissue	orbital connective tissue	NA	NA	cultured orbital fibroblasts		untreated		GSE194324	1
+	GSE194322	GSM5833501	T2	graves disease	tissue	orbital connective tissue	NA	NA	cultured orbital fibroblasts		untreated		GSE194324	1
+	GSE194322	GSM5833502	T3	graves disease	tissue	orbital connective tissue	NA	NA	cultured orbital fibroblasts		untreated		GSE194324	1
+	GSE194322	GSM5833503	T1	graves disease	tissue	orbital connective tissue	NA	NA	cultured orbital fibroblasts	24h	TGF-beta		GSE194324	1
+	GSE194322	GSM5833504	T2	graves disease	tissue	orbital connective tissue	NA	NA	cultured orbital fibroblasts	24h	TGF-beta		GSE194324	1
+	GSE194322	GSM5833505	T3	graves disease	tissue	orbital connective tissue	NA	NA	cultured orbital fibroblasts	24h	TGF-beta		GSE194324	1
+	GSE185952	GSM5627753	TAO 1	thyroid-associated ophthalmopathy	tissue	orbital adipose/connective tissue	NA	F	NA					1
+	GSE185952	GSM5627754	TAO 2	thyroid-associated ophthalmopathy	tissue	orbital adipose/connective tissue	NA	M	NA					1
+	GSE185952	GSM5627755	TAO 3	thyroid-associated ophthalmopathy	tissue	orbital adipose/connective tissue	NA	M	NA					1
+	GSE185952	GSM5627756	Control 1	healthy	tissue	orbital adipose/connective tissue	NA	F	NA					1
+	GSE185952	GSM5627757	Control 2	healthy	tissue	orbital adipose/connective tissue	NA	M	NA					1
+	GSE185952	GSM5627758	Control 3	healthy	tissue	orbital adipose/connective tissue	NA	F	NA					1
+x	GSE136709	GSM4055719	mix_3_NS	graves disease	PBMCs	blood	NA	NA	CD19 B cells			n individuals = 34		1
+x	GSE136709	GSM4055720	CD52_NS	healthy	PBMCs	blood	NA	NA	CD19 B cells			n individuals = 34		1
+x	GSE105149	GSM2823303	GPA 1	granulomatosis with polyangiitis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823304	GPA 2	granulomatosis with polyangiitis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823305	GPA 3	granulomatosis with polyangiitis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823306	Normal 1	healthy	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823307	Normal 3	healthy	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823308	Normal 4	healthy	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823309	Normal 6	healthy	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823310	Normal 2	healthy	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823311	Normal 5	healthy	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823312	Normal 7	healthy	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823313	NSOI 10	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823314	NSOI 11	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823315	NSOI 12	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823316	NSOI 14	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823317	NSOI 15	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823318	NSOI 16	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823319	NSOI 17	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823320	NSOI 18	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823321	NSOI 19	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823322	NSOI 1	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823323	NSOI 20	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823324	NSOI 21	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823325	NSOI 24	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823326	NSOI 26	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823327	NSOI 2	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823328	NSOI 6	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823329	NSOI 7	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823330	NSOI 8	non-specific orbital inflammation	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823331	NSOI 13	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823332	NSOI 22	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823333	NSOI 23	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823334	NSOI 25	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823335	NSOI 27	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823336	NSOI 3	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823337	NSOI 4	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823338	NSOI 5	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823339	NSOI 9	non-specific orbital inflammation	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823340	Sarcoidosis 28	sarcoidosis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823341	Sarcoidosis 29	sarcoidosis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823342	Sarcoidosis 30  block A	sarcoidosis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823343	Sarcoidosis 30  block D	sarcoidosis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823344	Sarcoidosis 33	sarcoidosis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823345	Sarcoidosis 34	sarcoidosis	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823346	Sarcoidosis 31	sarcoidosis	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823347	Sarcoidosis 32	sarcoidosis	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823348	TED 1	graves disease	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823349	TED 2	graves disease	tissue	lacrimal gland	NA	F	NA					1
+x	GSE105149	GSM2823350	TED 3	graves disease	tissue	lacrimal gland	NA	M	NA					1
+x	GSE105149	GSM2823351	TED 4	graves disease	tissue	lacrimal gland	NA	M	NA					1

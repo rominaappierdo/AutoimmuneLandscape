@@ -1,0 +1,1285 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	other	superseries	channel_count
+	GSE113341	GSM3103946	subj_1	eosinophilic esophagitis	tissue	esophagus	NA	M						1
+	GSE113341	GSM3103952	subj_2	eosinophilic esophagitis	tissue	esophagus	NA	F						1
+	GSE113341	GSM3103951	subj_3	eosinophilic esophagitis	tissue	esophagus	NA	F						1
+	GSE113341	GSM3103953	subj_4	eosinophilic esophagitis	tissue	esophagus	NA	F						1
+	GSE113341	GSM3103954	subj_5	eosinophilic esophagitis	tissue	esophagus	NA	F						1
+	GSE113341	GSM3103955	subj_6	eosinophilic esophagitis	tissue	esophagus	NA	F						1
+	GSE113341	GSM3103948	subj_7	eosinophilic esophagitis	tissue	esophagus	NA	M						1
+	GSE113341	GSM3103950	subj_8	eosinophilic esophagitis	tissue	esophagus	NA	M						1
+	GSE113341	GSM3103947	subj_9	eosinophilic esophagitis	tissue	esophagus	NA	M						1
+	GSE113341	GSM3103949	subj_10	eosinophilic esophagitis	tissue	esophagus	NA	M						1
+	GSE113341	GSM3103962	h1	healthy	tissue	esophagus	NA	F						1
+	GSE113341	GSM3103963	h2	healthy	tissue	esophagus	NA	F						1
+	GSE113341	GSM3103964	h3	healthy	tissue	esophagus	NA	F						1
+	GSE113341	GSM3103961	h4	healthy	tissue	esophagus	NA	F						1
+	GSE113341	GSM3103965	h5	healthy	tissue	esophagus	NA	F						1
+	GSE113341	GSM3103956	h6	healthy	tissue	esophagus	NA	M						1
+	GSE113341	GSM3103957	h7	healthy	tissue	esophagus	NA	M						1
+	GSE113341	GSM3103958	h8	healthy	tissue	esophagus	NA	M						1
+	GSE113341	GSM3103959	h9	healthy	tissue	esophagus	NA	M						1
+	GSE113341	GSM3103960	h10	healthy	tissue	esophagus	NA	M						1
+x	GSE126250	GSM3594222	Apr11_Cell_1	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594223	Apr11_Cell_10	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594224	Apr11_Cell_11	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594225	Apr11_Cell_12	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594226	Apr11_Cell_13	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594227	Apr11_Cell_14	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594228	Apr11_Cell_15	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594229	Apr11_Cell_16	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594230	Apr11_Cell_17	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594231	Apr11_Cell_18	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594232	Apr11_Cell_19	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594233	Apr11_Cell_2	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594234	Apr11_Cell_20	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594235	Apr11_Cell_21	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594236	Apr11_Cell_22	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594237	Apr11_Cell_23	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594238	Apr11_Cell_24	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594239	Apr11_Cell_25	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594240	Apr11_Cell_26	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594241	Apr11_Cell_27	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594242	Apr11_Cell_28	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594243	Apr11_Cell_29	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594244	Apr11_Cell_3	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594245	Apr11_Cell_30	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594246	Apr11_Cell_31	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594247	Apr11_Cell_32	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594248	Apr11_Cell_33	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594249	Apr11_Cell_34	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594250	Apr11_Cell_4	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594251	Apr11_Cell_5	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594252	Apr11_Cell_54	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594253	Apr11_Cell_55	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594254	Apr11_Cell_56	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594255	Apr11_Cell_57	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594256	Apr11_Cell_58	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594257	Apr11_Cell_59	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594258	Apr11_Cell_6	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594259	Apr11_Cell_60	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594260	Apr11_Cell_61	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594261	Apr11_Cell_62	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594262	Apr11_Cell_63	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594263	Apr11_Cell_64	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594264	Apr11_Cell_65	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594265	Apr11_Cell_66	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594266	Apr11_Cell_67	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594267	Apr11_Cell_68	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594268	Apr11_Cell_69	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594269	Apr11_Cell_7	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594270	Apr11_Cell_70	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594271	Apr11_Cell_71	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594272	Apr11_Cell_72	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594273	Apr11_Cell_73	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594274	Apr11_Cell_74	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594275	Apr11_Cell_75	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594276	Apr11_Cell_76	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594277	Apr11_Cell_77	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594278	Apr11_Cell_78	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594279	Apr11_Cell_79	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594280	Apr11_Cell_8	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594281	Apr11_Cell_80	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594282	Apr11_Cell_81	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594283	Apr11_Cell_82	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594284	Apr11_Cell_83	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594285	Apr11_Cell_84	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594286	Apr11_Cell_85	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594287	Apr11_Cell_86	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594288	Apr11_Cell_87	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594289	Apr11_Cell_88	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594290	Apr11_Cell_89	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594291	Apr11_Cell_9	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594292	Apr11_Cell_90	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594293	Apr11_Cell_91	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594294	Apr11_Cell_92	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594295	Apr11_Cell_93	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594296	Apr11_Cell_94	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594297	Apr11_Cell_95	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594298	Apr11_Cell_96	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr11				1
+x	GSE126250	GSM3594299	Apr4_Cell_47	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr4				1
+x	GSE126250	GSM3594300	Apr4_Cell_48	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr4				1
+x	GSE126250	GSM3594301	Apr4_Cell_49	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr4				1
+x	GSE126250	GSM3594302	Apr4_Cell_50	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr4				1
+x	GSE126250	GSM3594303	Apr4_Cell_51	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr4				1
+x	GSE126250	GSM3594304	Apr4_Cell_52	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr4				1
+x	GSE126250	GSM3594305	Apr4_Cell_53	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Apr4				1
+x	GSE126250	GSM3594306	Aug29_Cell_51	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594307	Aug29_Cell_52	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594308	Aug29_Cell_53	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594309	Aug29_Cell_54	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594310	Aug29_Cell_55	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594311	Aug29_Cell_56	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594312	Aug29_Cell_57	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594313	Aug29_Cell_58	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594314	Aug29_Cell_59	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594315	Aug29_Cell_60	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594316	Aug29_Cell_61	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594317	Aug29_Cell_62	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594318	Aug29_Cell_63	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594319	Aug29_Cell_64	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594320	Aug29_Cell_65	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594321	Aug29_Cell_66	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594322	Aug29_Cell_67	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594323	Aug29_Cell_68	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594324	Aug29_Cell_69	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594325	Aug29_Cell_70	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594326	Aug29_Cell_71	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594327	Aug29_Cell_72	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594328	Aug29_Cell_73	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594329	Aug29_Cell_74	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594330	Aug29_Cell_75	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594331	Aug29_Cell_76	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594332	Aug29_Cell_77	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594333	Aug29_Cell_78	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594334	Aug29_Cell_79	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594335	Aug29_Cell_80	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594336	Aug29_Cell_81	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594337	Aug29_Cell_82	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594338	Aug29_Cell_83	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594339	Aug29_Cell_84	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Aug29				1
+x	GSE126250	GSM3594340	Dec1_Cell_1	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594341	Dec1_Cell_2	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594342	Dec1_Cell_3	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594343	Dec1_Cell_4	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594344	Dec1_Cell_43	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594345	Dec1_Cell_44	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594346	Dec1_Cell_45	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594347	Dec1_Cell_46	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594348	Dec1_Cell_47	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594349	Dec1_Cell_48	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594350	Dec1_Cell_49	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594351	Dec1_Cell_5	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594352	Dec1_Cell_50	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594353	Dec1_Cell_51	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594354	Dec1_Cell_52	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594355	Dec1_Cell_53	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594356	Dec1_Cell_54	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594357	Dec1_Cell_55	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594358	Dec1_Cell_56	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594359	Dec1_Cell_57	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594360	Dec1_Cell_58	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594361	Dec1_Cell_59	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594362	Dec1_Cell_6	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594363	Dec1_Cell_60	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594364	Dec1_Cell_61	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594365	Dec1_Cell_62	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594366	Dec1_Cell_63	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594367	Dec1_Cell_64	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594368	Dec1_Cell_65	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594369	Dec1_Cell_66	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594370	Dec1_Cell_67	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594371	Dec1_Cell_68	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594372	Dec1_Cell_69	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594373	Dec1_Cell_7	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594374	Dec1_Cell_70	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594375	Dec1_Cell_71	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594376	Dec1_Cell_72	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594377	Dec1_Cell_73	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594378	Dec1_Cell_74	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594379	Dec1_Cell_75	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594380	Dec1_Cell_76	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594381	Dec1_Cell_77	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594382	Dec1_Cell_78	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594383	Dec1_Cell_79	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594384	Dec1_Cell_80	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594385	Dec1_Cell_81	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594386	Dec1_Cell_82	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594387	Dec1_Cell_83	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594388	Dec1_Cell_84	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594389	Dec1_Cell_85	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594390	Dec1_Cell_86	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594391	Dec1_Cell_87	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594392	Dec1_Cell_88	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594393	Dec1_Cell_89	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594394	Dec1_Cell_90	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594395	Dec1_Cell_91	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594396	Dec1_Cell_92	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594397	Dec1_Cell_93	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594398	Dec1_Cell_94	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594399	Dec1_Cell_95	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594400	Dec1_Cell_96	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec1				1
+x	GSE126250	GSM3594401	Dec5_Cell_10	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594402	Dec5_Cell_11	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594403	Dec5_Cell_12	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594404	Dec5_Cell_13	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594405	Dec5_Cell_14	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594406	Dec5_Cell_15	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594407	Dec5_Cell_16	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594408	Dec5_Cell_17	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594409	Dec5_Cell_18	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594410	Dec5_Cell_19	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594411	Dec5_Cell_20	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594412	Dec5_Cell_21	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594413	Dec5_Cell_22	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594414	Dec5_Cell_23	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594415	Dec5_Cell_24	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594416	Dec5_Cell_25	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594417	Dec5_Cell_26	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594418	Dec5_Cell_27	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594419	Dec5_Cell_28	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594420	Dec5_Cell_29	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594421	Dec5_Cell_30	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594422	Dec5_Cell_31	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594423	Dec5_Cell_32	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594424	Dec5_Cell_33	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594425	Dec5_Cell_34	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594426	Dec5_Cell_35	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594427	Dec5_Cell_36	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594428	Dec5_Cell_37	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594429	Dec5_Cell_38	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594430	Dec5_Cell_39	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594431	Dec5_Cell_40	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594432	Dec5_Cell_41	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594433	Dec5_Cell_42	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594434	Dec5_Cell_43	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594435	Dec5_Cell_44	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594436	Dec5_Cell_45	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594437	Dec5_Cell_46	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594438	Dec5_Cell_47	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594439	Dec5_Cell_48	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594440	Dec5_Cell_49	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594441	Dec5_Cell_50	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594442	Dec5_Cell_51	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594443	Dec5_Cell_52	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594444	Dec5_Cell_53	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594445	Dec5_Cell_54	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594446	Dec5_Cell_55	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594447	Dec5_Cell_56	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594448	Dec5_Cell_57	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594449	Dec5_Cell_58	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594450	Dec5_Cell_59	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594451	Dec5_Cell_60	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594452	Dec5_Cell_61	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594453	Dec5_Cell_62	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594454	Dec5_Cell_63	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594455	Dec5_Cell_64	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594456	Dec5_Cell_65	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594457	Dec5_Cell_66	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594458	Dec5_Cell_67	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594459	Dec5_Cell_68	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594460	Dec5_Cell_69	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594461	Dec5_Cell_8	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594462	Dec5_Cell_9	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec5				1
+x	GSE126250	GSM3594463	Dec8_Cell_1	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594464	Dec8_Cell_10	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594465	Dec8_Cell_11	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594466	Dec8_Cell_12	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594467	Dec8_Cell_2	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594468	Dec8_Cell_3	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594469	Dec8_Cell_4	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594470	Dec8_Cell_5	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594471	Dec8_Cell_6	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594472	Dec8_Cell_7	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594473	Dec8_Cell_70	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594474	Dec8_Cell_71	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594475	Dec8_Cell_72	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594476	Dec8_Cell_73	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594477	Dec8_Cell_74	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594478	Dec8_Cell_75	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594479	Dec8_Cell_76	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594480	Dec8_Cell_77	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594481	Dec8_Cell_78	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594482	Dec8_Cell_79	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594483	Dec8_Cell_8	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594484	Dec8_Cell_80	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594485	Dec8_Cell_81	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594486	Dec8_Cell_82	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594487	Dec8_Cell_83	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594488	Dec8_Cell_84	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594489	Dec8_Cell_85	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594490	Dec8_Cell_86	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594491	Dec8_Cell_87	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594492	Dec8_Cell_88	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594493	Dec8_Cell_89	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594494	Dec8_Cell_9	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594495	Dec8_Cell_90	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594496	Dec8_Cell_91	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594497	Dec8_Cell_92	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594498	Dec8_Cell_93	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594499	Dec8_Cell_94	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594500	Dec8_Cell_95	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594501	Dec8_Cell_96	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Dec8				1
+x	GSE126250	GSM3594502	Feb13_Cell_1	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594503	Feb13_Cell_10	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594504	Feb13_Cell_11	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594505	Feb13_Cell_12	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594506	Feb13_Cell_13	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594507	Feb13_Cell_14	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594508	Feb13_Cell_15	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594509	Feb13_Cell_16	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594510	Feb13_Cell_17	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594511	Feb13_Cell_18	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594512	Feb13_Cell_19	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594513	Feb13_Cell_2	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594514	Feb13_Cell_20	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594515	Feb13_Cell_21	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594516	Feb13_Cell_22	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594517	Feb13_Cell_23	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594518	Feb13_Cell_24	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594519	Feb13_Cell_25	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594520	Feb13_Cell_26	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594521	Feb13_Cell_27	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594522	Feb13_Cell_28	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594523	Feb13_Cell_29	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594524	Feb13_Cell_3	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594525	Feb13_Cell_30	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594526	Feb13_Cell_31	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594527	Feb13_Cell_32	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594528	Feb13_Cell_33	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594529	Feb13_Cell_34	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594530	Feb13_Cell_35	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594531	Feb13_Cell_36	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594532	Feb13_Cell_37	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594533	Feb13_Cell_38	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594534	Feb13_Cell_39	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594535	Feb13_Cell_4	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594536	Feb13_Cell_40	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594537	Feb13_Cell_41	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594538	Feb13_Cell_42	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594539	Feb13_Cell_43	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594540	Feb13_Cell_44	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594541	Feb13_Cell_45	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594542	Feb13_Cell_46	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594543	Feb13_Cell_47	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594544	Feb13_Cell_48	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594545	Feb13_Cell_49	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594546	Feb13_Cell_5	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594547	Feb13_Cell_50	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594548	Feb13_Cell_51	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594549	Feb13_Cell_6	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594550	Feb13_Cell_7	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594551	Feb13_Cell_76	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594552	Feb13_Cell_77	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594553	Feb13_Cell_78	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594554	Feb13_Cell_79	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594555	Feb13_Cell_8	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594556	Feb13_Cell_80	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594557	Feb13_Cell_81	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594558	Feb13_Cell_82	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594559	Feb13_Cell_83	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594560	Feb13_Cell_84	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594561	Feb13_Cell_85	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594562	Feb13_Cell_86	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594563	Feb13_Cell_87	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594564	Feb13_Cell_88	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594565	Feb13_Cell_89	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594566	Feb13_Cell_9	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594567	Feb13_Cell_90	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594568	Feb13_Cell_91	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594569	Feb13_Cell_92	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594570	Feb13_Cell_93	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594571	Feb13_Cell_94	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594572	Feb13_Cell_95	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594573	Feb13_Cell_96	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb13				1
+x	GSE126250	GSM3594574	Feb22_Cell_1	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594575	Feb22_Cell_10	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594576	Feb22_Cell_11	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594577	Feb22_Cell_12	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594578	Feb22_Cell_13	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594579	Feb22_Cell_14	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594580	Feb22_Cell_15	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594581	Feb22_Cell_16	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594582	Feb22_Cell_17	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594583	Feb22_Cell_18	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594584	Feb22_Cell_19	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594585	Feb22_Cell_2	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594586	Feb22_Cell_20	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594587	Feb22_Cell_21	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594588	Feb22_Cell_22	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594589	Feb22_Cell_23	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594590	Feb22_Cell_24	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594591	Feb22_Cell_25	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594592	Feb22_Cell_26	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594593	Feb22_Cell_27	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594594	Feb22_Cell_28	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594595	Feb22_Cell_29	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594596	Feb22_Cell_3	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594597	Feb22_Cell_30	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594598	Feb22_Cell_31	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594599	Feb22_Cell_32	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594600	Feb22_Cell_33	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594601	Feb22_Cell_34	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594602	Feb22_Cell_35	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594603	Feb22_Cell_36	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594604	Feb22_Cell_37	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594605	Feb22_Cell_38	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594606	Feb22_Cell_39	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594607	Feb22_Cell_4	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594608	Feb22_Cell_40	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594609	Feb22_Cell_41	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594610	Feb22_Cell_42	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594611	Feb22_Cell_43	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594612	Feb22_Cell_44	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594613	Feb22_Cell_45	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594614	Feb22_Cell_46	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594615	Feb22_Cell_47	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594616	Feb22_Cell_48	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594617	Feb22_Cell_49	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594618	Feb22_Cell_5	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594619	Feb22_Cell_50	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594620	Feb22_Cell_51	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594621	Feb22_Cell_52	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594622	Feb22_Cell_53	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594623	Feb22_Cell_54	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594624	Feb22_Cell_55	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594625	Feb22_Cell_56	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594626	Feb22_Cell_57	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594627	Feb22_Cell_58	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594628	Feb22_Cell_59	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594629	Feb22_Cell_6	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594630	Feb22_Cell_60	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594631	Feb22_Cell_61	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594632	Feb22_Cell_62	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594633	Feb22_Cell_7	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594634	Feb22_Cell_8	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594635	Feb22_Cell_9	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb22				1
+x	GSE126250	GSM3594636	Feb29_Cell_1	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594637	Feb29_Cell_10	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594638	Feb29_Cell_11	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594639	Feb29_Cell_12	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594640	Feb29_Cell_13	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594641	Feb29_Cell_14	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594642	Feb29_Cell_15	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594643	Feb29_Cell_16	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594644	Feb29_Cell_17	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594645	Feb29_Cell_18	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594646	Feb29_Cell_19	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594647	Feb29_Cell_2	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594648	Feb29_Cell_20	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594649	Feb29_Cell_3	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594650	Feb29_Cell_4	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594651	Feb29_Cell_5	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594652	Feb29_Cell_6	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594653	Feb29_Cell_63	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594654	Feb29_Cell_64	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594655	Feb29_Cell_65	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594656	Feb29_Cell_66	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594657	Feb29_Cell_67	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594658	Feb29_Cell_68	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594659	Feb29_Cell_69	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594660	Feb29_Cell_7	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594661	Feb29_Cell_70	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594662	Feb29_Cell_71	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594663	Feb29_Cell_72	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594664	Feb29_Cell_73	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594665	Feb29_Cell_74	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594666	Feb29_Cell_75	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594667	Feb29_Cell_76	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594668	Feb29_Cell_77	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594669	Feb29_Cell_78	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594670	Feb29_Cell_79	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594671	Feb29_Cell_8	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594672	Feb29_Cell_80	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594673	Feb29_Cell_81	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594674	Feb29_Cell_82	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594675	Feb29_Cell_83	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594676	Feb29_Cell_84	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594677	Feb29_Cell_85	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594678	Feb29_Cell_86	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594679	Feb29_Cell_87	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594680	Feb29_Cell_88	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594681	Feb29_Cell_89	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594682	Feb29_Cell_9	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594683	Feb29_Cell_90	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594684	Feb29_Cell_91	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594685	Feb29_Cell_92	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594686	Feb29_Cell_93	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594687	Feb29_Cell_94	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594688	Feb29_Cell_95	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594689	Feb29_Cell_96	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Feb29				1
+x	GSE126250	GSM3594690	Jan30_Cell_13	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594691	Jan30_Cell_14	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594692	Jan30_Cell_16	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594693	Jan30_Cell_17	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594694	Jan30_Cell_18	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594695	Jan30_Cell_19	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594696	Jan30_Cell_20	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594697	Jan30_Cell_21	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594698	Jan30_Cell_22	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594699	Jan30_Cell_23	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594700	Jan30_Cell_24	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594701	Jan30_Cell_25	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594702	Jan30_Cell_26	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594703	Jan30_Cell_27	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594704	Jan30_Cell_28	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594705	Jan30_Cell_29	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594706	Jan30_Cell_30	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594707	Jan30_Cell_31	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594708	Jan30_Cell_32	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594709	Jan30_Cell_33	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594710	Jan30_Cell_34	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594711	Jan30_Cell_35	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594712	Jan30_Cell_36	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594713	Jan30_Cell_37	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594714	Jan30_Cell_38	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594715	Jan30_Cell_39	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594716	Jan30_Cell_40	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594717	Jan30_Cell_41	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594718	Jan30_Cell_42	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594719	Jan30_Cell_43	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594720	Jan30_Cell_44	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594721	Jan30_Cell_45	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594722	Jan30_Cell_46	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594723	Jan30_Cell_47	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594724	Jan30_Cell_48	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594725	Jan30_Cell_49	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594726	Jan30_Cell_50	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594727	Jan30_Cell_51	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594728	Jan30_Cell_52	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594729	Jan30_Cell_53	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594730	Jan30_Cell_54	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594731	Jan30_Cell_55	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594732	Jan30_Cell_56	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594733	Jan30_Cell_57	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594734	Jan30_Cell_58	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594735	Jan30_Cell_59	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594736	Jan30_Cell_60	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594737	Jan30_Cell_61	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594738	Jan30_Cell_62	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594739	Jan30_Cell_63	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594740	Jan30_Cell_64	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594741	Jan30_Cell_65	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594742	Jan30_Cell_66	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594743	Jan30_Cell_67	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594744	Jan30_Cell_68	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594745	Jan30_Cell_69	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594746	Jan30_Cell_70	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594747	Jan30_Cell_71	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594748	Jan30_Cell_72	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594749	Jan30_Cell_73	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594750	Jan30_Cell_74	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594751	Jan30_Cell_75	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jan30				1
+x	GSE126250	GSM3594752	Jun6_Cell_45	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594753	Jun6_Cell_46	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594754	Jun6_Cell_47	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594755	Jun6_Cell_48	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594756	Jun6_Cell_49	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594757	Jun6_Cell_50	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594758	Jun6_Cell_51	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594759	Jun6_Cell_52	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594760	Jun6_Cell_53	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594761	Jun6_Cell_54	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594762	Jun6_Cell_55	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594763	Jun6_Cell_56	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594764	Jun6_Cell_57	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594765	Jun6_Cell_58	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594766	Jun6_Cell_59	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594767	Jun6_Cell_60	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594768	Jun6_Cell_61	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594769	Jun6_Cell_62	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594770	Jun6_Cell_63	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594771	Jun6_Cell_64	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594772	Jun6_Cell_65	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594773	Jun6_Cell_66	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594774	Jun6_Cell_67	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594775	Jun6_Cell_68	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594776	Jun6_Cell_69	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594777	Jun6_Cell_70	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594778	Jun6_Cell_71	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594779	Jun6_Cell_72	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594780	Jun6_Cell_73	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594781	Jun6_Cell_74	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594782	Jun6_Cell_75	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594783	Jun6_Cell_76	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594784	Jun6_Cell_77	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594785	Jun6_Cell_78	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594786	Jun6_Cell_79	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594787	Jun6_Cell_80	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594788	Jun6_Cell_81	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594789	Jun6_Cell_82	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594790	Jun6_Cell_83	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594791	Jun6_Cell_84	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594792	Jun6_Cell_85	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594793	Jun6_Cell_86	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594794	Jun6_Cell_87	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594795	Jun6_Cell_88	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594796	Jun6_Cell_89	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594797	Jun6_Cell_90	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594798	Jun6_Cell_91	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594799	Jun6_Cell_92	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594800	Jun6_Cell_93	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594801	Jun6_Cell_94	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594802	Jun6_Cell_95	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594803	Jun6_Cell_96	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Jun6				1
+x	GSE126250	GSM3594804	Mar13_Cell_52	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594805	Mar13_Cell_53	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594806	Mar13_Cell_54	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594807	Mar13_Cell_55	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594808	Mar13_Cell_56	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594809	Mar13_Cell_57	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594810	Mar13_Cell_58	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594811	Mar13_Cell_59	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594812	Mar13_Cell_60	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594813	Mar13_Cell_61	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594814	Mar13_Cell_62	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594815	Mar13_Cell_63	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594816	Mar13_Cell_64	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594817	Mar13_Cell_65	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594818	Mar13_Cell_66	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594819	Mar13_Cell_67	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594820	Mar13_Cell_68	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594821	Mar13_Cell_69	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594822	Mar13_Cell_70	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594823	Mar13_Cell_71	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594824	Mar13_Cell_72	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594825	Mar13_Cell_73	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594826	Mar13_Cell_74	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594827	Mar13_Cell_75	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594828	Mar13_Cell_76	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594829	Mar13_Cell_77	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594830	Mar13_Cell_78	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594831	Mar13_Cell_79	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594832	Mar13_Cell_80	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594833	Mar13_Cell_81	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594834	Mar13_Cell_82	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594835	Mar13_Cell_83	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594836	Mar13_Cell_84	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594837	Mar13_Cell_85	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594838	Mar13_Cell_86	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594839	Mar13_Cell_87	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594840	Mar13_Cell_88	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594841	Mar13_Cell_89	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594842	Mar13_Cell_90	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594843	Mar13_Cell_91	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594844	Mar13_Cell_92	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594845	Mar13_Cell_93	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594846	Mar13_Cell_94	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594847	Mar13_Cell_95	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594848	Mar13_Cell_96	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar13				1
+x	GSE126250	GSM3594849	Mar21_Cell_21	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594850	Mar21_Cell_22	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594851	Mar21_Cell_23	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594852	Mar21_Cell_24	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594853	Mar21_Cell_25	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594854	Mar21_Cell_26	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594855	Mar21_Cell_27	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594856	Mar21_Cell_28	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594857	Mar21_Cell_29	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594858	Mar21_Cell_30	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594859	Mar21_Cell_31	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594860	Mar21_Cell_32	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594861	Mar21_Cell_33	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594862	Mar21_Cell_34	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594863	Mar21_Cell_35	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594864	Mar21_Cell_36	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594865	Mar21_Cell_37	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594866	Mar21_Cell_38	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594867	Mar21_Cell_39	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594868	Mar21_Cell_40	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594869	Mar21_Cell_41	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594870	Mar21_Cell_42	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594871	Mar21_Cell_43	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594872	Mar21_Cell_44	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594873	Mar21_Cell_45	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594874	Mar21_Cell_46	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar21				1
+x	GSE126250	GSM3594875	Mar27_x_x_160_Cell_1	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594876	Mar27_x_x_160_Cell_10	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594877	Mar27_x_x_160_Cell_11	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594878	Mar27_x_x_160_Cell_12	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594879	Mar27_x_x_160_Cell_13	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594880	Mar27_x_x_160_Cell_14	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594881	Mar27_x_x_160_Cell_15	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594882	Mar27_x_x_160_Cell_16	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594883	Mar27_x_x_160_Cell_17	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594884	Mar27_x_x_160_Cell_18	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594885	Mar27_x_x_160_Cell_19	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594886	Mar27_x_x_160_Cell_2	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594887	Mar27_x_x_160_Cell_20	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594888	Mar27_x_x_160_Cell_21	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594889	Mar27_x_x_160_Cell_22	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594890	Mar27_x_x_160_Cell_23	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594891	Mar27_x_x_160_Cell_24	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594892	Mar27_x_x_160_Cell_25	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594893	Mar27_x_x_160_Cell_26	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594894	Mar27_x_x_160_Cell_27	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594895	Mar27_x_x_160_Cell_28	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594896	Mar27_x_x_160_Cell_29	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594897	Mar27_x_x_160_Cell_3	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594898	Mar27_x_x_160_Cell_30	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594899	Mar27_x_x_160_Cell_31	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594900	Mar27_x_x_160_Cell_32	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594901	Mar27_x_x_160_Cell_33	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594902	Mar27_x_x_160_Cell_34	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594903	Mar27_x_x_160_Cell_35	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594904	Mar27_x_x_160_Cell_36	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594905	Mar27_x_x_160_Cell_37	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594906	Mar27_x_x_160_Cell_38	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594907	Mar27_x_x_160_Cell_39	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594908	Mar27_x_x_160_Cell_4	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594909	Mar27_x_x_160_Cell_40	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594910	Mar27_x_x_160_Cell_41	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594911	Mar27_x_x_160_Cell_42	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594912	Mar27_x_x_160_Cell_43	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594913	Mar27_x_x_160_Cell_44	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594914	Mar27_x_x_160_Cell_45	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594915	Mar27_x_x_160_Cell_46	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594916	Mar27_x_x_160_Cell_47	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594917	Mar27_x_x_160_Cell_48	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594918	Mar27_x_x_160_Cell_49	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594919	Mar27_x_x_160_Cell_5	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594920	Mar27_x_x_160_Cell_50	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594921	Mar27_x_x_160_Cell_51	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594922	Mar27_x_x_160_Cell_52	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594923	Mar27_x_x_160_Cell_53	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594924	Mar27_x_x_160_Cell_54	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594925	Mar27_x_x_160_Cell_55	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594926	Mar27_x_x_160_Cell_56	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594927	Mar27_x_x_160_Cell_57	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594928	Mar27_x_x_160_Cell_58	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594929	Mar27_x_x_160_Cell_59	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594930	Mar27_x_x_160_Cell_6	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594931	Mar27_x_x_160_Cell_60	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594932	Mar27_x_x_160_Cell_61	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594933	Mar27_x_x_160_Cell_62	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594934	Mar27_x_x_160_Cell_7	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594935	Mar27_x_x_160_Cell_8	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594936	Mar27_x_x_160_Cell_9	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594937	Mar27_x_x_161_Cell_63	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594938	Mar27_x_x_161_Cell_64	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594939	Mar27_x_x_161_Cell_65	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594940	Mar27_x_x_161_Cell_66	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594941	Mar27_x_x_161_Cell_67	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594942	Mar27_x_x_161_Cell_68	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594943	Mar27_x_x_161_Cell_69	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594944	Mar27_x_x_161_Cell_70	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594945	Mar27_x_x_161_Cell_71	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594946	Mar27_x_x_161_Cell_72	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594947	Mar27_x_x_161_Cell_73	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594948	Mar27_x_x_161_Cell_74	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594949	Mar27_x_x_161_Cell_75	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594950	Mar27_x_x_161_Cell_76	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594951	Mar27_x_x_161_Cell_77	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594952	Mar27_x_x_161_Cell_78	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594953	Mar27_x_x_161_Cell_79	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594954	Mar27_x_x_161_Cell_80	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594955	Mar27_x_x_161_Cell_81	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594956	Mar27_x_x_161_Cell_82	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594957	Mar27_x_x_161_Cell_83	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594958	Mar27_x_x_161_Cell_84	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594959	Mar27_x_x_161_Cell_85	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594960	Mar27_x_x_161_Cell_86	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594961	Mar27_x_x_161_Cell_87	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594962	Mar27_x_x_161_Cell_88	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594963	Mar27_x_x_161_Cell_89	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594964	Mar27_x_x_161_Cell_90	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594965	Mar27_x_x_161_Cell_91	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594966	Mar27_x_x_161_Cell_92	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594967	Mar27_x_x_161_Cell_93	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594968	Mar27_x_x_161_Cell_94	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594969	Mar27_x_x_161_Cell_95	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594970	Mar27_x_x_161_Cell_96	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Mar27				1
+x	GSE126250	GSM3594971	May16_Cell_1	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594972	May16_Cell_10	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594973	May16_Cell_11	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594974	May16_Cell_12	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594975	May16_Cell_13	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594976	May16_Cell_14	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594977	May16_Cell_15	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594978	May16_Cell_16	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594979	May16_Cell_17	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594980	May16_Cell_18	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594981	May16_Cell_19	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594982	May16_Cell_2	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594983	May16_Cell_20	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594984	May16_Cell_21	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594985	May16_Cell_22	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594986	May16_Cell_23	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594987	May16_Cell_24	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594988	May16_Cell_25	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594989	May16_Cell_26	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594990	May16_Cell_27	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594991	May16_Cell_28	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594992	May16_Cell_29	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594993	May16_Cell_3	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594994	May16_Cell_30	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594995	May16_Cell_31	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594996	May16_Cell_32	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594997	May16_Cell_33	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594998	May16_Cell_34	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3594999	May16_Cell_35	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595000	May16_Cell_36	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595001	May16_Cell_37	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595002	May16_Cell_38	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595003	May16_Cell_39	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595004	May16_Cell_4	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595005	May16_Cell_40	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595006	May16_Cell_41	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595007	May16_Cell_42	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595008	May16_Cell_43	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595009	May16_Cell_44	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595010	May16_Cell_5	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595011	May16_Cell_6	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595012	May16_Cell_7	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595013	May16_Cell_8	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595014	May16_Cell_9	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595015	May16_Cell_95	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595016	May16_Cell_96	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May16				1
+x	GSE126250	GSM3595017	May2_Cell_35	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595018	May2_Cell_36	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595019	May2_Cell_37	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595020	May2_Cell_38	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595021	May2_Cell_39	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595022	May2_Cell_40	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595023	May2_Cell_41	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595024	May2_Cell_42	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595025	May2_Cell_43	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595026	May2_Cell_44	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595027	May2_Cell_45	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595028	May2_Cell_46	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595029	May2_Cell_47	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595030	May2_Cell_48	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595031	May2_Cell_49	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595032	May2_Cell_50	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595033	May2_Cell_51	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595034	May2_Cell_52	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595035	May2_Cell_53	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595036	May2_Cell_54	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595037	May2_Cell_55	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595038	May2_Cell_56	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595039	May2_Cell_57	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595040	May2_Cell_58	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595041	May2_Cell_59	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595042	May2_Cell_60	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595043	May2_Cell_61	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595044	May2_Cell_62	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595045	May2_Cell_63	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595046	May2_Cell_64	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595047	May2_Cell_65	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595048	May2_Cell_66	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595049	May2_Cell_67	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595050	May2_Cell_68	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595051	May2_Cell_69	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595052	May2_Cell_70	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595053	May2_Cell_71	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595054	May2_Cell_72	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595055	May2_Cell_73	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595056	May2_Cell_74	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595057	May2_Cell_75	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595058	May2_Cell_76	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595059	May2_Cell_77	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595060	May2_Cell_78	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595061	May2_Cell_79	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595062	May2_Cell_80	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595063	May2_Cell_81	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595064	May2_Cell_82	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595065	May2_Cell_83	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595066	May2_Cell_84	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595067	May2_Cell_85	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595068	May2_Cell_86	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595069	May2_Cell_87	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595070	May2_Cell_88	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595071	May2_Cell_89	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595072	May2_Cell_90	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595073	May2_Cell_91	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595074	May2_Cell_92	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595075	May2_Cell_93	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595076	May2_Cell_94	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		May2				1
+x	GSE126250	GSM3595077	Nov10_Cell_1	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595078	Nov10_Cell_10	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595079	Nov10_Cell_11	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595080	Nov10_Cell_12	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595081	Nov10_Cell_13	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595082	Nov10_Cell_14	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595083	Nov10_Cell_15	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595084	Nov10_Cell_16	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595085	Nov10_Cell_17	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595086	Nov10_Cell_18	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595087	Nov10_Cell_19	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595088	Nov10_Cell_2	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595089	Nov10_Cell_20	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595090	Nov10_Cell_21	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595091	Nov10_Cell_22	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595092	Nov10_Cell_23	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595093	Nov10_Cell_24	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595094	Nov10_Cell_25	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595095	Nov10_Cell_26	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595096	Nov10_Cell_27	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595097	Nov10_Cell_28	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595098	Nov10_Cell_29	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595099	Nov10_Cell_3	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595100	Nov10_Cell_30	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595101	Nov10_Cell_31	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595102	Nov10_Cell_32	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595103	Nov10_Cell_33	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595104	Nov10_Cell_34	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595105	Nov10_Cell_35	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595106	Nov10_Cell_4	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595107	Nov10_Cell_5	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595108	Nov10_Cell_6	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595109	Nov10_Cell_65	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595110	Nov10_Cell_66	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595111	Nov10_Cell_67	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595112	Nov10_Cell_68	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595113	Nov10_Cell_69	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595114	Nov10_Cell_7	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595115	Nov10_Cell_70	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595116	Nov10_Cell_71	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595117	Nov10_Cell_72	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595118	Nov10_Cell_73	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595119	Nov10_Cell_74	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595120	Nov10_Cell_75	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595121	Nov10_Cell_76	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595122	Nov10_Cell_77	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595123	Nov10_Cell_78	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595124	Nov10_Cell_79	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595125	Nov10_Cell_8	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595126	Nov10_Cell_80	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595127	Nov10_Cell_81	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595128	Nov10_Cell_82	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595129	Nov10_Cell_83	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595130	Nov10_Cell_84	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595131	Nov10_Cell_85	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595132	Nov10_Cell_86	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595133	Nov10_Cell_87	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595134	Nov10_Cell_88	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595135	Nov10_Cell_89	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595136	Nov10_Cell_9	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595137	Nov10_Cell_90	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595138	Nov10_Cell_91	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595139	Nov10_Cell_92	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595140	Nov10_Cell_93	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595141	Nov10_Cell_94	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595142	Nov10_Cell_95	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595143	Nov10_Cell_96	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov10				1
+x	GSE126250	GSM3595144	Nov14_Cell_36	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595145	Nov14_Cell_37	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595146	Nov14_Cell_38	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595147	Nov14_Cell_39	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595148	Nov14_Cell_40	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595149	Nov14_Cell_41	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595150	Nov14_Cell_42	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595151	Nov14_Cell_43	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595152	Nov14_Cell_44	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595153	Nov14_Cell_45	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595154	Nov14_Cell_46	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595155	Nov14_Cell_47	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595156	Nov14_Cell_48	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595157	Nov14_Cell_49	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595158	Nov14_Cell_50	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595159	Nov14_Cell_51	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595160	Nov14_Cell_52	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595161	Nov14_Cell_53	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595162	Nov14_Cell_54	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595163	Nov14_Cell_55	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595164	Nov14_Cell_56	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595165	Nov14_Cell_57	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595166	Nov14_Cell_58	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov14				1
+x	GSE126250	GSM3595167	Nov28_Cell_1	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595168	Nov28_Cell_10	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595169	Nov28_Cell_11	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595170	Nov28_Cell_12	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595171	Nov28_Cell_13	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595172	Nov28_Cell_14	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595173	Nov28_Cell_15	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595174	Nov28_Cell_16	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595175	Nov28_Cell_17	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595176	Nov28_Cell_18	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595177	Nov28_Cell_19	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595178	Nov28_Cell_2	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595179	Nov28_Cell_20	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595180	Nov28_Cell_21	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595181	Nov28_Cell_22	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595182	Nov28_Cell_23	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595183	Nov28_Cell_24	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595184	Nov28_Cell_25	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595185	Nov28_Cell_26	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595186	Nov28_Cell_27	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595187	Nov28_Cell_28	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595188	Nov28_Cell_29	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595189	Nov28_Cell_3	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595190	Nov28_Cell_30	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595191	Nov28_Cell_31	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595192	Nov28_Cell_32	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595193	Nov28_Cell_33	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595194	Nov28_Cell_34	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595195	Nov28_Cell_35	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595196	Nov28_Cell_36	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595197	Nov28_Cell_37	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595198	Nov28_Cell_38	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595199	Nov28_Cell_39	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595200	Nov28_Cell_4	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595201	Nov28_Cell_40	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595202	Nov28_Cell_41	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595203	Nov28_Cell_42	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595204	Nov28_Cell_5	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595205	Nov28_Cell_59	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595206	Nov28_Cell_6	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595207	Nov28_Cell_60	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595208	Nov28_Cell_61	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595209	Nov28_Cell_62	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595210	Nov28_Cell_63	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595211	Nov28_Cell_64	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595212	Nov28_Cell_65	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595213	Nov28_Cell_66	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595214	Nov28_Cell_67	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595215	Nov28_Cell_68	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595216	Nov28_Cell_69	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595217	Nov28_Cell_7	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595218	Nov28_Cell_70	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595219	Nov28_Cell_71	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595220	Nov28_Cell_72	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595221	Nov28_Cell_73	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595222	Nov28_Cell_74	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595223	Nov28_Cell_75	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595224	Nov28_Cell_76	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595225	Nov28_Cell_77	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595226	Nov28_Cell_78	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595227	Nov28_Cell_79	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595228	Nov28_Cell_8	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595229	Nov28_Cell_80	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595230	Nov28_Cell_81	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595231	Nov28_Cell_82	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595232	Nov28_Cell_83	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595233	Nov28_Cell_84	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595234	Nov28_Cell_85	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595235	Nov28_Cell_86	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595236	Nov28_Cell_87	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595237	Nov28_Cell_88	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595238	Nov28_Cell_89	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595239	Nov28_Cell_9	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595240	Nov28_Cell_90	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595241	Nov28_Cell_91	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595242	Nov28_Cell_92	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595243	Nov28_Cell_93	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595244	Nov28_Cell_94	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595245	Nov28_Cell_95	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595246	Nov28_Cell_96	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Nov28				1
+x	GSE126250	GSM3595247	Oct24_Cell_1	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595248	Oct24_Cell_10	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595249	Oct24_Cell_11	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595250	Oct24_Cell_12	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595251	Oct24_Cell_13	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595252	Oct24_Cell_14	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595253	Oct24_Cell_15	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595254	Oct24_Cell_16	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595255	Oct24_Cell_17	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595256	Oct24_Cell_18	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595257	Oct24_Cell_19	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595258	Oct24_Cell_2	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595259	Oct24_Cell_20	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595260	Oct24_Cell_21	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595261	Oct24_Cell_22	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595262	Oct24_Cell_23	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595263	Oct24_Cell_24	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595264	Oct24_Cell_25	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595265	Oct24_Cell_26	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595266	Oct24_Cell_27	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595267	Oct24_Cell_28	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595268	Oct24_Cell_29	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595269	Oct24_Cell_3	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595270	Oct24_Cell_30	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595271	Oct24_Cell_31	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595272	Oct24_Cell_32	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595273	Oct24_Cell_33	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595274	Oct24_Cell_34	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595275	Oct24_Cell_35	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595276	Oct24_Cell_36	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595277	Oct24_Cell_37	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595278	Oct24_Cell_38	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595279	Oct24_Cell_39	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595280	Oct24_Cell_4	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595281	Oct24_Cell_40	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595282	Oct24_Cell_41	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595283	Oct24_Cell_42	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595284	Oct24_Cell_43	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595285	Oct24_Cell_44	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595286	Oct24_Cell_45	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595287	Oct24_Cell_46	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595288	Oct24_Cell_47	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595289	Oct24_Cell_48	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595290	Oct24_Cell_49	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595291	Oct24_Cell_5	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595292	Oct24_Cell_50	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595293	Oct24_Cell_51	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595294	Oct24_Cell_52	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595295	Oct24_Cell_53	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595296	Oct24_Cell_54	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595297	Oct24_Cell_55	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595298	Oct24_Cell_56	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595299	Oct24_Cell_57	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595300	Oct24_Cell_58	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595301	Oct24_Cell_59	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595302	Oct24_Cell_6	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595303	Oct24_Cell_60	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595304	Oct24_Cell_61	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595305	Oct24_Cell_62	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595306	Oct24_Cell_63	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595307	Oct24_Cell_64	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595308	Oct24_Cell_7	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595309	Oct24_Cell_8	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+x	GSE126250	GSM3595310	Oct24_Cell_9	healthy	tissue	single-cell RNA-seq, esophagus biopsy	NA	NA		Oct24				1
+	GSE148381	GSM4485345	N100	eosinophilic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485319	N101	eosinophilic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485320	N102	eosinophilic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485318	N103	eosinophilic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485321	N104	eosinophilic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485341	N105	eosinophilic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485342	N106	eosinophilic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485343	N110	eosinophilic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485344	N98	eosinophilic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485317	N99	eosinophilic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485304	N1	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485305	N152	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485352	N17	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485308	N191	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485333	N192	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485306	N27	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485330	N29	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485331	N32	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485332	N44	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485328	N45	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485307	N57	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485353	N62	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485354	N76	eosinophilic esophagitis-like esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485322	N117	gastroesophageal reflux disease	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485346	N118	gastroesophageal reflux disease	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485324	N119	gastroesophageal reflux disease	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485323	N120	gastroesophageal reflux disease	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485347	N122	gastroesophageal reflux disease	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485348	N124	gastroesophageal reflux disease	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485325	N130	healthy	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485326	N131	healthy	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485349	N132	healthy	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485327	N133	healthy	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485350	N134	healthy	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485329	N136	healthy	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485351	N137	healthy	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485314	N13	lymphocytic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485339	N187	lymphocytic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485340	N202	lymphocytic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485315	N36	lymphocytic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485316	N51	lymphocytic esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485310	N10	non-specific esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485311	N12	non-specific esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485312	N14	non-specific esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485313	N28	non-specific esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485334	N30	non-specific esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485335	N37	non-specific esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485336	N41	non-specific esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485337	N42	non-specific esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485338	N47	non-specific esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE148381	GSM4485309	N8	non-specific esophagitis	tissue	esophageal biopsy	NA	NA						1
+	GSE156651	GSM4735789	patient_1	healthy	whole blood	whole blood	38	NA						1
+	GSE156651	GSM4735799	patient_1	healthy	tissue	esophagus	38	NA						1
+	GSE156651	GSM4735788	patient_10	healthy	whole blood	whole blood	39	NA						1
+	GSE156651	GSM4735798	patient_10	healthy	tissue	esophagus	39	NA						1
+	GSE156651	GSM4735792	patient_11	eosinophilic esophagitis	whole blood	whole blood	32	NA						1
+	GSE156651	GSM4735802	patient_11	eosinophilic esophagitis	tissue	esophagus	32	NA						1
+	GSE156651	GSM4735794	patient_12	eosinophilic esophagitis	whole blood	whole blood	25	NA						1
+	GSE156651	GSM4735804	patient_12	eosinophilic esophagitis	tissue	esophagus	25	NA						1
+	GSE156651	GSM4735791	patient_13	healthy	whole blood	whole blood	65	NA						1
+	GSE156651	GSM4735801	patient_13	healthy	tissue	esophagus	65	NA						1
+	GSE156651	GSM4735785	patient_2	eosinophilic esophagitis	whole blood	whole blood	75	NA						1
+	GSE156651	GSM4735795	patient_2	eosinophilic esophagitis	tissue	esophagus	75	NA						1
+	GSE156651	GSM4735787	patient_5	eosinophilic esophagitis	whole blood	whole blood	34	NA						1
+	GSE156651	GSM4735797	patient_5	eosinophilic esophagitis	tissue	esophagus	34	NA						1
+	GSE156651	GSM4735790	patient_6	healthy	whole blood	whole blood	60	NA						1
+	GSE156651	GSM4735800	patient_6	healthy	tissue	esophagus	60	NA						1
+	GSE156651	GSM4735786	patient_7	lymphocytic esophagitis	whole blood	whole blood	67	NA						1
+	GSE156651	GSM4735796	patient_7	lymphocytic esophagitis	tissue	esophagus	67	NA						1
+	GSE156651	GSM4735793	patient_8	eosinophilic esophagitis	whole blood	whole blood	51	NA						1
+	GSE156651	GSM4735803	patient_8	eosinophilic esophagitis	tissue	esophagus	51	NA						1
+	GSE175930	GSM5351381	P249	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus	NA	NA				seq-well		1
+	GSE175930	GSM5351382	P249	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, duodenum	NA	NA				seq-well		1
+	GSE175930	GSM5351385	P292	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus	NA	NA				seq-well		1
+	GSE175930	GSM5351386	P292	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, duodenum	NA	NA				seq-well		1
+	GSE175930	GSM5394603	P292	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161+			seq-well		1
+	GSE175930	GSM5394604	P292	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161-			seq-well		1
+	GSE175930	GSM5394605	P292	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2-  CD161-			seq-well		1
+	GSE175930	GSM5351371	P354	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus	NA	NA				seq-well		1
+	GSE175930	GSM5351372	P354	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, duodenum	NA	NA				seq-well		1
+	GSE175930	GSM5394606	P354	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161+			seq-well		1
+	GSE175930	GSM5394607	P354	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161-			seq-well		1
+	GSE175930	GSM5394608	P354	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2-  CD161-			seq-well		1
+	GSE175930	GSM5351387	P355	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus	NA	NA				seq-well		1
+	GSE175930	GSM5351388	P355	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, duodenum	NA	NA				seq-well		1
+	GSE175930	GSM5394609	P355	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161+			seq-well		1
+	GSE175930	GSM5394610	P355	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161-			seq-well		1
+	GSE175930	GSM5394611	P355	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2-  CD161-			seq-well		1
+	GSE175930	GSM5351383	P392	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus	NA	NA				seq-well		1
+	GSE175930	GSM5351384	P392	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, duodenum	NA	NA				seq-well		1
+	GSE175930	GSM5394612	P392	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161+			seq-well		1
+	GSE175930	GSM5394613	P392	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161-			seq-well		1
+	GSE175930	GSM5394614	P392	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2-  CD161-			seq-well		1
+	GSE175930	GSM5351375	P451	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus	NA	NA				seq-well		1
+	GSE175930	GSM5351376	P451	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, duodenum	NA	NA				seq-well		1
+	GSE175930	GSM5394615	P451	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161+			seq-well		1
+	GSE175930	GSM5394616	P451	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161-			seq-well		1
+	GSE175930	GSM5394617	P451	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2-  CD161-			seq-well		1
+	GSE175930	GSM5351373	P468	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophagus	NA	NA				seq-well		1
+	GSE175930	GSM5351374	P468	eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, duodenum	NA	NA				seq-well		1
+	GSE175930	GSM5394618	P468	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161+			seq-well		1
+	GSE175930	GSM5394619	P468	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161-			seq-well		1
+	GSE175930	GSM5394620	P468	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2-  CD161-			seq-well		1
+	GSE175930	GSM5351369	P471	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus	NA	NA				seq-well		1
+	GSE175930	GSM5351370	P471	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, duodenum	NA	NA				seq-well		1
+	GSE175930	GSM5351377	P474	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus	NA	NA				seq-well		1
+	GSE175930	GSM5351378	P474	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, duodenum	NA	NA				seq-well		1
+	GSE175930	GSM5394621	P474	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161+			seq-well		1
+	GSE175930	GSM5394622	P474	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161-			seq-well		1
+	GSE175930	GSM5394623	P474	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2-  CD161-			seq-well		1
+	GSE175930	GSM5351379	P475	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophagus	NA	NA				seq-well		1
+	GSE175930	GSM5351380	P475	eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, duodenum	NA	NA				seq-well		1
+	GSE175930	GSM5394624	P475	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161+			seq-well		1
+	GSE175930	GSM5394625	P475	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2+  CD161-			seq-well		1
+	GSE175930	GSM5394626	P475	eosinophilic esophagitis	PBMCs	single-cell RNA-seq, blood	NA	NA	CRTH2-  CD161-			seq-well		1
+x	GSE201153	GSM6051736		eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophageal biopsy	NA	NA						1
+x	GSE201153	GSM6051739		eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophageal biopsy	NA	NA						1
+x	GSE201153	GSM6051741		eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophageal biopsy	NA	NA						1
+x	GSE201153	GSM6051742		eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophageal biopsy	NA	NA						1
+x	GSE201153	GSM6051744		eosinophilic esophagitis (active)	tissue	single-cell RNA-seq, esophageal biopsy	NA	NA						1
+x	GSE201153	GSM6051738		healthy	tissue	single-cell RNA-seq, esophageal biopsy	NA	NA						1
+x	GSE201153	GSM6051743		healthy	tissue	single-cell RNA-seq, esophageal biopsy	NA	NA						1
+x	GSE201153	GSM6051737		eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophageal biopsy	NA	NA						1
+x	GSE201153	GSM6051740		eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophageal biopsy	NA	NA						1
+x	GSE201153	GSM6051745		eosinophilic esophagitis (remission)	tissue	single-cell RNA-seq, esophageal biopsy	NA	NA						1
+	GSE41687	GSM1022678	subj_1	eosinophilic esophagitis	tissue	proximal esophagus	NA	M						1
+	GSE41687	GSM1022679	subj_2	eosinophilic esophagitis	tissue	proximal esophagus	NA	M						1
+	GSE41687	GSM1022680	subj_3	eosinophilic esophagitis	tissue	proximal esophagus	NA	M						1
+	GSE41687	GSM1022681	subj_1	eosinophilic esophagitis	tissue	distal esophagus	NA	M						1
+	GSE41687	GSM1022682	subj_2	eosinophilic esophagitis	tissue	distal esophagus	NA	M						1
+	GSE41687	GSM1022683	subj_3	eosinophilic esophagitis	tissue	distal esophagus	NA	M						1
+	GSE41687	GSM1022684	subj_4	gastroesophageal reflux disease	tissue	proximal esophagus	NA	M						1
+	GSE41687	GSM1022685	subj_5	gastroesophageal reflux disease	tissue	proximal esophagus	NA	M						1
+	GSE41687	GSM1022686	subj_6	gastroesophageal reflux disease	tissue	proximal esophagus	NA	M						1
+	GSE41687	GSM1022687	subj_4	gastroesophageal reflux disease	tissue	distal esophagus	NA	M						1
+	GSE41687	GSM1022688	subj_5	gastroesophageal reflux disease	tissue	distal esophagus	NA	M						1
+	GSE41687	GSM1022689	subj_6	gastroesophageal reflux disease	tissue	distal esophagus	NA	M						1
+	GSE41687	GSM1022690	h1	healthy	tissue	proximal esophagus	NA	M						1
+	GSE41687	GSM1022691	h2	healthy	tissue	proximal esophagus	NA	M						1
+	GSE41687	GSM1022692	h3	healthy	tissue	proximal esophagus	NA	M						1
+	GSE41687	GSM1022693	h1	healthy	tissue	distal esophagus	NA	M						1
+	GSE41687	GSM1022694	h2	healthy	tissue	distal esophagus	NA	M						1
+	GSE41687	GSM1022695	h3	healthy	tissue	distal esophagus	NA	M						1
+	GSE58640	GSM1415906	subj_168	healthy	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415907	subj_461	healthy	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415908	subj_508	healthy	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415909	subj_520	healthy	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415910	subj_527	healthy	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415911	subj_609	healthy	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415912	subj_333	eosinophilic esophagitis (active)	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415913	subj_334	eosinophilic esophagitis (active)	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415914	subj_424	eosinophilic esophagitis (active)	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415915	subj_513	eosinophilic esophagitis (active)	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415916	subj_594	eosinophilic esophagitis (active)	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415917	subj_692	eosinophilic esophagitis (active)	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415918	subj_713	eosinophilic esophagitis (active)	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415919	subj_723	eosinophilic esophagitis (active)	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415920	subj_778	eosinophilic esophagitis (active)	tissue	esophagus	NA	NA						1
+	GSE58640	GSM1415921	subj_803	eosinophilic esophagitis (active)	tissue	esophagus	NA	NA						1
+	GSE8853	GSM220152	s1	eosinophilic esophagitis	tissue	esophagus	NA	NA	cultured primary epithelial cell	unstimulated				1
+	GSE8853	GSM220153	s1	eosinophilic esophagitis	tissue	esophagus	NA	NA	cultured primary epithelial cell	stimulated	IL-13			1
+	GSE8853	GSM220154	s2	eosinophilic esophagitis	tissue	esophagus	NA	NA	cultured primary epithelial cell	unstimulated				1
+	GSE8853	GSM220155	s2	eosinophilic esophagitis	tissue	esophagus	NA	NA	cultured primary epithelial cell	stimulated	IL-13			1
+	GSE8853	GSM220156	s3	eosinophilic esophagitis	tissue	esophagus	NA	NA	cultured primary epithelial cell	unstimulated				1
+	GSE8853	GSM220157	s3	eosinophilic esophagitis	tissue	esophagus	NA	NA	cultured primary epithelial cell	stimulated	IL-13			1
+	GSE36725	GSM899801	EE-1	eosinophilic esophagitis	tissue	esophageal epithelium	NA	NA		post	glucocorticoid steroid		GSE36727	1
+	GSE36725	GSM899803	EE-2	eosinophilic esophagitis	tissue	esophageal epithelium	NA	NA		post	glucocorticoid steroid		GSE36727	1
+	GSE36725	GSM899805	EE-4	eosinophilic esophagitis	tissue	esophageal epithelium	NA	NA		post	glucocorticoid steroid		GSE36727	1
+	GSE36725	GSM899807	EE-5	eosinophilic esophagitis	tissue	esophageal epithelium	NA	NA		post	glucocorticoid steroid		GSE36727	1
+	GSE36725	GSM899809	EE-6	eosinophilic esophagitis	tissue	esophageal epithelium	NA	NA		post	glucocorticoid steroid		GSE36727	1
+	GSE36725	GSM899800	EE-1	eosinophilic esophagitis	tissue	esophageal epithelium	NA	NA		pre			GSE36727	1
+	GSE36725	GSM899802	EE-2	eosinophilic esophagitis	tissue	esophageal epithelium	NA	NA		pre			GSE36727	1
+	GSE36725	GSM899804	EE-4	eosinophilic esophagitis	tissue	esophageal epithelium	NA	NA		pre			GSE36727	1
+	GSE36725	GSM899806	EE-5	eosinophilic esophagitis	tissue	esophageal epithelium	NA	NA		pre			GSE36727	1
+	GSE36725	GSM899808	EE-6	eosinophilic esophagitis	tissue	esophageal epithelium	NA	NA		pre			GSE36727	1

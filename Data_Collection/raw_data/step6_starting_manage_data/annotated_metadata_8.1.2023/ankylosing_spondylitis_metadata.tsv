@@ -1,0 +1,442 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	channel_count
+NA	GSE141646	GSM4210424	A0008	ankylosing spondylitis	PBMCs	blood	59	F	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210425	A0008	ankylosing spondylitis	PBMCs	blood	55	F	NA	pre		1
+NA	GSE141646	GSM4210416	A0069	ankylosing spondylitis	PBMCs	blood	48	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210431	A0069	ankylosing spondylitis	PBMCs	blood	48	M	NA	pre		1
+NA	GSE141646	GSM4210419	A0070	ankylosing spondylitis	PBMCs	blood	58	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210444	A0070	ankylosing spondylitis	PBMCs	blood	55	M	NA	pre		1
+NA	GSE141646	GSM4210422	A0075	ankylosing spondylitis	PBMCs	blood	44	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210457	A0075	ankylosing spondylitis	PBMCs	blood	41	M	NA	pre		1
+NA	GSE141646	GSM4210458	A0076	ankylosing spondylitis	PBMCs	blood	40	F	NA	pre		1
+NA	GSE141646	GSM4210423	A0076	ankylosing spondylitis	PBMCs	blood	47	F	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210415	A0079	ankylosing spondylitis	PBMCs	blood	55	F	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210426	A0079	ankylosing spondylitis	PBMCs	blood	50	F	NA	pre		1
+NA	GSE141646	GSM4210427	A0086	ankylosing spondylitis	PBMCs	blood	49	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210428	A0086	ankylosing spondylitis	PBMCs	blood	45	M	NA	pre		1
+NA	GSE141646	GSM4210429	A0111	ankylosing spondylitis	PBMCs	blood	28	F	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210430	A0111	ankylosing spondylitis	PBMCs	blood	24	F	NA	pre		1
+NA	GSE141646	GSM4210417	A0117	ankylosing spondylitis	PBMCs	blood	40	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210432	A0117	ankylosing spondylitis	PBMCs	blood	36	M	NA	pre		1
+NA	GSE141646	GSM4210418	A0120	ankylosing spondylitis	PBMCs	blood	67	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210433	A0120	ankylosing spondylitis	PBMCs	blood	67	M	NA	pre		1
+NA	GSE141646	GSM4210434	A0124	ankylosing spondylitis	PBMCs	blood	41	M	NA	pre		1
+NA	GSE141646	GSM4210435	A0124	ankylosing spondylitis	PBMCs	blood	42	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210436	A0126	ankylosing spondylitis	PBMCs	blood	42	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210437	A0126	ankylosing spondylitis	PBMCs	blood	39	M	NA	pre		1
+NA	GSE141646	GSM4210438	A0128	ankylosing spondylitis	PBMCs	blood	36	M	NA	pre		1
+NA	GSE141646	GSM4210439	A0128	ankylosing spondylitis	PBMCs	blood	37	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210440	A0283	ankylosing spondylitis	PBMCs	blood	24	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210441	A0283	ankylosing spondylitis	PBMCs	blood	20	M	NA	pre		1
+NA	GSE141646	GSM4210442	A0292	ankylosing spondylitis	PBMCs	blood	39	F	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210443	A0292	ankylosing spondylitis	PBMCs	blood	38	F	NA	pre		1
+NA	GSE141646	GSM4210420	A0301	ankylosing spondylitis	PBMCs	blood	40	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210445	A0301	ankylosing spondylitis	PBMCs	blood	39	M	NA	pre		1
+NA	GSE141646	GSM4210447	A0323	ankylosing spondylitis	PBMCs	blood	59	M	NA	pre		1
+NA	GSE141646	GSM4210446	A0323	ankylosing spondylitis	PBMCs	blood	62	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210448	A0331	ankylosing spondylitis	PBMCs	blood	57	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210449	A0331	ankylosing spondylitis	PBMCs	blood	54	M	NA	pre		1
+NA	GSE141646	GSM4210450	A0334	ankylosing spondylitis	PBMCs	blood	65	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210451	A0334	ankylosing spondylitis	PBMCs	blood	64	M	NA	pre		1
+NA	GSE141646	GSM4210452	A0368	ankylosing spondylitis	PBMCs	blood	33	F	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210453	A0368	ankylosing spondylitis	PBMCs	blood	33	F	NA	pre		1
+NA	GSE141646	GSM4210454	A0369	ankylosing spondylitis	PBMCs	blood	36	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210455	A0369	ankylosing spondylitis	PBMCs	blood	35	M	NA	pre		1
+NA	GSE141646	GSM4210421	A0370	ankylosing spondylitis	PBMCs	blood	52	M	NA	post	TNF-alfa	1
+NA	GSE141646	GSM4210456	A0370	ankylosing spondylitis	PBMCs	blood	50	M	NA	pre		1
+NA	GSE181364	GSM5501061	patient_1	ankylosing spondylitis	whole blood	whole blood	NA	NA	NA			1
+NA	GSE181364	GSM5501062	patient_2	ankylosing spondylitis	whole blood	whole blood	NA	NA	NA			1
+NA	GSE181364	GSM5501063	patient_3	ankylosing spondylitis	whole blood	whole blood	NA	NA	NA			1
+NA	GSE181364	GSM5501064	patient_4	ankylosing spondylitis	whole blood	whole blood	NA	NA	NA			1
+NA	GSE181364	GSM5501065	patient_5	ankylosing spondylitis	whole blood	whole blood	NA	NA	NA			1
+NA	GSE181364	GSM5501066	healthy_1	healthy	whole blood	whole blood	NA	NA	NA			1
+NA	GSE181364	GSM5501067	healthy_2	healthy	whole blood	whole blood	NA	NA	NA			1
+NA	GSE181364	GSM5501068	healthy_3	healthy	whole blood	whole blood	NA	NA	NA			1
+NA	GSE205812	GSM6231066	AS 1	ankylosing spondylitis	serum	blood	NA	NA	NA			1
+NA	GSE205812	GSM6231067	AS 2	ankylosing spondylitis	serum	blood	NA	NA	NA			1
+NA	GSE205812	GSM6231068	AS 3	ankylosing spondylitis	serum	blood	NA	NA	NA			1
+NA	GSE205812	GSM6231069	NC 1	healthy	serum	blood	NA	NA	NA			1
+NA	GSE205812	GSM6231070	NC 2	healthy	serum	blood	NA	NA	NA			1
+NA	GSE205812	GSM6231071	NC 3	healthy	serum	blood	NA	NA	NA			1
+NA	GSE25101	GSM616668	patient_1	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616669	patient_2	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616670	patient_3	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616671	patient_4	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616672	patient_5	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616673	patient_6	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616674	patient_7	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616675	patient_8	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616676	patient_9	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616677	patient_10	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616678	patient_11	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616679	patient_12	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616680	patient_13	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616681	patient_14	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616682	patient_15	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616683	patient_16	ankylosing spondylitis	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616684	control_1	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616685	control_2	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616686	control_3	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616687	control_4	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616688	control_5	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616689	control_6	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616690	control_7	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616691	control_8	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616692	control_9	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616693	control_10	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616694	control_11	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616695	control_12	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616696	control_13	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616697	control_14	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616698	control_15	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE25101	GSM616699	control_16	healthy	whole blood	whole blood	NA	NA	PBMCs			1
+NA	GSE39340	GSM966264	E1	rheumatoid arthritis	tissue	synovial membrane	56	F	NA			1
+NA	GSE39340	GSM966270	E10	rheumatoid arthritis	tissue	synovial membrane	52	F	NA			1
+NA	GSE39340	GSM966252	E11	ankylosing spondylitis	tissue	synovial membrane	35	F	NA			1
+NA	GSE39340	GSM966253	E12	ankylosing spondylitis	tissue	synovial membrane	28	M	NA			1
+NA	GSE39340	GSM966256	E14	ankylosing spondylitis	tissue	synovial membrane	33	M	NA			1
+NA	GSE39340	GSM966257	E15	osteoarthritis	tissue	synovial membrane	58	F	NA			1
+NA	GSE39340	GSM966258	E16	osteoarthritis	tissue	synovial membrane	62	F	NA			1
+NA	GSE39340	GSM966259	E17	osteoarthritis	tissue	synovial membrane	49	F	NA			1
+NA	GSE39340	GSM966260	E19	osteoarthritis	tissue	synovial membrane	61	F	NA			1
+NA	GSE39340	GSM966265	E2	rheumatoid arthritis	tissue	synovial membrane	52	M	NA			1
+NA	GSE39340	GSM966261	E23	osteoarthritis	tissue	synovial membrane	48	M	NA			1
+NA	GSE39340	GSM966262	E24	osteoarthritis	tissue	synovial membrane	53	M	NA			1
+NA	GSE39340	GSM966263	E26	osteoarthritis	tissue	synovial membrane	47	F	NA			1
+NA	GSE39340	GSM966254	E27	ankylosing spondylitis	tissue	synovial membrane	28	M	NA			1
+NA	GSE39340	GSM966255	E28	ankylosing spondylitis	tissue	synovial membrane	55	F	NA			1
+NA	GSE39340	GSM966271	E29	rheumatoid arthritis	tissue	synovial membrane	53	F	NA			1
+NA	GSE39340	GSM966266	E3	rheumatoid arthritis	tissue	synovial membrane	50	F	NA			1
+NA	GSE39340	GSM966272	E30	rheumatoid arthritis	tissue	synovial membrane	60	F	NA			1
+NA	GSE39340	GSM966273	E31	rheumatoid arthritis	tissue	synovial membrane	64	F	NA			1
+NA	GSE39340	GSM966267	E5	rheumatoid arthritis	tissue	synovial membrane	72	F	NA			1
+NA	GSE39340	GSM966268	E6	rheumatoid arthritis	tissue	synovial membrane	15	M	NA			1
+NA	GSE39340	GSM966269	E7	rheumatoid arthritis	tissue	synovial membrane	43	M	NA			1
+NA	GSE41038	GSM1007859	4616726057_F	ankylosing spondylitis	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007849	4616726055_A	healthy	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007850	4616726055_B	healthy	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007856	4616726057_A	healthy	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007857	4616726057_D	healthy	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007852	4616726055_E	osteoarthritis	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007853	4616726055_F	osteoarthritis	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007858	4616726057_E	osteoarthritis	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007851	4616726055_C	spondyloarthropy (seronegative)	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007854	4616726055_G	spondyloarthropy (seronegative)	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007855	4616726055_H	spondyloarthropy (seronegative)	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007860	4616726057_G	spondyloarthropy (seronegative)	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007861	4616726057_H	spondyloarthropy (seronegative)	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007862	4616726060_B	spondyloarthropy (seronegative)	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE41038	GSM1007863	4616726060_C	spondyloarthropy (seronegative)	tissue	synovium, knee	NA	NA	NA			1
+NA	GSE73754	GSM1902130	9963831033_D	ankylosing spondylitis	whole blood	whole blood	53	M	NA			1
+NA	GSE73754	GSM1902131	9965280034_B	ankylosing spondylitis	whole blood	whole blood	26	M	NA			1
+NA	GSE73754	GSM1902132	9963831032_I	ankylosing spondylitis	whole blood	whole blood	29	M	NA			1
+NA	GSE73754	GSM1902133	9963831051_A	ankylosing spondylitis	whole blood	whole blood	50	M	NA			1
+NA	GSE73754	GSM1902134	9963831032_L	ankylosing spondylitis	whole blood	whole blood	35	M	NA			1
+NA	GSE73754	GSM1902135	9963831033_C	ankylosing spondylitis	whole blood	whole blood	48	M	NA			1
+NA	GSE73754	GSM1902136	9963831032_F	ankylosing spondylitis	whole blood	whole blood	18	M	NA			1
+NA	GSE73754	GSM1902137	9963831045_H	ankylosing spondylitis	whole blood	whole blood	39	M	NA			1
+NA	GSE73754	GSM1902139	9963831033_B	ankylosing spondylitis	whole blood	whole blood	43	M	NA			1
+NA	GSE73754	GSM1902140	9965280090_C	ankylosing spondylitis	whole blood	whole blood	43	M	NA			1
+NA	GSE73754	GSM1902141	9963831033_A	ankylosing spondylitis	whole blood	whole blood	18	M	NA			1
+NA	GSE73754	GSM1902142	9963831045_F	ankylosing spondylitis	whole blood	whole blood	59	M	NA			1
+NA	GSE73754	GSM1902143	9963831033_E	ankylosing spondylitis	whole blood	whole blood	51	M	NA			1
+NA	GSE73754	GSM1902144	9965280090_H	ankylosing spondylitis	whole blood	whole blood	18	M	NA			1
+NA	GSE73754	GSM1902145	9963831051_B	ankylosing spondylitis	whole blood	whole blood	45	M	NA			1
+NA	GSE73754	GSM1902146	9963831051_G	ankylosing spondylitis	whole blood	whole blood	52	M	NA			1
+NA	GSE73754	GSM1902147	9963831033_F	ankylosing spondylitis	whole blood	whole blood	77	M	NA			1
+NA	GSE73754	GSM1902148	9963831033_H	ankylosing spondylitis	whole blood	whole blood	34	M	NA			1
+NA	GSE73754	GSM1902149	9965280090_G	ankylosing spondylitis	whole blood	whole blood	31	M	NA			1
+NA	GSE73754	GSM1902150	9963831045_K	ankylosing spondylitis	whole blood	whole blood	51	M	NA			1
+NA	GSE73754	GSM1902151	9965280090_J	ankylosing spondylitis	whole blood	whole blood	23	M	NA			1
+NA	GSE73754	GSM1902152	9965280090_I	ankylosing spondylitis	whole blood	whole blood	52	F	NA			1
+NA	GSE73754	GSM1902153	9963831051_F	ankylosing spondylitis	whole blood	whole blood	46	F	NA			1
+NA	GSE73754	GSM1902154	9965280034_L	ankylosing spondylitis	whole blood	whole blood	40	F	NA			1
+NA	GSE73754	GSM1902155	9965280090_L	ankylosing spondylitis	whole blood	whole blood	55	M	NA			1
+NA	GSE73754	GSM1902156	9965280090_D	ankylosing spondylitis	whole blood	whole blood	54	F	NA			1
+NA	GSE73754	GSM1902157	9965280090_A	ankylosing spondylitis	whole blood	whole blood	41	F	NA			1
+NA	GSE73754	GSM1902158	9963831045_G	ankylosing spondylitis	whole blood	whole blood	38	F	NA			1
+NA	GSE73754	GSM1902159	9963831051_E	ankylosing spondylitis	whole blood	whole blood	45	F	NA			1
+NA	GSE73754	GSM1902160	9965280034_F	ankylosing spondylitis	whole blood	whole blood	52	F	NA			1
+NA	GSE73754	GSM1902161	9963831045_A	ankylosing spondylitis	whole blood	whole blood	43	F	NA			1
+NA	GSE73754	GSM1902162	9963831032_E	ankylosing spondylitis	whole blood	whole blood	41	F	NA			1
+NA	GSE73754	GSM1902163	9965280034_K	ankylosing spondylitis	whole blood	whole blood	21	F	NA			1
+NA	GSE73754	GSM1902164	9963831032_J	ankylosing spondylitis	whole blood	whole blood	47	F	NA			1
+NA	GSE73754	GSM1902165	9963831051_L	ankylosing spondylitis	whole blood	whole blood	60	F	NA			1
+NA	GSE73754	GSM1902166	9963831051_D	ankylosing spondylitis	whole blood	whole blood	46	F	NA			1
+NA	GSE73754	GSM1902167	9965280090_E	ankylosing spondylitis	whole blood	whole blood	27	F	NA			1
+NA	GSE73754	GSM1902168	9963831045_C	ankylosing spondylitis	whole blood	whole blood	37	F	NA			1
+NA	GSE73754	GSM1902169	9965280034_H	ankylosing spondylitis	whole blood	whole blood	28	F	NA			1
+NA	GSE73754	GSM1902171	9963831032_G	ankylosing spondylitis	whole blood	whole blood	48	F	NA			1
+NA	GSE73754	GSM1902173	9963831033_J	ankylosing spondylitis	whole blood	whole blood	53	F	NA			1
+NA	GSE73754	GSM1902174	9965280034_J	ankylosing spondylitis	whole blood	whole blood	39	F	NA			1
+NA	GSE73754	GSM1902175	9963831032_H	ankylosing spondylitis	whole blood	whole blood	18	F	NA			1
+NA	GSE73754	GSM1902176	9963831033_I	ankylosing spondylitis	whole blood	whole blood	50	F	NA			1
+NA	GSE73754	GSM1902177	9963831045_D	ankylosing spondylitis	whole blood	whole blood	22	M	NA			1
+NA	GSE73754	GSM1902178	9963831045_J	ankylosing spondylitis	whole blood	whole blood	48	M	NA			1
+NA	GSE73754	GSM1902179	9965280034_G	ankylosing spondylitis	whole blood	whole blood	57	M	NA			1
+NA	GSE73754	GSM1902180	9965280034_C	ankylosing spondylitis	whole blood	whole blood	23	M	NA			1
+NA	GSE73754	GSM1902181	9963831045_L	ankylosing spondylitis	whole blood	whole blood	56	F	NA			1
+NA	GSE73754	GSM1902182	9963831032_C	healthy	whole blood	whole blood	28	M	NA			1
+NA	GSE73754	GSM1902183	9965280034_I	healthy	whole blood	whole blood	26	M	NA			1
+NA	GSE73754	GSM1902184	9963831051_K	healthy	whole blood	whole blood	65	M	NA			1
+NA	GSE73754	GSM1902185	9963831051_C	healthy	whole blood	whole blood	41	M	NA			1
+NA	GSE73754	GSM1902186	9965280034_A	healthy	whole blood	whole blood	32	M	NA			1
+NA	GSE73754	GSM1902187	9963831032_K	healthy	whole blood	whole blood	56	M	NA			1
+NA	GSE73754	GSM1902188	9965280090_K	healthy	whole blood	whole blood	47	M	NA			1
+NA	GSE73754	GSM1902190	9963831045_B	healthy	whole blood	whole blood	24	M	NA			1
+NA	GSE73754	GSM1902191	9963831045_E	healthy	whole blood	whole blood	24	M	NA			1
+NA	GSE73754	GSM1902192	9963831033_K	healthy	whole blood	whole blood	27	F	NA			1
+NA	GSE73754	GSM1902193	9963831033_G	healthy	whole blood	whole blood	37	F	NA			1
+NA	GSE73754	GSM1902194	9963831032_D	healthy	whole blood	whole blood	42	F	NA			1
+NA	GSE73754	GSM1902195	9963831051_I	healthy	whole blood	whole blood	63	F	NA			1
+NA	GSE73754	GSM1902196	9963831032_A	healthy	whole blood	whole blood	61	F	NA			1
+NA	GSE73754	GSM1902197	9965280090_F	healthy	whole blood	whole blood	20	F	NA			1
+NA	GSE73754	GSM1902198	9965280090_B	healthy	whole blood	whole blood	31	F	NA			1
+NA	GSE73754	GSM1902199	9963831045_I	healthy	whole blood	whole blood	25	F	NA			1
+NA	GSE73754	GSM1902200	9965280034_D	healthy	whole blood	whole blood	29	F	NA			1
+NA	GSE73754	GSM1902201	9963831051_H	healthy	whole blood	whole blood	65	F	NA			1
+NA	GSE73754	GSM1902138	9963831033_L	ankylosing spondylitis	whole blood	whole blood	49	M	NA			1
+NA	GSE73754	GSM1902170	9965280034_E	ankylosing spondylitis	whole blood	whole blood	37	F	NA			1
+NA	GSE73754	GSM1902189	9963831051_J	healthy	whole blood	whole blood	71	M	NA			1
+NA	GSE73754	GSM1902172	9963831032_B	ankylosing spondylitis	whole blood	whole blood	41	F	NA			1
+NA	GSE100648	GSM2690379	subj_148	ankylosing spondylitis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690404	subj_173	ankylosing spondylitis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690276	subj_45	crystal arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690315	subj_84	crystal arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690320	subj_89	crystal arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690324	subj_93	crystal arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690341	subj_110	crystal arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690361	subj_130	crystal arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690363	subj_132	crystal arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690368	subj_137	crystal arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690435	subj_204	crystal arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690237	subj_7	enteropathic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690384	subj_153	enteropathic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690415	subj_184	enteropathic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690394	subj_163	lupus/other ctd-associated	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690426	subj_195	lupus/other ctd-associated	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690233	subj_3	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690239	subj_9	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690242	subj_12	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690245	subj_15	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690257	subj_26	non-inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690261	subj_30	non-inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690263	subj_32	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690265	subj_34	non-inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690266	subj_35	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690285	subj_54	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690296	subj_65	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690304	subj_73	non-inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690318	subj_87	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690338	subj_107	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690343	subj_112	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690348	subj_117	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690352	subj_121	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690359	subj_128	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690360	subj_129	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690369	subj_138	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690371	subj_140	non-inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690374	subj_143	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690375	subj_144	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690376	subj_145	non-inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690381	subj_150	non-inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690385	subj_154	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690389	subj_158	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690391	subj_160	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690393	subj_162	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690401	subj_170	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690403	subj_172	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690418	subj_187	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690419	subj_188	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690421	subj_190	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690441	subj_210	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690443	subj_212	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690445	subj_214	non-inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690235	subj_5	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690240	subj_10	osteoarthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690250	subj_19	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690259	subj_28	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690269	subj_38	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690287	subj_56	osteoarthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690307	subj_76	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690308	subj_77	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690310	subj_79	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690312	subj_81	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690319	subj_88	osteoarthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690323	subj_92	osteoarthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690325	subj_94	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690326	subj_95	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690328	subj_97	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690329	subj_98	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690330	subj_99	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690332	subj_101	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690335	subj_104	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690355	subj_124	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690373	subj_142	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690386	subj_155	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690387	subj_156	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690388	subj_157	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690390	subj_159	osteoarthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690395	subj_164	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690405	subj_174	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690411	subj_180	osteoarthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690423	subj_192	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690425	subj_194	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690431	subj_200	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690436	subj_205	osteoarthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690439	subj_208	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690446	subj_215	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690447	subj_216	osteoarthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690231	subj_241	osteoarthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690238	subj_8	other inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690244	subj_14	other inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690253	subj_22	other inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690264	subj_33	other inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690407	subj_176	other inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690409	subj_178	other inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690410	subj_179	other inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690412	subj_181	other inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690417	subj_186	other inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690420	subj_189	other inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690422	subj_191	other inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690434	subj_203	other inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690448	subj_217	other inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690451	subj_220	other inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690246	subj_16	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690252	subj_21	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690255	subj_24	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690275	subj_44	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690283	subj_52	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690286	subj_55	psoriatic arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690288	subj_57	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690305	subj_74	psoriatic arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690309	subj_78	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690311	subj_80	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690321	subj_90	psoriatic arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690331	subj_100	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690336	subj_105	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690339	subj_108	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690354	subj_123	psoriatic arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690358	subj_127	psoriatic arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690362	subj_131	psoriatic arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690364	subj_133	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690370	subj_139	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690397	subj_166	psoriatic arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690399	subj_168	psoriatic arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690416	subj_185	psoriatic arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690234	subj_4	reactive arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690236	subj_6	reactive arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690241	subj_11	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690243	subj_13	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690247	subj_17	reactive arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690248	subj_18	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690251	subj_20	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690258	subj_27	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690268	subj_37	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690290	subj_59	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690295	subj_64	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690334	subj_103	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690342	subj_111	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690346	subj_115	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690347	subj_116	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690367	subj_136	reactive arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690406	subj_175	reactive arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690230	subj_1	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690232	subj_2	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690254	subj_23	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690256	subj_25	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690262	subj_31	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690267	subj_36	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690270	subj_39	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690271	subj_40	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690272	subj_41	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690273	subj_42	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690274	subj_43	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690277	subj_46	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690278	subj_47	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690279	subj_48	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690281	subj_50	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690282	subj_51	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690284	subj_53	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690289	subj_58	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690292	subj_61	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690293	subj_62	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690294	subj_63	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690297	subj_66	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690298	subj_67	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690299	subj_68	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690300	subj_69	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690301	subj_70	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690302	subj_71	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690303	subj_72	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690306	subj_75	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690316	subj_85	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690317	subj_86	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690322	subj_91	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690333	subj_102	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690337	subj_106	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690340	subj_109	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690344	subj_113	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690345	subj_114	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690350	subj_119	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690351	subj_120	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690356	subj_125	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690357	subj_126	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690366	subj_135	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690372	subj_141	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690377	subj_146	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690378	subj_147	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690380	subj_149	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690382	subj_151	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690383	subj_152	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690392	subj_161	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690398	subj_167	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690400	subj_169	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690402	subj_171	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690408	subj_177	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690413	subj_182	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690424	subj_193	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690427	subj_196	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690429	subj_198	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690430	subj_199	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690432	subj_201	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690433	subj_202	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690437	subj_206	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690444	subj_213	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690456	subj_225	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690457	subj_226	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690459	subj_228	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690467	subj_236	rheumatoid arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690468	subj_237	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690469	subj_238	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690470	subj_239	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690471	subj_240	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690249	subj_242	rheumatoid arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690291	subj_60	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690313	subj_82	undifferentiated inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690327	subj_96	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690353	subj_122	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690396	subj_165	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690414	subj_183	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690428	subj_197	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690438	subj_207	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690440	subj_209	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690442	subj_211	undifferentiated inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690449	subj_218	undifferentiated inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690450	subj_219	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690452	subj_221	undifferentiated inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690453	subj_222	undifferentiated inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690454	subj_223	undifferentiated inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690455	subj_224	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690458	subj_227	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690460	subj_229	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690461	subj_230	undifferentiated inflammatory arthritis	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690462	subj_231	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690463	subj_232	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690464	subj_233	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690465	subj_234	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690466	subj_235	undifferentiated inflammatory arthritis	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690260	subj_29	undifferentiated spondylo-arthropathy	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690314	subj_83	undifferentiated spondylo-arthropathy	PBMCs	blood	NA	F	CD19+ B cells			1
+NA	GSE100648	GSM2690349	subj_118	undifferentiated spondylo-arthropathy	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690280	subj_49	NA	PBMCs	blood	NA	M	CD19+ B cells			1
+NA	GSE100648	GSM2690365	subj_134	NA	PBMCs	blood	NA	F	CD19+ B cells			1

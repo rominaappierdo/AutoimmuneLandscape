@@ -1,0 +1,74 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	other	superseries	channel_count
+	GSE182038	GSM5516681	AChR-1	myasthenia gravis (AChR)	PBMCs	blood	32	F		month 4	NA			1
+	GSE182038	GSM5516689	AChR-11	myasthenia gravis (AChR)	PBMCs	blood	72	F		t0	NA			1
+	GSE182038	GSM5516690	AChR-12	myasthenia gravis (AChR)	PBMCs	blood	57	M		t0	NA			1
+	GSE182038	GSM5516682	AChR-2	myasthenia gravis (AChR)	PBMCs	blood	60	M		t0	NA			1
+	GSE182038	GSM5516683	AChR-3	myasthenia gravis (AChR)	PBMCs	blood	51	M		t0	NA			1
+	GSE182038	GSM5516684	AChR-4	myasthenia gravis (AChR)	PBMCs	blood	68	F		t0	NA			1
+	GSE182038	GSM5516685	AChR-5	myasthenia gravis (AChR)	PBMCs	blood	53	F		t0	NA			1
+	GSE182038	GSM5516686	AChR-6	myasthenia gravis (AChR)	PBMCs	blood	29	F		t0	NA			1
+	GSE182038	GSM5516687	AChR-8	myasthenia gravis (AChR)	PBMCs	blood	64	M		t0	NA			1
+	GSE182038	GSM5516688	AChR-9	myasthenia gravis (AChR)	PBMCs	blood	72	M		t0	NA			1
+	GSE182038	GSM5516670	MuSK-1	myasthenia gravis (MuSK)	PBMCs	blood	62	F		month 31	NA			1
+	GSE182038	GSM5516671	MuSK-1	myasthenia gravis (MuSK)	PBMCs	blood	63	F		month 36	NA			1
+	GSE182038	GSM5516672	MuSK-1	myasthenia gravis (MuSK)	PBMCs	blood	63	F		month 39	NA			1
+	GSE182038	GSM5516669	MuSK-1	myasthenia gravis (MuSK)	PBMCs	blood	60	F		t0	NA			1
+	GSE182038	GSM5516675	MuSK-2	myasthenia gravis (MuSK)	PBMCs	blood	35	F		month 56	NA			1
+	GSE182038	GSM5516674	MuSK-2	myasthenia gravis (MuSK)	PBMCs	blood	31	F		month 6	NA			1
+	GSE182038	GSM5516676	MuSK-2	myasthenia gravis (MuSK)	PBMCs	blood	37	F		month 76	NA			1
+	GSE182038	GSM5516673	MuSK-2	myasthenia gravis (MuSK)	PBMCs	blood	31	F		t0	NA			1
+	GSE182038	GSM5516678	MuSK-3	myasthenia gravis (MuSK)	PBMCs	blood	51	F		month 1	NA			1
+	GSE182038	GSM5516679	MuSK-3	myasthenia gravis (MuSK)	PBMCs	blood	52	F		month 10	NA			1
+	GSE182038	GSM5516680	MuSK-3	myasthenia gravis (MuSK)	PBMCs	blood	53	F		month 25	NA			1
+	GSE182038	GSM5516677	MuSK-3	myasthenia gravis (MuSK)	PBMCs	blood	51	F		t0	NA			1
+	GSE182038	GSM5516691	HC-1	healthy	PBMCs	blood	33	F			NA			1
+	GSE182038	GSM5516692	HC-2	healthy	PBMCs	blood	68	F			NA			1
+	GSE182038	GSM5516693	HC-3	healthy	PBMCs	blood	65	M			NA			1
+	GSE182038	GSM5516694	HC-4	healthy	PBMCs	blood	40	F			NA			1
+	GSE182038	GSM5516695	HC-5	healthy	PBMCs	blood	38	M			NA			1
+	GSE182038	GSM5516696	HC-6	healthy	PBMCs	blood	38	M			NA			1
+	GSE182038	GSM5516697	HC-7	healthy	PBMCs	blood	39	M			NA			1
+	GSE182038	GSM5516698	HC-8	healthy	PBMCs	blood	39	M			NA			1
+	GSE182038	GSM5516699	HC-9	healthy	PBMCs	blood	32	M			NA			1
+	GSE85452	GSM2267281	C_MG_108_2	myasthenia gravis	PBMCs	blood	59	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267284	F23N	healthy	PBMCs	blood	23	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267268	F30	healthy	PBMCs	blood	30	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267288	F32N	healthy	PBMCs	blood	32	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267265	F33	healthy	PBMCs	blood	33	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267283	F36N	healthy	PBMCs	blood	36	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267267	F41	healthy	PBMCs	blood	41	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267264	F49	healthy	PBMCs	blood	49	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267285	F49O	healthy	PBMCs	blood	49	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267266	F52	healthy	PBMCs	blood	52	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267286	MGF34	myasthenia gravis	PBMCs	blood	34	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267287	MGF48	myasthenia gravis	PBMCs	blood	48	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267282	MGF59	myasthenia gravis	PBMCs	blood	59	NA	CD14		NA	twin status: Singelton	GSE85649	1
+	GSE85452	GSM2267269	C_MG_107	myasthenia gravis	PBMCs	blood	59	NA	CD14		NA	twin status: Twin Pair 10	GSE85649	1
+	GSE85452	GSM2267270	C_MG_108	myasthenia gravis	PBMCs	blood	59	NA	CD14		NA	twin status: Twin Pair 10	GSE85649	1
+	GSE85452	GSM2267278	D_H_177	healthy	PBMCs	blood	35	NA	CD14		NA	twin status: Twin pair 17	GSE85649	1
+	GSE85452	GSM2267271	D_MG_176	myasthenia gravis	PBMCs	blood	35	NA	CD14		NA	twin status: Twin Pair 17	GSE85649	1
+	GSE85452	GSM2267272	C_MG_188	myasthenia gravis	PBMCs	blood	54	NA	CD14		NA	twin status: Twin Pair 18	GSE85649	1
+	GSE85452	GSM2267273	C_MG_189	myasthenia gravis	PBMCs	blood	54	NA	CD14		NA	twin status: Twin Pair 18	GSE85649	1
+	GSE85452	GSM2267279	D_H_193	healthy	PBMCs	blood	34	NA	CD14		NA	twin status: Twin pair 19	GSE85649	1
+	GSE85452	GSM2267274	D_MG_195	myasthenia gravis	PBMCs	blood	34	NA	CD14		NA	twin status: Twin Pair 19	GSE85649	1
+	GSE85452	GSM2267276	C_MG_218	myasthenia gravis	PBMCs	blood	66	NA	CD14		NA	twin status: Twin pair 21	GSE85649	1
+	GSE85452	GSM2267275	C_MG_219	myasthenia gravis	PBMCs	blood	66	NA	CD14		NA	twin status: Twin pair 21	GSE85649	1
+	GSE85452	GSM2267277	D_MG_223	myasthenia gravis	PBMCs	blood	21	NA	CD14		NA	twin status: Twin pair 22	GSE85649	1
+	GSE85452	GSM2267280	D_H_222	healthy	PBMCs	blood	21	NA	CD14		NA	twin status: Twin piar 22	GSE85649	1
+x	GSE103974	GSM2787196	Thymus sample 1	myasthenia gravis (germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787197	Thymus sample 2	myasthenia gravis (germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787199	Thymus sample 4	myasthenia gravis (germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787200	Thymus sample 6	myasthenia gravis (no germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787201	Thymus sample 7	myasthenia gravis (no germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787202	Thymus sample 8	myasthenia gravis (germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787203	Thymus sample 9	myasthenia gravis (no germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787204	Thymus sample 10	myasthenia gravis (no germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787206	Thymus sample 12	myasthenia gravis (germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787207	Thymus sample 13	myasthenia gravis (no germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787208	Thymus sample 14	myasthenia gravis (germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787198	Thymus sample 3	myasthenia gravis (germinal center)	tissue	thymus	NA	NA			NA			1
+x	GSE103974	GSM2787205	Thymus sample 11	myasthenia gravis (no germinal center)	tissue	thymus	NA	NA			NA			1
+	GSE11967	GSM302939	p1	myasthenia gravis, thymoma	tissue	thymus	44	M			NA			1
+	GSE11967	GSM302940	p2	myasthenia gravis, thymoma	tissue	thymus	53	F			NA			1
+	GSE11967	GSM302941	h1	healthy	tissue	thymus	46	F			NA			1
+	GSE11967	GSM302942	h2	healthy	tissue	thymus	43	M			NA			1

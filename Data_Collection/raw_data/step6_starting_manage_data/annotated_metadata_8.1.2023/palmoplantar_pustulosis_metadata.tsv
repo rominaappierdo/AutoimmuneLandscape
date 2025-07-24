@@ -1,0 +1,80 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	superseries	channel_count
+	GSE185857	GSM5624831	PPP01	palmoplantar pustulosis	PBMCs	single-cell RNA-seq, blood	NA	NA	NA	NA	NA	GSE185858	1
+	GSE185857	GSM5624832	PPP02	palmoplantar pustulosis	PBMCs	single-cell RNA-seq, blood	NA	NA	NA	NA	NA	GSE185858	1
+	GSE185857	GSM5624833	PPP04	palmoplantar pustulosis	PBMCs	single-cell RNA-seq, blood	NA	NA	NA	NA	NA	GSE185858	1
+	GSE185857	GSM5624834	PPP05	palmoplantar pustulosis	PBMCs	single-cell RNA-seq, blood	NA	NA	NA	NA	NA	GSE185858	1
+	GSE185857	GSM5624835	PPP06	palmoplantar pustulosis	PBMCs	single-cell RNA-seq, blood	NA	NA	NA	NA	NA	GSE185858	1
+	GSE185857	GSM5624836	PPP07	palmoplantar pustulosis	PBMCs	single-cell RNA-seq, blood	NA	NA	NA	NA	NA	GSE185858	1
+	GSE185857	GSM5624837	PPP08	palmoplantar pustulosis	PBMCs	single-cell RNA-seq, blood	NA	NA	NA	NA	NA	GSE185858	1
+	GSE185857	GSM5624838	HC10	healthy	PBMCs	single-cell RNA-seq, blood	NA	NA	NA	NA	NA	GSE185858	1
+	GSE185857	GSM5624839	HC11	healthy	PBMCs	single-cell RNA-seq, blood	NA	NA	NA	NA	NA	GSE185858	1
+	GSE185857	GSM5624840	HC13	healthy	PBMCs	single-cell RNA-seq, blood	NA	NA	NA	NA	NA	GSE185858	1
+	GSE185857	GSM5624841	HC14	healthy	PBMCs	single-cell RNA-seq, blood	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624813	L_GY004086	palmoplantar pustulosis	tissue	skin (lesional)	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624814	L_GY005235	palmoplantar pustulosis	tissue	skin (lesional)	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624815	L_GY005466	palmoplantar pustulosis	tissue	skin (lesional)	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624816	NL_GY001826	palmoplantar pustulosis	tissue	skin (non-lesional)	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624817	NL_GY004085	palmoplantar pustulosis	tissue	skin (non-lesional)	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624818	NL_GY005236	palmoplantar pustulosis	tissue	skin (non-lesional)	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624819	NL_GY005467	palmoplantar pustulosis	tissue	skin (non-lesional)	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624820	NL_T039148	palmoplantar pustulosis	tissue	skin (non-lesional)	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624821	NL_T041038	palmoplantar pustulosis	tissue	skin (non-lesional)	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624822	NL_T045033	palmoplantar pustulosis	tissue	skin (non-lesional)	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624823	NL_T0450072	palmoplantar pustulosis	tissue	skin (non-lesional)	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624824	C_CY004357	healthy	tissue	skin	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624825	C_GY004358	healthy	tissue	skin	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624826	C_GY004359	healthy	tissue	skin	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624827	C_GY004360	healthy	tissue	skin	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624828	C_GY004362	healthy	tissue	skin	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624829	C_GY005158	healthy	tissue	skin	NA	NA	NA	NA	NA	GSE185858	1
+x	GSE185856	GSM5624830	C_GY005371	healthy	tissue	skin	NA	NA	NA	NA	NA	GSE185858	1
+	GSE80047	GSM2111608	01-02-A	palmoplantar pustular psoriasis	tissue	sole skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111609	01-04-B	palmoplantar pustulosis	tissue	sole skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111610	01-05-B	palmoplantar pustulosis	tissue	sole skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111611	01-06-A	palmoplantar pustular psoriasis	tissue	sole skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111612	08-01-A	palmoplantar pustular psoriasis	tissue	sole skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111613	08-04-B	palmoplantar pustulosis	tissue	sole skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111614	08-05-A	palmoplantar pustular psoriasis	tissue	sole skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111615	08-06-A	palmoplantar pustular psoriasis	tissue	sole skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111616	08-07-A	palmoplantar pustular psoriasis	tissue	palm skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111617	1012-007	psoriasis	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111618	1016-014	psoriasis	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111619	1019-015	psoriasis	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111620	1022-008	psoriasis	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111621	1022-009	psoriasis	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111622	1022-016	psoriasis	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111623	1022-024	psoriasis	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111624	2012-042	psoriasis	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111625	2016-006	psoriasis	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111626	2016-025	psoriasis	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111627	N-PPP-11	healthy	tissue	palm skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111628	N-PPP-13	healthy	tissue	palm skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111629	N-PPP-15	healthy	tissue	palm skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111630	N-PPP-16	healthy	tissue	palm skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111631	N-PPP-20	healthy	tissue	palm skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111632	N-PPP-23	healthy	tissue	palm skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111633	N-PPP-24	healthy	tissue	palm skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111634	NC1	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111635	NC2	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111636	NC3	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111637	NC4	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111638	NC5	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111639	NC6	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111640	NC7	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111641	NC8	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111642	NC9	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111643	NC10	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111644	NC11	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111645	NC12	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111646	NC13	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111647	NC14	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111648	NC15	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111649	NC16	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111650	NC17	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111651	NC18	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111652	NC19	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111653	NC21	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111654	NC22	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111655	NC23	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111656	NC24	healthy	tissue	skin	NA	NA	NA	NA	NA		1
+	GSE80047	GSM2111657	NC25	healthy	tissue	skin	NA	NA	NA	NA	NA		1

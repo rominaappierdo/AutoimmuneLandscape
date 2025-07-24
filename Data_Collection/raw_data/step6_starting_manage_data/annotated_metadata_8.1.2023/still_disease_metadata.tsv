@@ -1,0 +1,296 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	channel_count
+NA	GSE150996	GSM4563829	HC_1	healthy	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE150996	GSM4563830	HC_2	healthy	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE150996	GSM4563831	HC_3	healthy	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE150996	GSM4563832	HC_4	healthy	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE150996	GSM4563833	HC_5	healthy	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE150996	GSM4563834	HC_6	healthy	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE150996	GSM4563835	Patient_1	adult-onset still disease	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE150996	GSM4563836	Patient_2	adult-onset still disease	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE150996	GSM4563837	Patient_3	adult-onset still disease	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE150996	GSM4563838	Patient_4	adult-onset still disease	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE150996	GSM4563839	Patient_5	adult-onset still disease	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE150996	GSM4563840	Patient_6	adult-onset still disease	blood	blood	NA	NA	neutrophils	NA	NA	1
+NA	GSE113645	GSM3110595	a1	adult-onset still disease (active)	PBMCs	blood	42	F	CD14+ monocytes	NA	NA	1
+NA	GSE113645	GSM3110597	a3	adult-onset still disease (active)	PBMCs	blood	61	M	CD14+ monocytes	NA	NA	1
+NA	GSE113645	GSM3110596	a2	adult-onset still disease (active)	PBMCs	blood	43	F	CD14+ monocytes	NA	NA	1
+NA	GSE113645	GSM3110598	i1	adult-onset still disease (inactive)	PBMCs	blood	42	F	CD14+ monocytes	NA	NA	1
+NA	GSE113645	GSM3110599	i2	adult-onset still disease (inactive)	PBMCs	blood	43	F	CD14+ monocytes	NA	NA	1
+NA	GSE113645	GSM3110600	i3	adult-onset still disease (inactive)	PBMCs	blood	61	M	CD14+ monocytes	NA	NA	1
+NA	GSE113645	GSM3110592	HC1	healthy	PBMCs	blood	45	F	CD14+ monocytes	NA	NA	1
+NA	GSE113645	GSM3110593	HC2	healthy	PBMCs	blood	48	F	CD14+ monocytes	NA	NA	1
+NA	GSE113645	GSM3110594	HC3	healthy	PBMCs	blood	60	M	CD14+ monocytes	NA	NA	1
+NA	GSE22098	GSM549327	WB-Still-5667	still disease	whole blood	whole blood	42	F	NA	NA	NA	1
+NA	GSE22098	GSM549333	WB-Still-1934	still disease	whole blood	whole blood	38	F	NA	NA	NA	1
+NA	GSE22098	GSM549335	WB-Still-1935	still disease	whole blood	whole blood	48	F	NA	NA	NA	1
+NA	GSE22098	GSM549338	WB-Still-2166	still disease	whole blood	whole blood	29	F	NA	NA	NA	1
+NA	GSE22098	GSM549340	WB-Still-2358	still disease	whole blood	whole blood	37	F	NA	NA	NA	1
+NA	GSE22098	GSM549344	WB-Still-5870	still disease	whole blood	whole blood	64	F	NA	NA	NA	1
+NA	GSE22098	GSM549348	WB-Still-6167	still disease	whole blood	whole blood	63	F	NA	NA	NA	1
+NA	GSE22098	GSM549349	WB-Still-6168	still disease	whole blood	whole blood	38	F	NA	NA	NA	1
+NA	GSE22098	GSM549350	WB-Still-6037	still disease	whole blood	whole blood	44	F	NA	NA	NA	1
+NA	GSE22098	GSM549351	WB-Still-8980	still disease	whole blood	whole blood	32	F	NA	NA	NA	1
+NA	GSE22098	GSM549354	WB-Still-6652	still disease	whole blood	whole blood	48	F	NA	NA	NA	1
+NA	GSE22098	GSM549358	WB-ASLE-5320	systemic lupus erythematosus	whole blood	whole blood	36	F	NA	NA	NA	1
+NA	GSE22098	GSM549359	WB-ASLE-5321	systemic lupus erythematosus	whole blood	whole blood	36	F	NA	NA	NA	1
+NA	GSE22098	GSM549360	WB-ASLE-5670	systemic lupus erythematosus	whole blood	whole blood	79	F	NA	NA	NA	1
+NA	GSE22098	GSM549361	WB-ASLE-5671	systemic lupus erythematosus	whole blood	whole blood	29	F	NA	NA	NA	1
+NA	GSE22098	GSM549362	WB-ASLE-6066	systemic lupus erythematosus	whole blood	whole blood	30	F	NA	NA	NA	1
+NA	GSE22098	GSM549363	WB-ASLE-6067	systemic lupus erythematosus	whole blood	whole blood	45	F	NA	NA	NA	1
+NA	GSE22098	GSM549365	WB-ASLE-6643	systemic lupus erythematosus	whole blood	whole blood	53	F	NA	NA	NA	1
+NA	GSE22098	GSM549366	WB-ASLE-6644	systemic lupus erythematosus	whole blood	whole blood	28	F	NA	NA	NA	1
+NA	GSE22098	GSM549367	WB-ASLE-6069	systemic lupus erythematosus	whole blood	whole blood	28	F	NA	NA	NA	1
+NA	GSE22098	GSM549368	WB-ASLE-6070	systemic lupus erythematosus	whole blood	whole blood	20	F	NA	NA	NA	1
+NA	GSE22098	GSM549369	WB-ASLE-6071	systemic lupus erythematosus	whole blood	whole blood	38	F	NA	NA	NA	1
+NA	GSE22098	GSM549371	WB-ASLE-6642	systemic lupus erythematosus	whole blood	whole blood	46	F	NA	NA	NA	1
+NA	GSE22098	GSM549372	WB-ASLE-6650	systemic lupus erythematosus	whole blood	whole blood	37	F	NA	NA	NA	1
+NA	GSE22098	GSM549373	WB-ASLE-6645	systemic lupus erythematosus	whole blood	whole blood	49	F	NA	NA	NA	1
+NA	GSE22098	GSM549374	WB-ASLE-6646	systemic lupus erythematosus	whole blood	whole blood	33	F	NA	NA	NA	1
+NA	GSE22098	GSM549375	WB-ASLE-6647	systemic lupus erythematosus	whole blood	whole blood	50	F	NA	NA	NA	1
+NA	GSE22098	GSM549376	WB-ASLE-7984	systemic lupus erythematosus	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549377	WB-ASLE-7985	systemic lupus erythematosus	whole blood	whole blood	24	F	NA	NA	NA	1
+NA	GSE22098	GSM549378	WB-ASLE-7987	systemic lupus erythematosus	whole blood	whole blood	49	F	NA	NA	NA	1
+NA	GSE22098	GSM549380	WB-ASLE-7989	systemic lupus erythematosus	whole blood	whole blood	50	F	NA	NA	NA	1
+NA	GSE22098	GSM549381	WB-ASLE-7990	systemic lupus erythematosus	whole blood	whole blood	35	F	NA	NA	NA	1
+NA	GSE22098	GSM549383	WB-ASLE-7995	systemic lupus erythematosus	whole blood	whole blood	48	F	NA	NA	NA	1
+NA	GSE22098	GSM549384	WB-ASLE-8178	systemic lupus erythematosus	whole blood	whole blood	34	F	NA	NA	NA	1
+NA	GSE22098	GSM549385	WB-ASLE-8174	systemic lupus erythematosus	whole blood	whole blood	51	F	NA	NA	NA	1
+NA	GSE22098	GSM549387	WB-PSLE-5953	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549388	WB-PSLE-5949	systemic lupus erythematosus (pediatric)	whole blood	whole blood	13	F	NA	NA	NA	1
+NA	GSE22098	GSM549389	WB-PSLE-5970	systemic lupus erythematosus (pediatric)	whole blood	whole blood	15	F	NA	NA	NA	1
+NA	GSE22098	GSM549390	WB-PSLE-5980	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549392	WB-PSLE-7457	systemic lupus erythematosus (pediatric)	whole blood	whole blood	14	F	NA	NA	NA	1
+NA	GSE22098	GSM549393	WB-PSLE-7458	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549394	WB-PSLE-7459	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549395	WB-PSLE-5610	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549396	WB-PSLE-5611	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549397	WB-PSLE-5612	systemic lupus erythematosus (pediatric)	whole blood	whole blood	15	F	NA	NA	NA	1
+NA	GSE22098	GSM549398	WB-PSLE-5624	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549399	WB-PSLE-5626	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549401	WB-PSLE-5623	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549402	WB-PSLE-5932	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549403	WB-PSLE-5944	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549405	WB-PSLE-7466	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549406	WB-PSLE-7471	systemic lupus erythematosus (pediatric)	whole blood	whole blood	15	F	NA	NA	NA	1
+NA	GSE22098	GSM549407	WB-PSLE-7465	systemic lupus erythematosus (pediatric)	whole blood	whole blood	14	F	NA	NA	NA	1
+NA	GSE22098	GSM549408	WB-PSLE-7486	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549409	WB-PSLE-5608	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549410	WB-PSLE-5600	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549412	WB-PSLE-5614	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549413	WB-PSLE-5615	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549414	WB-PSLE-5618	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549415	WB-PSLE-5954	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549417	WB-PSLE-8933	systemic lupus erythematosus (pediatric)	whole blood	whole blood	15	F	NA	NA	NA	1
+NA	GSE22098	GSM549418	WB-PSLE-5627	systemic lupus erythematosus (pediatric)	whole blood	whole blood	13	F	NA	NA	NA	1
+NA	GSE22098	GSM549419	WB-Still-9678	still disease	whole blood	whole blood	29	F	NA	NA	NA	1
+NA	GSE22098	GSM549420	WB-Still-9686	still disease	whole blood	whole blood	25	F	NA	NA	NA	1
+NA	GSE22098	GSM549421	WB-Staph-1340	staphylococcus infection	whole blood	whole blood	6	F	NA	NA	NA	1
+NA	GSE22098	GSM549423	WB-Staph-1343	staphylococcus infection	whole blood	whole blood	6	F	NA	NA	NA	1
+NA	GSE22098	GSM549429	WB-Staph-5825	staphylococcus infection	whole blood	whole blood	11	F	NA	NA	NA	1
+NA	GSE22098	GSM549431	WB-Staph-5839	staphylococcus infection	whole blood	whole blood	4	F	NA	NA	NA	1
+NA	GSE22098	GSM549433	WB-Staph-1338	staphylococcus infection	whole blood	whole blood	1	F	NA	NA	NA	1
+NA	GSE22098	GSM549435	WB-Strep-5800	streptococcus infection	whole blood	whole blood	1	F	NA	NA	NA	1
+NA	GSE22098	GSM549436	WB-Strep-5808	streptococcus infection	whole blood	whole blood	5	F	NA	NA	NA	1
+NA	GSE22098	GSM549437	WB-Strep-5813	streptococcus infection	whole blood	whole blood	6	F	NA	NA	NA	1
+NA	GSE22098	GSM549439	WB-Strep-6549	streptococcus infection	whole blood	whole blood	5	F	NA	NA	NA	1
+NA	GSE22098	GSM549443	WB-Strep-9484	streptococcus infection	whole blood	whole blood	5	F	NA	NA	NA	1
+NA	GSE22098	GSM549445	WB-Strep-8869	streptococcus infection	whole blood	whole blood	1	F	NA	NA	NA	1
+NA	GSE22098	GSM549447	WB-Staph-2707	staphylococcus infection	whole blood	whole blood	10	F	NA	NA	NA	1
+NA	GSE22098	GSM549449	WB-Staph-5068	staphylococcus infection	whole blood	whole blood	2	F	NA	NA	NA	1
+NA	GSE22098	GSM549451	WB-Staph-9598	staphylococcus infection	whole blood	whole blood	10	F	NA	NA	NA	1
+NA	GSE22098	GSM549453	WB-Staph-9548	staphylococcus infection	whole blood	whole blood	8	F	NA	NA	NA	1
+NA	GSE22098	GSM549455	WB-Staph-9552	staphylococcus infection	whole blood	whole blood	8	F	NA	NA	NA	1
+NA	GSE22098	GSM549456	WB-Staph-9555	staphylococcus infection	whole blood	whole blood	0	F	NA	NA	NA	1
+NA	GSE22098	GSM549457	WB-Staph-9556	staphylococcus infection	whole blood	whole blood	1	F	NA	NA	NA	1
+NA	GSE22098	GSM549458	WB-Staph-9569	staphylococcus infection	whole blood	whole blood	7	F	NA	NA	NA	1
+NA	GSE22098	GSM549462	WB-Staph-9559	staphylococcus infection	whole blood	whole blood	6	F	NA	NA	NA	1
+NA	GSE22098	GSM549463	WB-Staph-9560	staphylococcus infection	whole blood	whole blood	2	F	NA	NA	NA	1
+NA	GSE22098	GSM549464	WB-Staph-9561	staphylococcus infection	whole blood	whole blood	10	F	NA	NA	NA	1
+NA	GSE22098	GSM549467	WB-Staph-9549	staphylococcus infection	whole blood	whole blood	5	F	NA	NA	NA	1
+NA	GSE22098	GSM549468	WB-Staph-9557	staphylococcus infection	whole blood	whole blood	1	F	NA	NA	NA	1
+NA	GSE22098	GSM549470	WB-Staph-5037	staphylococcus infection	whole blood	whole blood	8	F	NA	NA	NA	1
+NA	GSE22098	GSM549471	WB-Staph-2745	staphylococcus infection	whole blood	whole blood	12	F	NA	NA	NA	1
+NA	GSE22098	GSM549473	WB-Still-5986	still disease	whole blood	whole blood	58	F	NA	NA	NA	1
+NA	GSE22098	GSM549474	WB-Still-5985	still disease	whole blood	whole blood	35	F	NA	NA	NA	1
+NA	GSE22098	GSM549475	WB-PSLE-5982	systemic lupus erythematosus (pediatric)	whole blood	whole blood	12	F	NA	NA	NA	1
+NA	GSE22098	GSM549476	WB-PSLE-6156	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549477	WB-PSLE-9870	systemic lupus erythematosus (pediatric)	whole blood	whole blood	12	F	NA	NA	NA	1
+NA	GSE22098	GSM549478	WB-PSLE-7393	systemic lupus erythematosus (pediatric)	whole blood	whole blood	13	F	NA	NA	NA	1
+NA	GSE22098	GSM549479	WB-PSLE-2925	systemic lupus erythematosus (pediatric)	whole blood	whole blood	14	F	NA	NA	NA	1
+NA	GSE22098	GSM549480	WB-PSLE-1914	systemic lupus erythematosus (pediatric)	whole blood	whole blood	9	F	NA	NA	NA	1
+NA	GSE22098	GSM549481	WB-PSLE-2145	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549482	WB-PSLE-3193	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549483	WB-PSLE-0067	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549484	WB-PSLE-2526	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549485	WB-PSLE-2552	systemic lupus erythematosus (pediatric)	whole blood	whole blood	14	F	NA	NA	NA	1
+NA	GSE22098	GSM549486	WB-PSLE-2546	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549487	WB-PSLE-2610	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549488	WB-PSLE-8148	systemic lupus erythematosus (pediatric)	whole blood	whole blood	10	F	NA	NA	NA	1
+NA	GSE22098	GSM549489	WB-PSLE-6166	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549491	WB-PSLE-8074	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549492	WB-PSLE-8152	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549493	WB-PSLE-0481	systemic lupus erythematosus (pediatric)	whole blood	whole blood	15	F	NA	NA	NA	1
+NA	GSE22098	GSM549494	WB-PSLE-0683	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549496	WB-PSLE-8956	systemic lupus erythematosus (pediatric)	whole blood	whole blood	15	F	NA	NA	NA	1
+NA	GSE22098	GSM549497	WB-PSLE-8965	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549498	WB-PSLE-7469	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549499	WB-PSLE-7474	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549500	WB-PSLE-2408	systemic lupus erythematosus (pediatric)	whole blood	whole blood	14	F	NA	NA	NA	1
+NA	GSE22098	GSM549501	WB-PSLE-2418	systemic lupus erythematosus (pediatric)	whole blood	whole blood	15	F	NA	NA	NA	1
+NA	GSE22098	GSM549503	WB-PSLE-5587	systemic lupus erythematosus (pediatric)	whole blood	whole blood	19	F	NA	NA	NA	1
+NA	GSE22098	GSM549504	WB-PSLE-5622	systemic lupus erythematosus (pediatric)	whole blood	whole blood	11	F	NA	NA	NA	1
+NA	GSE22098	GSM549506	WB-PSLE-8144	systemic lupus erythematosus (pediatric)	whole blood	whole blood	11	F	NA	NA	NA	1
+NA	GSE22098	GSM549507	WB-PSLE-7384	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549508	WB-PSLE-5657	systemic lupus erythematosus (pediatric)	whole blood	whole blood	11	F	NA	NA	NA	1
+NA	GSE22098	GSM549509	WB-PSLE-6029	systemic lupus erythematosus (pediatric)	whole blood	whole blood	8	F	NA	NA	NA	1
+NA	GSE22098	GSM549512	WB-PSLE-2938	systemic lupus erythematosus (pediatric)	whole blood	whole blood	8	F	NA	NA	NA	1
+NA	GSE22098	GSM549513	WB-PSLE-2416	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549514	WB-PSLE-2919	systemic lupus erythematosus (pediatric)	whole blood	whole blood	10	F	NA	NA	NA	1
+NA	GSE22098	GSM549515	WB-PSLE-9632	systemic lupus erythematosus (pediatric)	whole blood	whole blood	12	F	NA	NA	NA	1
+NA	GSE22098	GSM549516	WB-PSLE-2420	systemic lupus erythematosus (pediatric)	whole blood	whole blood	11	F	NA	NA	NA	1
+NA	GSE22098	GSM549517	WB-PSLE-1515	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM549519	WB-PSLE-1916	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM549520	WB-PSLE-0582	systemic lupus erythematosus (pediatric)	whole blood	whole blood	14	F	NA	NA	NA	1
+NA	GSE22098	GSM549521	WB-PSLE-5951	systemic lupus erythematosus (pediatric)	whole blood	whole blood	13	F	NA	NA	NA	1
+NA	GSE22098	GSM549522	WB-PSLE-9872	systemic lupus erythematosus (pediatric)	whole blood	whole blood	12	F	NA	NA	NA	1
+NA	GSE22098	GSM549523	WB-PSLE-8411	systemic lupus erythematosus (pediatric)	whole blood	whole blood	13	F	NA	NA	NA	1
+NA	GSE22098	GSM550320	WB-H-2862	healthy	whole blood	whole blood	28	F	NA	NA	NA	1
+NA	GSE22098	GSM550321	WB-H-2863	healthy	whole blood	whole blood	28	F	NA	NA	NA	1
+NA	GSE22098	GSM550322	WB-H-6459	healthy	whole blood	whole blood	24	F	NA	NA	NA	1
+NA	GSE22098	GSM550323	WB-H-6422	healthy	whole blood	whole blood	33	F	NA	NA	NA	1
+NA	GSE22098	GSM550324	WB-H-2292	healthy	whole blood	whole blood	38	F	NA	NA	NA	1
+NA	GSE22098	GSM550325	WB-H-2293	healthy	whole blood	whole blood	29	F	NA	NA	NA	1
+NA	GSE22098	GSM550330	WB-H-2290	healthy	whole blood	whole blood	49	F	NA	NA	NA	1
+NA	GSE22098	GSM550333	WB-H-5682	healthy	whole blood	whole blood	29	F	NA	NA	NA	1
+NA	GSE22098	GSM550335	WB-H-6725	healthy	whole blood	whole blood	20	F	NA	NA	NA	1
+NA	GSE22098	GSM550337	WB-H-6635	healthy	whole blood	whole blood	50	F	NA	NA	NA	1
+NA	GSE22098	GSM550338	WB-H-6639	healthy	whole blood	whole blood	44	F	NA	NA	NA	1
+NA	GSE22098	GSM550340	WB-H-6724	healthy	whole blood	whole blood	31	F	NA	NA	NA	1
+NA	GSE22098	GSM550341	WB-H-1051	healthy	whole blood	whole blood	53	F	NA	NA	NA	1
+NA	GSE22098	GSM550342	WB-H-1052	healthy	whole blood	whole blood	45	F	NA	NA	NA	1
+NA	GSE22098	GSM550343	WB-H-1055	healthy	whole blood	whole blood	55	F	NA	NA	NA	1
+NA	GSE22098	GSM550344	WB-H-1074	healthy	whole blood	whole blood	43	F	NA	NA	NA	1
+NA	GSE22098	GSM550345	WB-H-1081	healthy	whole blood	whole blood	43	F	NA	NA	NA	1
+NA	GSE22098	GSM550346	WB-H-7466	healthy	whole blood	whole blood	42	F	NA	NA	NA	1
+NA	GSE22098	GSM550347	WB-H-7975	healthy	whole blood	whole blood	57	F	NA	NA	NA	1
+NA	GSE22098	GSM550348	WB-H-4260	healthy	whole blood	whole blood	51	F	NA	NA	NA	1
+NA	GSE22098	GSM550349	WB-H-3339	healthy	whole blood	whole blood	74	F	NA	NA	NA	1
+NA	GSE22098	GSM550351	WB-H-4556	healthy	whole blood	whole blood	84	F	NA	NA	NA	1
+NA	GSE22098	GSM550352	WB-H-7831	healthy	whole blood	whole blood	37	F	NA	NA	NA	1
+NA	GSE22098	GSM550353	WB-H-7832	healthy	whole blood	whole blood	39	F	NA	NA	NA	1
+NA	GSE22098	GSM550354	WB-H-7833	healthy	whole blood	whole blood	35	F	NA	NA	NA	1
+NA	GSE22098	GSM550356	WB-H-7836	healthy	whole blood	whole blood	43	F	NA	NA	NA	1
+NA	GSE22098	GSM550357	WB-H-7837	healthy	whole blood	whole blood	43	F	NA	NA	NA	1
+NA	GSE22098	GSM550358	WB-H-1359	healthy	whole blood	whole blood	14	F	NA	NA	NA	1
+NA	GSE22098	GSM550359	WB-H-1595	healthy	whole blood	whole blood	15	F	NA	NA	NA	1
+NA	GSE22098	GSM550361	WB-H-5679-2	healthy	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM550362	WB-H-6035	healthy	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM550363	WB-H-6411	healthy	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM550364	WB-H-2812	healthy	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM550369	WB-H-0545	healthy	whole blood	whole blood	6	F	NA	NA	NA	1
+NA	GSE22098	GSM550370	WB-H-2811	healthy	whole blood	whole blood	10	F	NA	NA	NA	1
+NA	GSE22098	GSM550373	WB-H-9363	healthy	whole blood	whole blood	15	F	NA	NA	NA	1
+NA	GSE22098	GSM550376	WB-H-9357	healthy	whole blood	whole blood	6	F	NA	NA	NA	1
+NA	GSE22098	GSM550378	WB-H-9868	healthy	whole blood	whole blood	4	F	NA	NA	NA	1
+NA	GSE22098	GSM550379	WB-H-1134	healthy	whole blood	whole blood	8	F	NA	NA	NA	1
+NA	GSE22098	GSM550380	WB-H-0853	healthy	whole blood	whole blood	12	F	NA	NA	NA	1
+NA	GSE22098	GSM550381	WB-H-5851	healthy	whole blood	whole blood	4	F	NA	NA	NA	1
+NA	GSE22098	GSM550382	WB-H-1358	healthy	whole blood	whole blood	10	F	NA	NA	NA	1
+NA	GSE22098	GSM550387	WB-H-2819	healthy	whole blood	whole blood	6	F	NA	NA	NA	1
+NA	GSE22098	GSM550389	WB-H-5683	healthy	whole blood	whole blood	24	F	NA	NA	NA	1
+NA	GSE22098	GSM550390	WB-H-5679	healthy	whole blood	whole blood	16	F	NA	NA	NA	1
+NA	GSE22098	GSM550392	WB-H-1136	healthy	whole blood	whole blood	14	F	NA	NA	NA	1
+NA	GSE22098	GSM550394	WB-H-1149	healthy	whole blood	whole blood	9	F	NA	NA	NA	1
+NA	GSE22098	GSM550395	WB-H-1358-2	healthy	whole blood	whole blood	10	F	NA	NA	NA	1
+NA	GSE22098	GSM550396	WB-H-2811-2	healthy	whole blood	whole blood	10	F	NA	NA	NA	1
+NA	GSE22098	GSM550397	WB-H-7254	healthy	whole blood	whole blood	17	F	NA	NA	NA	1
+NA	GSE22098	GSM550398	WB-H-2846	healthy	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM550400	WB-H-4637	healthy	whole blood	whole blood	18	F	NA	NA	NA	1
+NA	GSE22098	GSM549324	WB-Still-4639	still disease	whole blood	whole blood	55	M	NA	NA	NA	1
+NA	GSE22098	GSM549325	WB-Still-5161	still disease	whole blood	whole blood	22	M	NA	NA	NA	1
+NA	GSE22098	GSM549326	WB-Still-5163	still disease	whole blood	whole blood	83	M	NA	NA	NA	1
+NA	GSE22098	GSM549328	WB-Still-5666	still disease	whole blood	whole blood	51	M	NA	NA	NA	1
+NA	GSE22098	GSM549329	WB-Still-1281	still disease	whole blood	whole blood	19	M	NA	NA	NA	1
+NA	GSE22098	GSM549331	WB-Still-1102	still disease	whole blood	whole blood	34	M	NA	NA	NA	1
+NA	GSE22098	GSM549336	WB-Still-1936	still disease	whole blood	whole blood	54	M	NA	NA	NA	1
+NA	GSE22098	GSM549342	WB-Still-2362	still disease	whole blood	whole blood	17	M	NA	NA	NA	1
+NA	GSE22098	GSM549345	WB-Still-5871	still disease	whole blood	whole blood	31	M	NA	NA	NA	1
+NA	GSE22098	GSM549346	WB-Still-5872	still disease	whole blood	whole blood	70	M	NA	NA	NA	1
+NA	GSE22098	GSM549347	WB-Still-6038	still disease	whole blood	whole blood	27	M	NA	NA	NA	1
+NA	GSE22098	GSM549352	WB-Still-7760	still disease	whole blood	whole blood	26	M	NA	NA	NA	1
+NA	GSE22098	GSM549353	WB-Still-8560	still disease	whole blood	whole blood	19	M	NA	NA	NA	1
+NA	GSE22098	GSM549355	WB-Still-6653	still disease	whole blood	whole blood	19	M	NA	NA	NA	1
+NA	GSE22098	GSM549356	WB-Still-7759	still disease	whole blood	whole blood	59	M	NA	NA	NA	1
+NA	GSE22098	GSM549357	WB-Still-8059	still disease	whole blood	whole blood	54	M	NA	NA	NA	1
+NA	GSE22098	GSM549364	WB-ASLE-6068	systemic lupus erythematosus	whole blood	whole blood	28	M	NA	NA	NA	1
+NA	GSE22098	GSM549370	WB-ASLE-6641	systemic lupus erythematosus	whole blood	whole blood	31	M	NA	NA	NA	1
+NA	GSE22098	GSM549379	WB-ASLE-7988	systemic lupus erythematosus	whole blood	whole blood	52	M	NA	NA	NA	1
+NA	GSE22098	GSM549382	WB-ASLE-2773	systemic lupus erythematosus	whole blood	whole blood	21	M	NA	NA	NA	1
+NA	GSE22098	GSM549386	WB-PSLE-5947	systemic lupus erythematosus (pediatric)	whole blood	whole blood	15	M	NA	NA	NA	1
+NA	GSE22098	GSM549391	WB-PSLE-7456	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	M	NA	NA	NA	1
+NA	GSE22098	GSM549400	WB-PSLE-5933	systemic lupus erythematosus (pediatric)	whole blood	whole blood	14	M	NA	NA	NA	1
+NA	GSE22098	GSM549404	WB-PSLE-5945	systemic lupus erythematosus (pediatric)	whole blood	whole blood	14	M	NA	NA	NA	1
+NA	GSE22098	GSM549411	WB-PSLE-5613	systemic lupus erythematosus (pediatric)	whole blood	whole blood	17	M	NA	NA	NA	1
+NA	GSE22098	GSM549416	WB-PSLE-5952	systemic lupus erythematosus (pediatric)	whole blood	whole blood	13	M	NA	NA	NA	1
+NA	GSE22098	GSM549422	WB-Staph-1342	staphylococcus infection	whole blood	whole blood	9	M	NA	NA	NA	1
+NA	GSE22098	GSM549424	WB-Staph-1344	staphylococcus infection	whole blood	whole blood	11	M	NA	NA	NA	1
+NA	GSE22098	GSM549425	WB-Staph-1345	staphylococcus infection	whole blood	whole blood	15	M	NA	NA	NA	1
+NA	GSE22098	GSM549426	WB-Staph-1402	staphylococcus infection	whole blood	whole blood	5	M	NA	NA	NA	1
+NA	GSE22098	GSM549427	WB-Staph-1346	staphylococcus infection	whole blood	whole blood	13	M	NA	NA	NA	1
+NA	GSE22098	GSM549428	WB-Staph-1347	staphylococcus infection	whole blood	whole blood	3	M	NA	NA	NA	1
+NA	GSE22098	GSM549430	WB-Staph-5827	staphylococcus infection	whole blood	whole blood	17	M	NA	NA	NA	1
+NA	GSE22098	GSM549432	WB-Staph-5840	staphylococcus infection	whole blood	whole blood	5	M	NA	NA	NA	1
+NA	GSE22098	GSM549434	WB-Staph-1339	staphylococcus infection	whole blood	whole blood	9	M	NA	NA	NA	1
+NA	GSE22098	GSM549438	WB-Strep-5838	streptococcus infection	whole blood	whole blood	14	M	NA	NA	NA	1
+NA	GSE22098	GSM549440	WB-Strep-8854	streptococcus infection	whole blood	whole blood	7	M	NA	NA	NA	1
+NA	GSE22098	GSM549441	WB-Strep-2736	streptococcus infection	whole blood	whole blood	1	M	NA	NA	NA	1
+NA	GSE22098	GSM549442	WB-Strep-9483	streptococcus infection	whole blood	whole blood	6	M	NA	NA	NA	1
+NA	GSE22098	GSM549444	WB-Strep-5781	streptococcus infection	whole blood	whole blood	16	M	NA	NA	NA	1
+NA	GSE22098	GSM549446	WB-Strep-5074	streptococcus infection	whole blood	whole blood	1	M	NA	NA	NA	1
+NA	GSE22098	GSM549448	WB-Staph-2388	staphylococcus infection	whole blood	whole blood	3	M	NA	NA	NA	1
+NA	GSE22098	GSM549450	WB-Staph-5040	staphylococcus infection	whole blood	whole blood	11	M	NA	NA	NA	1
+NA	GSE22098	GSM549452	WB-Staph-9601	staphylococcus infection	whole blood	whole blood	1	M	NA	NA	NA	1
+NA	GSE22098	GSM549454	WB-Staph-9553	staphylococcus infection	whole blood	whole blood	2	M	NA	NA	NA	1
+NA	GSE22098	GSM549459	WB-Staph-5064	staphylococcus infection	whole blood	whole blood	9	M	NA	NA	NA	1
+NA	GSE22098	GSM549460	WB-Staph-5046	staphylococcus infection	whole blood	whole blood	11	M	NA	NA	NA	1
+NA	GSE22098	GSM549461	WB-Staph-9558	staphylococcus infection	whole blood	whole blood	1	M	NA	NA	NA	1
+NA	GSE22098	GSM549465	WB-Staph-9562	staphylococcus infection	whole blood	whole blood	11	M	NA	NA	NA	1
+NA	GSE22098	GSM549466	WB-Staph-2741	staphylococcus infection	whole blood	whole blood	12	M	NA	NA	NA	1
+NA	GSE22098	GSM549469	WB-Staph-5069	staphylococcus infection	whole blood	whole blood	15	M	NA	NA	NA	1
+NA	GSE22098	GSM549472	WB-Staph-9565	staphylococcus infection	whole blood	whole blood	13	M	NA	NA	NA	1
+NA	GSE22098	GSM549490	WB-PSLE-8943	systemic lupus erythematosus (pediatric)	whole blood	whole blood	7	M	NA	NA	NA	1
+NA	GSE22098	GSM549495	WB-PSLE-8955	systemic lupus erythematosus (pediatric)	whole blood	whole blood	16	M	NA	NA	NA	1
+NA	GSE22098	GSM549502	WB-PSLE-5583	systemic lupus erythematosus (pediatric)	whole blood	whole blood	13	M	NA	NA	NA	1
+NA	GSE22098	GSM549505	WB-PSLE-6298	systemic lupus erythematosus (pediatric)	whole blood	whole blood	9	M	NA	NA	NA	1
+NA	GSE22098	GSM549510	WB-PSLE-6055	systemic lupus erythematosus (pediatric)	whole blood	whole blood	15	M	NA	NA	NA	1
+NA	GSE22098	GSM549511	WB-PSLE-6165	systemic lupus erythematosus (pediatric)	whole blood	whole blood	18	M	NA	NA	NA	1
+NA	GSE22098	GSM549518	WB-PSLE-0581	systemic lupus erythematosus (pediatric)	whole blood	whole blood	13	M	NA	NA	NA	1
+NA	GSE22098	GSM550326	WB-H-2865	healthy	whole blood	whole blood	25	M	NA	NA	NA	1
+NA	GSE22098	GSM550327	WB-H-6393	healthy	whole blood	whole blood	35	M	NA	NA	NA	1
+NA	GSE22098	GSM550328	WB-H-5685	healthy	whole blood	whole blood	27	M	NA	NA	NA	1
+NA	GSE22098	GSM550329	WB-H-2289	healthy	whole blood	whole blood	38	M	NA	NA	NA	1
+NA	GSE22098	GSM550331	WB-H-2864	healthy	whole blood	whole blood	27	M	NA	NA	NA	1
+NA	GSE22098	GSM550332	WB-H-5684	healthy	whole blood	whole blood	35	M	NA	NA	NA	1
+NA	GSE22098	GSM550334	WB-H-5556	healthy	whole blood	whole blood	43	M	NA	NA	NA	1
+NA	GSE22098	GSM550336	WB-H-6726	healthy	whole blood	whole blood	30	M	NA	NA	NA	1
+NA	GSE22098	GSM550339	WB-H-6680	healthy	whole blood	whole blood	58	M	NA	NA	NA	1
+NA	GSE22098	GSM550350	WB-H-4259	healthy	whole blood	whole blood	43	M	NA	NA	NA	1
+NA	GSE22098	GSM550355	WB-H-7835	healthy	whole blood	whole blood	45	M	NA	NA	NA	1
+NA	GSE22098	GSM550360	WB-H-2804-2	healthy	whole blood	whole blood	14	M	NA	NA	NA	1
+NA	GSE22098	GSM550365	WB-H-2806	healthy	whole blood	whole blood	16	M	NA	NA	NA	1
+NA	GSE22098	GSM550366	WB-H-2818	healthy	whole blood	whole blood	11	M	NA	NA	NA	1
+NA	GSE22098	GSM550367	WB-H-9128	healthy	whole blood	whole blood	7	M	NA	NA	NA	1
+NA	GSE22098	GSM550368	WB-H-0565	healthy	whole blood	whole blood	8	M	NA	NA	NA	1
+NA	GSE22098	GSM550371	WB-H-2704	healthy	whole blood	whole blood	5	M	NA	NA	NA	1
+NA	GSE22098	GSM550372	WB-H-9361	healthy	whole blood	whole blood	8	M	NA	NA	NA	1
+NA	GSE22098	GSM550374	WB-H-9369	healthy	whole blood	whole blood	18	M	NA	NA	NA	1
+NA	GSE22098	GSM550375	WB-H-9355	healthy	whole blood	whole blood	5	M	NA	NA	NA	1
+NA	GSE22098	GSM550377	WB-H-9371	healthy	whole blood	whole blood	17	M	NA	NA	NA	1
+NA	GSE22098	GSM550383	WB-H-0537	healthy	whole blood	whole blood	8	M	NA	NA	NA	1
+NA	GSE22098	GSM550384	WB-H-8550	healthy	whole blood	whole blood	7	M	NA	NA	NA	1
+NA	GSE22098	GSM550385	WB-H-1946	healthy	whole blood	whole blood	5	M	NA	NA	NA	1
+NA	GSE22098	GSM550386	WB-H-1254	healthy	whole blood	whole blood	5	M	NA	NA	NA	1
+NA	GSE22098	GSM550388	WB-H-4276	healthy	whole blood	whole blood	7	M	NA	NA	NA	1
+NA	GSE22098	GSM550391	WB-H-2804	healthy	whole blood	whole blood	14	M	NA	NA	NA	1
+NA	GSE22098	GSM550393	WB-H-1137	healthy	whole blood	whole blood	11	M	NA	NA	NA	1
+NA	GSE22098	GSM550399	WB-H-2817	healthy	whole blood	whole blood	14	M	NA	NA	NA	1

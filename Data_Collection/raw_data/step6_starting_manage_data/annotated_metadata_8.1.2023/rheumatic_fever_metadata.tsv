@@ -1,0 +1,18 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	channel_count
+NA	GSE209591	GSM6380202	N12	coronary heart disease	whole blood	blood	13	F	NA	NA	NA	1
+NA	GSE209591	GSM6380203	N13	coronary heart disease	whole blood	blood	13	M	NA	NA	NA	1
+NA	GSE209591	GSM6380199	N7	coronary heart disease	whole blood	blood	9	F	NA	NA	NA	1
+NA	GSE209591	GSM6380200	N8	coronary heart disease	whole blood	blood	16	M	NA	NA	NA	1
+NA	GSE209591	GSM6380201	N9	coronary heart disease	whole blood	blood	11	M	NA	NA	NA	1
+NA	GSE209591	GSM6380204	P1	healthy	whole blood	blood	12	M	NA	NA	NA	1
+NA	GSE209591	GSM6380205	P2	healthy	whole blood	blood	13	F	NA	NA	NA	1
+NA	GSE209591	GSM6380197	A12	rheumatic fever (acute)	whole blood	blood	15	M	NA	NA	NA	1
+NA	GSE209591	GSM6380198	A13	rheumatic fever (acute)	whole blood	blood	13	F	NA	NA	NA	1
+NA	GSE209591	GSM6380194	A8	rheumatic fever (acute)	whole blood	blood	14	M	NA	NA	NA	1
+NA	GSE209591	GSM6380195	A9	rheumatic fever (acute)	whole blood	blood	19	M	NA	NA	NA	1
+NA	GSE209591	GSM6380196	A11	rheumatic fever (acute)	whole blood	blood	13	F	NA	NA	NA	1
+NA	GSE209591	GSM6380189	A5	rheumatic heart disease	whole blood	blood	16	F	NA	NA	NA	1
+NA	GSE209591	GSM6380190	C39	rheumatic heart disease	whole blood	blood	18	F	NA	NA	NA	1
+NA	GSE209591	GSM6380191	C41	rheumatic heart disease	whole blood	blood	13	M	NA	NA	NA	1
+NA	GSE209591	GSM6380192	C42	rheumatic heart disease	whole blood	blood	15	M	NA	NA	NA	1
+NA	GSE209591	GSM6380193	C44	rheumatic heart disease	whole blood	blood	15	M	NA	NA	NA	1

@@ -1,0 +1,68 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	channel_count
+NA	GSE206364	GSM6252619	8907	healthy	tissue	liver	20	M	NA	NA	NA	1
+NA	GSE206364	GSM6252620	8911	healthy	tissue	liver	28	F	NA	NA	NA	1
+NA	GSE206364	GSM6252621	9001	healthy	tissue	liver	66	F	NA	NA	NA	1
+NA	GSE206364	GSM6252622	9037	healthy	tissue	liver	37	F	NA	NA	NA	1
+NA	GSE206364	GSM6252623	9126	healthy	tissue	liver	19	M	NA	NA	NA	1
+NA	GSE206364	GSM6252624	9203	healthy	tissue	liver	24	F	NA	NA	NA	1
+NA	GSE206364	GSM6252625	9503	healthy	tissue	liver	45	F	NA	NA	NA	1
+NA	GSE206364	GSM6252626	9022	healthy	tissue	liver	5	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252627	9023	healthy	tissue	liver	2.6	F	NA	NA	NA	1
+NA	GSE206364	GSM6252628	9036	healthy	tissue	liver	5	F	NA	NA	NA	1
+NA	GSE206364	GSM6252629	9506	healthy	tissue	liver	3	F	NA	NA	NA	1
+NA	GSE206364	GSM6252630	9608	healthy	tissue	liver	4	M	NA	NA	NA	1
+NA	GSE206364	GSM6252631	9609	healthy	tissue	liver	4	M	NA	NA	NA	1
+NA	GSE206364	GSM6252632	9101	healthy	tissue	liver	2	M	NA	NA	NA	1
+NA	GSE206364	GSM6252633	9035	healthy	tissue	liver	3	F	NA	NA	NA	1
+NA	GSE206364	GSM6252634	9011	healthy	tissue	liver	3.5	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252635	9402	cholestatic liver disease (adult)	tissue	liver	49	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252636	9124	cholestatic liver disease (adult)	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252637	9309	cholestatic liver disease (adult)	tissue	liver	62	F	NA	NA	NA	1
+NA	GSE206364	GSM6252638	8919	progressive familial intrahepatic cholestasis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252639	9012	progressive familial intrahepatic cholestasis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252640	9034	progressive familial intrahepatic cholestasis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252641	9109	progressive familial intrahepatic cholestasis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252642	9505	progressive familial intrahepatic cholestasis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252643	8601	alagille syndrome	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252644	8815	alagille syndrome	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252645	8934	alagille syndrome	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252646	9413	alagille syndrome	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252647	9414	alagille syndrome	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252648	114504	autoimmune hepatitis (pediatric)	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252649	127296	autoimmune hepatitis (pediatric)	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252650	149153	autoimmune hepatitis (pediatric)	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252651	181511	autoimmune hepatitis (pediatric)	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE206364	GSM6252652	261617	autoimmune hepatitis (pediatric)	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837490	LTH_1	healthy	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837491	LTH_2	healthy	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837492	LTH_3	healthy	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837493	LTH_4	healthy	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837494	LTH_5	healthy	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837495	LTH_6	healthy	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837496	NASH_1	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837497	NASH_2	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837498	NASH_3	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837499	NASH_4	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837500	NASH_5	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837501	NASH_6	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837502	NASH_7	non-alcoholic steatohepatitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837503	PSC_1_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837504	PSC_2_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837505	PSC_3_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837506	PSC_4_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837507	PSC_5_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837508	PSC_6_a	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837509	PSC_1_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837510	PSC_2_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837511	PSC_3_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837512	PSC_4_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837513	PSC_5_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837514	PSC_6_b	primary sclerosing cholangitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837515	ML-1	primary biliary cirrhosis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837516	ML-2	primary biliary cirrhosis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837517	ML-3	haemochromatosis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837518	ML-4	autoimmune hepatitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837519	ML-5	autoimmune hepatitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837520	ML-6	alcohol related	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837521	ML-7	autoimmune hepatitis	tissue	liver	NA	NA	NA	NA	NA	1
+NA	GSE159676	GSM4837522	ML-8	primary biliary cirrhosis	tissue	liver	NA	NA	NA	NA	NA	1

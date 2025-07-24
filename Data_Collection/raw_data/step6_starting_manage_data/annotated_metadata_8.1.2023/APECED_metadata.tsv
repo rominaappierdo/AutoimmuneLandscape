@@ -1,0 +1,10 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	channel_count
+NA	GSE133603	GSM4671195	HD_1	healthy	tissue	oral mucosal gingival tissue	27	F	NA	NA	NA	1
+NA	GSE133603	GSM4671196	HD_2	healthy	tissue	oral mucosal gingival tissue	43	F	NA	NA	NA	1
+NA	GSE133603	GSM4671197	HD_3	healthy	tissue	oral mucosal gingival tissue	23	F	NA	NA	NA	1
+NA	GSE133603	GSM4671198	HD_4	healthy	tissue	oral mucosal gingival tissue	25	M	NA	NA	NA	1
+NA	GSE133603	GSM4671199	APECED_1	apeced	tissue	oral mucosal gingival tissue	41	M	NA	NA	NA	1
+NA	GSE133603	GSM4671200	APECED_2	apeced	tissue	oral mucosal gingival tissue	53	M	NA	NA	NA	1
+NA	GSE133603	GSM4671201	APECED_3	apeced	tissue	oral mucosal gingival tissue	65	M	NA	NA	NA	1
+NA	GSE133603	GSM4671202	APECED_4	apeced	tissue	oral mucosal gingival tissue	21	M	NA	NA	NA	1
+NA	GSE133603	GSM4671203	APECED_5	apeced	tissue	oral mucosal gingival tissue	36	F	NA	NA	NA	1

@@ -1,0 +1,11 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	channel_count
+NA	GSE102114	GSM2724046	Health_460	healthy	whole blood	blood	10	F	NA	NA	NA	1
+NA	GSE102114	GSM2724047	Health_472	healthy	whole blood	blood	8	F	NA	NA	NA	1
+NA	GSE102114	GSM2724048	Health_473	healthy	whole blood	blood	12	F	NA	NA	NA	1
+NA	GSE102114	GSM2724049	Health_475	healthy	whole blood	blood	15	M	NA	NA	NA	1
+NA	GSE102114	GSM2724042	Sick_105	henoch-schonlein purpura nephritis	whole blood	blood	10	M	NA	NA	NA	1
+NA	GSE102114	GSM2724043	Sick_111	henoch-schonlein purpura nephritis	whole blood	blood	15	M	NA	NA	NA	1
+NA	GSE102114	GSM2724044	Sick_173	henoch-schonlein purpura nephritis	whole blood	blood	11	M	NA	NA	NA	1
+NA	GSE102114	GSM2724045	Sick_303	henoch-schonlein purpura nephritis	whole blood	blood	11	M	NA	NA	NA	1
+NA	GSE102114	GSM2724040	Sick_64	henoch-schonlein purpura nephritis	whole blood	blood	15	F	NA	NA	NA	1
+NA	GSE102114	GSM2724041	Sick_87	henoch-schonlein purpura nephritis	whole blood	blood	13	F	NA	NA	NA	1

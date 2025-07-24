@@ -1,0 +1,255 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	multiple_series	channel_count
+NA	GSE125977	GSM3587221	JP1	dermatomyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587211	JP10	dermatomyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587212	JP11	healthy	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587213	JP12	inclusion body myositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587214	JP13	inclusion body myositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587215	JP14	polymyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587216	JP15	dermatomyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587217	JP16	healthy	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587218	JP17	polymyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587219	JP18	inclusion body myositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587220	JP19	polymyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587227	JP2	polymyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587222	JP20	healthy	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587223	JP21	polymyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587224	JP22	dermatomyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587225	JP23	polymyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587226	JP24	inclusion body myositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587228	JP3	healthy	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587229	JP4	dermatomyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587230	JP5	inclusion body myositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587231	JP6	polymyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587232	JP7	dermatomyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587233	JP8	healthy	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE125977	GSM3587234	JP9	dermatomyositis	whole blood	whole blood	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676247	DM-004	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676248	DM-009	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676249	DM-019	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676250	DM-030	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676251	DM-039	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676252	DM-058	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676253	DM-087	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676254	DM-168	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676255	DM-177	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676256	DM-179	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676257	DM-195	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676258	DM-258	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676259	IBM-001	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676260	IBM-007	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676261	IBM-020	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676262	IBM-027	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676263	IBM-036	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676264	IBM-038	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676265	IBM-061	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676266	IBM-062	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676267	IBM-067	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676268	IBM-079	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676269	IBM-083	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676270	IBM-091	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676271	IBM-112	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676272	IBM-167	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676273	IBM-169	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676274	IBM-170	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676275	IBM-173	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676276	IBM-175	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676277	IBM-180	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676278	IBM-183	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676279	IBM-185	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676280	IBM-203	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676281	IBM-223	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676282	IBM-232	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676283	IBM-237	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676284	IBM-251	inclusion body myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676285	NL-045	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676286	NL-050	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676287	NL-057	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676288	NL-063	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676289	NL-110	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676290	NL-128	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676291	NL-133	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676292	NL-176	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676293	NL-186	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676294	NL-193	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676295	NL-217	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676296	NL-218	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676297	NM-003	necrotizing myopathy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676298	NM-126	necrotizing myopathy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676299	NM-263	necrotizing myopathy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676300	NM-284	necrotizing myopathy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676301	NM-291	necrotizing myopathy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676302	NM-292	necrotizing myopathy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676303	NS-086	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676304	NS-096	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676305	NS-102	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676306	NS-139	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676307	NS-160	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676308	NS-182	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676309	NS-212	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676310	NS-221	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676311	NS-236	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676312	NS-243	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676313	NS-250	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676314	NS-277	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676315	NS-295	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676316	NS-299	non-specific myositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676317	PM-016	polymyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676318	PM-017	polymyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676319	PM-080	polymyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676320	PM-156	polymyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676321	PM-164	polymyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676322	PM-197	polymyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE128470	GSM3676323	PM-229	polymyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26529	GEIM110	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26514	GEIM12	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26530	GEIM128	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26531	GEIM133	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26521	GEIM168	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26532	GEIM176	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26522	GEIM177	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26523	GEIM179	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26533	GEIM186	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26515	GEIM19	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26534	GEIM193	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26524	GEIM195	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26516	GEIM30	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26517	GEIM39	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26512	GEIM4	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26525	GEIM45	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26526	GEIM50	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26527	GEIM57	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26518	GEIM58	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26528	GEIM63	healthy	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26519	GEIM86	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26520	GEIM87	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE1551	GSM26513	GEIM9	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE26852	GSM661123	individual 1	healthy	tissue	muscle, deltoid	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661134	individual 10	fascioscapulohumeral muscular dystrophy	tissue	muscle, quadriceps	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661135	individual 11	fascioscapulohumeral muscular dystrophy	tissue	muscle, quadriceps	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661138	individual 12	fascioscapulohumeral muscular dystrophy	tissue	muscle, biceps	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661139	individual 13	fascioscapulohumeral muscular dystrophy	tissue	muscle, quadriceps	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661141	individual 14	fascioscapulohumeral muscular dystrophy	tissue	muscle, biceps	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661142	individual 15	polymyositis	tissue	muscle, deltoid	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661143	individual 16	polymyositis	tissue	muscle, quadriceps	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661145	individual 17	dermatomyositis	tissue	muscle, deltoid	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661146	individual 18	dermatomyositis	tissue	muscle, quadriceps	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661147	individual 19	necrotizing myopathy	tissue	muscle, quadriceps	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661124	individual 2	healthy	tissue	muscle, deltoid	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661149	individual 20	inflammatory myopathy	tissue	muscle, deltoid	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661150	individual 21	inflammatory myopathy	tissue	muscle, quadriceps	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661152	individual 22	dysferlinopathy	tissue	muscle, deltoid	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661153	individual 23	dysferlinopathy	tissue	muscle, quadriceps	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661154	individual 24	dysferlinopathy	tissue	muscle, quadriceps	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661155	individual 25	dysferlinopathy	tissue	muscle, deltoid	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661125	individual 3	healthy	tissue	muscle, quadriceps	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661126	individual 4	healthy	tissue	muscle, deltoid	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661127	individual 5	healthy	tissue	muscle, quadriceps	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661128	individual 6	healthy	tissue	muscle, quadriceps	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661130	individual 7	healthy	tissue	muscle, quadriceps	NA	F	NA	NA	NA		1
+NA	GSE26852	GSM661131	individual 8	fascioscapulohumeral muscular dystrophy	tissue	muscle, quadriceps	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661137	individual 8	fascioscapulohumeral muscular dystrophy	tissue	muscle, paravertebral	NA	M	NA	NA	NA		1
+NA	GSE26852	GSM661132	individual 9	fascioscapulohumeral muscular dystrophy	tissue	muscle, quadriceps	NA	M	NA	NA	NA		1
+NA	GSE3112	GSM69481	GEIM1	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69514	GEIM110	healthy	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69494	GEIM112	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69495	GEIM127	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69515	GEIM128	healthy	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69516	GEIM133	healthy	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69504	GEIM16	polymyositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69507	GEIM164	polymyositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69496	GEIM167	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69497	GEIM169	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69505	GEIM17	polymyositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69498	GEIM170	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69508	GEIM175	polymyositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69517	GEIM176	healthy	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69499	GEIM180	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69500	GEIM183	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69518	GEIM186	healthy	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69519	GEIM193	healthy	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69509	GEIM197	polymyositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69483	GEIM20	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69520	GEIM218	healthy	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69501	GEIM223	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69502	GEIM237	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69503	GEIM251	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69484	GEIM27	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69485	GEIM36	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69486	GEIM38	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69510	GEIM45	healthy	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69511	GEIM50	healthy	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69487	GEIM54	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69512	GEIM57	healthy	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69488	GEIM61	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69489	GEIM62	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69513	GEIM63	healthy	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69490	GEIM67	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69482	GEIM7	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69491	GEIM79	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69506	GEIM80	polymyositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69492	GEIM83	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE3112	GSM69493	GEIM91	inclusion body myositis	tissue	skeletal muscle	NA	NA	NA	NA	NA		1
+NA	GSE39454	GSM969470	GEIM12	dermatomyositis	tissue	muscle, biceps	74	F	NA	NA	NA		1
+NA	GSE39454	GSM969471	GEIM54	polymyositis	tissue	muscle, quadriceps	62	M	NA	NA	NA		1
+NA	GSE39454	GSM969472	GEIM57	healthy	tissue	muscle, biceps	38	F	NA	NA	NA		1
+NA	GSE39454	GSM969473	GEIM63	healthy	tissue	muscle, biceps	37	F	NA	NA	NA		1
+NA	GSE39454	GSM969475	GEIM90	polymyositis	tissue	muscle, deltoid	90	M	NA	NA	NA		1
+NA	GSE39454	GSM969476	GEIM96	polymyositis	tissue	muscle, biceps	86	F	NA	NA	NA		1
+NA	GSE39454	GSM969477	GEIM127	inclusion body myositis	tissue	muscle, biceps	68	F	NA	NA	NA		1
+NA	GSE39454	GSM969478	GEIM133	healthy	tissue	muscle, quadriceps	60	F	NA	NA	NA		1
+NA	GSE39454	GSM969479	GEIM174	polymyositis	tissue	muscle, biceps	36	F	NA	NA	NA		1
+NA	GSE39454	GSM969480	GEIM272	dermatomyositis with perifascicular atrophy	tissue	muscle, biceps	25	F	NA	NA	NA		1
+NA	GSE39454	GSM969481	GEIM306	necrotizing myopathy	tissue	muscle, biceps	64	F	NA	NA	NA		1
+NA	GSE39454	GSM969482	GEIM312	polymyositis	tissue	muscle, biceps	76	F	NA	NA	NA		1
+NA	GSE39454	GSM969483	GEIM315	dermatomyositis	tissue	muscle, biceps	39	F	NA	NA	NA		1
+NA	GSE39454	GSM969484	GEIM322	polymyositis	tissue	muscle, biceps	58	F	NA	NA	NA		1
+NA	GSE39454	GSM969485	GEIM331	polymyositis	tissue	muscle, deltoid	87	F	NA	NA	NA		1
+NA	GSE39454	GSM969486	GEIM335	inclusion body myositis	tissue	muscle, quadriceps	71	F	NA	NA	NA		1
+NA	GSE39454	GSM969487	GEIM340	necrotizing myopathy	tissue	muscle, biceps	83	F	NA	NA	NA		1
+NA	GSE39454	GSM969488	GEIM349	dermatomyositis	tissue	muscle, biceps	28	F	NA	NA	NA		1
+NA	GSE39454	GSM969489	GEIM354	inclusion body myositis	tissue	muscle, biceps	76	M	NA	NA	NA		1
+NA	GSE39454	GSM969490	GEIM363	inclusion body myositis	tissue	muscle, biceps	79	F	NA	NA	NA		1
+NA	GSE39454	GSM969491	GEIM365	healthy	tissue	muscle, biceps	41	M	NA	NA	NA		1
+NA	GSE39454	GSM969492	GEIM368	healthy	tissue	muscle, quadriceps	61	F	NA	NA	NA		1
+NA	GSE39454	GSM969493	GEIM372	inclusion body myositis	tissue	muscle, quadriceps	61	M	NA	NA	NA		1
+NA	GSE39454	GSM969494	GEIM373	inclusion body myositis	tissue	muscle, quadriceps	80	F	NA	NA	NA		1
+NA	GSE39454	GSM969495	GEIM374	inclusion body myositis	tissue	muscle, quadriceps	47	F	NA	NA	NA		1
+NA	GSE39454	GSM969496	GEIM375	necrotizing myopathy	tissue	muscle, quadriceps	50	F	NA	NA	NA		1
+NA	GSE39454	GSM969497	GEIM376	dermatomyositis	tissue	muscle, deltoid	37	M	NA	NA	NA		1
+NA	GSE39454	GSM969498	GEIM377	inclusion body myositis	tissue	muscle, biceps	50	M	NA	NA	NA		1
+NA	GSE39454	GSM969499	GEIM380	inclusion body myositis	tissue	muscle, quadriceps	61	M	NA	NA	NA		1
+NA	GSE39454	GSM969500	GEIM382	dermatomyositis with perifascicular atrophy	tissue	muscle, deltoid	30	F	NA	NA	NA		1
+NA	GSE39454	GSM969501	GEIM383	dermatomyositis with perifascicular atrophy	tissue	muscle, deltoid	44	F	NA	NA	NA		1
+NA	GSE39454	GSM969502	GEIM385	polymyositis	tissue	muscle, biceps	61	F	NA	NA	NA		1
+NA	GSE39454	GSM969504	GEIM391	necrotizing myopathy	tissue	muscle, quadriceps	71	M	NA	NA	NA		1
+NA	GSE39454	GSM969505	GEIM397	inclusion body myositis	tissue	muscle, biceps	77	M	NA	NA	NA		1
+NA	GSE39454	GSM969474	GEIM64	necrotizing myopathy	tissue	muscle, biceps	77	M	NA	NA	NA		1
+NA	GSE39454	GSM969503	GEIM389	dermatomyositis with perifascicular atrophy	tissue	muscle, biceps	40	M	NA	NA	NA		1
+NA	GSE48280	GSM1174159	A1	healthy	tissue	skeletal muscle, microdissected muscle fibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174160	A2C	healthy	tissue	skeletal muscle, microdissected muscle fibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174161	A3B	healthy	tissue	skeletal muscle, microdissected muscle fibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174162	A5	healthy	tissue	skeletal muscle, microdissected muscle fibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174163	A7B	healthy	tissue	skeletal muscle, microdissected muscle fibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174164	B2	dermatomyositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174165	B3B	dermatomyositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174166	B5	dermatomyositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174167	B6	dermatomyositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174168	B9	dermatomyositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174169	E1	polymyositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174170	E5	polymyositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174171	E6	polymyositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174172	E7C	polymyositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174173	E8B	polymyositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174174	F2	inclusion body myositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174175	F4B	inclusion body myositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174176	F6B	inclusion body myositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE48280	GSM1174177	F7B	inclusion body myositis	tissue	skeletal muscle, MHC-I-positive microdissected myofibers	NA	NA	NA	NA	NA		1
+NA	GSE5370	GSM118580	PHM-DM-1aUA-s2	dermatomyositis	tissue	muscle	52	NA	NA	NA	NA		1
+NA	GSE5370	GSM118624	PHM-DM-2aUA-s2	dermatomyositis	tissue	muscle	65	NA	NA	NA	NA		1
+NA	GSE5370	GSM118659	PHM-DM-3aUA-s2	dermatomyositis	tissue	muscle	NA	NA	NA	NA	NA		1
+NA	GSE5370	GSM118660	PHM-DM-4aUA-s2	dermatomyositis	tissue	muscle	62	NA	NA	NA	NA		1
+NA	GSE5370	GSM118661	PHM-DM-5aUA-s2	dermatomyositis	tissue	muscle	49	NA	NA	NA	NA		1
+NA	GSE5370	GSM74359	FSH-NHM-3UA-s2	healthy	tissue	muscle	NA	NA	NA	NA	NA	GSE3307, GSE9397	1
+NA	GSE5370	GSM74360	FSH-NHM-4UA-s2	healthy	tissue	muscle	NA	NA	NA	NA	NA	GSE3307, GSE9397	1
+NA	GSE5370	GSM119936	FSH-NHM-1UA-S2	healthy	tissue	muscle	30	M	NA	NA	NA	GSE3307, GSE9397	1
+NA	GSE5370	GSM119937	FSH-NHM-2UA-S2	healthy	tissue	muscle	30	F	NA	NA	NA	GSE3307, GSE9397	1

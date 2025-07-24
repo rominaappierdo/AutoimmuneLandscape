@@ -1,0 +1,34 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	channel_count
+NA	GSE190024	GSM5712013	subj_1	pemphigus vulgaris, pulmonary tuberculosis	PBMCs	blood	35	M	NA	hospitalization		1
+NA	GSE190024	GSM5712014	subj_1	pemphigus vulgaris, pulmonary tuberculosis	PBMCs	blood	35	M	NA	discharge		1
+NA	GSE190024	GSM5712015	subj_1	pemphigus vulgaris, pulmonary tuberculosis	PBMCs	blood	35	M	NA	one-week follow-up		1
+NA	GSE135004	GSM3983482	pemphigus 1	pemphigus	tissue	skin (lesional)	NA	NA	lymphocytes			1
+NA	GSE135004	GSM3983483	pemphigus 2	pemphigus	tissue	skin (lesional)	NA	NA	lymphocytes			1
+NA	GSE135004	GSM3983484	pemphigus 3	pemphigus	tissue	skin (lesional)	NA	NA	lymphocytes			1
+NA	GSE135004	GSM3983485	control 1	healthy	tissue	skin	NA	NA	lymphocytes			1
+NA	GSE135004	GSM3983486	control 2	healthy	tissue	skin	NA	NA	lymphocytes			1
+NA	GSE135004	GSM3983487	control 3	healthy	tissue	skin	NA	NA	lymphocytes			1
+NA	GSE53873	GSM1302435	C_1	healthy	PBMCs	blood	30	M	CD4+ T cells		NA	1
+NA	GSE53873	GSM1302436	C_2	healthy	PBMCs	blood	52	M	CD4+ T cells		NA	1
+NA	GSE53873	GSM1302437	C_3	healthy	PBMCs	blood	44	M	CD4+ T cells		NA	1
+NA	GSE53873	GSM1302438	C_4	healthy	PBMCs	blood	33	M	CD4+ T cells		NA	1
+NA	GSE53873	GSM1302439	C_5	healthy	PBMCs	blood	36	F	CD4+ T cells		NA	1
+NA	GSE53873	GSM1302417	GenT_1	pemphigus foliaceus (generalized)	PBMCs	blood	29	F	CD4+ T cells		prednisone	1
+NA	GSE53873	GSM1302423	GenT_2	pemphigus foliaceus (generalized)	PBMCs	blood	39	F	CD4+ T cells		prednisone	1
+NA	GSE53873	GSM1302425	GenT_3	pemphigus foliaceus (generalized)	PBMCs	blood	12	M	CD4+ T cells		prednisone	1
+NA	GSE53873	GSM1302428	GenT_4	pemphigus foliaceus (generalized)	PBMCs	blood	45	M	CD4+ T cells		prednisone	1
+NA	GSE53873	GSM1302429	GenT_5	pemphigus foliaceus (generalized)	PBMCs	blood	29	F	CD4+ T cells		prednisone	1
+NA	GSE53873	GSM1302419	GenUT_1	pemphigus foliaceus (generalized)	PBMCs	blood	27	F	CD4+ T cells		none	1
+NA	GSE53873	GSM1302420	GenUT_2	pemphigus foliaceus (generalized)	PBMCs	blood	15	M	CD4+ T cells		none	1
+NA	GSE53873	GSM1302424	GenUT_3	pemphigus foliaceus (generalized)	PBMCs	blood	33	M	CD4+ T cells		none	1
+NA	GSE53873	GSM1302426	GenUT_4	pemphigus foliaceus (generalized)	PBMCs	blood	41	F	CD4+ T cells		none	1
+NA	GSE53873	GSM1302430	GenUT_5	pemphigus foliaceus (generalized)	PBMCs	blood	33	F	CD4+ T cells		none	1
+NA	GSE53873	GSM1302416	Loc_1	pemphigus foliaceus (localized)	PBMCs	blood	21	F	CD4+ T cells		none	1
+NA	GSE53873	GSM1302418	Loc_2	pemphigus foliaceus (localized)	PBMCs	blood	37	F	CD4+ T cells		none	1
+NA	GSE53873	GSM1302421	Loc_3	pemphigus foliaceus (localized)	PBMCs	blood	51	F	CD4+ T cells		none	1
+NA	GSE53873	GSM1302422	Loc_4	pemphigus foliaceus (localized)	PBMCs	blood	26	F	CD4+ T cells		none	1
+NA	GSE53873	GSM1302427	Loc_5	pemphigus foliaceus (localized)	PBMCs	blood	32	F	CD4+ T cells		none	1
+NA	GSE53873	GSM1302431	PV_1	pemphigus vulgaris (mucocutaneous)	PBMCs	blood	52	F	CD4+ T cells		none	1
+NA	GSE53873	GSM1302432	PV_2	pemphigus vulgaris (mucocutaneous)	PBMCs	blood	48	F	CD4+ T cells		prednisone	1
+NA	GSE53873	GSM1302433	PV_3	pemphigus vulgaris (mucocutaneous)	PBMCs	blood	42	F	CD4+ T cells		none	1
+NA	GSE53873	GSM1302434	PV_4	pemphigus vulgaris (mucosal)	PBMCs	blood	24	F	CD4+ T cells		prednisone	1

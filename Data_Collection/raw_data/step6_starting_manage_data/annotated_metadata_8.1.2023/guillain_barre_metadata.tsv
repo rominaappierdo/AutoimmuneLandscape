@@ -1,0 +1,21 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	ethnicity	other	channel_count
+NA	GSE72748	GSM1869426	gbs1	guillain-barre syndrome	PBMCs	blood	NA	F	NA	t1	NA		twin	1
+NA	GSE72748	GSM1869427	gbs1	guillain-barre syndrome	PBMCs	blood	NA	F	NA	t2	NA		twin	1
+NA	GSE72748	GSM1869428	gbs1	guillain-barre syndrome	PBMCs	blood	NA	F	NA	t3	NA		twin	1
+NA	GSE72748	GSM1869429	c1	healthy	PBMCs	blood	NA	F	NA	t1	NA		twin	1
+NA	GSE72748	GSM1869430	c1	healthy	PBMCs	blood	NA	F	NA	t2	NA		twin	1
+NA	GSE72748	GSM1869431	c1	healthy	PBMCs	blood	NA	F	NA	t3	NA		twin	1
+NA	GSE31014	GSM768539	GBS-1	guillain-barre syndrome	blood	blood	67	M	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768540	GBS-2	guillain-barre syndrome	blood	blood	55	M	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768541	GBS-3	guillain-barre syndrome	blood	blood	34	F	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768542	GBS-4	guillain-barre syndrome	blood	blood	68	F	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768543	GBS-5	guillain-barre syndrome	blood	blood	53	M	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768544	GBS-6	guillain-barre syndrome	blood	blood	60	M	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768545	GBS-7	guillain-barre syndrome	blood	blood	30	F	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768546	NC-1	healthy	blood	blood	33	F	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768547	NC-2	healthy	blood	blood	43	M	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768548	NC-3	healthy	blood	blood	61	M	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768549	NC-4	healthy	blood	blood	35	F	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768550	NC-5	healthy	blood	blood	68	M	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768551	NC-6	healthy	blood	blood	47	M	peripheral leukocytes		NA	chinese		1
+NA	GSE31014	GSM768552	NC-7	healthy	blood	blood	63	F	peripheral leukocytes		NA	chinese		1

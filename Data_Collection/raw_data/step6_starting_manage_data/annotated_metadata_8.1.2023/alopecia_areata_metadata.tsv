@@ -1,0 +1,225 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	ethnicity	other	channel_count
+	GSE149653	GSM4506671	Control	healthy	tissue	scalp hair	NA	NA	NA					1
+	GSE149653	GSM4506672	Patient2	alopecia areata	tissue	scalp hair	NA	NA	NA					1
+	GSE149653	GSM4506673	Patient4	alopecia areata	tissue	scalp hair	NA	NA	NA					1
+x	GSE150672	GSM4693360		acne	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693361		acne	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693362		acne	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693363		acne	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693364		alopecia areata	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693365		granuloma annulare	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693366		granuloma annulare	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693367		leprosy	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693368		leprosy	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693369		leprosy	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693370		leprosy	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693371		healthy	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693372		healthy	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693373		healthy	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693374		psoriasis	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693375		psoriasis	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693376		psoriasis	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693377		psoriasis	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693378		psoriasis	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693379		psoriasis	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693380		psoriasis	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+x	GSE150672	GSM4693381		psoriasis	tissue	single-cell RNA-seq, skin	NA	NA	NA				seq-well	1
+	GSE111061	GSM3021190	T05	alopecia areata	tissue	scalp skin	NA	NA	NA	baseline				1
+	GSE111061	GSM3021191	T05	alopecia areata	tissue	scalp skin	NA	NA	NA	week 36	tofacitinib			1
+	GSE111061	GSM3021192	T07	alopecia areata	tissue	scalp skin	NA	NA	NA	baseline				1
+	GSE111061	GSM3021193	T07	alopecia areata	tissue	scalp skin	NA	NA	NA	week 24	tofacitinib			1
+	GSE111061	GSM3021194	T09	alopecia areata	tissue	scalp skin	NA	NA	NA	baseline				1
+	GSE111061	GSM3021195	T09	alopecia areata	tissue	scalp skin	NA	NA	NA	week 24	tofacitinib			1
+	GSE111061	GSM3021196	T10	alopecia areata	tissue	scalp skin	NA	NA	NA	baseline				1
+	GSE111061	GSM3021197	T10	alopecia areata	tissue	scalp skin	NA	NA	NA	week 24	tofacitinib			1
+	GSE111061	GSM3021198	T11	alopecia areata	tissue	scalp skin	NA	NA	NA	baseline				1
+	GSE111061	GSM3021199	T11	alopecia areata	tissue	scalp skin	NA	NA	NA	week 24	tofacitinib			1
+	GSE111061	GSM3021200	T12	alopecia areata	tissue	scalp skin	NA	NA	NA	baseline				1
+	GSE111061	GSM3021201	T12	alopecia areata	tissue	scalp skin	NA	NA	NA	week 24	tofacitinib			1
+	GSE111061	GSM3021202	C149	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE111061	GSM3021203	C150	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE111061	GSM3021204	C151	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE111061	GSM3021205	C069	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE111061	GSM3021206	C070	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE111061	GSM3021207	C071	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE80342	GSM2124815	NC084	healthy	tissue	scalp skin	43	M	NA			white		1
+	GSE80342	GSM2124816	NC098	healthy	tissue	scalp skin	27	F	NA			asian		1
+	GSE80342	GSM2124817	NC108	healthy	tissue	scalp skin	40	F	NA			black		1
+	GSE80342	GSM2124818	R01	alopecia areata (persistent)	tissue	scalp skin	36	F	NA	baseline		white		1
+	GSE80342	GSM2124836	R01	alopecia areata (persistent)	tissue	scalp skin	36	F	NA	week 12	ruxoltinib	white		1
+	GSE80342	GSM2124819	R02	alopecia areata (persistent)	tissue	scalp skin	45	F	NA	baseline		white		1
+	GSE80342	GSM2124837	R02	alopecia areata (persistent)	tissue	scalp skin	45	F	NA	week 12	ruxoltinib	white		1
+	GSE80342	GSM2124845	R02	alopecia areata (persistent)	tissue	scalp skin	45	F	NA	week 24	ruxoltinib	white		1
+	GSE80342	GSM2124820	R03	alopecia areata (persistent)	tissue	scalp skin	48	M	NA	baseline		white		1
+	GSE80342	GSM2124834	R03	alopecia areata (persistent)	tissue	scalp skin	48	M	NA	week 8	ruxoltinib	white		1
+	GSE80342	GSM2124838	R03	alopecia areata (persistent)	tissue	scalp skin	48	M	NA	week 12	ruxoltinib	white		1
+	GSE80342	GSM2124821	R04	alopecia areata (persistent)	tissue	scalp skin	34	M	NA	baseline		white		1
+	GSE80342	GSM2124835	R04	alopecia areata (persistent)	tissue	scalp skin	34	M	NA	week 8	ruxoltinib	white		1
+	GSE80342	GSM2124839	R04	alopecia areata (persistent)	tissue	scalp skin	34	M	NA	week 12	ruxoltinib	white		1
+	GSE80342	GSM2124822	R05	alopecia areata (persistent)	tissue	scalp skin	34	M	NA	baseline		hispanic		1
+	GSE80342	GSM2124823	R06	alopecia areata (persistent)	tissue	scalp skin	58	F	NA	baseline		hispanic		1
+	GSE80342	GSM2124831	R06	alopecia areata (persistent)	tissue	scalp skin	58	F	NA	week 4	ruxoltinib	hispanic		1
+	GSE80342	GSM2124840	R06	alopecia areata (persistent)	tissue	scalp skin	58	F	NA	week 12	ruxoltinib	hispanic		1
+	GSE80342	GSM2124824	R07	alopecia areata (persistent)	tissue	scalp skin	35	F	NA	baseline		hispanic		1
+	GSE80342	GSM2124832	R07	alopecia areata (persistent)	tissue	scalp skin	35	F	NA	week 4	ruxoltinib	hispanic		1
+	GSE80342	GSM2124825	R08	alopecia areata (persistent)	tissue	scalp skin	31	F	NA	baseline		white		1
+	GSE80342	GSM2124833	R08	alopecia areata (persistent)	tissue	scalp skin	31	F	NA	week 4	ruxoltinib	white		1
+	GSE80342	GSM2124841	R08	alopecia areata (persistent)	tissue	scalp skin	31	F	NA	week 12	ruxoltinib	white		1
+	GSE80342	GSM2124826	R09	alopecia areata (severe)	tissue	scalp skin	63	M	NA	baseline		white		1
+	GSE80342	GSM2124842	R09	alopecia areata (severe)	tissue	scalp skin	63	M	NA	week 12	ruxoltinib	white		1
+	GSE80342	GSM2124827	R10	alopecia areata (totalis)	tissue	scalp skin	60	F	NA	baseline		white		1
+	GSE80342	GSM2124830	R10	alopecia areata (totalis)	tissue	scalp skin	60	F	NA	week 2	ruxoltinib	white		1
+	GSE80342	GSM2124843	R10	alopecia areata (totalis)	tissue	scalp skin	60	F	NA	week 12	ruxoltinib	white		1
+	GSE80342	GSM2124828	R11	alopecia areata (persistent)	tissue	scalp skin	62	F	NA	baseline		asian		1
+	GSE80342	GSM2124844	R11	alopecia areata (persistent)	tissue	scalp skin	62	F	NA	week 12	ruxoltinib	asian		1
+	GSE80342	GSM2124829	R12	alopecia areata (universalis)	tissue	scalp skin	20	M	NA	baseline		black		1
+	GSE68801	GSM1682008	C014	alopecia areata (patchy type)	tissue	skin (lesional)	32	F	NA					1
+	GSE68801	GSM1682011	C014	alopecia areata (patchy type)	tissue	skin (non lesional)	32	F	NA					1
+	GSE68801	GSM1682021	C038	alopecia areata (patchy type)	tissue	skin (lesional)	55	M	NA					1
+	GSE68801	GSM1682033	C052	alopecia areata (patchy type)	tissue	skin (lesional)	28	F	NA					1
+	GSE68801	GSM1682037	C052	alopecia areata (patchy type)	tissue	skin (non lesional)	28	F	NA					1
+	GSE68801	GSM1682034	C076	alopecia areata (patchy type)	tissue	skin (lesional)	38	F	NA					1
+	GSE68801	GSM1682038	C076	alopecia areata (patchy type)	tissue	skin (non lesional)	38	F	NA					1
+	GSE68801	GSM1682048	C083	alopecia areata (patchy type)	tissue	skin (lesional)	55	M	NA					1
+	GSE68801	GSM1682052	C083	alopecia areata (patchy type)	tissue	skin (non lesional)	55	M	NA					1
+	GSE68801	GSM1681981	HT002	alopecia areata (patchy type)	tissue	skin (lesional)	40	F	NA					1
+	GSE68801	GSM1681984	HT002	alopecia areata (patchy type)	tissue	skin (non lesional)	40	F	NA					1
+	GSE68801	GSM1681982	HT003	alopecia areata (patchy type)	tissue	skin (lesional)	32	M	NA					1
+	GSE68801	GSM1681985	HT003	alopecia areata (patchy type)	tissue	skin (non lesional)	32	M	NA					1
+	GSE68801	GSM1681983	HT006	alopecia areata (patchy type)	tissue	skin (lesional)	26	F	NA					1
+	GSE68801	GSM1681986	HT006	alopecia areata (patchy type)	tissue	skin (non lesional)	26	F	NA					1
+	GSE68801	GSM1682049	HT009	alopecia areata (patchy type)	tissue	skin (lesional)	34	F	NA					1
+	GSE68801	GSM1681994	HT011	alopecia areata (patchy type)	tissue	skin (lesional)	26	M	NA					1
+	GSE68801	GSM1681997	HT011	alopecia areata (patchy type)	tissue	skin (non lesional)	26	M	NA					1
+	GSE68801	GSM1681995	HT012	alopecia areata (patchy type)	tissue	skin (lesional)	26	M	NA					1
+	GSE68801	GSM1681998	HT012	alopecia areata (patchy type)	tissue	skin (non lesional)	26	M	NA					1
+	GSE68801	GSM1682013	HT018	alopecia areata (patchy type)	tissue	skin (non lesional)	36	 F	NA					1
+	GSE68801	GSM1682010	HT018	alopecia areata (patchy type)	tissue	skin (lesional)	36	F	NA					1
+	GSE68801	GSM1682050	HT079	alopecia areata (patchy type)	tissue	skin (lesional)	47	M	NA					1
+	GSE68801	GSM1682053	HT079	alopecia areata (patchy type)	tissue	skin (non lesional)	47	M	NA					1
+	GSE68801	GSM1682062	HT103	alopecia areata (patchy type)	tissue	skin (lesional)	36	F	NA					1
+	GSE68801	GSM1682065	HT103	alopecia areata (patchy type)	tissue	skin (non lesional)	36	F	NA					1
+	GSE68801	GSM1682022	M046	alopecia areata (patchy type)	tissue	skin (lesional)	38	F	NA					1
+	GSE68801	GSM1682024	M046	alopecia areata (patchy type)	tissue	skin (non lesional)	38	F	NA					1
+	GSE68801	GSM1682035	M056	alopecia areata (patchy type)	tissue	skin (lesional)	46	 F	NA					1
+	GSE68801	GSM1682039	M056	alopecia areata (patchy type)	tissue	skin (non lesional)	46	F	NA					1
+	GSE68801	GSM1682036	M058	alopecia areata (patchy type)	tissue	skin (lesional)	29	F	NA					1
+	GSE68801	GSM1682040	M058	alopecia areata (patchy type)	tissue	skin (non lesional)	29	F	NA					1
+	GSE68801	GSM1682081	M112	alopecia areata (patchy type)	tissue	skin (lesional)	30	M	NA					1
+	GSE68801	GSM1682085	M112	alopecia areata (patchy type)	tissue	skin (non lesional)	30	M	NA					1
+	GSE68801	GSM1682051	SF086	alopecia areata (patchy type)	tissue	skin (lesional)	32	F	NA					1
+	GSE68801	GSM1682054	SF086	alopecia areata (patchy type)	tissue	skin (non lesional)	32	F	NA					1
+	GSE68801	GSM1682064	SF099	alopecia areata (patchy type)	tissue	skin (lesional)	16	 F	NA					1
+	GSE68801	GSM1682067	SF099	alopecia areata (patchy type)	tissue	skin (non lesional)	16	F	NA					1
+	GSE68801	GSM1682082	SF104	alopecia areata (patchy type)	tissue	skin (lesional)	66	F	NA					1
+	GSE68801	GSM1682086	SF104	alopecia areata (patchy type)	tissue	skin (non lesional)	66	F	NA					1
+	GSE68801	GSM1682087	SF114	alopecia areata (patchy type)	tissue	skin (non lesional)	38	 F	NA					1
+	GSE68801	GSM1682083	SF114	alopecia areata (patchy type)	tissue	skin (lesional)	38	F	NA					1
+	GSE68801	GSM1682001	C037	alopecia areata (totalis)	tissue	skin (lesional)	21	F	NA					1
+	GSE68801	GSM1682014	C047	alopecia areata (totalis)	tissue	skin (lesional)	38	M	NA					1
+	GSE68801	GSM1682025	C048	alopecia areata (totalis)	tissue	skin (lesional)	60	F	NA					1
+	GSE68801	GSM1681988	HT001	alopecia areata (totalis)	tissue	skin (lesional)	48	F	NA					1
+	GSE68801	GSM1682026	HT050	alopecia areata (totalis)	tissue	skin (lesional)	18	F	NA					1
+	GSE68801	GSM1682057	HT091	alopecia areata (totalis)	tissue	skin (lesional)	38	M	NA					1
+	GSE68801	GSM1682068	HT096	alopecia areata (totalis)	tissue	skin (lesional)	37	F	NA					1
+	GSE68801	GSM1682101	HT097	alopecia areata (totalis)	tissue	skin (lesional)	52	F	NA					1
+	GSE68801	GSM1682092	M110	alopecia areata (totalis)	tissue	skin (lesional)	25	F	NA					1
+	GSE68801	GSM1682020	C020	alopecia areata (transient)	tissue	skin (lesional)	38	 M	NA					1
+	GSE68801	GSM1682023	C020	alopecia areata (transient)	tissue	skin (non lesional)	38	M	NA					1
+	GSE68801	GSM1681993	HT010	alopecia areata (transient)	tissue	skin (lesional)	34	F	NA					1
+	GSE68801	GSM1681996	HT010	alopecia areata (transient)	tissue	skin (non lesional)	34	F	NA					1
+	GSE68801	GSM1682009	HT017	alopecia areata (transient)	tissue	skin (lesional)	54	M	NA					1
+	GSE68801	GSM1682012	HT017	alopecia areata (transient)	tissue	skin (non lesional)	54	M	NA					1
+	GSE68801	GSM1682099	HT095	alopecia areata (transient)	tissue	skin (lesional)	62	M	NA					1
+	GSE68801	GSM1682100	HT095	alopecia areata (transient)	tissue	skin (non lesional)	62	M	NA					1
+	GSE68801	GSM1682063	SF078	alopecia areata (transient)	tissue	skin (lesional)	29	F	NA					1
+	GSE68801	GSM1682066	SF078	alopecia areata (transient)	tissue	skin (non lesional)	29	F	NA					1
+	GSE68801	GSM1682084	SF115	alopecia areata (transient)	tissue	skin (lesional)	58	F	NA					1
+	GSE68801	GSM1682088	SF115	alopecia areata (transient)	tissue	skin (non lesional)	58	F	NA					1
+	GSE68801	GSM1681987	C007	alopecia areata (universalis)	tissue	skin (lesional)	33	 M	NA					1
+	GSE68801	GSM1681999	C013	alopecia areata (universalis)	tissue	skin (lesional)	58	 F	NA					1
+	GSE68801	GSM1682055	C016	alopecia areata (universalis)	tissue	skin (lesional)	28	M	NA					1
+	GSE68801	GSM1682000	C033	alopecia areata (universalis)	tissue	skin (lesional)	38	F	NA					1
+	GSE68801	GSM1682002	C043	alopecia areata (universalis)	tissue	skin (lesional)	62	F	NA					1
+	GSE68801	GSM1682089	C109	alopecia areata (universalis)	tissue	skin (lesional)	29	M	NA					1
+	GSE68801	GSM1682090	C111	alopecia areata (universalis)	tissue	skin (lesional)	59	F	NA					1
+	GSE68801	GSM1682056	HT008	alopecia areata (universalis)	tissue	skin (lesional)	61	F	NA					1
+	GSE68801	GSM1682003	HT041	alopecia areata (universalis)	tissue	skin (lesional)	38	F	NA					1
+	GSE68801	GSM1682041	HT077	alopecia areata (universalis)	tissue	skin (lesional)	23	 M	NA					1
+	GSE68801	GSM1682042	HT082	alopecia areata (universalis)	tissue	skin (lesional)	37	F	NA					1
+	GSE68801	GSM1682091	HT101	alopecia areata (universalis)	tissue	skin (lesional)	41	F	NA					1
+	GSE68801	GSM1682015	M044	alopecia areata (universalis)	tissue	skin (lesional)	33	 F	NA					1
+	GSE68801	GSM1682027	M060	alopecia areata (universalis)	tissue	skin (lesional)	67	F	NA					1
+	GSE68801	GSM1682028	M061	alopecia areata (universalis)	tissue	skin (lesional)	42	F	NA					1
+	GSE68801	GSM1682043	M080	alopecia areata (universalis)	tissue	skin (lesional)	63	M	NA					1
+	GSE68801	GSM1682069	M094	alopecia areata (universalis)	tissue	skin (lesional)	65	F	NA					1
+	GSE68801	GSM1682058	SF087	alopecia areata (universalis)	tissue	skin (lesional)	37	F	NA					1
+	GSE68801	GSM1682070	SF089	alopecia areata (universalis)	tissue	skin (lesional)	41	F	NA					1
+	GSE68801	GSM1682071	SF090	alopecia areata (universalis)	tissue	skin (lesional)	63	F	NA					1
+	GSE68801	GSM1682072	SF100	alopecia areata (universalis)	tissue	skin (lesional)	22	 F	NA					1
+	GSE68801	GSM1682093	SF106	alopecia areata (universalis)	tissue	skin (lesional)	66	M	NA					1
+	GSE68801	GSM1682094	SF113	alopecia areata (universalis)	tissue	skin (lesional)	47	F	NA					1
+	GSE68801	GSM1681991	C024	healthy	tissue	skin	35	M	NA					1
+	GSE68801	GSM1682080	C092	healthy	tissue	skin	53	F	NA					1
+	GSE68801	GSM1682102	C093	healthy	tissue	skin	27	F	NA					1
+	GSE68801	GSM1681989	C021	healthy	tissue	skin	46	 F	NA					1
+	GSE68801	GSM1681990	C022	healthy	tissue	skin	33	F	NA					1
+	GSE68801	GSM1681992	C025	healthy	tissue	skin	61	M	NA					1
+	GSE68801	GSM1682004	C026	healthy	tissue	skin	37	M	NA					1
+	GSE68801	GSM1682005	C027	healthy	tissue	skin	28	F	NA					1
+	GSE68801	GSM1682006	C028	healthy	tissue	skin	38	F	NA					1
+	GSE68801	GSM1682007	C029	healthy	tissue	skin	29	F	NA					1
+	GSE68801	GSM1682016	C030	healthy	tissue	skin	61	F	NA					1
+	GSE68801	GSM1682017	C032	healthy	tissue	skin	49	M	NA					1
+	GSE68801	GSM1682018	C034	healthy	tissue	skin	26	M	NA					1
+	GSE68801	GSM1682019	C035	healthy	tissue	skin	39	F	NA					1
+	GSE68801	GSM1682029	C036	healthy	tissue	skin	23	M	NA					1
+	GSE68801	GSM1682030	C039	healthy	tissue	skin	31	F	NA					1
+	GSE68801	GSM1682031	C042	healthy	tissue	skin	57	M	NA					1
+	GSE68801	GSM1682032	C045	healthy	tissue	skin	26	M	NA					1
+	GSE68801	GSM1682044	C054	healthy	tissue	skin	24	F	NA					1
+	GSE68801	GSM1682045	C055	healthy	tissue	skin	26	F	NA					1
+	GSE68801	GSM1682046	C059	healthy	tissue	skin	33	M	NA					1
+	GSE68801	GSM1682047	C062	healthy	tissue	skin	53	F	NA					1
+	GSE68801	GSM1682059	C063	healthy	tissue	skin	51	F	NA					1
+	GSE68801	GSM1682060	C064	healthy	tissue	skin	32	F	NA					1
+	GSE68801	GSM1682061	C065	healthy	tissue	skin	48	F	NA					1
+	GSE68801	GSM1682073	C069	healthy	tissue	skin	40	F	NA					1
+	GSE68801	GSM1682074	C070	healthy	tissue	skin	23	F	NA					1
+	GSE68801	GSM1682075	C071	healthy	tissue	skin	51	 F	NA					1
+	GSE68801	GSM1682076	C072	healthy	tissue	skin	23	F	NA					1
+	GSE68801	GSM1682077	C074	healthy	tissue	skin	45	F	NA					1
+	GSE68801	GSM1682078	C075	healthy	tissue	skin	36	M	NA					1
+	GSE68801	GSM1682079	C085	healthy	tissue	skin	46	M	NA					1
+	GSE68801	GSM1682095	C098	healthy	tissue	skin	27	F	NA					1
+	GSE68801	GSM1682096	C105	healthy	tissue	skin	31	M	NA					1
+	GSE68801	GSM1682097	C107	healthy	tissue	skin	30	M	NA					1
+	GSE68801	GSM1682098	C108	healthy	tissue	skin	40	F	NA					1
+	GSE74761	GSM1931832	subj_1	alopecia areata (lesional)	tissue	scalp skin	46	M	NA	baseline				1
+	GSE74761	GSM1931833	subj_1	alopecia areata (lesional)	tissue	scalp skin	46	M	NA	week 20	ustekinumab			1
+	GSE74761	GSM1931834	subj_3	alopecia areata (non-lesional)	tissue	scalp skin	50	F	NA	baseline				1
+	GSE74761	GSM1931835	subj_3	alopecia areata (lesional)	tissue	scalp skin	50	F	NA	baseline				1
+	GSE74761	GSM1931836	subj_3	alopecia areata (lesional)	tissue	scalp skin	50	F	NA	week 20	ustekinumab			1
+	GSE74761	GSM1931837	subj_4	alopecia areata (non-lesional)	tissue	scalp skin	23	M	NA	baseline				1
+	GSE74761	GSM1931838	subj_4	alopecia areata (lesional)	tissue	scalp skin	23	M	NA	baseline				1
+	GSE74761	GSM1931839	subj_4	alopecia areata (lesional)	tissue	scalp skin	23	M	NA	week 20	ustekinumab			1
+	GSE74761	GSM1931840	subj_5	healthy	tissue	scalp skin	NA	NA	NA	baseline				1
+	GSE74761	GSM1931841	subj_6	healthy	tissue	scalp skin	NA	NA	NA	baseline				1
+	GSE74761	GSM1931842	subj_7	healthy	tissue	scalp skin	NA	NA	NA	baseline				1
+	GSE58573	GSM1414312	R01	alopecia areata	tissue	scalp skin (lesional)	NA	NA	NA	baseline				1
+	GSE58573	GSM1414313	R01	alopecia areata	tissue	scalp skin (lesional)	NA	NA	NA	week 12				1
+	GSE58573	GSM1414314	R02	alopecia areata	tissue	scalp skin (lesional)	NA	NA	NA	baseline				1
+	GSE58573	GSM1414315	R02	alopecia areata	tissue	scalp skin (lesional)	NA	NA	NA	week 12				1
+	GSE58573	GSM1414316	NC066	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE58573	GSM1414317	NC067	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE58573	GSM1414318	NC068	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE45512	GSM1105869	AA-9	alopecia areata	tissue	scalp skin (lesional)	NA	NA	NA					1
+	GSE45512	GSM1105871	AA-18	alopecia areata	tissue	scalp skin (lesional)	NA	NA	NA					1
+	GSE45512	GSM1105872	AA-23	alopecia areata	tissue	scalp skin (lesional)	NA	NA	NA					1
+	GSE45512	GSM1105873	AA-29	alopecia areata	tissue	scalp skin (lesional)	NA	NA	NA					1
+	GSE45512	GSM1105874	NN-11	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE45512	GSM1105876	NN-13	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE45512	GSM1105877	NN-16	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE45512	GSM1105878	NN-19	healthy	tissue	scalp skin	NA	NA	NA					1
+	GSE45512	GSM1105870	AA-14	alopecia areata	tissue	scalp skin (lesional)	NA	NA	NA					1
+	GSE45512	GSM1105875	NN-12	healthy	tissue	scalp skin	NA	NA	NA					1

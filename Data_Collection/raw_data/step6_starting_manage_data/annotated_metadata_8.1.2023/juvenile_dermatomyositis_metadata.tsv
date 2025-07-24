@@ -1,0 +1,411 @@
+check	series_id	geo_accession	subject_id	disease	sample_type	sample_source	age	gender	cell_type	timepoint	treatment	other	superseries	multiple_series	channel_count
+x	GSE100152	GSM2672192	4463361093_D	healthy	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672193	4463361104_C	healthy	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672194	4463361106_F	healthy	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672195	4463361096_D	healthy	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672196	4463361106_E	healthy	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672197	4463361113_F	healthy	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672198	4463361096_C	healthy	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672199	4463361104_D	healthy	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672200	4463361113_E	healthy	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672201	4463361113_C	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672202	4463361085_B	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672203	4463361105_C	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672204	4463361094_D	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672205	4463361109_A	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672206	4463361099_B	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672207	4463361113_B	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672208	4463361085_A	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672209	4463361104_B	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672210	4463361085_F	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672211	4463361105_F	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672212	4463361096_B	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672213	4463361113_A	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672214	4463361099_E	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672215	4463361113_D	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672216	4463361085_D	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672217	4463361105_E	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672218	4463361094_E	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672219	4463361109_B	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672220	4463361099_C	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672221	4463361096_A	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672222	4463361109_E	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672223	4463361085_E	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672224	4463361099_F	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672225	4463361094_A	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672226	4463361106_A	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672227	4463361094_F	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672228	4463361106_D	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672229	4463361085_C	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672230	4463361099_D	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672231	4463361093_B	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672232	4463361105_D	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672233	4463361094_C	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672234	4463361106_C	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672235	4463361099_A	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672236	4463361109_F	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672237	4463361093_A	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672238	4463361104_A	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672239	4463361094_B	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+x	GSE100152	GSM2672240	4463361106_B	juvenile dermatomyositis	whole blood	whole blood	NA	NA		NA	NA	TF assay	GSE100150		1
+	GSE11083	GSM279742	control 1	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279743	control 2	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279744	control 3	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279745	control 4	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279746	control 5	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279747	control 6	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279748	control 7	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279749	control 8	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279750	control 9	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279751	control 10	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279752	control 11	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279753	control 12	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279754	control 13	healthy	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279755	control 1	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279756	control 2	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279757	control 3	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279758	control 4	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279759	control 5	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279760	Control 6	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279761	control 7	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279762	control 8	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279763	control 9	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279764	control 10	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279765	control 11	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279766	control 12	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279767	control 13	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279768	control 14	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279769	control 15	healthy	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279771	JDM 1	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279772	JDM 2	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279773	JDM 3	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279774	JDM 4	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279775	JDM 5	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279776	JDM 6	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279777	JDM 7	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279778	JDM 8	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279779	JDM 9	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279780	JDM 10	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279781	JDM 11	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279782	JDM 12	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279783	JDM 13	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279784	JDM 14	juvenile dermatomyositis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279785	JDM 1	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279786	JDM 2	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279787	JDM 3	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279788	JDM 4	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279789	JDM 5	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279790	JDM 6	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279791	JDM 7	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279792	JDM 8	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279793	JDM 9	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279794	JDM 10	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279795	JDM 11	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279796	JDM 12	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279797	JDM 13	juvenile dermatomyositis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279798	JIA 1	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279799	JIA 2	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279800	JIA 4	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279801	JIA 5	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM279995	JIA 1	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279997	JIA 2	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279998	JIA 3	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM279999	JIA 4	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM280000	JIA 5	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM280001	JIA 6	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM280002	JIA 7	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM280003	JIA 8	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM280004	JIA 9	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM280006	JIA 10	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM280007	JIA 11	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM280008	JIA 12	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM280009	JIA 13	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM280010	JIA 14	juvenile idiopathic arthritis (childhood-onset)	PBMCs	blood	NA	NA	PBMCs	NA	NA				1
+	GSE11083	GSM280017	JIA 14	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM280018	JIA 13	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM280019	JIA 12	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM280020	JIA 11	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM280023	JIA 10	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM280025	JIA 9	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM280026	JIA 8	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM280027	JIA 7	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM280028	JIA 6	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11083	GSM280081	JIA 3	juvenile idiopathic arthritis (childhood-onset)	blood	blood	NA	NA	neutrophils	NA	NA				1
+	GSE11971	GSM303190	subj_1	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303191	subj_2	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303192	subj_3	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303193	subj_4	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303194	subj_5	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303195	subj_6	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303196	subj_7	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303197	subj_8	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303198	subj_9	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303199	subj_10	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303200	subj_11	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303201	subj_12	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303202	subj_13	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303203	subj_14	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303204	subj_15	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303209	subj_16	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303210	subj_17	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303211	subj_18	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303212	subj_19	juvenile dermatomyositis	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303205	h_1	healthy	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303207	h_2	healthy	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303208	h_3	healthy	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+	GSE11971	GSM303206	h_4	healthy	tissue	skeletal muscle	NA	F	NA	NA	NA				1
+x	GSE3307	GSM74411	AQM-1	acute quadriplegic myopathy	tissue	skeletal muscle	64	M		NA	NA			GSE1017	1
+x	GSE3307	GSM74412	AQM-2	acute quadriplegic myopathy	tissue	skeletal muscle	76	F		NA	NA			GSE1017	1
+x	GSE3307	GSM74413	AQM-3	acute quadriplegic myopathy	tissue	skeletal muscle	77	F		NA	NA			GSE1017	1
+x	GSE3307	GSM74414	AQM-4	acute quadriplegic myopathy	tissue	skeletal muscle	66	M		NA	NA	n		GSE1017	1
+x	GSE3307	GSM74415	AQM-4	acute quadriplegic myopathy	tissue	skeletal muscle	66	M		NA	NA	t		GSE1017	1
+x	GSE3307	GSM74416	HSP-Spg4-1aUA-s2	hereditary spastic paraplegia	tissue	skeletal muscle	NA	NA		NA	NA			GSE1300	1
+x	GSE3307	GSM74417	HSP-Spg4-2aUA-s2	hereditary spastic paraplegia	tissue	skeletal muscle	NA	NA		NA	NA			GSE1300	1
+x	GSE3307	GSM74418	HSP-Spg4-3aUA-s2	hereditary spastic paraplegia	tissue	skeletal muscle	NA	NA		NA	NA			GSE1300	1
+x	GSE3307	GSM74419	HSP-Spg7-4aUA-s2	hereditary spastic paraplegia	tissue	skeletal muscle	NA	NA		NA	NA			GSE1300	1
+x	GSE3307	GSM119936	FSH-NHM-1	healthy	tissue	skeletal muscle	30	M		NA	NA			GSE5370, GSE9397	1
+x	GSE3307	GSM119937	FSH-NHM-2	healthy	tissue	skeletal muscle	30	F		NA	NA			GSE5370, GSE9397	1
+x	GSE3307	GSM74359	FSH-NHM-3	healthy	tissue	skeletal muscle	NA	NA		NA	NA			GSE5370, GSE9397	1
+x	GSE3307	GSM74360	FSH-NHM-4	healthy	tissue	skeletal muscle	NA	NA		NA	NA			GSE5370, GSE9397	1
+x	GSE3307	GSM121358	FSH-FSHD-20UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121359	FSH-FSHD-22UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121362	FSH-FSHD-4UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121364	FSH-FSHD-3UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121365	FSH-FSHD-18UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121366	FSH-FSHD-19UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121367	FSH-FSHD-26UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121370	FSH-FSHD-21UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121371	FSH-FSHD-23UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121372	FSH-FSHD-25UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121373	FSH-FSHD-2UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121374	FSH-FSHD-1UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM121407	FSH-FSHD-17UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM74357	FSH-NHM-11UA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM74358	FSH-NHM-12UA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA			GSE9397	1
+x	GSE3307	GSM120591	AQM-64yM-1aUB-s2	myogenic atrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120594	AQM-77yF-1aUB-s2	myogenic atrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120718	AQM-76yF-1aUB-s2	myogenic atrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120719	AQM-n66yM-1aUB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120720	AQM-t66yM-1aUB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120744	END-ALS-1aUB-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120745	END-ALS-4bUB-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120746	END-ALS-5aUB-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120747	END-ALS-2bUB-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120748	END-ALS-2aUB-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120749	END-ALS-3bUB-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120750	END-ALS-3aUB-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120751	END-ALS-1bUB-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120752	END-ALS-4aUB-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120753	HUD-BMD-1aUB-s2	becker muscular dystrophy	NA	Human Cells	NA	M		NA	NA				1
+x	GSE3307	GSM120754	HUD-Calpain3-4aUB-s2	calpainopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120755	HUD-Dysferlin-1aUB-s2	dysferlinopathy	tissue	skeletal muscle	NA	F		NA	NA				1
+x	GSE3307	GSM120756	HUD-Dysferlin-3aUB-s2	dysferlinopathy	tissue	skeletal muscle	NA	F		NA	NA				1
+x	GSE3307	GSM120757	HUD-EDMD-1aUB-s2	autosomal dominant form of EDMD	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120758	HUD-FKRP-3aUB-s2	LGMD2I	tissue	skeletal muscle	NA	F		NA	NA				1
+x	GSE3307	GSM120759	HUD-Calpain3-1aUB-s2	calpainopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120760	HUD-DMD-4aUB-s2	duchenne muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120761	HUD-BMD-3aUB-s2	becker muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120762	HUD-Calpain3-3aUB-s2	calpainopathy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120763	HUD-DMD-3aUB-s2	duchenne muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120764	HUD-DMD-5aUB-s2	duchenne muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120765	HUD-NHM-12aUB-s2	healthy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120766	HUD-EDMD-4aUB-s2	autosomal dominant form of EDMD	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120767	HUD-NHM-13aUB-s2	healthy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120768	HUD-BMD-5aUB-s2	becker muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120769	HUD-Dysferlin-4aUB-s2	dysferlinopathy	tissue	skeletal muscle	NA	F		NA	NA				1
+x	GSE3307	GSM120770	HUD-EDMD-5aUB-s2	autosomal dominant form of EDMD	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120771	HUD-FKRP-1aUB-s2	LGMD2I	tissue	skeletal muscle	NA	F		NA	NA				1
+x	GSE3307	GSM120772	HUD-FKRP-1bUB-s2	LGMD2I	tissue	skeletal muscle	NA	F		NA	NA				1
+x	GSE3307	GSM120773	HUD-FKRP-6aUB-s2	LGMD2I	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120774	HUD-FKRP-7bUB-s2	LGMD2I	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120775	HUD-Calpain3-5aUB-s2	calpainopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120776	HUD-Calpain3-9aUB-s2	calpainopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120777	HUD-DMD-2aUB-s2	duchenne muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120778	HUD-Dysferlin-2aUB-s2	dysferlinopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120779	HUD-EDMD-2aUB-s2	autosomal dominant form of EDMD	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120780	HUD-EDMD-3aUB-s2	X-linked form of EDMD	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120781	HUD-BMD-2aUB-s2	becker muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM120782	HUD-Calpain3-7aUB-s2	calpainopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120783	HUD-FKRP-6bUB-s2	LGMD2I	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120784	HUD-NHM-11aUB-s2	healthy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120785	HUD-unkJ-1aUB-s2	calpainopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120786	HUD-DMD-1aUB-s2	duchenne muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120787	HUD-FKRP-7aUB-s2	LGMD2I	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120788	HUD-BMD-4aUB-s2	becker muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120789	HUD-Calpain3-1bUB-s2	calpainopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120790	HUD-Calpain3-2bUB-s2	calpainopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120791	HUD-Calpain3-6aUB-s2	calpainopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM120792	HUD-Dysferlin-5aUB-s2	dysferlinopathy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121102	HUD-EDMD-6aUB-s2	X-linked form of EDMD	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121203	HUD-EDMD-7aUB-s2	X-linked form of EDMD	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121204	HUD-EDMD-8aUB-s2	autosomal dominant form of EDMD	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121205	YJD-JDM-10UB-S2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121206	YJD-JDM-4UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121207	YJD-JDM-13UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121208	YJD-JDM-20UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121209	YJD-JDM-16UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121210	YJD-JDM-18UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121211	YJD-JDM-1UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121212	YJD-JDM-21UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121213	YJD-JDM-2UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121214	YJD-JDM-23UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121215	YJD-JDM-6UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121216	YJD-JDM-8UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121217	YJD-JDM-12UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121218	YJD-JDM-3UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121234	YJD-JDM-7UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121243	YJD-JDM-9UB-S2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121244	YJD-JDM-25UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121245	YJD-JDM-15UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121246	YJD-JDM-19UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121247	YJD-JDM-5UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121248	YJD-JDM-14UB-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121329	FSH-DMD-19UB-s2	duchenne muscular dystrophy	tissue	skeletal muscle	5	M		NA	NA				1
+x	GSE3307	GSM121330	FSH-FSHD-18UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121331	FSH-DMD-25UB-s2	duchenne muscular dystrophy	tissue	skeletal muscle	9	M		NA	NA				1
+x	GSE3307	GSM121332	FSH-Dysferlin-3UB-S2	dysferlinopathy	tissue	skeletal muscle	37	M		NA	NA				1
+x	GSE3307	GSM121333	FSH-DMD-22UB-s2	duchenne muscular dystrophy	tissue	skeletal muscle	7	M		NA	NA				1
+x	GSE3307	GSM121334	FSH-Dysferlin-4UB-S2	dysferlinopathy	tissue	skeletal muscle	16	M		NA	NA				1
+x	GSE3307	GSM121335	FSH-FSHD-21UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121336	HSP-Spg4-3aUB-s2	hereditary spastic paraplegia	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121337	FSH-FSHD-2UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121338	FSH-FSHD-3UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121339	HSP-Spg7-4aUB-s2	hereditary spastic paraplegia	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121340	FSH-Dysferlin-5UB-S2	dysferlinopathy	tissue	skeletal muscle	22	M		NA	NA				1
+x	GSE3307	GSM121341	FSH-FSHD-22UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121342	FSH-FSHD-17UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121343	FSH-FSHD-1UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121344	FSH-FSHD-25UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121345	FSH-DMD-20UB-s2	duchenne muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM121346	FSH-FSHD-19UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121347	FSH-FSHD-4UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121348	FSH-FSHD-5UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121349	HSP-Spg4-2aUB-s2	hereditary spastic paraplegia	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121350	FSH-FSHD-23UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121351	FSH-Dysferlin-1UB-S2	dysferlinopathy	tissue	skeletal muscle	19	F		NA	NA				1
+x	GSE3307	GSM121352	FSH-FSHD-26UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121353	FSH-Dysferlin-2UB-S2	dysferlinopathy	tissue	skeletal muscle	26	F		NA	NA				1
+x	GSE3307	GSM121354	FSH-FSHD-20UB-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121355	HSP-Spg4-1aUB-s2	hereditary spastic paraplegia	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121356	FSH-DMD-23UB-s2	duchenne muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121357	FSH-DMD-19UA-s2	duchenne muscular dystrophy	tissue	skeletal muscle	5	M		NA	NA				1
+x	GSE3307	GSM121360	FSH-FSHD-5UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121361	FSH-DMD-25UA-s2	duchenne muscular dystrophy	tissue	skeletal muscle	9	M		NA	NA				1
+x	GSE3307	GSM121363	FSH-DMD-22UA-s2	duchenne muscular dystrophy	tissue	skeletal muscle	7	M		NA	NA				1
+x	GSE3307	GSM121368	FSH-DMD-20UA-s2	duchenne muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM121369	FSH-DMD-23UA-s2	duchenne muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM121379	YJD-JDM-10UA-S2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121380	YJD-JDM-15UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121381	YJD-JDM-25UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121382	YJD-JDM-4UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121383	YJD-JDM-12UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121384	YJD-JDM-14UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121385	YJD-JDM-18UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121386	YJD-JDM-21UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121387	YJD-JDM-2UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121388	YJD-JDM-7UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121389	YJD-JDM-9UA-S2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121390	YJD-JDM-13UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121391	YJD-JDM-16UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121392	YJD-JDM-5UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121393	YJD-JDM-8UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121394	YJD-JDM-20UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121395	YJD-JDM-6UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121396	YJD-JDM-19UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121397	YJD-JDM-23UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121398	YJD-JDM-3UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121399	YJD-JDM-1UA-s2	juvenile dermatomyositis	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121400	FSH-NHM-10UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121401	FSH-NHM-11UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121402	FSH-NHM-4UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121403	FSH-NHM-9UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121404	FSH-NHM-3UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121405	FSH-NHM-12UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121406	FSH-NHM-1UB-S2	healthy	tissue	skeletal muscle	30	M		NA	NA				1
+x	GSE3307	GSM121408	FSH-NHM-2UB-S2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121409	FSH-NHM-6UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121410	FSH-NHM-8UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121412	PHE-4hExerciseB-1UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121413	PHE-6hExerciseB-2UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121414	PHE-8hExerciseB-3UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121415	JMH-MALHYP-1UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM121416	JMH-MALHYP-2UB-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74239	HUD-BMD-1aUA-s2	becker muscular dystrophy	NA	Human Cells	31	M		NA	NA				1
+x	GSE3307	GSM74240	END-ALS-1aUA-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74241	END-ALS-1bUA-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74242	END-ALS-2aUA-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74243	END-ALS-2bUA-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74244	END-ALS-3aUA-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74245	END-ALS-3bUA-S2	healthy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74246	END-ALS-4aUA-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74247	END-ALS-4bUA-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74248	END-ALS-5aUA-S2	amyotrophic lateral sclerosis	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74351	FSH-Dysferlin-1UA-S2	dysferlinopathy	tissue	skeletal muscle	19	F		NA	NA				1
+x	GSE3307	GSM74352	FSH-Dysferlin-2UA-s2	dysferlinopathy	tissue	skeletal muscle	26	F		NA	NA				1
+x	GSE3307	GSM74353	FSH-Dysferlin-3UA-s2	dysferlinopathy	tissue	skeletal muscle	37	M		NA	NA				1
+x	GSE3307	GSM74354	FSH-Dysferlin-4UA-S2	dysferlinopathy	tissue	skeletal muscle	16	M		NA	NA				1
+x	GSE3307	GSM74355	FSH-Dysferlin-5UA-S2	dysferlinopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74356	FSH-NHM-10UA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74361	FSH-NHM-6UA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74362	FSH-NHM-8UA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74363	FSH-NHM-9UA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74364	HUD-BMD-2aUA-s2	becker muscular dystrophy	tissue	skeletal muscle	25	M		NA	NA				1
+x	GSE3307	GSM74365	HUD-BMD-3aUA-s2	becker muscular dystrophy	tissue	skeletal muscle	12	M		NA	NA				1
+x	GSE3307	GSM74366	HUD-BMD-4aUA-s2	becker muscular dystrophy	tissue	skeletal muscle	33	M		NA	NA				1
+x	GSE3307	GSM74367	HUD-BMD-5aUA-s2	becker muscular dystrophy	tissue	skeletal muscle	10	M		NA	NA				1
+x	GSE3307	GSM74368	HUD-Calpain3-1aUA-s2	calpainopathy	tissue	skeletal muscle	22	M		NA	NA				1
+x	GSE3307	GSM74369	HUD-Calpain3-1bUA-s2	calpainopathy	tissue	skeletal muscle	22	M		NA	NA				1
+x	GSE3307	GSM74370	HUD-Calpain3-2bUA-s2	calpainopathy	tissue	skeletal muscle	18	M		NA	NA				1
+x	GSE3307	GSM74371	HUD-Calpain3-3aUA-s2	calpainopathy	tissue	skeletal muscle	13	M		NA	NA				1
+x	GSE3307	GSM74372	HUD-Calpain3-4aUA-s2	calpainopathy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74373	HUD-Calpain3-5aUA-s2	calpainopathy	tissue	skeletal muscle	15	F		NA	NA				1
+x	GSE3307	GSM74374	HUD-Calpain3-6aUA-s2	calpainopathy	tissue	skeletal muscle	13	M		NA	NA				1
+x	GSE3307	GSM74375	HUD-Calpain3-7aUA-s2	calpainopathy	tissue	skeletal muscle	NA	F		NA	NA				1
+x	GSE3307	GSM74376	HUD-Calpain3-9aUA-s2	calpainopathy	tissue	skeletal muscle	12	F		NA	NA				1
+x	GSE3307	GSM74377	HUD-DMD-1aUA-s2	duchenne muscular dystrophy	tissue	skeletal muscle	9	M		NA	NA				1
+x	GSE3307	GSM74378	HUD-DMD-2aUA-s2	duchenne muscular dystrophy	tissue	skeletal muscle	8	M		NA	NA				1
+x	GSE3307	GSM74379	HUD-DMD-3aUA-s2	duchenne muscular dystrophy	tissue	skeletal muscle	7	M		NA	NA				1
+x	GSE3307	GSM74380	HUD-DMD-4aUA-s2	duchenne muscular dystrophy	tissue	skeletal muscle	6.5	M		NA	NA				1
+x	GSE3307	GSM74381	HUD-DMD-5aUA-s2	duchenne muscular dystrophy	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74382	HUD-Dysferlin-1aUA-s2	dysferlinopathy	tissue	skeletal muscle	NA	F		NA	NA				1
+x	GSE3307	GSM74383	HUD-Dysferlin-2aUA-s2	dysferlinopathy	tissue	skeletal muscle	16	M		NA	NA				1
+x	GSE3307	GSM74384	HUD-Dysferlin-3aUA-s2	dysferlinopathy	tissue	skeletal muscle	31	F		NA	NA				1
+x	GSE3307	GSM74385	HUD-Dysferlin-4aUA-s2	dysferlinopathy	tissue	skeletal muscle	19	F		NA	NA				1
+x	GSE3307	GSM74386	HUD-Dysferlin-5aUA-s2	dysferlinopathy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74387	HUD-EDMD-1aUA-s2	autosomal dominant form of EDMD	tissue	skeletal muscle	NA	F		NA	NA				1
+x	GSE3307	GSM74388	HUD-EDMD-2aUA-s2	autosomal dominant form of EDMD	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74389	HUD-EDMD-3aUA-s2	X-linked form of EDMD	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74390	HUD-EDMD-4aUA-s2	autosomal dominant form of EDMD	tissue	skeletal muscle	23	M		NA	NA				1
+x	GSE3307	GSM74391	HUD-EDMD-5aUA-s2	autosomal dominant form of EDMD	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74392	HUD-EDMD-6aUA-s2	X-linked form of EDMD	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74393	HUD-EDMD-7aUA-s2	X-linked form of EDMD	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74394	HUD-EDMD-8aUA-s2	X-linked form of EDMD	tissue	skeletal muscle	NA	M		NA	NA				1
+x	GSE3307	GSM74395	HUD-FKRP-1aUA-s2	LGMD2I	tissue	skeletal muscle	14	F		NA	NA				1
+x	GSE3307	GSM74396	HUD-FKRP-1bUA-s2	LGMD2I	tissue	skeletal muscle	14	F		NA	NA				1
+x	GSE3307	GSM74397	HUD-FKRP-3aUA-s2	LGMD2I	tissue	skeletal muscle	12.5	F		NA	NA				1
+x	GSE3307	GSM74398	HUD-FKRP-6aUA-s2	LGMD2I	tissue	skeletal muscle	45	M		NA	NA				1
+x	GSE3307	GSM74399	HUD-FKRP-6bUA-s2	LGMD2I	tissue	skeletal muscle	45	M		NA	NA				1
+x	GSE3307	GSM74400	HUD-FKRP-7aUA-s2	LGMD2I	tissue	skeletal muscle	55	M		NA	NA				1
+x	GSE3307	GSM74401	HUD-FKRP-7bUA-s2	LGMD2I	tissue	skeletal muscle	55	M		NA	NA				1
+x	GSE3307	GSM74402	HUD-NHM-11aUA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74403	HUD-NHM-12aUA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74404	HUD-NHM-13aUA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74405	HUD-unkJ-1aUA-s2	calpainopathy	tissue	skeletal muscle	16	M		NA	NA				1
+x	GSE3307	GSM74406	JMH-MALHYP-1UA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74407	JMH-MALHYP-2UA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74408	PHE-4hExerciseB-1UA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74409	PHE-6hExerciseB-2UA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE3307	GSM74410	PHE-8hExerciseB-3UA-s2	healthy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE9397	GSM236619	FSH-FSHD-24UA-s2	fascioscapulohumeral muscular dystrophy	tissue	skeletal muscle	NA	NA		NA	NA				1
+x	GSE66845	GSM1633271	DMJ_08042014	juvenile dermatomyositis	tissue	deltoid	 9 weeks	F	CD56 satellite cells	NA	NA				1
+x	GSE66845	GSM1633272	DMJ_09012014	juvenile dermatomyositis	tissue	deltoid	 9 weeks	F	CD56 satellite cells	NA	NA				1
+x	GSE66845	GSM1633273	DMJ_25012014	juvenile dermatomyositis	tissue	deltoid	 11 weeks	F	CD56 satellite cells	NA	NA				1
+x	GSE66845	GSM1633262	DMJ1_09012014	juvenile dermatomyositis	tissue	deltoid	 9 weeks	F	CD31 endothelial cells	NA	NA				1
+x	GSE66845	GSM1633263	DMJ2_23012014	juvenile dermatomyositis	tissue	deltoid	 9 weeks	F	CD31 endothelial cells	NA	NA				1
+x	GSE66845	GSM1633264	DMJ3_08042014	juvenile dermatomyositis	tissue	deltoid	 11 weeks	F	CD31 endothelial cells	NA	NA				1
+x	GSE66845	GSM1633265	S1_03122013	healthy	tissue	deltoid	 16 weeks	NA	CD31 endothelial cells	NA	NA				1
+x	GSE66845	GSM1633266	S3_18032014	healthy	tissue	deltoid	 14 weeks	NA	CD31 endothelial cells	NA	NA				1
+x	GSE66845	GSM1633267	S5_25032014	healthy	tissue	deltoid	 12 weeks	NA	CD31 endothelial cells	NA	NA				1
+x	GSE66845	GSM1633274	Sain_03122013	healthy	tissue	deltoid	 16 weeks	NA	CD56 satellite cells	NA	NA				1
+x	GSE66845	GSM1633275	Sain_18032014	healthy	tissue	deltoid	 14 weeks	NA	CD56 satellite cells	NA	NA				1
+x	GSE66845	GSM1633276	Sain_25032014	healthy	tissue	deltoid	 12 weeks	NA	CD56 satellite cells	NA	NA				1
