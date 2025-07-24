@@ -1,11 +1,7 @@
-setwd("/mnt/data3/appierdo/PhD-project/Analysis/BLOOD/meta_analysis_pathways_activity/kegg/scleroderma/")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/meta_analysis_pathways_activity/kegg/scleroderma/")
 source("../../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../../metapipeline-master_gsva/")
 library(GSVA)
-
-# source("../../../../../utils_functions/modify_metaintegrator_to_get_study_level_effectSizes.R")
-# assignInNamespace(x = '.combine.effect.sizes', .combine.effect.sizes, ns = "MetaIntegrator")
-
 options(timeout = max(300, getOption("timeout")))
 options(download.file.method.GEOquery = "wget")
 

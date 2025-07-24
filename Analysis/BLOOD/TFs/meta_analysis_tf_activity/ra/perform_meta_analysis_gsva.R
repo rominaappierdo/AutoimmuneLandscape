@@ -1,10 +1,7 @@
-setwd("/mnt/data3/appierdo/PhD-project/Analysis/BLOOD/TFs/meta_analysis_tf_activity/ra/")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/TFs/meta_analysis_tf_activity/ra/")
 source("../../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../../metapipeline-master_gsva_tf/")
 library(GSVA)
-
-source("../../../../../utils_functions/modify_metaintegrator_to_get_study_level_effectSizes.R")
-assignInNamespace(x = '.combine.effect.sizes', .combine.effect.sizes, ns = "MetaIntegrator")
 
 options(timeout = max(300, getOption("timeout")))
 options(download.file.method.GEOquery = "wget")

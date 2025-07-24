@@ -2,9 +2,6 @@ setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/TISSUE/miRNA/meta_analys
 source("../../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../../metapipeline-master_gsva_mirna/")
 library(GSVA)
-source("../../../../../utils_functions/modify_metaintegrator_to_get_study_level_effectSizes_tissue.R")
-assignInNamespace(x = '.combine.effect.sizes', .combine.effect.sizes, ns = "MetaIntegrator")
-
 options(timeout = max(300, getOption("timeout")))
 options(download.file.method.GEOquery = "wget")
 

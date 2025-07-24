@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/PhD-project/Analysis/TISSUE/meta_analysis_gene_expression/lupus/")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/TISSUE/meta_analysis_gene_expression/lupus/")
 source("../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../metapipeline-master/")
 

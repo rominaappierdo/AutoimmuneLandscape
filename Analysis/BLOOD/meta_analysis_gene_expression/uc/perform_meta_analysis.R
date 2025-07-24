@@ -1,10 +1,9 @@
-setwd("/mnt/data3/appierdo/PhD-project/Analysis/BLOOD/meta_analysis_gene_expression/uc/")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape//Analysis/BLOOD/meta_analysis_gene_expression/uc/")
 source("../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../metapipeline-master/")
 options(timeout = max(300, getOption("timeout")))
 options(download.file.method.GEOquery = "wget")
-# source("../../../../utils_functions/modify_metaintegrator_to_get_study_level_effectSizes.R")
-# assignInNamespace(x = '.combine.effect.sizes', .combine.effect.sizes, ns = "MetaIntegrator")
+
 
 data<-read.csv("../../../../Data_Collection/raw_data/step6_starting_manage_data/annotated_metadata_8.1.2023/ulcerative_colitis_metadata.tsv", sep="\t", header=T)
 setDT(data) #turn dataset into data.table object

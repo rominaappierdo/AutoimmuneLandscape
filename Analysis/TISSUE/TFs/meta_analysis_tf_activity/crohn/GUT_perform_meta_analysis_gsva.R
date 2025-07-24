@@ -1,10 +1,8 @@
-setwd("/mnt/data3/appierdo/PhD-project/Analysis/TISSUE/TFs/meta_analysis_tf_activity/crohn/")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/TISSUE/TFs/meta_analysis_tf_activity/crohn/")
 source("../../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../../metapipeline-master_gsva_tf/")
 library(GSVA)
 library(RMySQL)
-source("../../../../../utils_functions/modify_metaintegrator_to_get_study_level_effectSizes_tissue.R")
-assignInNamespace(x = '.combine.effect.sizes', .combine.effect.sizes, ns = "MetaIntegrator")
 
 options(timeout = max(300, getOption("timeout")))
 options(download.file.method.GEOquery = "wget")
@@ -72,7 +70,7 @@ data<-data[data$sample_source %in% tissues]
 
 results<-run_pipeline(data, confronti,sample.tissue="tissue", timepoint.id=c('baseline', 'pre', NA,"NA", 'rep1', 'unstimulated','untreated', "visit 1",'T0', 't0', "biopsy 1", "GPL96", "visit day 0", "week 0", "at-diagnosis (for progressor)","day 0" , "at diagnosis" , "untreated, rep 1", "baseline, rep1", "early"),
                       genes.of.interest = NULL,
-                      dest.dir = "../../../../../geo_data/",
+                      dest.dir = "../../../../geo_data/",
                       from.cache = c(),
                       aggregate.subject.data = FALSE,
                       path_to_rnaseq_datasets = directory_downloaded_rnaseq,
