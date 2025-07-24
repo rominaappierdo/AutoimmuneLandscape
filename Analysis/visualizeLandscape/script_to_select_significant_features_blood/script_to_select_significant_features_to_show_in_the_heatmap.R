@@ -10,7 +10,6 @@ for (file in list.files("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/
   t<-read.csv(file, sep='\t')
   t<-t[t["numStudies"]>=2,]
   t<-t[t["effectSizeFDR"]<0.05,]
-  #t<-t[t["effectSize"]<= -1 | t["effectSize"]>= 1,]
   significant_genes<-append(significant_genes, t$gene)
 }
 significant_genes <- unique(significant_genes)
@@ -28,7 +27,6 @@ for (file in list.files("/mnt/data3/appierdo/AutoimmuneLandscape//Analysis/BLOOD
   t<-read.csv(file, sep='\t')
   t<-t[t["numStudies"]>=2,]
   t<-t[t["effectSizeFDR"]<0.05,]
-  ##t<-t[t["effectSize"]<= -1 | t["effectSize"]>= 1,]
   significant_genes<-append(significant_genes, t$gene)
 }
 significant_genes <- unique(significant_genes)
@@ -44,7 +42,6 @@ for (file in list.files("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/
   t<-read.csv(file, sep='\t')
   t<-t[t["numStudies"]>=2,]
   t<-t[t["effectSizeFDR"]<0.05,]
-  #t<-t[t["effectSize"]<= -1 | t["effectSize"]>= 1,]
   significant_genes<-append(significant_genes, t$gene)
 }
 significant_genes <- unique(significant_genes)
@@ -59,7 +56,6 @@ for (file in list.files("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/
   t<-read.csv(file, sep='\t')
   t<-t[t["numStudies"]>=2,]
   t<-t[t["effectSizeFDR"]<0.05,]
-  #t<-t[t["effectSize"]<= -1 | t["effectSize"]>= 1,]
   significant_genes<-append(significant_genes, t$gene)
 }
 significant_genes <- unique(significant_genes)
@@ -74,7 +70,6 @@ for (file in list.files("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/
   t<-read.csv(file, sep='\t')
   t<-t[t["numStudies"]>=2,]
   t<-t[t["effectSizeFDR"]<0.05,]
-  #t<-t[t["effectSize"]<= -1 | t["effectSize"]>= 1,]
   significant_genes<-append(significant_genes, t$gene)
 }
 significant_genes <- unique(significant_genes)
@@ -89,7 +84,6 @@ for (file in list.files("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/
   t<-read.csv(file, sep='\t')
   t<-t[t["numStudies"]>=2,]
   t<-t[t["effectSizeFDR"]<0.05,]
-  #t<-t[t["effectSize"]<= -1 | t["effectSize"]>= 1,]
   significant_genes<-append(significant_genes, t$gene)
 }
 significant_genes <- unique(significant_genes)
@@ -105,7 +99,6 @@ for (file in list.files("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/
   t<-read.csv(file, sep='\t')
   t<-t[t["numStudies"]>=2,]
   t<-t[t["effectSizeFDR"]<0.05,]
-  #t<-t[t["effectSize"]<= -1 | t["effectSize"]>= 1,]
   significant_genes<-append(significant_genes, t$gene)
 }
 significant_genes <- unique(significant_genes)
