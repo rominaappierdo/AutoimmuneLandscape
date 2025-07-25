@@ -1,0 +1,381 @@
+nohup: ignoring input
+Loading required package: grid
+========================================
+ComplexHeatmap version 2.24.0
+Bioconductor page: http://bioconductor.org/packages/ComplexHeatmap/
+Github page: https://github.com/jokergoo/ComplexHeatmap
+Documentation: http://jokergoo.github.io/ComplexHeatmap-reference
+
+If you use it in published research, please cite either one:
+- Gu, Z. Complex Heatmap Visualization. iMeta 2022.
+- Gu, Z. Complex heatmaps reveal patterns and correlations in multidimensional 
+    genomic data. Bioinformatics 2016.
+
+
+The new InteractiveComplexHeatmap package can directly export static 
+complex heatmaps into an interactive Shiny app with zero effort. Have a try!
+
+This message can be suppressed by:
+  suppressPackageStartupMessages(library(ComplexHeatmap))
+========================================
+
+Type 'citation("pROC")' for a citation.
+
+Attaching package: ‘pROC’
+
+The following objects are masked from ‘package:stats’:
+
+    cov, smooth, var
+
+Loading required package: ggplot2
+Welcome! Want to learn more? See two factoextra-related books at https://goo.gl/ve3WBa
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ lubridate 1.9.4     ✔ tibble    3.3.0
+✔ purrr     1.0.4     ✔ tidyr     1.3.1
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::between()     masks data.table::between()
+✖ dplyr::combine()     masks gridExtra::combine()
+✖ dplyr::filter()      masks stats::filter()
+✖ dplyr::first()       masks data.table::first()
+✖ lubridate::hour()    masks data.table::hour()
+✖ lubridate::isoweek() masks data.table::isoweek()
+✖ dplyr::lag()         masks stats::lag()
+✖ dplyr::last()        masks data.table::last()
+✖ lubridate::mday()    masks data.table::mday()
+✖ lubridate::minute()  masks data.table::minute()
+✖ lubridate::month()   masks data.table::month()
+✖ lubridate::quarter() masks data.table::quarter()
+✖ lubridate::second()  masks data.table::second()
+✖ purrr::transpose()   masks data.table::transpose()
+✖ lubridate::wday()    masks data.table::wday()
+✖ lubridate::week()    masks data.table::week()
+✖ lubridate::yday()    masks data.table::yday()
+✖ lubridate::year()    masks data.table::year()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘rlang’
+
+The following objects are masked from ‘package:purrr’:
+
+    %@%, flatten, flatten_chr, flatten_dbl, flatten_int, flatten_lgl,
+    flatten_raw, invoke, splice
+
+The following object is masked from ‘package:data.table’:
+
+    :=
+
+Setting options('download.file.method.GEOquery'='auto')
+Setting options('GEOquery.inmemory.gpl'=FALSE)
+Found 2 file(s)
+GSE78193-GPL6480_series_matrix.txt.gz
+GSE78193-GPL6848_series_matrix.txt.gz
+         Length Class  Mode
+GSE78193 2      -none- list
+[1] "GSE78193-GPL6480_series_matrix.txt.gz"
+[2] "GSE78193-GPL6848_series_matrix.txt.gz"
+[1] "GSE78193-GPL6480_series_matrix.txt.gz"
+[2] "GSE78193-GPL6848_series_matrix.txt.gz"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 1"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 2"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 3"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 4"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 5"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 6"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 7"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 8"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 9"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 10"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 11"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 12"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 13"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 14"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 15"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 16"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 17"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 18"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 19"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 20"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 21"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 22"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
+[1] "done hallmark"
+[1] "doing kegg"
+[1] "done kegg"
+[1] "doing wp"
+[1] "done wp"
+[1] "doing tf"
+[1] "done tf"
+[1] "doing mirna"
+[1] "done mirna"
+[1] "number: 23"
+[1] "doing deconvolution"
+[1] "done deconvolution"
+[1] "doing hallmark"
