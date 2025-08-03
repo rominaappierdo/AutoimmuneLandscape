@@ -9,7 +9,7 @@ Before running the code in this repository, follow the steps below to set up the
 
 Download the `downloaded_datasets` folder from the following Google Drive link:
 
-https://your-google-drive-link-here
+https://drive.google.com/drive/folders/1ykQ6lj9FOASaWdjL3ia6ePKk4HaHsODD?usp=sharing
 
 Then place it in the following location within your project directory:
 
