@@ -1,9 +1,19 @@
-# Autoimmune Landscape project
-
+# Autoimmune Landscape Project
 
 ## Data Preparation Instructions
 
 Before running the code in this repository, follow the steps below to set up the necessary datasets.
+
+### 0. Clone the Repository
+
+First, clone this repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/AutoimmuneLandscape.git
+cd AutoimmuneLandscape
+```
+
+Replace the URL with the actual repository link if it's different.
 
 ### 1. Download the Dataset Folder
 
@@ -40,4 +50,3 @@ find Data_Collection/downloaded_datasets/ -type f -name "*.xz" -exec unxz -k {} 
 ```
 
 This will decompress all `.xz` files across the directory tree.
-
