@@ -9,7 +9,7 @@ Before running the code in this repository, follow the steps below to set up the
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/AutoimmuneLandscape.git
+git clone https://github.com/rominaappierdo/AutoimmuneLandscape
 cd AutoimmuneLandscape
 ```
 
