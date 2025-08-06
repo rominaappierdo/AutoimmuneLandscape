@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/suppl_fig_xx")
+setwd("paper_figs/suppl_fig_xx")
 
 files <- list.files("../../Analysis/", pattern = 'complete_res', recursive = T, full.names = T)
 files <- files[grepl('gene', files)]

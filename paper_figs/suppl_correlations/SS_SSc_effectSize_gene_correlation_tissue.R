@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/suppl_correlations")
+setwd("paper_figs/suppl_correlations")
 
 scleroderma <- read.csv("../../Analysis/TISSUE/meta_analysis_gene_expression/scleroderma/SKIN_scleroderma_vs_healthy_tissue_complete_results.tsv", sep = '\t')
 scleroderma <- scleroderma[scleroderma$numStudies >=2, ]

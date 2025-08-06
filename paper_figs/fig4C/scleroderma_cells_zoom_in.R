@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/fig4C")
+setwd("paper_figs/fig4C")
 library(ggplot2)
 library(ggpubr)
 library(ggrepel)

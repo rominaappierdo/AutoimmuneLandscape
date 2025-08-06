@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/meta_analysis_gene_expression/psoriasis/")
+setwd("Analysis/BLOOD/meta_analysis_gene_expression/psoriasis/")
 source("../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../metapipeline-master/")
 options(timeout = max(300, getOption("timeout")))
@@ -42,7 +42,7 @@ data[data == "blood"] <- "whole blood"
 
 results<-run_pipeline(data, confronti,sample.tissue=c("whole blood"), timepoint.id=c('baseline', 'pre', NA,"NA", 'rep1', 'unstimulated','untreated', "visit 1",'T0', 't0', "biopsy 1", "GPL96", "visit day 0", "week 0", "at-diagnosis (for progressor)","day 0" , "at diagnosis" , "untreated, rep 1", "baseline, rep1", "early"),
                       genes.of.interest = NULL,
-                      dest.dir = "/mnt/data3/appierdo/geo_data/",
+                      dest.dir = "../../../../geo_data/",
                       from.cache = c(),
                       aggregate.subject.data = FALSE,
                       path_to_rnaseq_datasets = directory_downloaded_rnaseq,

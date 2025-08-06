@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/module_validation_figs/psoriasis_GSE117239")
+setwd("paper_figs/module_validation_figs/psoriasis_GSE117239")
 library(MetaIntegrator)
 library(data.table)
 library(ComplexHeatmap)

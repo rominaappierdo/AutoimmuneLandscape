@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/meta_analysis_gene_expression/scleroderma/")
+setwd("Analysis/BLOOD/meta_analysis_gene_expression/scleroderma/")
 source("../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../metapipeline-master/")
 

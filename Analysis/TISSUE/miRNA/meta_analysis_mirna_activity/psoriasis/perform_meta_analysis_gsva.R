@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/TISSUE/miRNA/meta_analysis_mirna_activity/psoriasis/")
+setwd("Analysis/TISSUE/miRNA/meta_analysis_mirna_activity/psoriasis/")
 source("../../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../../metapipeline-master_gsva_mirna/")
 library(GSVA)

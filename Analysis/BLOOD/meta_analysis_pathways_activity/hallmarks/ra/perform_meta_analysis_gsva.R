@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/meta_analysis_pathways_activity/hallmarks/ra")
+setwd("Analysis/BLOOD/meta_analysis_pathways_activity/hallmarks/ra")
 source("../../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../../metapipeline-master_gsva/")
 library(GSVA)

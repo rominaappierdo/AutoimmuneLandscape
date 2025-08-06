@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis")
+setwd("Analysis")
 
 blood_files <- list.files("BLOOD/meta_analysis_cell_proportions/", recursive = T, pattern = 'complet', full.names = T)
 
@@ -23,13 +23,14 @@ plot(density(ess))
 
 
 
-tissue_files <- list.files("TISSUE/meta_analysis_cell_proportions/", recursive = T, pattern = 'complet', full.names = T)
+tissue_files <- list.files("TISSUE/meta_analysis_cell_proportions", recursive = T, pattern = 'complet', full.names = T)
 
 dis2 <- c()
 ess2 <- c()
 for (file in tissue_files) {
   disease <- strsplit(file, "\\/|_")[[1]][7]
   t <- strsplit(file, "\\/|_")[[1]][8]
+  
   disease <- paste0(disease, "_", t)
  
   

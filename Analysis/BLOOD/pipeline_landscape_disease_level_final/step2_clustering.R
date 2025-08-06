@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/pipeline_landscape_disease_level_final")
+setwd("Analysis/BLOOD/pipeline_landscape_disease_level_final")
 library(ComplexHeatmap)
 library(dendextend)
 

@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/visualizeLandscape/script_to_select_significant_features_blood")
+setwd("Analysis/visualizeLandscape/script_to_select_significant_features_blood")
 
 #cytokines
 cyto <- readLines("../../../signaling_molecules/curated_kines/all_kines.txt")

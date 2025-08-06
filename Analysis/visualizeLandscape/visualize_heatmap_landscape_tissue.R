@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/visualizeLandscape")
+setwd("Analysis/visualizeLandscape")
 source("../../utils_functions/functions_to_process_RNAseq_Data.R")
 library(MetaIntegrator)
 library(ComplexHeatmap)

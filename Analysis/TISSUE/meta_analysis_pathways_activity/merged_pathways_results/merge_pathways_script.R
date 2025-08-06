@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/TISSUE/meta_analysis_pathways_activity/merged_pathways_results")
+setwd("Analysis/TISSUE/meta_analysis_pathways_activity/merged_pathways_results")
 
 
 diseases <- c('crohn', 'psoriasis', 'ra', 'scleroderma', 'sjogren', 'uc')

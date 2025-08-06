@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/fig5")
+setwd("paper_figs/fig5")
 source("../../utils_functions/functions_to_process_RNAseq_Data.R")
 options(repr.plot.width=15, repr.plot.height=15)
 library(ComplexHeatmap)

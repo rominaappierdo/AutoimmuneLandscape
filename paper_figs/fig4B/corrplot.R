@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/fig4B")
+setwd("paper_figs/fig4B")
 source("../../utils_functions/functions_to_process_RNAseq_Data.R")
 library(ggplot2)
 library(viridis)

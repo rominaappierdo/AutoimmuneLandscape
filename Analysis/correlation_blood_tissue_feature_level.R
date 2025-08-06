@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis")
+setwd("Analysis")
 
 #SS - TF
 sjogren_blood <- read.csv("BLOOD/TFs/meta_analysis_tf_activity/sjogren/tf_gsva_sjogren_vs_healthy_whole blood_complete_results.tsv", sep = '\t')

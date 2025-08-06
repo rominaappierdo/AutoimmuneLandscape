@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/suppl_figs_featurization")
+setwd("paper_figs/suppl_figs_featurization")
 options(repr.plot.width=15, repr.plot.height=15)
 library(dendextend)
 library(ComplexHeatmap)

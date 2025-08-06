@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/TFs/meta_analysis_tf_activity/lupus/")
+setwd("Analysis/BLOOD/TFs/meta_analysis_tf_activity/lupus/")
 source("../../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../../metapipeline-master_gsva_tf/")
 library(GSVA)

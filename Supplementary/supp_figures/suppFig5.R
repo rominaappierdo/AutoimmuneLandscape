@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Supplementary/supp_figures")
+setwd("Supplementary/supp_figures")
 source("../../utils_functions/functions_to_process_RNAseq_Data.R")
 library(ggplot2)
 library(ggrepel)

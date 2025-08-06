@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/meta_analysis_cell_proportions")
+setwd("Analysis/BLOOD/meta_analysis_cell_proportions")
 
 files <- list.files(".", full.names = T, pattern = 'complete', recursive = T)
 

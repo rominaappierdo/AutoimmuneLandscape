@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/meta_analysis_cell_proportions/multiple_sclerosis/")
+setwd("Analysis/BLOOD/meta_analysis_cell_proportions/multiple_sclerosis/")
 source("../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../metapipeline-master_deconvolution/")
 source("../../../../utils_functions/fix_metaintegrator_immunoStates/function.R")

@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Supplementary/supp_figures")
+setwd("Supplementary/supp_figures")
 options(repr.plot.width=15, repr.plot.height=15)
 library(dendextend)
 library(ComplexHeatmap)

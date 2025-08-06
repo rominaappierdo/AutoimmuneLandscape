@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/fig4")
+setwd("paper_figs/fig4")
 library(ggplot2)
 library(gridExtra)
 

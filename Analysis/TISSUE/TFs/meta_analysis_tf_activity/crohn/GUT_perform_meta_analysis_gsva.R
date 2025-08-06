@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/TISSUE/TFs/meta_analysis_tf_activity/crohn/")
+setwd("Analysis/TISSUE/TFs/meta_analysis_tf_activity/crohn/")
 source("../../../../../utils_functions/functions_to_process_RNAseq_Data.R")
 devtools::load_all("../../../../../metapipeline-master_gsva_tf/")
 library(GSVA)

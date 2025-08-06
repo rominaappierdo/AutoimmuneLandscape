@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/meta_analysis_pathways_activity/merged_pathways_results")
+setwd("Analysis/BLOOD/meta_analysis_pathways_activity/merged_pathways_results")
 
 
 diseases <- c('crohn', 'diabetes', 'jia', 'lupus', 'multiple_sclerosis', 'psoriasis', 'ra', 'scleroderma', 'sjogren', 'uc')

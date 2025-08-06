@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/TFs/meta_analysis_tf_activity")
+setwd("Analysis/BLOOD/TFs/meta_analysis_tf_activity")
 source("../../../../utils_functions/for_plotting/for_pheatmap.R")
 options(repr.plot.width=15, repr.plot.height=15)
 

@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs")
+setwd("paper_figs")
 library(gridExtra)
 
 #BLOOD

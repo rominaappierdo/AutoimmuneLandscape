@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/TISSUE/meta_analysis_gene_expression")
+setwd("Analysis/TISSUE/meta_analysis_gene_expression")
 
 
 library(ggplot2)

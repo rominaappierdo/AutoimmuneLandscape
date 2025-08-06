@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Supplementary/supp_Files/TFs_metaAnalysis_signatures/")
+setwd("Supplementary/supp_Files/TFs_metaAnalysis_signatures/")
 
 for (file in list.files('.', pattern = 'comple')) {
   print(file)

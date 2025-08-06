@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Supplementary/supp_figures")
+setwd("Supplementary/supp_figures")
 library(MetaIntegrator)
 library(data.table)
 library(ComplexHeatmap)

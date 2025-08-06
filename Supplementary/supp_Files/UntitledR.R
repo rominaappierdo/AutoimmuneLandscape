@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Supplementary/supp_Files")
+setwd("Supplementary/supp_Files")
 
 for (file in list.files('.', pattern = 'comple')) {
   print(file)

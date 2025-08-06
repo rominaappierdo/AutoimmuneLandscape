@@ -1,4 +1,4 @@
-setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/meta_analysis_gene_expression")
+setwd("Analysis/BLOOD/meta_analysis_gene_expression")
 
 crohn <- read.csv("crohn/crohn_vs_healthy_whole blood_complete_results.tsv", sep = '\t')
 crohn <- crohn[crohn$effectSizeFDR < 0.05, ]
