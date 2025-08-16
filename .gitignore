@@ -11,4 +11,4 @@
 #
 paper_figs/module_validation_figs/module_contribution_using_scores_auc/*/datasets/*.tsv
 paper_figs/module_validation_figs/module_contribution_using_scores_auc/*/features_matrices/*.tsv
-Data_Collection/downloaded_dataset
+Data_Collection/downloaded_datasets/
