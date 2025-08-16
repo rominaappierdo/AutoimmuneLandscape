@@ -1,5 +1,5 @@
 *readme.txt
-
+**/nohup*
 # Ignore all hidden files except .gitignore and .gitattributes
 .*
 !.gitignore
