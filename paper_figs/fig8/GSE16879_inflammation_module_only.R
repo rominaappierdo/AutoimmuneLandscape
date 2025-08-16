@@ -96,10 +96,47 @@ p1 <- ggplot(merged, aes(x = disease, y = module, fill = response))+
   xlab("")
 
 p1
+library(ggplot2)
+library(ggpubr)
+library(rstatix)
+library(dplyr)
 
+# Ordering
+merged$disease  <- factor(merged$disease,  levels = c("Control","CD","UC"))
+merged$response <- factor(merged$response, levels = c("Control","NR","R"))
 
+# ---- compute tests: NR vs R only, within CD and UC ----
+analysis_df <- merged %>%
+  filter(disease %in% c("CD","UC"), response %in% c("NR","R")) %>%
+  droplevels()
 
+stat.test <- analysis_df %>%
+  group_by(disease) %>%                     # two tests: one for CD, one for UC
+  t_test(module ~ response) %>%
+  mutate(label = formatC(p, format = "e", digits = 2)) %>%  # scientific notation
+  add_xy_position(x = "disease", dodge = 0.8)               # places brackets
 
+# ---- plot (keeps Control boxes visible) + add brackets for CD/UC ----
+p1 <- ggplot(merged, aes(x = disease, y = module, fill = response)) +
+  geom_boxplot(position = position_dodge(width = 0.8)) +
+  stat_pvalue_manual(
+    stat.test,
+    label = "label",
+    hide.ns = FALSE,                 # show even if not significant
+    bracket.size = 0.4,
+    tip.length = 0.01,
+    inherit.aes = FALSE
+  ) +
+  theme_classic() +
+  scale_fill_manual(
+    values = c('bisque', '#add98e', '#ff800e'),
+    name   = 'Response',
+    labels = c('Control','Non responder','Responder')
+  ) +
+  ggtitle(paste0(mod_name, " | After-treatment samples")) +
+  ylab("module score") + xlab("")
+
+p1
 
 ############################baseline, predictive potential
 

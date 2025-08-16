@@ -182,9 +182,6 @@ pl1
 # pl1
 # dev.off()
 
-
-
-
 pl2 <- ggplot(merged, aes(y = pasi, x = timepoint, fill = response)) +
   geom_boxplot()+
   stat_compare_means(method = 't.test', size = 4.5) +
@@ -205,9 +202,45 @@ pl2 <- ggplot(merged, aes(y = pasi, x = timepoint, fill = response)) +
 
 pl2
 
-# jpeg(file = "PASI_score_at_baseline_vs_week_12_facet_treatment.jpeg", units = 'cm', res = 600, width = 30, height = 15)
-# pl2
-# dev.off()
+
+
+stat.test <- merged %>%
+  group_by(treatment, timepoint) %>%
+  t_test(pasi ~ response) %>%
+  mutate(label = formatC(p, format = "e", digits = 2)) %>%  # scientific, 2 decimals
+  add_xy_position(x = "timepoint", dodge = 0.8)
+
+
+# Plot
+pl2.2 <- ggplot(merged, aes(x = timepoint, y = pasi, fill = response)) +
+  geom_boxplot(position = position_dodge(width = 0.8)) +
+  stat_pvalue_manual(
+    stat.test,
+    label = "label",
+    hide.ns = FALSE,               # <- KEEP non-significant brackets
+    bracket.size = 0.4,
+    tip.length = 0.01,
+    inherit.aes = FALSE
+  ) +
+  theme_classic() +
+  scale_fill_tableau(palette = "Nuriel Stone", name = "Response") +
+  ylab("PASI") + xlab("") +
+  theme(
+    axis.title   = element_text(size = 18),
+    axis.text    = element_text(size = 12),
+    axis.text.x  = element_text(size = 14),
+    strip.text.x = element_text(size = 16, face = "bold"),
+    legend.text  = element_text(size = 12),
+    legend.title = element_text(size = 14)
+  ) +
+  facet_wrap(~ treatment)
+
+pl2.2
+
+
+jpeg(file = "PASI_score_at_baseline_vs_week_12_facet_treatment.jpeg", units = 'cm', res = 600, width = 30, height = 15)
+pl2.2
+dev.off()
 
 
 #significant reductions in PASI scores were observed in responders treated with ustekinumab (both 45 mg and 90 mg) and etanercept  
