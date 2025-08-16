@@ -7,10 +7,11 @@ library(pROC)
 library(ggthemes)
 library(ggpubr)
 library(factoextra)
+library(caret)
 source("../../utils_functions/functions_to_process_RNAseq_Data.R")
 source("../../utils_functions/function_compute_all_features_for_module.R")
 source("../../Analysis/BLOOD/pipeline_landscape_disease_level_final/modules_files/readLines_all_modules.R")
-library(caret)
+
 
 gse <- 'GSE12251'
 
@@ -75,7 +76,8 @@ auc_value
 
 
 p <- ggroc(roc_obj) +
-  ggtitle("GSE12251 validation - UC - before treatment Inflamm Module - response label") +
+  #ggtitle("GSE12251 validation - UC - before treatment Inflamm Module - response label") +
+  ggtitle("GSE12251 Validation Dataset") +
   xlab("False Positive Rate") +
   ylab("True Positive Rate") +
   theme_classic() +

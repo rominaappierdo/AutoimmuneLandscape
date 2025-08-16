@@ -71,7 +71,8 @@ auc_value
 
 
 p <- ggroc(roc_obj) +
-  ggtitle("GSE14580 validation - UC - before treatment Inflamm Module - response label") +
+  #ggtitle("GSE14580 validation - UC - before treatment Inflamm Module - response label") +
+  ggtitle("GSE14580 Validation Dataset") +
   xlab("False Positive Rate") +
   ylab("True Positive Rate") +
   theme_classic() +
