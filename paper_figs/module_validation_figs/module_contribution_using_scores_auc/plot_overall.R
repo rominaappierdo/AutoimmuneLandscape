@@ -1,5 +1,5 @@
 setwd("paper_figs/module_validation_figs/module_contribution_using_scores_auc")
-source("/mnt/data3/appierdo/PhD-project/utils_functions/functions_to_process_RNAseq_Data.R")
+source("../../../utils_functions/functions_to_process_RNAseq_Data.R")
 library(ggplot2)
 library(gridExtra)
 library(ComplexHeatmap)
@@ -275,3 +275,16 @@ p
 jpeg("fig6B.jpeg", units = 'in', width = 14, height = 8, res = 600)
 p
 dev.off()
+
+
+#mean AUC IFN blood
+mean_ifn_blood <- final_merged[final_merged$source == 'Blood', ]
+mean_ifn_blood <- mean_ifn_blood[mean_ifn_blood$module == 'IFN response', ]
+mean(na.omit(mean_ifn_blood$`Mean AUCs`))
+#mean AUC IFN tissue
+mean_ifn_tissue <- final_merged[final_merged$source == 'Tissue', ]
+mean_ifn_tissue <- mean_ifn_tissue[mean_ifn_tissue$module == 'IFN response', ]
+mean(na.omit(mean_ifn_tissue$`Mean AUCs`))
+
+
+

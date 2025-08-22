@@ -296,7 +296,7 @@ corr_plot <- ggplot(merged, aes(x = Inflammation_module, y = pasi)) +
   geom_point() +
   theme_classic()+
   geom_smooth(method = 'lm') +
-  stat_cor(method = "spearman", label.x = -18, label.y = 58, size = 6)+
+  stat_cor(method = "spearman", label.x = -18, label.y = 58, size = 6, cor.coef.name = "ρ" )+
   facet_wrap(~treatment)+
   theme(
     axis.title = element_text(size = 14),   # Increase axis title size

@@ -1,5 +1,4 @@
 setwd("Analysis")
-
 blood_files <- list.files("BLOOD/meta_analysis_cell_proportions/", recursive = T, pattern = 'complet', full.names = T)
 
 dis <- c()
@@ -20,7 +19,7 @@ for (file in blood_files) {
 
 
 plot(density(ess))
-
+mean(ess)
 
 
 tissue_files <- list.files("TISSUE/meta_analysis_cell_proportions", recursive = T, pattern = 'complet', full.names = T)
@@ -44,7 +43,7 @@ for (file in tissue_files) {
   
   
 }
-
+mean(ess2)
 
 plot(density(ess2))
 

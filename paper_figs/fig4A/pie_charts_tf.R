@@ -1,17 +1,17 @@
-setwd("paper_figs/fig4")
+#setwd("paper_figs/fig4")
 library(ggplot2)
 library(gridExtra)
 
 df_blood <- data.frame()
 
-blood_files_tf <- list.files("../../../Analysis/BLOOD/TFs/meta_analysis_tf_activity/", pattern = 'complete_res', recursive = T, full.names = T)
+blood_files_tf <- list.files("../../Analysis/BLOOD/TFs/meta_analysis_tf_activity/", pattern = 'complete_res', recursive = T, full.names = T)
 
 blood_list <- list()
 dis_list_blood <- c()
 b <- 0
 for (file in blood_files_tf) {
   b<- b+1
-  disease <- strsplit(file, "/")[[1]][9]
+  disease <- strsplit(file, "/")[[1]][8]
   df <- read.csv(file, sep ='\t')
   df <- df[df$numStudies>=2,]
   df <- df[df$effectSizeFDR < 0.05,]
@@ -21,15 +21,15 @@ for (file in blood_files_tf) {
 }
 names(blood_list) <- dis_list_blood
 
-tissue_files_tf <- list.files("../../../Analysis/TISSUE/TFs/meta_analysis_tf_activity/", pattern = 'complete_res', recursive = T, full.names = T)
+tissue_files_tf <- list.files("../../Analysis/TISSUE/TFs/meta_analysis_tf_activity/", pattern = 'complete_res', recursive = T, full.names = T)
 
 tissue_list <- list()
 dis_list_tissue <- c()
 t <- 0
 for (file in tissue_files_tf) {
   t <- t+1
-  disease <- strsplit(file, "/")[[1]][9]
-  tissue <- strsplit(file, "/|_")[[1]][13]
+  disease <- strsplit(file, "/")[[1]][8]
+  tissue <- strsplit(file, "/|_")[[1]][12]
 
   disease <- paste0(disease, "_", tissue, sep = '')
   df <- read.csv(file, sep ='\t')
@@ -63,6 +63,11 @@ for (name in names(blood_list)){
       count = c(as.numeric(n_blood), as.numeric(n_tissue), as.numeric(n_intersection))
       
     )
+    
+    print(name)
+    print(length(blood_list[[name]]))
+    print(length(tissue_list[grepl(name, names(tissue_list))][[1]]))
+    print(length(intersect(blood_list[[name]],tissue_list[grepl(name, names(tissue_list))][[1]])))
     
     data$percentage <- data$count / sum(data$count) * 100
     
@@ -101,4 +106,4 @@ for (name in names(blood_list)){
 
 do.call(grid.arrange,c(list_plot_genes, ncol = 10))
 
-saveRDS(list_plot_genes, "pie_chart_tf.rds")
+#saveRDS(list_plot_genes, "pie_chart_tf.rds")

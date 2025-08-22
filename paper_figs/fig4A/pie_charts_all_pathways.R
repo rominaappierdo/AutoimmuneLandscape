@@ -2,7 +2,7 @@ setwd("paper_figs/fig4")
 library(ggplot2)
 library(gridExtra)
 
-blood_files_hall <- list.files("../../../Analysis/BLOOD/meta_analysis_pathways_activity/", pattern = 'complete_res', recursive = T, full.names = T)
+blood_files_hall <- list.files("../../Analysis/BLOOD/meta_analysis_pathways_activity/", pattern = 'complete_res', recursive = T, full.names = T)
 blood_files_hall <- blood_files_hall[grepl("hallm|kegg|wiki", blood_files_hall)]
 
 diseases <- c('crohn', 'diabetes', 'jia', 'lupus', 'multiple_sclerosis', 'psoriasis', 'ra_', 'scleroderma', 'sjogren', 'uc')
@@ -32,7 +32,7 @@ names(blood_list) <- dis_list_blood
 
 
 
-tissue_files_hall <- list.files("../../../Analysis/TISSUE/meta_analysis_pathways_activity/", pattern = 'complete_res', recursive = T, full.names = T)
+tissue_files_hall <- list.files("../../Analysis/TISSUE/meta_analysis_pathways_activity/", pattern = 'complete_res', recursive = T, full.names = T)
 tissue_files_hall <- tissue_files_hall[grepl("hallm|kegg|wiki", tissue_files_hall)]
 
 diseases <- c('crohn', 'lupus/KID', 'lupus/SKIN', 'psoriasis', 'ra_', 'scleroderma', 'sjogren', 'uc')
@@ -81,8 +81,7 @@ for (name in names(blood_list)){
     )
     
     data$percentage <- data$count / sum(data$count) * 100
-    
-    
+  
     # Add the hole in the center
     p <- ggplot(data, aes(x = 2, y = percentage, fill = category)) +
       geom_bar(stat = "identity", width = 1) +

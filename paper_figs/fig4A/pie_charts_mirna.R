@@ -4,14 +4,14 @@ library(gridExtra)
 
 df_blood <- data.frame()
 
-blood_files_mirna <- list.files("../../../Analysis/BLOOD/miRNA/meta_analysis_mirna_activity/", pattern = 'complete_res', recursive = T, full.names = T)
+blood_files_mirna <- list.files("../../Analysis/BLOOD/miRNA/meta_analysis_mirna_activity/", pattern = 'complete_res', recursive = T, full.names = T)
 
 blood_list <- list()
 dis_list_blood <- c()
 b <- 0
 for (file in blood_files_mirna) {
   b<- b+1
-  disease <- strsplit(file, "/")[[1]][9]
+  disease <- strsplit(file, "/")[[1]][8]
   
   df <- read.csv(file, sep ='\t')
   df <- df[df$numStudies>=2,]
@@ -22,15 +22,15 @@ for (file in blood_files_mirna) {
 }
 names(blood_list) <- dis_list_blood
 
-tissue_files_mirna <- list.files("../../../Analysis/TISSUE/miRNA/meta_analysis_mirna_activity/", pattern = 'complete_res', recursive = T, full.names = T)
+tissue_files_mirna <- list.files("../../Analysis/TISSUE/miRNA/meta_analysis_mirna_activity/", pattern = 'complete_res', recursive = T, full.names = T)
 
 tissue_list <- list()
 dis_list_tissue <- c()
 t <- 0
 for (file in tissue_files_mirna) {
   t <- t+1
-  disease <- strsplit(file, "/")[[1]][9]
-  tissue <- strsplit(file, "/|_")[[1]][13]
+  disease <- strsplit(file, "/")[[1]][8]
+  tissue <- strsplit(file, "/|_")[[1]][12]
   disease <- paste0(disease, "_", tissue, sep = '')
   df <- read.csv(file, sep ='\t')
   df <- df[df$numStudies>=2,]
@@ -66,7 +66,7 @@ for (name in names(blood_list)){
     
     data$percentage <- data$count / sum(data$count) * 100
     
-    
+
     # Add the hole in the center
     p <- ggplot(data, aes(x = 2, y = percentage, fill = category)) +
       geom_bar(stat = "identity", width = 1) +

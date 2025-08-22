@@ -1,0 +1,35 @@
+	genes	cyto	cell	pathways	mirna	tf
+crohn blood	3400	41	13	168	47	46
+crohn tissue	9951	146	16	669	217	193
+crohn intersection	1621	21	9	140	36	31
+crohn tot	11730	166	20	697	228	208
+diabetes blood	3	0	0	0	0	10
+diabetes tot	3	0	0	0	0	10
+jia blood	11	0	0	32	19	29
+jia tot	11	0	0	32	19	29
+lupus blood	4946	75	12	463	133	130
+lupus tissue	1774	30	0	225	46	45
+lupus intersection	516	10	0	130	19	27
+lupus tot	6204	95	12	558	160	148
+multiple sclerosis blood	170	0	0	106	3	7
+multiple sclerosis tot	170	0	0	106	3	7
+psoriasis blood	297	7	0	2	9	0
+psoriasis tissue	11049	144	14	689	201	203
+psoriasis intersection	179	5	0	2	0	0
+psoriasis tot 	11167	146	14	689	201	203
+ra blood	1124	12	3	123	37	41
+ra tissue	967	17	1	112	50	55
+ra intersection	61	0	0	14	6	7
+ra tot	2030	29	4	221	81	89
+scleroderma blood	1618	19	6	118	40	32
+scleroderma tissue	2082	47	6	327	84	106
+scleroderma intersection	269	7	3	41	10	17
+scleroderma tot	3431	59	9	404	114	121
+sjogren blood	2172	36	9	216	40	57
+sjogren tissue	362	11	0	201	14	49
+sjogren intersection	95	2	0	60	1	15
+sjogren tot	2439	45	9	357	53	91
+uc blood	1631	24	6	245	42	65
+uc tissue	11283	173	13	672	228	209
+uc intersection	929	13	4	188	30	54
+uc tot	11985	184	15	729	240	220

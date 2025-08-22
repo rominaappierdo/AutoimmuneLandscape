@@ -31,14 +31,17 @@ data<-data.frame(matrix(ncol = 3, nrow=0,
                         dimnames = list(c(), c("effectSize", "gene", "disease"))))
 
 for (file in files) {
-  disease<-strsplit(file, "\\/")[[1]][13]
-  tissue <- strsplit(file, "\\/|_")[[1]][17]
+  disease<-strsplit(file, "\\/")[[1]][11]
+  tissue <- strsplit(file, "\\/|_")[[1]][15]
   disease <- paste0(disease, "_", tissue)
   df<-read.csv(file, sep='\t')
-  df<-df[df$gene %in% sign_genes_in_50_perc_diseases, c("effectSize", "gene")]
+  df<-df[df$gene %in% sign_genes_in_50_perc_diseases, c("effectSize", "gene", "effectSizeFDR")]
   df$disease<-rep(disease, nrow(df))
   data<-rbind(data, df)
 }
+
+survcomp::combine.test(data[data$gene == 'WP_TYPE_II_INTERFERON_SIGNALING_IFNG', ]$effectSizeFDR, method = 'fisher')
+
 
 #reshaping
 data<-tidyr::spread(data, "disease", "effectSize")

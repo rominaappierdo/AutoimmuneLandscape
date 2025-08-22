@@ -7,9 +7,9 @@ library(pROC)
 library(ggthemes)
 library(ggpubr)
 library(factoextra)
-source("/mnt/data3/appierdo/AutoimmuneLandscape/utils_functions/functions_to_process_RNAseq_Data.R")
-source("/mnt/data3/appierdo/AutoimmuneLandscape/utils_functions/function_compute_all_features_for_module.R")
-source("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD/pipeline_landscape_disease_level_final/modules_files/readLines_all_modules.R")
+source("../../utils_functions/functions_to_process_RNAseq_Data.R")
+source("../../utils_functions/function_compute_all_features_for_module.R")
+source("../../Analysis/BLOOD/pipeline_landscape_disease_level_final/modules_files/readLines_all_modules.R")
 
 
 gse <- 'GSE16879'
@@ -36,6 +36,7 @@ expr$Row.names <- NULL
 expr <- na.omit(expr)
 expr <- mean_expression_gene_rowise(expr, colname = 'keys')
 expr <- order_by_col_names(expr)
+expr <- expr[, !colnames(expr) == 'GSM364647']
 
 ########### get metadata
 
@@ -53,7 +54,7 @@ meta$response <- ifelse(grepl("Not app", meta$`response to infliximab:ch1`), 'co
 
 
 pheno <- meta[, c("geo_accession", "patient_id", "tissue", "disease", "treatment", "response")]
-
+pheno <- pheno[!pheno$geo_accession == 'GSM364647', ]
 if (!identical(colnames(expr), pheno$geo_accession)){
   stop()
 }
@@ -72,6 +73,10 @@ pheno_colon <- pheno[pheno$tissue == 'Colon', ]
 pheno_colon <- pheno_colon[pheno_colon$treatment %in% c("control", "after"), ]
 expr_colon <- expr[, colnames(expr) %in% pheno_colon$geo_accession]
 
+pca.res.after <- prcomp(t(expr_colon))
+fviz_pca_ind(pca.res.after, habillage = pheno_colon$response, mean.point = F, geom = 'point', pointsize=5)
+
+
 #only inflammation module
 total_df <- compute_features(expr = expr_colon, module = list_modules[[13]], deconvolution = T)
 total_df <- t(scale(t(total_df))) #scale feature across sample, make samples comparable
@@ -89,54 +94,14 @@ p1 <- ggplot(merged, aes(x = disease, y = module, fill = response))+
   theme_classic() +
   scale_fill_manual(values = c('bisque', '#add98e', '#ff800e'), name = 'Response', labels = c('Control', 'Non responder', 'Responder')) +
   stat_compare_means(aes(group = response), 
-                     method = "t.test",
+                     method = "wilcox.test",
                      label = "p.format") +
   ggtitle(paste0(mod_name, " | ", "After-treatment samples"))+
   ylab("module score") +
   xlab("")
 
 p1
-library(ggplot2)
-library(ggpubr)
-library(rstatix)
-library(dplyr)
 
-# Ordering
-merged$disease  <- factor(merged$disease,  levels = c("Control","CD","UC"))
-merged$response <- factor(merged$response, levels = c("Control","NR","R"))
-
-# ---- compute tests: NR vs R only, within CD and UC ----
-analysis_df <- merged %>%
-  filter(disease %in% c("CD","UC"), response %in% c("NR","R")) %>%
-  droplevels()
-
-stat.test <- analysis_df %>%
-  group_by(disease) %>%                     # two tests: one for CD, one for UC
-  t_test(module ~ response) %>%
-  mutate(label = formatC(p, format = "e", digits = 2)) %>%  # scientific notation
-  add_xy_position(x = "disease", dodge = 0.8)               # places brackets
-
-# ---- plot (keeps Control boxes visible) + add brackets for CD/UC ----
-p1 <- ggplot(merged, aes(x = disease, y = module, fill = response)) +
-  geom_boxplot(position = position_dodge(width = 0.8)) +
-  stat_pvalue_manual(
-    stat.test,
-    label = "label",
-    hide.ns = FALSE,                 # show even if not significant
-    bracket.size = 0.4,
-    tip.length = 0.01,
-    inherit.aes = FALSE
-  ) +
-  theme_classic() +
-  scale_fill_manual(
-    values = c('bisque', '#add98e', '#ff800e'),
-    name   = 'Response',
-    labels = c('Control','Non responder','Responder')
-  ) +
-  ggtitle(paste0(mod_name, " | After-treatment samples")) +
-  ylab("module score") + xlab("")
-
-p1
 
 ############################baseline, predictive potential
 
@@ -145,6 +110,8 @@ pheno_colon <- pheno[pheno$tissue == 'Colon', ]
 #get only the BEFORE treatment ones
 pheno_colon <- pheno_colon[pheno_colon$treatment %in% c("control", "before"), ]
 expr_colon <- expr[, colnames(expr) %in% pheno_colon$geo_accession]
+
+pca.res.before <- prcomp(t(expr_colon))
 
 
 total_df <- compute_features(expr = expr_colon, module = list_modules[[13]], deconvolution = T)
@@ -162,10 +129,10 @@ p2 <- ggplot(merged, aes(x = disease, y = module, fill = response))+
   geom_boxplot() +
   theme_classic() +
   stat_compare_means(aes(group = response), 
-                     method = "t.test",
+                     method = "wilcox.test",
                      label = "p.format") +
   ggtitle(paste0(mod_name, " | ", "Before-treatment samples")) +
-  scale_fill_manual(values = c('bisque', '#add98e', '#ff800e'), name = 'Response')
+  scale_fill_manual(values = c('bisque', '#add98e', '#ff800e'), name = 'Response', labels = c('Control', 'Non responder', 'Responder'))
 
 p2
 
@@ -182,7 +149,7 @@ p2
 dev.off()
 
 
-
+stop()
 
 #Interestingly, module activity in responders approached levels observed in healthy controls (actually non significant)
 

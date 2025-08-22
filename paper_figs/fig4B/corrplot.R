@@ -106,3 +106,6 @@ p
 jpeg("fig4B.jpeg", width = 17,height = 20, units = "cm", res = 600)
 p
 dev.off()
+
+
+median(na.omit(df$correlation))

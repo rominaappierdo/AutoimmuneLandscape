@@ -1,4 +1,4 @@
-setwd("Supplementary/supp_figures")
+#setwd("Supplementary/supp_figures")
 source("../../utils_functions/functions_to_process_RNAseq_Data.R")
 library(ggplot2)
 library(ggrepel)
@@ -50,14 +50,15 @@ for (disease in diseases ){
     theme_classic() +
     ggtitle(plot_titles[c]) +
     geom_vline(xintercept = 0, linetype = 'dashed') +
-    geom_hline(yintercept = 0, linetype = 'dashed')
+    geom_hline(yintercept = 0, linetype = 'dashed') +
+    stat_cor(method = 'spearman')
   
   list_plot[[c]] <- p
   
 }
 
-jpeg(file = 'SuppFig5.jpeg', width = 21, height = 22, units = 'cm', res = 600)
+#jpeg(file = 'SuppFig5.jpeg', width = 21, height = 22, units = 'cm', res = 600)
 do.call(grid.arrange,c(list_plot, ncol = 2))
-dev.off()
+#dev.off()
 
 

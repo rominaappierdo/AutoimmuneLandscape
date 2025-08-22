@@ -4,7 +4,7 @@ library(gridExtra)
 
 df_blood <- data.frame()
 cyto <- readLines("/mnt/data3/appierdo/PhD-project/signaling_molecules/curated_kines/all_kines.txt")
-blood_files_genes <- list.files("../../../Analysis/BLOOD/meta_analysis_gene_expression/", pattern = 'complete_res', recursive = T, full.names = T)
+blood_files_genes <- list.files("../../Analysis/BLOOD/meta_analysis_gene_expression/", pattern = 'complete_res', recursive = T, full.names = T)
 
 
 blood_list <- list()
@@ -12,7 +12,7 @@ dis_list_blood <- c()
 b <- 0
 for (file in blood_files_genes) {
   b<- b+1
-  disease <- strsplit(file, "/")[[1]][8]
+  disease <- strsplit(file, "/")[[1]][7]
   df <- read.csv(file, sep ='\t')
   df <- df[df$numStudies>=2,]
   df <- df[df$effectSizeFDR < 0.05,]
@@ -24,15 +24,15 @@ for (file in blood_files_genes) {
 names(blood_list) <- dis_list_blood
 
 
-tissue_files_genes <- list.files("../../../Analysis/TISSUE/meta_analysis_gene_expression/", pattern = 'complete_res', recursive = T, full.names = T)
+tissue_files_genes <- list.files("../../Analysis/TISSUE/meta_analysis_gene_expression/", pattern = 'complete_res', recursive = T, full.names = T)
 
 tissue_list <- list()
 dis_list_tissue <- c()
 t <- 0
 for (file in tissue_files_genes) {
   t <- t+1
-  disease <- strsplit(file, "/")[[1]][8]
-  tissue <- strsplit(file, "/|_")[[1]][12]
+  disease <- strsplit(file, "/")[[1]][7]
+  tissue <- strsplit(file, "/|_")[[1]][11]
   disease <- paste0(disease, "_", tissue, sep = '')
   df <- read.csv(file, sep ='\t')
   df <- df[df$numStudies>=2,]
@@ -69,7 +69,7 @@ for (name in names(blood_list)){
     
     data$percentage <- data$count / sum(data$count) * 100
     
-    
+
     # Add the hole in the center
     p <- ggplot(data, aes(x = 2, y = percentage, fill = category)) +
       geom_bar(stat = "identity", width = 1) +
@@ -104,4 +104,4 @@ for (name in names(blood_list)){
 
 do.call(grid.arrange,c(list_plot_genes, ncol = 10))
 
-saveRDS(list_plot_genes, "pie_chart_cyto.rds")
+#saveRDS(list_plot_genes, "pie_chart_cyto.rds")
