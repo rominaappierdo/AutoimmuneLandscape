@@ -89,32 +89,35 @@ for (module in list_modules) { #for each module
   
   box <- ggplot(score_df, aes(x = stimulation, y = module)) +
     geom_boxplot(aes(fill = stimulation)) +
-    stat_compare_means(comparisons = my_comparisons,  method = "wilcox.test") +
-    ggtitle(module_names[counter_mod])+
-    ylab("module score")+
-    xlab("") +
-    theme_classic() +
-    theme(axis.text.x = element_blank(),
-          strip.text = element_text(
-            size = 14, color = "white", face = 'bold')
+    stat_compare_means(
+      comparisons = my_comparisons,
+      method = "wilcox.test",
+      size = 5         # larger p-value text
     ) +
-    #scale_fill_tableau(direction = -1) +
+    ggtitle(module_names[counter_mod]) +
+    ylab("module score") +
+    xlab("") +
+    theme_classic(base_size = 16) +  # increase base font size a tad
+    theme(
+      axis.text = element_text(size = 14),
+      axis.text.x = element_blank(),
+      axis.title = element_text(size = 16),
+      strip.text = element_text(size = 16, color = "white", face = "bold"),
+      plot.title = element_text(size = 18, hjust = 0.5),
+      legend.position = "none"
+    ) +
     scale_fill_manual(values = custom_colors) +
     facet_wrap(~ facet)
   
-  box
-  
-  
+  # ---- keep your facet color edits ----
   g <- ggplot_gtable(ggplot_build(box))
   strip_both <- which(grepl('strip-', g$layout$name))
-  fills <- c("#377eb8","#e41a1b",  "#4eaf4a")
+  fills <- c("#377eb8", "#e41a1b", "#4eaf4a")
   k <- 1
   for (i in strip_both) {
     j <- which(grepl('rect', g$grobs[[i]]$grobs[[1]]$childrenOrder))
-    #g$grobs[[i]]$grobs[[1]]$children[[j]]$gp$col <- fills[k]
     g$grobs[[i]]$grobs[[1]]$children[[j]]$gp$fill <- fills[k]
-    
-    k <- k+1
+    k <- k + 1
   }
   grid.draw(g)
   
@@ -122,6 +125,11 @@ for (module in list_modules) { #for each module
   
   
 }
-jpeg(file = 'SuppFig9.jpeg', units = 'cm', width = 70, height = 38, res = 600)
-do.call(grid.arrange,c(list_plot, ncol = 5))
+
+
+
+
+
+jpeg(file = 'SuppFig9_phd_Thesis.jpeg', units = 'cm', width = 45, height = 60, res = 600)
+do.call(grid.arrange,c(list_plot, ncol = 3))
 dev.off()

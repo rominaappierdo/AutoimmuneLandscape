@@ -43,8 +43,8 @@ plot(density(as.matrix(data), na.rm = T))
 column_dend = hclust(dist(t(data)))
 row_dend = hclust(dist((data)))
 
-saveRDS(column_dend, file = "/mnt/data3/appierdo/PhD-project/paper/paper_figs/fig2/column_dend_mirna.rds")
-saveRDS(row_dend, file = "/mnt/data3/appierdo/PhD-project/paper/paper_figs/fig2/row_dend_mirna.rds")
+#saveRDS(column_dend, file = "/mnt/data3/appierdo/PhD-project/paper/paper_figs/fig2/column_dend_mirna.rds")
+#saveRDS(row_dend, file = "/mnt/data3/appierdo/PhD-project/paper/paper_figs/fig2/row_dend_mirna.rds")
 
 data[data > 1]<- 1
 data[data < -1]<- -1
@@ -71,7 +71,7 @@ ht<-Heatmap(as.matrix(data),
 )
 
 ht = draw(ht)
-tiff("ht_mirna.tiff", units="in", width=10, height=10, res=400)
+#tiff("ht_mirna.tiff", units="in", width=10, height=10, res=400)
 draw(ht)
 
 stop()

@@ -24,7 +24,7 @@ for (file in list.files(source.dir, pattern = '.*complete_res.*', recursive = T,
   cells_mat$Row.names <- NULL
 }
 cells_mat <- cells_mat[rownames(cells_mat) %in% readLines("../../visualizeLandscape/script_to_select_significant_features_blood/significant_cell_in_at_least_one_disease.txt"), ]
-cells_mat <- na.omit(cells_mat)
+#cells_mat <- na.omit(cells_mat)
 
 
 hallmarks_list <- names(readRDS("../../../gene_sets/hallmarks_list_GENE_SYMBOL.RData"))
@@ -171,8 +171,8 @@ rownames(df) <- c("Crohn's disease", "Type 1 diabetes", "Juvenile idiopathic art
                   "Psoriasis", "Rheumatoid arthritis", "Scleroderma", "Sjogren's syndrome", 
                   "Ulcerative colitis")
 
-
-
+min(df)
+max(df)
 ht <- Heatmap(
   as.matrix(df),
   column_split = column_split,
@@ -182,6 +182,7 @@ ht <- Heatmap(
   column_names_gp = gpar(fontsize = 2),
   row_names_gp = gpar(fontsize = 10),
   column_names_rot = 45,
+  col = circlize::colorRamp2(c(-0.9, 0, 0.9), c("#56B4E9", "#FFFFFF", "#FF7400")),
   #bottom_annotation = column_ha,
   #column_gap = unit(2, "mm"),
   heatmap_height = unit(6.4, "mm")*nrow(df),
@@ -190,16 +191,24 @@ ht <- Heatmap(
   show_column_names = F,
   rect_gp = gpar(col = "black", lwd = 0.03),
   show_heatmap_legend = T,
-  column_title_gp = gpar(col = c("orange", "darkviolet","steelblue", "darkgreen", "red"), font = rep(2, 5)),
+  column_title_gp = gpar(col = c("steelblue", "orange", "darkviolet", "darkgreen", "red"), font = rep(2, 5)),
   heatmap_legend_param = list(
     legend_direction = "horizontal")
 )
 
 ht <- draw(ht, heatmap_legend_side = "bottom")
 
-jpeg('fig2C.jpeg', width = 40 ,height = 10, units = 'cm', res = 600)
+Heatmap(
+  df[, c('HALLMARK_INTERFERON_ALPHA_RESPONSE', 'plasmacytoid_dendritic_cell')],
+   col = circlize::colorRamp2(c(-0.9, 0, 0.9), c("#56B4E9", "#FFFFFF", "#FF7400")),)
+
+jpeg('fig2C_lab_meeting.jpeg', width = 40 ,height = 10, units = 'cm', res = 600)
 draw(ht, heatmap_legend_side = "bottom")
 dev.off()
 
-#write.table(df, file = 'input_correlation_mat.tsv', sep ='\t', quote = F, row.names = T, col.names = NA)
 
+# jpeg('fig2C.jpeg', width = 40 ,height = 10, units = 'cm', res = 600)
+# draw(ht, heatmap_legend_side = "bottom")
+# dev.off()
+
+#write.table(df, file = 'input_correlation_mat.tsv', sep ='\t', quote = F, row.names = T, col.names = NA)

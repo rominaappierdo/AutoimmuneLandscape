@@ -1,4 +1,4 @@
-setwd("Supplementary/supp_figures")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Supplementary/supp_figures")
 library(MetaIntegrator)
 library(data.table)
 library(ComplexHeatmap)
@@ -138,6 +138,7 @@ p_value <- 2 * (1 - pnorm(abs(z_score)))
 
 df <- data.frame('density' = dist_random_es)
 
+saveRDS(df, file = 'density_48h.rds')
 
 p <- ggplot(df, aes(x = density)) +
   geom_density(fill = "orange", alpha = 0.3) +
@@ -151,6 +152,6 @@ p <- ggplot(df, aes(x = density)) +
            color = "red", size = 5
            ) 
 
-jpeg(file = 'SuppFig10_48h.png', res = 400, width = 3000, height =2000)
-p
-dev.off()
+# jpeg(file = 'SuppFig10_48h.png', res = 400, width = 3000, height =2000)
+# p
+# dev.off()

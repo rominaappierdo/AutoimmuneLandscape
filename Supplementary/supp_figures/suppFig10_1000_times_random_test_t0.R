@@ -136,6 +136,8 @@ p_value <- 2 * (1 - pnorm(abs(z_score)))
 
 df <- data.frame('density' = dist_random_es)
 
+saveRDS(df, file = 'density_t0.rds')
+
 
 p <- ggplot(df, aes(x = density)) +
   geom_density(fill = "orange", alpha = 0.3) +
@@ -149,6 +151,6 @@ p <- ggplot(df, aes(x = density)) +
            color = "red", size = 5
            ) 
 
-jpeg(file = 'SuppFig10_t0.png', res = 400, width = 3000, height =2000)
-p
-dev.off()
+# jpeg(file = 'SuppFig10_t0.png', res = 400, width = 3000, height =2000)
+# p
+# dev.off()
