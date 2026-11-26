@@ -1,0 +1,70 @@
+series_id	n_samples	n_diseases	diseases	n_zero_variance	n_invalid_variance	all_modules_variable	n_known_subjects	n_samples_with_subject_id	n_repeated_subjects	eligible	exclusion_reason
+GSE186507	821	2	crohn's disease | ulcerative colitis	0	0	TRUE	821	821	0	TRUE	Eligible
+GSE61240	550	1	multiple sclerosis (relapsing-remitting)	0	0	TRUE	550	550	0	TRUE	Eligible
+GSE74143	377	1	rheumatoid arthritis	0	0	TRUE	377	377	0	TRUE	Eligible
+GSE119600	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis	0	0	TRUE	323	323	0	TRUE	Eligible
+GSE45291	292	1	systemic lupus erythematosus	0	0	TRUE	292	292	0	TRUE	Eligible
+GSE100833	204	2	crohn's disease | inflammatory bowel disease	0	0	TRUE	204	204	0	TRUE	Eligible
+GSE112057	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis	0	0	TRUE	190	190	0	TRUE	Eligible
+GSE51092	190	1	sjogren's syndrome	0	0	TRUE	190	190	0	TRUE	Eligible
+GSE110169	166	2	rheumatoid arthritis | systemic lupus erythematosus	0	0	TRUE	166	166	0	TRUE	Eligible
+GSE22098	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)	0	0	TRUE	141	141	0	TRUE	Eligible
+GSE65391	139	1	systemic lupus erythematosus	0	0	TRUE	139	139	0	TRUE	Eligible
+GSE41846	111	1	multiple sclerosis	0	0	TRUE	111	111	0	TRUE	Eligible
+GSE143507	101	1	crohn's disease	0	0	TRUE	101	101	0	TRUE	Eligible
+GSE17048	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)	0	0	TRUE	99	99	0	TRUE	Eligible
+GSE15258	86	1	rheumatoid arthritis	0	0	TRUE	86	86	0	TRUE	Eligible
+GSE66795	74	1	sjogren's syndrome (primary)	0	0	TRUE	74	74	0	TRUE	Eligible
+GSE94648	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)	0	0	TRUE	74	74	0	TRUE	Eligible
+GSE54629	69	1	rheumatoid arthritis	0	0	TRUE	69	69	0	TRUE	Eligible
+GSE20690	68	1	rheumatoid arthritis	0	0	TRUE	68	68	0	TRUE	Eligible
+GSE93272	66	1	rheumatoid arthritis	0	0	TRUE	66	66	0	TRUE	Eligible
+GSE61635	64	1	systemic lupus erythematosus	0	0	TRUE	64	64	0	TRUE	Eligible
+GSE129705	63	1	rheumatoid arthritis	0	0	TRUE	63	63	0	TRUE	Eligible
+GSE100164	62	1	systemic-onset juvenile idiopathic arthritis	0	0	TRUE	62	62	0	TRUE	Eligible
+GSE130953	62	1	systemic sclerosis	0	0	TRUE	62	62	0	TRUE	Eligible
+GSE167923	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus	0	0	TRUE	62	62	0	TRUE	Eligible
+GSE126124	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)	0	0	TRUE	59	59	0	TRUE	Eligible
+GSE41847	59	1	multiple sclerosis	0	0	TRUE	59	59	0	TRUE	Eligible
+GSE58795	59	1	rheumatoid arthritis	0	0	TRUE	59	59	0	TRUE	Eligible
+GSE72326	58	1	systemic lupus erythematosus	0	0	TRUE	58	58	0	TRUE	Eligible
+GSE100163	55	1	systemic lupus erythematosus	0	0	TRUE	55	55	0	TRUE	Eligible
+GSE169568	52	1	crohn's disease	0	0	TRUE	52	52	0	TRUE	Eligible
+GSE55201	45	1	psoriasis	0	0	TRUE	45	45	0	TRUE	Eligible
+GSE12051	44	1	rheumatoid arthritis	0	0	TRUE	44	44	0	TRUE	Eligible
+GSE86434	44	2	crohn's disease | ulcerative colitis	0	0	TRUE	44	44	0	TRUE	Eligible
+GSE112594	42	1	type 1 diabetes (newly diagnosed)	0	0	TRUE	42	42	0	TRUE	Eligible
+GSE151161	38	1	rheumatoid arthritis	0	0	TRUE	38	38	0	TRUE	Eligible
+GSE154851	38	1	systemic lupus erythematosus	0	0	TRUE	38	38	0	TRUE	Eligible
+GSE99967	38	1	systemic lupus erythematosus	0	0	TRUE	18	38	12	TRUE	Eligible
+GSE100162	34	1	multiple sclerosis	0	0	TRUE	34	34	0	TRUE	Eligible
+GSE103106	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)	0	0	TRUE	33	33	0	TRUE	Eligible
+GSE50635	33	1	systemic lupus erythematosus	0	0	TRUE	33	33	0	TRUE	Eligible
+GSE112087	31	1	systemic lupus erythematosus	0	0	TRUE	31	31	0	TRUE	Eligible
+GSE84844	30	1	sjogren's syndrome (primary)	0	0	TRUE	30	30	0	TRUE	Eligible
+GSE183701	26	1	type 1 diabetes	0	0	TRUE	26	26	0	FALSE	Insufficient samples
+GSE39088	26	1	systemic lupus erythematosus	0	0	TRUE	26	26	0	FALSE	Insufficient samples
+GSE78193	26	1	systemic lupus erythematosus	0	0	TRUE	26	26	0	FALSE	Insufficient samples
+GSE45536	25	1	systemic sclerosis	0	0	TRUE	25	25	0	FALSE	Insufficient samples
+GSE17590	22	1	systemic-onset juvenile idiopathic arthritis	0	0	TRUE	22	22	0	FALSE	Insufficient samples
+GSE37107	14	1	rheumatoid arthritis	0	0	TRUE	14	14	0	FALSE	Insufficient samples
+GSE80183	12	1	systemic lupus erythematosus	0	0	TRUE	12	12	0	FALSE	Insufficient samples
+GSE11499	11	2	crohn's disease | ulcerative colitis	0	0	TRUE	11	11	0	FALSE	Insufficient samples
+GSE58667	11	1	enthesitis-related arthritis	0	0	TRUE	11	11	0	FALSE	Insufficient samples
+GSE147339	10	1	psoriasis	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE44313	10	2	type 1 diabetes (fulminant) | type 1A diabetes	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE44314	10	2	type 1 diabetes (fulminant) | type 1A diabetes	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE68689	10	1	rheumatoid arthritis	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE72747	10	1	lupus nephritis	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE75173	10	1	systemic sclerosis, pulmonary arterial hypertension	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE89022	10	1	type 1 diabetes	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE57183	9	2	juvenile idiopathic arthritis (systemic) | kawasaki disease	0	0	TRUE	9	9	0	FALSE	Insufficient samples
+GSE100191	7	1	rheumatoid arthritis	0	0	TRUE	7	7	0	FALSE	Insufficient samples
+GSE186724	7	1	psoriasis	0	0	TRUE	7	7	0	FALSE	Insufficient samples
+GSE30208	6	1	type 1 diabetes	0	0	TRUE	6	6	0	FALSE	Insufficient samples
+GSE66573	6	1	multiple sclerosis (relapsing-remitting)	0	0	TRUE	6	6	0	FALSE	Insufficient samples
+GSE72754	6	1	systemic lupus erythematosus	0	0	TRUE	6	6	0	FALSE	Insufficient samples
+GSE103005	4	2	multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)	0	0	TRUE	4	4	0	FALSE	Insufficient samples
+GSE110396	4	1	systemic lupus erythematosus	0	0	TRUE	4	4	0	FALSE	Insufficient samples
+GSE131526	4	1	type 1 diabetes	0	0	TRUE	4	4	0	FALSE	Insufficient samples
+GSE30209	4	1	type 1 diabetes	0	0	TRUE	4	4	0	FALSE	Insufficient samples

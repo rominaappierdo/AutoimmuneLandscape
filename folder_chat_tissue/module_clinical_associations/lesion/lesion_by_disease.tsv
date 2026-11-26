@@ -1,0 +1,29 @@
+disease	n_affected	n_unaffected	n_total
+psoriasis	531	386	917
+crohn's disease	275	88	363
+ulcerative colitis	48	39	87
+multiple sclerosis	44	3	47
+atopic dermatitis	30	11	41
+psoriasis (generalised pustular)	32	0	32
+multiple sclerosis (secondary progressive)	14	13	27
+discoid lupus erythematosus	16	0	16
+juvenile myositis	9	6	15
+psoriasis (mild)	14	0	14
+multiple sclerosis (primary progressive)	0	13	13
+pityriasis rubra pilaris	13	0	13
+psoriasis (severe)	13	0	13
+psoriasis, eczema	0	12	12
+inflammatory bowel disease	11	0	11
+asian intermediate plaque psoriasis	2	7	9
+atopic dermatitis (intrinsic)	9	0	9
+familial adenomatous polyposis	3	5	8
+discoid lupus	7	0	7
+asian small plaque psoriasis	2	5	7
+systemic lupus erythematosus (childhood-onset)	5	0	5
+atopic dermatitis (extrinsic)	5	0	5
+multiple sclerosis (progressive relapsing)	0	3	3
+multiple sclerosis (relapsing-remitting)	0	3	3
+meningitis tuberculosis	3	0	3
+lichen planus	0	3	3
+bacterial infectious colitis	2	0	2
+indeterminate colitis	1	0	1

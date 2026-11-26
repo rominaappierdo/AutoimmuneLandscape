@@ -1,0 +1,50 @@
+disease	condition	n_samples	n_complete	n_datasets
+healthy	Healthy	1572	1572	49
+crohn's disease	Disease	1004	1004	9
+rheumatoid arthritis	Disease	985	985	13
+systemic lupus erythematosus	Disease	932	932	16
+multiple sclerosis (relapsing-remitting)	Disease	602	598	6
+sjogren's syndrome	Disease	541	190	2
+ulcerative colitis	Disease	524	524	5
+multiple sclerosis	Disease	204	204	3
+sjogren's syndrome (primary)	Disease	104	104	2
+primary biliary cholangitis	Disease	90	90	1
+systemic sclerosis	Disease	87	87	2
+systemic-onset juvenile idiopathic arthritis	Disease	84	84	2
+systemic lupus erythematosus (pediatric)	Disease	82	82	1
+psoriasis	Disease	62	62	3
+type 1 diabetes	Disease	50	50	5
+multiple sclerosis (primary progressive)	Disease	48	48	2
+multiple sclerosis (secondary progressive)	Disease	46	46	3
+juvenile idiopathic arthritis (polyarticular)	Disease	46	46	1
+primary sclerosing cholangitis	Disease	45	45	1
+juvenile idiopathic arthritis (oligoarticular)	Disease	43	43	1
+discoid lupus erythematosus	Disease	43	43	1
+type 1 diabetes (newly diagnosed)	Disease	42	42	1
+staphylococcus infection	Disease	40	40	1
+crohn's disease (active)	Disease	40	40	1
+juvenile idiopathic arthritis (systemic)	Disease	32	32	2
+still disease	Disease	31	31	1
+down syndrome	Disease	23	23	1
+prediabetic	Disease	18	18	1
+ulcerative colitis (active)	Disease	17	17	1
+pancolitis	Disease	14	14	1
+streptococcus infection	Disease	12	12	1
+enthesitis-related arthritis	Disease	11	11	1
+tumid lupus erythematosus	Disease	10	10	1
+type 1 diabetes (fulminant)	Disease	10	10	2
+type 1A diabetes	Disease	10	10	2
+lupus nephritis	Disease	10	10	1
+systemic sclerosis, pulmonary arterial hypertension	Disease	10	10	1
+irritable bowel syndrome	Disease	10	10	1
+crohn's disease (inactive)	Disease	9	9	1
+inflammatory bowel disease	Disease	8	8	2
+ulcerative colitis (inactive)	Disease	8	8	1
+subacute cutaneous lupus	Disease	7	7	1
+ulcerative colitis (left-sided)	Disease	4	4	1
+kawasaki disease	Disease	3	3	1
+lichen planus	Disease	2	2	1
+fever without source	Disease	2	2	1
+inflammatory bowel disease unclassified	Disease	1	1	1
+other	Disease	1	1	1
+diverticular disease	Disease	1	1	1

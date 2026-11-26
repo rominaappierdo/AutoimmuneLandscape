@@ -1,0 +1,136 @@
+disease	condition	n_samples	n_complete	n_datasets
+ulcerative colitis	Disease	2406	2403	36
+crohn's disease	Disease	1981	1981	29
+healthy	Healthy	1787	1739	118
+psoriasis	Disease	1018	1018	59
+rheumatoid arthritis	Disease	219	219	12
+systemic sclerosis	Disease	175	175	2
+ulcerative colitis (active)	Disease	138	134	8
+IgA nephropathy	Disease	128	128	7
+systemic lupus erythematosus	Disease	100	100	5
+sjogren's syndrome (primary)	Disease	84	84	4
+crohn's disease (active)	Disease	77	77	3
+cutaneous lupus (subacute)	Disease	70	70	4
+multiple sclerosis	Disease	65	65	8
+minimal change disease	Disease	65	65	7
+discoid lupus erythematosus	Disease	63	63	3
+hypertensive nephropathy	Disease	61	61	5
+crohn's disease (ileal)	Disease	60	60	1
+colorectal cancer	Disease	60	60	1
+diabetic nephropathy	Disease	54	54	7
+lupus nephritis	Disease	50	50	4
+systemic sclerosis (diffuse cutaneous)	Disease	48	48	3
+rapidly progressive glomerulonephritis	Disease	44	44	2
+atopic dermatitis	Disease	43	43	4
+membranous glomerulonephritis	Disease	40	40	3
+psoriasis (inverse)	Disease	40	40	1
+lupus nephritis (class 4)	Disease	38	5	3
+ulcerative colitis (remission)	Disease	38	38	3
+multiple sclerosis (secondary progressive)	Disease	35	35	4
+ulcerative colitis (inactive)	Disease	35	35	3
+focal and segmental glomerulosclerosis	Disease	34	34	2
+pancolitis	Disease	33	33	2
+crohn's disease (colonic)	Disease	32	32	1
+psoriasis (generalised pustular)	Disease	32	32	1
+osteoarthritis	Disease	31	31	5
+rheumatoid arthritis (early)	Disease	31	31	2
+crohn's disease (post-operative recurrent)	Disease	30	30	1
+psoriasis (erythrodermic)	Disease	30	30	1
+inflammatory bowel disease	Disease	27	27	3
+crohn's disease (inactive)	Disease	23	23	3
+ANCA-associated vasculitis	Disease	22	22	1
+psoriasis, eczema	Disease	22	22	1
+membranous glomerulonephropathy	Disease	21	21	1
+idiopathic pulmonary fibrosis, usual interstitial pneumonia	Disease	20	20	1
+alzheimer's disease	Disease	20	20	2
+huntington's disease	Disease	20	20	1
+schizophrenia	Disease	20	20	1
+left-sided coltis	Disease	20	20	1
+tumor nephrectomy	Disease	19	19	3
+multiple sclerosis (primary progressive)	Disease	19	19	4
+parkinson's disease	Disease	19	19	1
+crohn's disease (newly diagnosed)	Disease	18	18	1
+focal segmental glomerular sclerosis	Disease	18	18	1
+collagenous colitis (active)	Disease	18	18	1
+non-proliferative diabetic retinopathy	Disease	17	17	1
+membranous nephropathy	Disease	16	16	3
+amyotrophic lateral sclerosis	Disease	16	16	1
+rheumatoid arthritis (end-stage)	Disease	16	16	1
+systemic sclerosis, interstitial lung disease	Disease	16	16	1
+juvenile myositis	Disease	15	15	1
+adenoma	Disease	15	15	1
+colorectal carcinoma	Disease	15	15	1
+crohn's disease (late stage)	Disease	14	14	1
+lupus nephritis (class 3)	Disease	14	2	3
+non-sjogren's sicca	Disease	14	14	1
+psoriasis (mild)	Disease	14	14	1
+pityriasis rubra pilaris	Disease	13	13	1
+idiopathic pulmonary fibrosis	Disease	13	13	1
+systemic sclerosis, pulmonary fibrosis	Disease	13	13	1
+psoriasis (severe)	Disease	13	13	1
+ulcerative colitis (extensive)	Disease	13	13	1
+thin membrane disease	Disease	12	12	3
+diabetes	Disease	12	12	1
+focal segmental glomerulosclerosis	Disease	11	11	4
+ulcerative colitis, neoplasia	Disease	11	11	1
+ulcerative colitis, colorectal cancer	Disease	10	10	1
+microcrystalline arthritis	Disease	10	10	2
+systemic sclerosis, pulmonary arterial hypertension	Disease	10	10	1
+type 1 diabetes	Disease	10	10	1
+collagenous colitis (inactive/in remission)	Disease	9	9	1
+asian intermediate plaque psoriasis	Disease	9	9	1
+atopic dermatitis (intrinsic)	Disease	9	9	1
+coronary artery disease	Disease	8	8	1
+coronary artery disease, rheumatoid arthritis	Disease	8	8	1
+inflammatory bowel disease unclassified	Disease	8	8	3
+lupus nephritis (mixed 3/4+5)	Disease	8	0	1
+seronegative arthritis	Disease	8	8	2
+idiopathic pulmonary arterial hypertension	Disease	8	8	1
+familial adenomatous polyposis	Disease	8	8	1
+cutaneous lupus (acute)	Disease	7	7	1
+sjogren's syndrome (keratoconjunctivitis sicca)	Disease	7	0	1
+osteoarthritis (late stage)	Disease	7	7	1
+sjogren's syndrome	Disease	7	7	2
+discoid lupus	Disease	7	7	1
+asian small plaque psoriasis	Disease	7	7	1
+focal segmental glomerular sclerosis, minimal change disease	Disease	6	6	1
+cutaneous lupus (chronic)	Disease	6	6	1
+cutaneous lupus erythematosus (chronic)	Disease	6	6	1
+ulcerative colitis associated colorectal cancer	Disease	6	6	1
+ulcerative colitis-associated dysplasia	Disease	6	6	1
+AAB+	Disease	6	6	1
+ulcerative colitis (limited)	Disease	6	6	1
+discoid lupus erythematosus (chronic)	Disease	6	6	1
+systemic lupus erythematosus (childhood-onset)	Disease	5	5	1
+sjogren's syndrome (early)	Disease	5	5	1
+ankylosing spondylitis	Disease	5	5	1
+IgG4-related disease	Disease	5	5	1
+vasculitis	Disease	5	5	1
+atopic dermatitis (extrinsic)	Disease	5	5	1
+lupus nephritis (class 4+5)	Disease	4	0	1
+lupus nephritis (class 3+5)	Disease	4	0	1
+ulcerative colitis (left-sided)	Disease	4	4	1
+ulcerative colitis (quiescent)	Disease	4	4	1
+psoriatic arthritis	Disease	4	4	1
+lupus nephritis (class 5)	Disease	4	4	1
+cadaveric donor	Disease	4	4	1
+focal and segmental glomerulosclerosis, minimal change disease	Disease	4	4	1
+crohn's disease (post-operative)	Disease	3	3	1
+multiple sclerosis (progressive relapsing)	Disease	3	3	2
+rheumatoid arthritis, usual interstitial pneumonia	Disease	3	3	1
+multiple sclerosis (relapsing-remitting)	Disease	3	3	1
+sjogren's syndrome (moderate)	Disease	3	3	1
+meningitis tuberculosis	Disease	3	3	1
+lichen planus	Disease	3	3	1
+palmoplantar pustulosis	Disease	3	3	1
+proliferative diabetic retinopathy	Disease	2	2	1
+rheumatoid arthritis (late stage)	Disease	2	2	1
+sjogren's syndrome (advanced)	Disease	2	2	1
+intestinal tuberculosis	Disease	2	2	1
+membranoproliferative glomerulonephritis	Disease	2	2	1
+bacterial infectious colitis	Disease	2	2	1
+collagen colitis	Disease	1	1	1
+irritable bowel syndrome	Disease	1	1	1
+glomerulonephritis	Disease	1	1	1
+indeterminate colitis	Disease	1	1	1
+chronic kidney disease	Disease	1	1	1

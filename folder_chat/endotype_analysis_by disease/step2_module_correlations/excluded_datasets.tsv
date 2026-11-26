@@ -1,0 +1,28 @@
+series_id	n_samples	n_diseases	diseases	n_zero_variance	n_invalid_variance	all_modules_variable	n_known_subjects	n_samples_with_subject_id	n_repeated_subjects	eligible	exclusion_reason
+GSE99967	38	1	systemic lupus erythematosus	0	0	TRUE	18	38	12	TRUE	Eligible
+GSE183701	26	1	type 1 diabetes	0	0	TRUE	26	26	0	FALSE	Insufficient samples
+GSE39088	26	1	systemic lupus erythematosus	0	0	TRUE	26	26	0	FALSE	Insufficient samples
+GSE78193	26	1	systemic lupus erythematosus	0	0	TRUE	26	26	0	FALSE	Insufficient samples
+GSE45536	25	1	systemic sclerosis	0	0	TRUE	25	25	0	FALSE	Insufficient samples
+GSE17590	22	1	systemic-onset juvenile idiopathic arthritis	0	0	TRUE	22	22	0	FALSE	Insufficient samples
+GSE37107	14	1	rheumatoid arthritis	0	0	TRUE	14	14	0	FALSE	Insufficient samples
+GSE80183	12	1	systemic lupus erythematosus	0	0	TRUE	12	12	0	FALSE	Insufficient samples
+GSE11499	11	2	crohn's disease | ulcerative colitis	0	0	TRUE	11	11	0	FALSE	Insufficient samples
+GSE58667	11	1	enthesitis-related arthritis	0	0	TRUE	11	11	0	FALSE	Insufficient samples
+GSE147339	10	1	psoriasis	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE44313	10	2	type 1 diabetes (fulminant) | type 1A diabetes	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE44314	10	2	type 1 diabetes (fulminant) | type 1A diabetes	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE68689	10	1	rheumatoid arthritis	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE72747	10	1	lupus nephritis	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE75173	10	1	systemic sclerosis, pulmonary arterial hypertension	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE89022	10	1	type 1 diabetes	0	0	TRUE	10	10	0	FALSE	Insufficient samples
+GSE57183	9	2	juvenile idiopathic arthritis (systemic) | kawasaki disease	0	0	TRUE	9	9	0	FALSE	Insufficient samples
+GSE100191	7	1	rheumatoid arthritis	0	0	TRUE	7	7	0	FALSE	Insufficient samples
+GSE186724	7	1	psoriasis	0	0	TRUE	7	7	0	FALSE	Insufficient samples
+GSE30208	6	1	type 1 diabetes	0	0	TRUE	6	6	0	FALSE	Insufficient samples
+GSE66573	6	1	multiple sclerosis (relapsing-remitting)	0	0	TRUE	6	6	0	FALSE	Insufficient samples
+GSE72754	6	1	systemic lupus erythematosus	0	0	TRUE	6	6	0	FALSE	Insufficient samples
+GSE103005	4	2	multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)	0	0	TRUE	4	4	0	FALSE	Insufficient samples
+GSE110396	4	1	systemic lupus erythematosus	0	0	TRUE	4	4	0	FALSE	Insufficient samples
+GSE131526	4	1	type 1 diabetes	0	0	TRUE	4	4	0	FALSE	Insufficient samples
+GSE30209	4	1	type 1 diabetes	0	0	TRUE	4	4	0	FALSE	Insufficient samples

@@ -1,0 +1,12 @@
+series_id	disease	n_affected	n_unaffected	n_total	both_conditions
+GSE117239	psoriasis	5	84	89	TRUE
+GSE121212	atopic dermatitis	21	6	27	TRUE
+GSE131279	multiple sclerosis (secondary progressive)	14	7	21	TRUE
+GSE13367	ulcerative colitis	8	9	17	TRUE
+GSE148810	juvenile myositis	9	6	15	TRUE
+GSE14905	psoriasis	5	28	33	TRUE
+GSE30999	psoriasis	9	24	33	TRUE
+GSE50788	ulcerative colitis	13	15	28	TRUE
+GSE75343	psoriasis	8	12	20	TRUE
+GSE83448	crohn's disease	19	20	39	TRUE
+GSE9452	ulcerative colitis	8	7	15	TRUE

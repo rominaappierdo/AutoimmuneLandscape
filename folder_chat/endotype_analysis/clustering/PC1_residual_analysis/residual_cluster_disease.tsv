@@ -1,0 +1,76 @@
+residual_cluster	disease	N	percentage_within_disease
+R2	multiple sclerosis	86	42.156862745098
+R1	multiple sclerosis	118	57.843137254902
+R1	systemic lupus erythematosus	454	48.7124463519313
+R2	systemic lupus erythematosus	478	51.2875536480687
+R1	systemic-onset juvenile idiopathic arthritis	30	35.7142857142857
+R2	systemic-onset juvenile idiopathic arthritis	54	64.2857142857143
+R2	rheumatoid arthritis	479	48.6294416243655
+R1	rheumatoid arthritis	506	51.3705583756345
+R2	crohn's disease	499	49.7011952191235
+R1	crohn's disease	505	50.2988047808765
+R1	inflammatory bowel disease	5	62.5
+R2	inflammatory bowel disease	3	37.5
+R1	multiple sclerosis (relapsing-remitting)	322	53.8461538461539
+R2	multiple sclerosis (secondary progressive)	25	54.3478260869565
+R1	multiple sclerosis (secondary progressive)	21	45.6521739130435
+R2	multiple sclerosis (primary progressive)	21	43.75
+R1	multiple sclerosis (primary progressive)	27	56.25
+R2	ulcerative colitis	273	52.0992366412214
+R1	juvenile idiopathic arthritis (polyarticular)	28	60.8695652173913
+R2	juvenile idiopathic arthritis (polyarticular)	18	39.1304347826087
+R2	juvenile idiopathic arthritis (oligoarticular)	15	34.8837209302326
+R1	juvenile idiopathic arthritis (oligoarticular)	28	65.1162790697675
+R2	juvenile idiopathic arthritis (systemic)	21	65.625
+R1	juvenile idiopathic arthritis (systemic)	11	34.375
+R1	ulcerative colitis	251	47.9007633587786
+R1	type 1 diabetes (newly diagnosed)	24	57.1428571428572
+R2	type 1 diabetes (newly diagnosed)	18	42.8571428571429
+R2	primary biliary cholangitis	32	35.5555555555556
+R1	primary biliary cholangitis	58	64.4444444444445
+R1	primary sclerosing cholangitis	28	62.2222222222222
+R2	primary sclerosing cholangitis	17	37.7777777777778
+R2	pancolitis	10	71.4285714285714
+R1	pancolitis	4	28.5714285714286
+R1	ulcerative colitis (left-sided)	4	100
+R1	inflammatory bowel disease unclassified	1	100
+R2	systemic sclerosis	46	52.8735632183908
+R1	systemic sclerosis	41	47.1264367816092
+R1	type 1 diabetes	29	58
+R2	type 1 diabetes	21	42
+R1	psoriasis	31	50
+R2	psoriasis	31	50
+R2	subacute cutaneous lupus	4	57.1428571428572
+R1	subacute cutaneous lupus	3	42.8571428571429
+R2	discoid lupus erythematosus	12	27.906976744186
+R2	tumid lupus erythematosus	7	70
+R1	tumid lupus erythematosus	3	30
+R1	lichen planus	2	100
+R1	discoid lupus erythematosus	31	72.093023255814
+R2	multiple sclerosis (relapsing-remitting)	276	46.1538461538462
+R1	still disease	11	35.4838709677419
+R2	still disease	20	64.5161290322581
+R1	systemic lupus erythematosus (pediatric)	47	57.3170731707317
+R2	systemic lupus erythematosus (pediatric)	35	42.6829268292683
+R2	type 1 diabetes (fulminant)	6	60
+R1	type 1 diabetes (fulminant)	4	40
+R1	type 1A diabetes	5	50
+R2	type 1A diabetes	5	50
+R1	sjogren's syndrome	109	57.3684210526316
+R2	sjogren's syndrome	81	42.6315789473684
+R1	kawasaki disease	2	66.6666666666667
+R2	kawasaki disease	1	33.3333333333333
+R2	enthesitis-related arthritis	7	63.6363636363636
+R1	enthesitis-related arthritis	4	36.3636363636364
+R2	sjogren's syndrome (primary)	54	51.9230769230769
+R1	sjogren's syndrome (primary)	50	48.0769230769231
+R2	lupus nephritis	4	40
+R1	lupus nephritis	6	60
+R2	systemic sclerosis, pulmonary arterial hypertension	5	50
+R1	systemic sclerosis, pulmonary arterial hypertension	5	50
+R1	ulcerative colitis (active)	5	29.4117647058824
+R2	ulcerative colitis (active)	12	70.5882352941177
+R1	ulcerative colitis (inactive)	8	100
+R1	crohn's disease (active)	15	37.5
+R2	crohn's disease (active)	25	62.5
+R1	crohn's disease (inactive)	9	100

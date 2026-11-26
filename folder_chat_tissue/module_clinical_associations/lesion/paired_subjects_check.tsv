@@ -1,0 +1,1687 @@
+series_id	disease	subject_id	n_affected	n_unaffected	has_both
+GSE100833	crohn's disease	subject_289	1	0	FALSE
+GSE100833	crohn's disease	subject_74	1	0	FALSE
+GSE100833	crohn's disease	subject_70	1	0	FALSE
+GSE100833	crohn's disease	subject_231	1	0	FALSE
+GSE100833	crohn's disease	subject_369	1	0	FALSE
+GSE100833	crohn's disease	subject_229	1	0	FALSE
+GSE100833	crohn's disease	subject_68	1	0	FALSE
+GSE100833	crohn's disease	subject_127	1	0	FALSE
+GSE100833	crohn's disease	subject_34	1	0	FALSE
+GSE100833	crohn's disease	subject_40	1	0	FALSE
+GSE100833	crohn's disease	subject_16	1	0	FALSE
+GSE100833	crohn's disease	subject_101	1	0	FALSE
+GSE100833	crohn's disease	subject_30	1	0	FALSE
+GSE100833	crohn's disease	subject_73	1	0	FALSE
+GSE100833	crohn's disease	subject_37	1	0	FALSE
+GSE100833	crohn's disease	subject_32	1	0	FALSE
+GSE100833	crohn's disease	subject_13	1	0	FALSE
+GSE100833	crohn's disease	subject_179	1	0	FALSE
+GSE100833	crohn's disease	subject_72	1	0	FALSE
+GSE100833	crohn's disease	subject_12	1	0	FALSE
+GSE100833	inflammatory bowel disease	subject_281	1	0	FALSE
+GSE100833	crohn's disease	subject_287	1	0	FALSE
+GSE100833	crohn's disease	subject_232	1	0	FALSE
+GSE100833	crohn's disease	subject_5	1	0	FALSE
+GSE100833	crohn's disease	subject_286	1	0	FALSE
+GSE100833	inflammatory bowel disease	subject_282	1	0	FALSE
+GSE100833	crohn's disease	subject_80	1	0	FALSE
+GSE100833	crohn's disease	subject_71	1	0	FALSE
+GSE100833	crohn's disease	subject_288	1	0	FALSE
+GSE100833	crohn's disease	subject_181	1	0	FALSE
+GSE100833	crohn's disease	subject_370	1	0	FALSE
+GSE100833	crohn's disease	subject_33	1	0	FALSE
+GSE100833	crohn's disease	subject_39	1	0	FALSE
+GSE100833	inflammatory bowel disease	subject_36	1	0	FALSE
+GSE100833	crohn's disease	subject_284	1	0	FALSE
+GSE100833	crohn's disease	subject_123	1	0	FALSE
+GSE100833	crohn's disease	subject_21	1	0	FALSE
+GSE100833	inflammatory bowel disease	subject_100	1	0	FALSE
+GSE100833	crohn's disease	subject_85	1	0	FALSE
+GSE100833	crohn's disease	subject_61	1	0	FALSE
+GSE100833	inflammatory bowel disease	subject_122	1	0	FALSE
+GSE100833	crohn's disease	subject_56	1	0	FALSE
+GSE100833	crohn's disease	subject_43	1	0	FALSE
+GSE100833	inflammatory bowel disease	subject_24	1	0	FALSE
+GSE100833	crohn's disease	subject_371	1	0	FALSE
+GSE100833	crohn's disease	subject_221	1	0	FALSE
+GSE100833	crohn's disease	subject_124	1	0	FALSE
+GSE100833	crohn's disease	subject_84	1	0	FALSE
+GSE100833	crohn's disease	subject_83	1	0	FALSE
+GSE100833	crohn's disease	subject_82	1	0	FALSE
+GSE100833	crohn's disease	subject_95	1	0	FALSE
+GSE100833	crohn's disease	subject_94	1	0	FALSE
+GSE100833	crohn's disease	subject_69	1	0	FALSE
+GSE100833	crohn's disease	subject_59	1	0	FALSE
+GSE100833	crohn's disease	subject_54	1	0	FALSE
+GSE100833	inflammatory bowel disease	subject_45	1	0	FALSE
+GSE100833	crohn's disease	subject_97	1	0	FALSE
+GSE100833	crohn's disease	subject_291	1	0	FALSE
+GSE100833	inflammatory bowel disease	subject_38	1	0	FALSE
+GSE100833	crohn's disease	subject_99	1	0	FALSE
+GSE100833	crohn's disease	subject_98	1	0	FALSE
+GSE100833	inflammatory bowel disease	subject_35	1	0	FALSE
+GSE100833	inflammatory bowel disease	subject_125	1	0	FALSE
+GSE100833	crohn's disease	subject_230	1	0	FALSE
+GSE100833	crohn's disease	subject_1	1	0	FALSE
+GSE100833	crohn's disease	subject_368	1	0	FALSE
+GSE100833	crohn's disease	subject_220	1	0	FALSE
+GSE100833	crohn's disease	subject_53	1	0	FALSE
+GSE100833	crohn's disease	subject_41	1	0	FALSE
+GSE100833	crohn's disease	subject_18	1	0	FALSE
+GSE100833	crohn's disease	subject_17	1	0	FALSE
+GSE100833	crohn's disease	subject_88	1	0	FALSE
+GSE100833	crohn's disease	subject_183	1	0	FALSE
+GSE100833	crohn's disease	subject_102	1	0	FALSE
+GSE100833	crohn's disease	subject_55	1	0	FALSE
+GSE100833	crohn's disease	subject_373	1	0	FALSE
+GSE100833	crohn's disease	subject_128	1	0	FALSE
+GSE100833	crohn's disease	subject_372	1	0	FALSE
+GSE100833	inflammatory bowel disease	subject_130	1	0	FALSE
+GSE100833	crohn's disease	subject_31	1	0	FALSE
+GSE100833	crohn's disease	subject_66	1	0	FALSE
+GSE100833	crohn's disease	subject_76	1	0	FALSE
+GSE100833	crohn's disease	subject_219	1	0	FALSE
+GSE100833	crohn's disease	subject_290	1	0	FALSE
+GSE100833	crohn's disease	subject_235	1	0	FALSE
+GSE100833	crohn's disease	subject_23	1	0	FALSE
+GSE102725	psoriasis	subj_1	1	0	FALSE
+GSE102725	psoriasis	subj_2	1	0	FALSE
+GSE102725	psoriasis	subj_3	1	0	FALSE
+GSE102725	psoriasis	subj_4	1	0	FALSE
+GSE102725	psoriasis	subj_5	1	0	FALSE
+GSE102725	psoriasis	subj_6	1	0	FALSE
+GSE102725	psoriasis	subj_7	1	0	FALSE
+GSE102725	psoriasis	subj_8	1	0	FALSE
+GSE102725	psoriasis	subj_9	1	0	FALSE
+GSE102725	psoriasis	subj_10	1	0	FALSE
+GSE107593	ulcerative colitis	subj_157	1	0	FALSE
+GSE107593	ulcerative colitis	subj_877	1	0	FALSE
+GSE107593	ulcerative colitis	subj_1057	0	1	FALSE
+GSE107593	ulcerative colitis	subj_1077	0	1	FALSE
+GSE107593	ulcerative colitis	subj_1192	0	1	FALSE
+GSE107593	ulcerative colitis	subj_1214	0	1	FALSE
+GSE107593	ulcerative colitis	subj_8854	1	0	FALSE
+GSE107593	ulcerative colitis	subj_8855	1	0	FALSE
+GSE107593	ulcerative colitis	subj_8874	1	0	FALSE
+GSE107593	ulcerative colitis	subj_8878	1	0	FALSE
+GSE107593	ulcerative colitis	subj_8879	1	0	FALSE
+GSE107593	ulcerative colitis	subj_8881	1	0	FALSE
+GSE111889	ulcerative colitis	HSM9JTC2	0	1	FALSE
+GSE117239	psoriasis	subj_2012-00042	0	1	FALSE
+GSE117239	psoriasis	subj_1019-00001	0	1	FALSE
+GSE117239	psoriasis	subj_1019-00010	0	1	FALSE
+GSE117239	psoriasis	subj_1016-00014	0	1	FALSE
+GSE117239	psoriasis	subj_2015-00014	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00013	0	1	FALSE
+GSE117239	psoriasis	subj_1016-00001	0	1	FALSE
+GSE117239	psoriasis	subj_2012-00023	0	1	FALSE
+GSE117239	psoriasis	subj_1012-00008	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00009	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00021	0	1	FALSE
+GSE117239	psoriasis	subj_1025-00009	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00037	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00019	0	1	FALSE
+GSE117239	psoriasis	subj_2015-00007	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00001	0	1	FALSE
+GSE117239	psoriasis	subj_1012-00001	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00025	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00014	0	1	FALSE
+GSE117239	psoriasis	subj_2012-00031	0	1	FALSE
+GSE117239	psoriasis	subj_2015-00002	0	1	FALSE
+GSE117239	psoriasis	subj_1019-00007	0	1	FALSE
+GSE117239	psoriasis	subj_1012-00003	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00004	0	1	FALSE
+GSE117239	psoriasis	subj_1019-00008	0	1	FALSE
+GSE117239	psoriasis	subj_2012-00008	0	1	FALSE
+GSE117239	psoriasis	subj_1025-00005	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00025	0	1	FALSE
+GSE117239	psoriasis	subj_2012-00034	0	1	FALSE
+GSE117239	psoriasis	subj_1016-00016	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00002	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00026	0	1	FALSE
+GSE117239	psoriasis	subj_1012-00006	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00008	0	1	FALSE
+GSE117239	psoriasis	subj_2012-00019	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00003	0	1	FALSE
+GSE117239	psoriasis	subj_1019-00005	0	1	FALSE
+GSE117239	psoriasis	subj_1016-00010	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00027	0	1	FALSE
+GSE117239	psoriasis	subj_1019-00015	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00018	0	1	FALSE
+GSE117239	psoriasis	subj_1016-00011	0	1	FALSE
+GSE117239	psoriasis	subj_1019-00013	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00020	0	1	FALSE
+GSE117239	psoriasis	subj_1006-00005	0	1	FALSE
+GSE117239	psoriasis	subj_1016-00019	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00001	0	1	FALSE
+GSE117239	psoriasis	subj_1012-00007	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00024	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00016	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00008	0	1	FALSE
+GSE117239	psoriasis	subj_1012-00002	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00006	0	1	FALSE
+GSE117239	psoriasis	subj_1006-00002	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00027	0	1	FALSE
+GSE117239	psoriasis	subj_1005-00009	0	1	FALSE
+GSE117239	psoriasis	subj_1012-00005	0	1	FALSE
+GSE117239	psoriasis	subj_2012-00038	0	1	FALSE
+GSE117239	psoriasis	subj_2015-00012	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00017	0	1	FALSE
+GSE117239	psoriasis	subj_2015-00001	0	1	FALSE
+GSE117239	psoriasis	subj_2012-00036	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00020	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00006	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00035	0	1	FALSE
+GSE117239	psoriasis	subj_1012-00004	0	1	FALSE
+GSE117239	psoriasis	subj_1025-00008	0	1	FALSE
+GSE117239	psoriasis	subj_1025-00002	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00009	0	1	FALSE
+GSE117239	psoriasis	subj_1025-00006	0	1	FALSE
+GSE117239	psoriasis	subj_1016-00003	0	1	FALSE
+GSE117239	psoriasis	subj_1016-00013	0	1	FALSE
+GSE117239	psoriasis	subj_1016-00017	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00012	0	1	FALSE
+GSE117239	psoriasis	subj_1006-00004	0	1	FALSE
+GSE117239	psoriasis	subj_1016-00008	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00019	0	1	FALSE
+GSE117239	psoriasis	subj_1019-00016	0	1	FALSE
+GSE117239	psoriasis	subj_1019-00009	0	1	FALSE
+GSE117239	psoriasis	subj_2015-00005	0	1	FALSE
+GSE117239	psoriasis	subj_1019-00003	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00018	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00026	0	1	FALSE
+GSE117239	psoriasis	subj_1022-00005	0	1	FALSE
+GSE117239	psoriasis	subj_2016-00007	1	0	FALSE
+GSE117239	psoriasis	subj_1025-00004	1	0	FALSE
+GSE117239	psoriasis	subj_1019-00014	1	0	FALSE
+GSE117239	psoriasis	subj_2016-00031	1	0	FALSE
+GSE117239	psoriasis	subj_1019-00004	1	0	FALSE
+GSE117468	psoriasis	subj_10216001001	1	0	FALSE
+GSE117468	psoriasis	subj_10216001003	1	0	FALSE
+GSE117468	psoriasis	subj_10216001004	1	0	FALSE
+GSE117468	psoriasis	subj_10216001005	1	0	FALSE
+GSE117468	psoriasis	subj_10216001006	1	0	FALSE
+GSE117468	psoriasis	subj_10216003001	1	0	FALSE
+GSE117468	psoriasis	subj_10216003002	1	0	FALSE
+GSE117468	psoriasis	subj_10216003003	1	0	FALSE
+GSE117468	psoriasis	subj_10216003004	1	0	FALSE
+GSE117468	psoriasis	subj_10216003005	1	0	FALSE
+GSE117468	psoriasis	subj_10216003006	1	0	FALSE
+GSE117468	psoriasis	subj_10216003007	0	1	FALSE
+GSE117468	psoriasis	subj_10216003008	1	0	FALSE
+GSE117468	psoriasis	subj_10216003009	1	0	FALSE
+GSE117468	psoriasis	subj_10216003010	1	0	FALSE
+GSE117468	psoriasis	subj_10225001001	1	0	FALSE
+GSE117468	psoriasis	subj_10225001002	1	0	FALSE
+GSE117468	psoriasis	subj_10225001003	1	0	FALSE
+GSE117468	psoriasis	subj_10225001004	1	0	FALSE
+GSE117468	psoriasis	subj_10225001005	0	1	FALSE
+GSE117468	psoriasis	subj_10225001006	1	0	FALSE
+GSE117468	psoriasis	subj_10225001007	1	0	FALSE
+GSE117468	psoriasis	subj_10225001009	1	0	FALSE
+GSE117468	psoriasis	subj_10226008004	1	0	FALSE
+GSE117468	psoriasis	subj_10226008006	0	1	FALSE
+GSE117468	psoriasis	subj_10248014009	1	0	FALSE
+GSE117468	psoriasis	subj_10260002003	1	0	FALSE
+GSE117468	psoriasis	subj_10266009002	1	0	FALSE
+GSE117468	psoriasis	subj_10266009003	1	0	FALSE
+GSE117468	psoriasis	subj_10266009004	1	0	FALSE
+GSE117468	psoriasis	subj_10266009005	1	0	FALSE
+GSE117468	psoriasis	subj_10266009007	1	0	FALSE
+GSE117468	psoriasis	subj_10266009008	1	0	FALSE
+GSE117468	psoriasis	subj_10266009014	1	0	FALSE
+GSE117468	psoriasis	subj_10266009018	1	0	FALSE
+GSE117468	psoriasis	subj_10266009020	1	0	FALSE
+GSE117468	psoriasis	subj_10266009025	1	0	FALSE
+GSE117468	psoriasis	subj_10266014010	0	1	FALSE
+GSE117468	psoriasis	subj_10266017001	1	0	FALSE
+GSE117468	psoriasis	subj_10266017002	1	0	FALSE
+GSE117468	psoriasis	subj_10266017003	1	0	FALSE
+GSE117468	psoriasis	subj_10266043002	1	0	FALSE
+GSE117468	psoriasis	subj_10266043003	1	0	FALSE
+GSE117468	psoriasis	subj_10266043004	1	0	FALSE
+GSE117468	psoriasis	subj_10316001002	1	0	FALSE
+GSE117468	psoriasis	subj_10316006001	1	0	FALSE
+GSE117468	psoriasis	subj_10316006004	1	0	FALSE
+GSE117468	psoriasis	subj_10316006006	1	0	FALSE
+GSE117468	psoriasis	subj_10316006007	1	0	FALSE
+GSE117468	psoriasis	subj_10316006008	1	0	FALSE
+GSE117468	psoriasis	subj_10316006014	1	0	FALSE
+GSE117468	psoriasis	subj_10316006025	1	0	FALSE
+GSE117468	psoriasis	subj_10321006004	1	0	FALSE
+GSE117468	psoriasis	subj_10321006005	1	0	FALSE
+GSE117468	psoriasis	subj_10321006006	1	0	FALSE
+GSE117468	psoriasis	subj_10321006009	1	0	FALSE
+GSE117468	psoriasis	subj_10321006014	1	0	FALSE
+GSE117468	psoriasis	subj_10348004001	1	0	FALSE
+GSE117468	psoriasis	subj_10366006034	1	0	FALSE
+GSE117468	psoriasis	subj_10366010005	1	0	FALSE
+GSE117468	psoriasis	subj_10366010007	1	0	FALSE
+GSE117468	psoriasis	subj_10366010013	1	0	FALSE
+GSE117468	psoriasis	subj_10366010015	1	0	FALSE
+GSE117468	psoriasis	subj_10366018001	1	0	FALSE
+GSE117468	psoriasis	subj_10366018015	1	0	FALSE
+GSE117468	psoriasis	subj_10366043004	1	0	FALSE
+GSE117468	psoriasis	subj_10366064004	1	0	FALSE
+GSE117468	psoriasis	subj_10425001004	1	0	FALSE
+GSE117468	psoriasis	subj_10425001019	1	0	FALSE
+GSE117468	psoriasis	subj_10425001049	1	0	FALSE
+GSE117468	psoriasis	subj_10425001057	1	0	FALSE
+GSE117468	psoriasis	subj_10425008002	1	0	FALSE
+GSE117468	psoriasis	subj_10425008007	1	0	FALSE
+GSE117468	psoriasis	subj_10448006002	1	0	FALSE
+GSE117468	psoriasis	subj_10448008041	1	0	FALSE
+GSE117468	psoriasis	subj_10448008048	1	0	FALSE
+GSE117468	psoriasis	subj_10448010017	1	0	FALSE
+GSE117468	psoriasis	subj_10448010021	1	0	FALSE
+GSE117468	psoriasis	subj_10448010023	1	0	FALSE
+GSE117468	psoriasis	subj_10448010025	1	0	FALSE
+GSE117468	psoriasis	subj_10448010026	1	0	FALSE
+GSE117468	psoriasis	subj_10448010027	1	0	FALSE
+GSE117468	psoriasis	subj_10448010030	1	0	FALSE
+GSE117468	psoriasis	subj_10448010032	1	0	FALSE
+GSE117468	psoriasis	subj_10448010033	1	0	FALSE
+GSE117468	psoriasis	subj_10448010035	1	0	FALSE
+GSE117468	psoriasis	subj_10448010037	1	0	FALSE
+GSE117468	psoriasis	subj_10448010038	1	0	FALSE
+GSE117468	psoriasis	subj_10448010039	1	0	FALSE
+GSE117468	psoriasis	subj_10448010043	1	0	FALSE
+GSE117468	psoriasis	subj_10448010044	1	0	FALSE
+GSE117468	psoriasis	subj_10448010045	1	0	FALSE
+GSE117468	psoriasis	subj_10448010049	1	0	FALSE
+GSE117468	psoriasis	subj_10448010050	1	0	FALSE
+GSE117468	psoriasis	subj_10448010052	1	0	FALSE
+GSE117468	psoriasis	subj_10448010053	1	0	FALSE
+GSE117468	psoriasis	subj_10448010055	1	0	FALSE
+GSE117468	psoriasis	subj_10448010058	1	0	FALSE
+GSE117468	psoriasis	subj_10466014003	1	0	FALSE
+GSE117468	psoriasis	subj_10466014008	1	0	FALSE
+GSE117468	psoriasis	subj_10466024001	1	0	FALSE
+GSE117468	psoriasis	subj_10466024004	1	0	FALSE
+GSE117468	psoriasis	subj_10466024005	1	0	FALSE
+GSE117468	psoriasis	subj_10466024006	1	0	FALSE
+GSE117468	psoriasis	subj_10466024007	1	0	FALSE
+GSE117468	psoriasis	subj_10466024009	1	0	FALSE
+GSE117468	psoriasis	subj_10466024010	1	0	FALSE
+GSE117468	psoriasis	subj_10466024012	1	0	FALSE
+GSE117468	psoriasis	subj_10466024014	1	0	FALSE
+GSE117468	psoriasis	subj_10466024016	1	0	FALSE
+GSE117468	psoriasis	subj_10466024017	1	0	FALSE
+GSE117468	psoriasis	subj_10466031001	1	0	FALSE
+GSE117468	psoriasis	subj_10466031002	1	0	FALSE
+GSE117468	psoriasis	subj_10466031006	1	0	FALSE
+GSE117468	psoriasis	subj_10466031007	1	0	FALSE
+GSE117468	psoriasis	subj_10466037003	1	0	FALSE
+GSE117468	psoriasis	subj_10466040007	1	0	FALSE
+GSE117468	psoriasis	subj_10466040008	1	0	FALSE
+GSE117468	psoriasis	subj_10466040012	1	0	FALSE
+GSE117468	psoriasis	subj_10466040014	1	0	FALSE
+GSE117468	psoriasis	subj_10466040016	1	0	FALSE
+GSE117468	psoriasis	subj_10466040029	1	0	FALSE
+GSE117468	psoriasis	subj_10466045002	1	0	FALSE
+GSE117468	psoriasis	subj_10466045003	1	0	FALSE
+GSE117468	psoriasis	subj_10466064001	1	0	FALSE
+GSE117468	psoriasis	subj_10466064003	1	0	FALSE
+GSE117468	psoriasis	subj_10466064004	1	0	FALSE
+GSE117468	psoriasis	subj_10466064005	1	0	FALSE
+GSE117468	psoriasis	subj_10466064006	1	0	FALSE
+GSE117468	psoriasis	subj_10466064007	1	0	FALSE
+GSE117468	psoriasis	subj_10466064014	1	0	FALSE
+GSE117468	psoriasis	subj_10466064018	1	0	FALSE
+GSE118754	crohn's disease	CEL22681	0	1	FALSE
+GSE118754	crohn's disease	CEL22682	0	1	FALSE
+GSE118754	crohn's disease	CEL22684	0	1	FALSE
+GSE118754	crohn's disease	CEL22688	0	1	FALSE
+GSE118754	crohn's disease	CEL22689	0	1	FALSE
+GSE118754	crohn's disease	CEL22690	0	1	FALSE
+GSE118754	crohn's disease	CEL22691	0	1	FALSE
+GSE118754	crohn's disease	CEL22692	0	1	FALSE
+GSE118754	crohn's disease	CEL22693	0	1	FALSE
+GSE118754	crohn's disease	CEL22849	0	1	FALSE
+GSE118754	crohn's disease	CEL22850	0	1	FALSE
+GSE118754	crohn's disease	CEL22851	0	1	FALSE
+GSE118754	crohn's disease	CEL22857	0	1	FALSE
+GSE118754	crohn's disease	CEL22858	0	1	FALSE
+GSE118754	crohn's disease	CEL22859	0	1	FALSE
+GSE118754	crohn's disease	CEL22860	0	1	FALSE
+GSE118754	crohn's disease	CEL22861	0	1	FALSE
+GSE118754	crohn's disease	CEL22862	0	1	FALSE
+GSE118754	crohn's disease	CEL22863	0	1	FALSE
+GSE118754	crohn's disease	CEL22865	0	1	FALSE
+GSE118754	crohn's disease	CEL22866	0	1	FALSE
+GSE118754	crohn's disease	CEL23343	0	1	FALSE
+GSE118754	crohn's disease	CEL23345	0	1	FALSE
+GSE118754	crohn's disease	CEL23346	0	1	FALSE
+GSE118754	crohn's disease	CEL23348	0	1	FALSE
+GSE118754	crohn's disease	CEL23349	0	1	FALSE
+GSE118754	crohn's disease	CEL23352	0	1	FALSE
+GSE118754	crohn's disease	CEL23355	0	1	FALSE
+GSE118754	crohn's disease	CEL23356	0	1	FALSE
+GSE118754	crohn's disease	CEL23763	0	1	FALSE
+GSE118754	crohn's disease	CEL23768	0	1	FALSE
+GSE118754	crohn's disease	CEL23771	0	1	FALSE
+GSE118754	crohn's disease	CEL23773	0	1	FALSE
+GSE118754	crohn's disease	CEL24087	0	1	FALSE
+GSE118754	crohn's disease	CEL24089	0	1	FALSE
+GSE118754	crohn's disease	CEL24090	0	1	FALSE
+GSE118754	crohn's disease	CEL24092	0	1	FALSE
+GSE118754	crohn's disease	CEL24094	0	1	FALSE
+GSE118754	crohn's disease	CEL24095	0	1	FALSE
+GSE118754	crohn's disease	CEL24097	0	1	FALSE
+GSE118754	crohn's disease	CEL24098	0	1	FALSE
+GSE118754	crohn's disease	CEL24099	0	1	FALSE
+GSE118754	crohn's disease	CEL24105	0	1	FALSE
+GSE118754	crohn's disease	CEL24106	0	1	FALSE
+GSE118754	crohn's disease	CEL24108	0	1	FALSE
+GSE118754	crohn's disease	CEL24111	0	1	FALSE
+GSE118754	crohn's disease	CEL24113	0	1	FALSE
+GSE118754	crohn's disease	CEL24116	0	1	FALSE
+GSE118754	crohn's disease	CEL24393	0	1	FALSE
+GSE118754	crohn's disease	CEL24394	0	1	FALSE
+GSE118754	crohn's disease	CEL24399	0	1	FALSE
+GSE118754	crohn's disease	CEL24401	0	1	FALSE
+GSE118754	crohn's disease	CEL24405	0	1	FALSE
+GSE118754	crohn's disease	CEL24890	0	1	FALSE
+GSE118754	crohn's disease	CEL24897	0	1	FALSE
+GSE118754	crohn's disease	CEL24898	0	1	FALSE
+GSE118754	crohn's disease	CEL24899	0	1	FALSE
+GSE118754	crohn's disease	CEL24900	0	1	FALSE
+GSE118754	crohn's disease	CEL24901	0	1	FALSE
+GSE118754	crohn's disease	CEL24902	0	1	FALSE
+GSE118754	crohn's disease	CEL24940	0	1	FALSE
+GSE118754	crohn's disease	CEL24944	0	1	FALSE
+GSE118754	crohn's disease	CEL24945	0	1	FALSE
+GSE118754	crohn's disease	CEL25217	0	1	FALSE
+GSE118754	crohn's disease	CEL25218	0	1	FALSE
+GSE11903	psoriasis	Patient_A	0	1	FALSE
+GSE11903	psoriasis	Patient_B	0	1	FALSE
+GSE11903	psoriasis	Patient_C	0	1	FALSE
+GSE11903	psoriasis	Patient_D	0	1	FALSE
+GSE11903	psoriasis	Patient_E	0	1	FALSE
+GSE11903	psoriasis	Patient_F	0	1	FALSE
+GSE11903	psoriasis	Patient_G	0	1	FALSE
+GSE11903	psoriasis	Patient_H	0	1	FALSE
+GSE11903	psoriasis	Patient_I	0	1	FALSE
+GSE11903	psoriasis	Patient_J	0	1	FALSE
+GSE11903	psoriasis	Patient_K	0	1	FALSE
+GSE11903	psoriasis	Patient_L	0	1	FALSE
+GSE11903	psoriasis	Patient_M	0	1	FALSE
+GSE11903	psoriasis	Patient_N	0	1	FALSE
+GSE11903	psoriasis	Patient_O	0	1	FALSE
+GSE120809	discoid lupus erythematosus	S1	1	0	FALSE
+GSE120809	discoid lupus erythematosus	S2	1	0	FALSE
+GSE120809	discoid lupus erythematosus	S3	1	0	FALSE
+GSE120809	discoid lupus erythematosus	S4	1	0	FALSE
+GSE120809	discoid lupus erythematosus	S5	1	0	FALSE
+GSE120809	discoid lupus erythematosus	S6	1	0	FALSE
+GSE120809	discoid lupus erythematosus	S7	1	0	FALSE
+GSE121212	atopic dermatitis	AD_4	1	0	FALSE
+GSE121212	atopic dermatitis	AD_5	1	0	FALSE
+GSE121212	atopic dermatitis	AD_6	1	0	FALSE
+GSE121212	atopic dermatitis	AD_7	1	0	FALSE
+GSE121212	atopic dermatitis	AD_9	1	0	FALSE
+GSE121212	atopic dermatitis	AD_11	1	0	FALSE
+GSE121212	atopic dermatitis	AD_14	1	0	FALSE
+GSE121212	atopic dermatitis	AD_16	1	0	FALSE
+GSE121212	atopic dermatitis	AD_17	1	0	FALSE
+GSE121212	atopic dermatitis	AD_19	1	0	FALSE
+GSE121212	atopic dermatitis	AD_20	1	0	FALSE
+GSE121212	atopic dermatitis	AD_21	1	0	FALSE
+GSE121212	atopic dermatitis	AD_23	1	0	FALSE
+GSE121212	atopic dermatitis	AD_24	1	0	FALSE
+GSE121212	atopic dermatitis	AD_25	1	0	FALSE
+GSE121212	atopic dermatitis	AD_26	1	0	FALSE
+GSE121212	atopic dermatitis	AD_27	1	0	FALSE
+GSE121212	atopic dermatitis	AD_28	1	0	FALSE
+GSE121212	atopic dermatitis	AD_29	1	0	FALSE
+GSE121212	atopic dermatitis	AD_30	1	0	FALSE
+GSE121212	atopic dermatitis	AD_31	1	0	FALSE
+GSE121212	atopic dermatitis	AD_32	0	1	FALSE
+GSE121212	psoriasis	PSO_1	1	0	FALSE
+GSE121212	psoriasis	PSO_2	1	0	FALSE
+GSE121212	psoriasis	PSO_3	1	0	FALSE
+GSE121212	psoriasis	PSO_5	1	0	FALSE
+GSE121212	psoriasis	PSO_6	1	0	FALSE
+GSE121212	psoriasis	PSO_7	1	0	FALSE
+GSE121212	psoriasis	PSO_8	1	0	FALSE
+GSE121212	psoriasis	PSO_9	1	0	FALSE
+GSE121212	psoriasis	PSO_11	1	0	FALSE
+GSE121212	psoriasis	PSO_12	1	0	FALSE
+GSE121212	psoriasis	PSO_14	1	0	FALSE
+GSE121212	psoriasis	PSO_15	1	0	FALSE
+GSE121212	psoriasis	PSO_16	1	0	FALSE
+GSE121212	psoriasis	PSO_17	1	0	FALSE
+GSE121212	psoriasis	PSO_18	1	0	FALSE
+GSE121212	psoriasis	PSO_20	1	0	FALSE
+GSE121212	psoriasis	PSO_23	1	0	FALSE
+GSE121212	psoriasis	PSO_24	1	0	FALSE
+GSE121212	psoriasis	PSO_27	1	0	FALSE
+GSE121212	psoriasis	PSO_28	1	0	FALSE
+GSE121212	psoriasis	PSO_29	1	0	FALSE
+GSE121212	psoriasis	PSO_30	1	0	FALSE
+GSE121212	psoriasis	PSO_31	1	0	FALSE
+GSE121212	psoriasis	PSO_33	1	0	FALSE
+GSE121212	psoriasis	PSO_34	1	0	FALSE
+GSE121212	psoriasis	PSO_35	1	0	FALSE
+GSE121212	psoriasis	PSO_36	1	0	FALSE
+GSE121212	psoriasis	PSO_37	1	0	FALSE
+GSE121212	atopic dermatitis	AD_33	0	1	FALSE
+GSE121212	atopic dermatitis	AD_34	0	1	FALSE
+GSE121212	atopic dermatitis	AD_35	0	1	FALSE
+GSE121212	atopic dermatitis	AD_36	0	1	FALSE
+GSE121212	atopic dermatitis	AD_37	0	1	FALSE
+GSE131279	multiple sclerosis (primary progressive)	M60	0	1	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M44	1	0	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M53	0	1	FALSE
+GSE131279	multiple sclerosis (primary progressive)	M56	0	1	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M46	1	0	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M61	0	1	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M28	1	0	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M23	1	0	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M52	1	0	FALSE
+GSE131279	multiple sclerosis (progressive relapsing)	M32	0	1	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M01	0	1	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M36	1	0	FALSE
+GSE131279	multiple sclerosis (primary progressive)	M06	0	1	FALSE
+GSE131279	multiple sclerosis (primary progressive)	M14	0	1	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M59	1	0	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M42	1	0	FALSE
+GSE131279	multiple sclerosis (primary progressive)	M34	0	1	FALSE
+GSE131279	multiple sclerosis (primary progressive)	M02	0	1	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M54	1	0	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M30	0	1	FALSE
+GSE131279	multiple sclerosis (primary progressive)	M57	0	1	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M43	1	0	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M13	1	0	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M48	0	1	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M12	1	0	FALSE
+GSE131279	multiple sclerosis (primary progressive)	M51	0	1	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M03	1	0	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M10	0	1	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M26	1	0	FALSE
+GSE131279	multiple sclerosis (secondary progressive)	M24	0	1	FALSE
+GSE131281	multiple sclerosis (progressive relapsing)	M16	0	1	FALSE
+GSE131281	multiple sclerosis (progressive relapsing)	M33	0	1	FALSE
+GSE131281	multiple sclerosis (secondary progressive)	M15	0	1	FALSE
+GSE131281	multiple sclerosis (secondary progressive)	M09	0	1	FALSE
+GSE131281	multiple sclerosis (primary progressive)	M22	0	1	FALSE
+GSE13355	psoriasis	subj_582	0	1	FALSE
+GSE13355	psoriasis	subj_649	0	1	FALSE
+GSE13355	psoriasis	subj_3059	0	1	FALSE
+GSE13355	psoriasis	subj_4136	0	1	FALSE
+GSE13355	psoriasis	subj_4162	0	1	FALSE
+GSE13355	psoriasis	subj_4164	0	1	FALSE
+GSE13355	psoriasis	subj_4165	0	1	FALSE
+GSE13355	psoriasis	subj_4177	0	1	FALSE
+GSE13355	psoriasis	subj_4216	0	1	FALSE
+GSE13355	psoriasis	subj_4247	0	1	FALSE
+GSE13355	psoriasis	subj_4269	0	1	FALSE
+GSE13355	psoriasis	subj_4298	0	1	FALSE
+GSE13355	psoriasis	subj_4339	0	1	FALSE
+GSE13355	psoriasis	subj_4362	0	1	FALSE
+GSE13355	psoriasis	subj_4397	0	1	FALSE
+GSE13355	psoriasis	subj_4426	0	1	FALSE
+GSE13355	psoriasis	subj_4505	0	1	FALSE
+GSE13355	psoriasis	subj_4697	0	1	FALSE
+GSE13355	psoriasis	subj_4934	0	1	FALSE
+GSE13355	psoriasis	subj_5242	0	1	FALSE
+GSE13355	psoriasis	subj_777	0	1	FALSE
+GSE13355	psoriasis	subj_3171	0	1	FALSE
+GSE13355	psoriasis	subj_3690	0	1	FALSE
+GSE13355	psoriasis	subj_4208	0	1	FALSE
+GSE13355	psoriasis	subj_4163	0	1	FALSE
+GSE13355	psoriasis	subj_4257	0	1	FALSE
+GSE13355	psoriasis	subj_4284	0	1	FALSE
+GSE13355	psoriasis	subj_4294	0	1	FALSE
+GSE13355	psoriasis	subj_4334	0	1	FALSE
+GSE13355	psoriasis	subj_4368	0	1	FALSE
+GSE13355	psoriasis	subj_4389	0	1	FALSE
+GSE13355	psoriasis	subj_4609	0	1	FALSE
+GSE13355	psoriasis	subj_4616	0	1	FALSE
+GSE13355	psoriasis	subj_4688	0	1	FALSE
+GSE13355	psoriasis	subj_5177	0	1	FALSE
+GSE13355	psoriasis	subj_5258	0	1	FALSE
+GSE13355	psoriasis	subj_5325	0	1	FALSE
+GSE13355	psoriasis	subj_5331	0	1	FALSE
+GSE13355	psoriasis	subj_5414	0	1	FALSE
+GSE13355	psoriasis	subj_511	0	1	FALSE
+GSE13355	psoriasis	subj_953	0	1	FALSE
+GSE13355	psoriasis	subj_3140	0	1	FALSE
+GSE13355	psoriasis	subj_3586	0	1	FALSE
+GSE13355	psoriasis	subj_3591	0	1	FALSE
+GSE13355	psoriasis	subj_3777	0	1	FALSE
+GSE13355	psoriasis	subj_3822	0	1	FALSE
+GSE13355	psoriasis	subj_3937	0	1	FALSE
+GSE13355	psoriasis	subj_3983	0	1	FALSE
+GSE13355	psoriasis	subj_3992	0	1	FALSE
+GSE13355	psoriasis	subj_4079	0	1	FALSE
+GSE13355	psoriasis	subj_4089	0	1	FALSE
+GSE13355	psoriasis	subj_4093	0	1	FALSE
+GSE13355	psoriasis	subj_4160	0	1	FALSE
+GSE13355	psoriasis	subj_4213	0	1	FALSE
+GSE13355	psoriasis	subj_4344	0	1	FALSE
+GSE13355	psoriasis	subj_4356	0	1	FALSE
+GSE13355	psoriasis	subj_4503	0	1	FALSE
+GSE13355	psoriasis	subj_5849	0	1	FALSE
+GSE13367	ulcerative colitis	Patient 1	1	0	FALSE
+GSE13367	ulcerative colitis	Patient 2	0	1	FALSE
+GSE13367	ulcerative colitis	Patient 5	1	0	FALSE
+GSE13367	ulcerative colitis	Patient 6	1	0	FALSE
+GSE13367	ulcerative colitis	Patient 7	1	0	FALSE
+GSE13367	ulcerative colitis	Patient 8	0	1	FALSE
+GSE13367	ulcerative colitis	Patient 10	0	1	FALSE
+GSE13367	ulcerative colitis	Patient 11	1	0	FALSE
+GSE13367	ulcerative colitis	Patient 14	1	0	FALSE
+GSE13367	ulcerative colitis	Patient 17	0	1	FALSE
+GSE13367	ulcerative colitis	Patient 18	0	1	FALSE
+GSE13367	ulcerative colitis	Patient 19	0	1	FALSE
+GSE13367	ulcerative colitis	Patient 21	0	1	FALSE
+GSE13367	ulcerative colitis	Patient 24	1	0	FALSE
+GSE13367	ulcerative colitis	Patient 25	0	1	FALSE
+GSE13367	ulcerative colitis	Patient 26	1	0	FALSE
+GSE13367	ulcerative colitis	Patient 28	0	1	FALSE
+GSE135511	multiple sclerosis	MS003	1	0	FALSE
+GSE135511	multiple sclerosis	MS042	1	0	FALSE
+GSE135511	multiple sclerosis	MS056	1	0	FALSE
+GSE135511	multiple sclerosis	MS074	1	0	FALSE
+GSE135511	multiple sclerosis	MS100	1	0	FALSE
+GSE135511	multiple sclerosis	MS104	1	0	FALSE
+GSE135511	multiple sclerosis	MS114	1	0	FALSE
+GSE135511	multiple sclerosis	MS127	1	0	FALSE
+GSE135511	multiple sclerosis	MS163	1	0	FALSE
+GSE135511	multiple sclerosis	MS200	1	0	FALSE
+GSE135511	multiple sclerosis	MS079	1	0	FALSE
+GSE135511	multiple sclerosis	MS092	1	0	FALSE
+GSE135511	multiple sclerosis	MS121	1	0	FALSE
+GSE135511	multiple sclerosis	MS136	1	0	FALSE
+GSE135511	multiple sclerosis	MS153	1	0	FALSE
+GSE135511	multiple sclerosis	MS154	1	0	FALSE
+GSE135511	multiple sclerosis	MS160	1	0	FALSE
+GSE135511	multiple sclerosis	MS176	1	0	FALSE
+GSE135511	multiple sclerosis	MS180	1	0	FALSE
+GSE135511	multiple sclerosis	MS234	1	0	FALSE
+GSE136757	psoriasis	PT1091	0	1	FALSE
+GSE136757	psoriasis	PT1093	1	0	FALSE
+GSE136757	psoriasis	PT1166	1	0	FALSE
+GSE136757	psoriasis	PT1167	0	1	FALSE
+GSE136757	psoriasis	PT1094	0	1	FALSE
+GSE136757	psoriasis	PT1095	0	1	FALSE
+GSE136757	psoriasis	PT1097	0	1	FALSE
+GSE136757	psoriasis	PT1098	0	1	FALSE
+GSE136757	psoriasis	PT1100	0	1	FALSE
+GSE136757	psoriasis	PT1102	0	1	FALSE
+GSE136757	psoriasis	PT1104	0	1	FALSE
+GSE136757	psoriasis	PT1106	0	1	FALSE
+GSE136757	psoriasis	PT1108	0	1	FALSE
+GSE136757	psoriasis	PT1109	0	1	FALSE
+GSE136757	psoriasis	PT1112	0	1	FALSE
+GSE136757	psoriasis	PT1117	0	1	FALSE
+GSE136757	psoriasis	PT1092	0	1	FALSE
+GSE136757	psoriasis	PT1118	0	1	FALSE
+GSE136757	psoriasis	PT1120	1	0	FALSE
+GSE136757	psoriasis	PT1127	0	1	FALSE
+GSE136757	psoriasis	PT1129	0	1	FALSE
+GSE136757	psoriasis	PT1130	0	1	FALSE
+GSE136757	psoriasis	PT1143	0	1	FALSE
+GSE136757	psoriasis	PT1144	0	1	FALSE
+GSE136757	psoriasis	PT1145	0	1	FALSE
+GSE136757	psoriasis	PT1147	0	1	FALSE
+GSE136757	psoriasis	PT1149	0	1	FALSE
+GSE136757	psoriasis	PT1161	0	1	FALSE
+GSE136757	psoriasis	PT1162	0	1	FALSE
+GSE136757	psoriasis	PT1163	0	1	FALSE
+GSE137218	psoriasis	patient1	0	1	FALSE
+GSE137218	psoriasis	patient2	0	1	FALSE
+GSE137218	psoriasis	patient3	0	1	FALSE
+GSE137218	psoriasis	patient4	0	1	FALSE
+GSE137218	psoriasis	patient5	0	1	FALSE
+GSE137218	psoriasis	patient6	0	1	FALSE
+GSE137218	psoriasis	patient7	0	1	FALSE
+GSE137218	psoriasis	patient8	0	1	FALSE
+GSE137218	psoriasis	patient9	0	1	FALSE
+GSE137218	psoriasis	patient10	0	1	FALSE
+GSE137218	psoriasis	patient11	0	1	FALSE
+GSE137218	psoriasis	patient12	0	1	FALSE
+GSE137218	psoriasis	patient13	0	1	FALSE
+GSE137218	psoriasis	patient14	0	1	FALSE
+GSE145127	psoriasis	A1	1	0	FALSE
+GSE145127	psoriasis	A2	1	0	FALSE
+GSE145127	psoriasis	A3	1	0	FALSE
+GSE145127	psoriasis	A4	1	0	FALSE
+GSE145127	psoriasis	A6	1	0	FALSE
+GSE145127	psoriasis	A7	1	0	FALSE
+GSE145127	psoriasis	A9	1	0	FALSE
+GSE145127	psoriasis	A10	1	0	FALSE
+GSE145127	psoriasis	A12	1	0	FALSE
+GSE145127	psoriasis	A13	1	0	FALSE
+GSE145304	psoriasis	p1	1	0	FALSE
+GSE145304	psoriasis	p2	1	0	FALSE
+GSE145304	psoriasis	p3	1	0	FALSE
+GSE148810	juvenile myositis	subj_01	1	0	FALSE
+GSE148810	juvenile myositis	subj_02	1	0	FALSE
+GSE148810	juvenile myositis	subj_03	1	0	FALSE
+GSE148810	juvenile myositis	subj_04	1	0	FALSE
+GSE148810	juvenile myositis	subj_05	1	0	FALSE
+GSE148810	juvenile myositis	subj_06	1	0	FALSE
+GSE148810	juvenile myositis	subj_07	1	0	FALSE
+GSE148810	juvenile myositis	subj_09	1	0	FALSE
+GSE148810	juvenile myositis	subj_10	0	1	FALSE
+GSE148810	juvenile myositis	subj_11	0	1	FALSE
+GSE148810	juvenile myositis	subj_12	0	1	FALSE
+GSE148810	juvenile myositis	subj_13	0	1	FALSE
+GSE148810	juvenile myositis	subj_15	0	1	FALSE
+GSE148810	juvenile myositis	subj_16	0	1	FALSE
+GSE148810	juvenile myositis	subj_17	1	0	FALSE
+GSE148810	systemic lupus erythematosus (childhood-onset)	subj_18	1	0	FALSE
+GSE148810	systemic lupus erythematosus (childhood-onset)	subj_20	1	0	FALSE
+GSE148810	systemic lupus erythematosus (childhood-onset)	subj_21	1	0	FALSE
+GSE148810	systemic lupus erythematosus (childhood-onset)	subj_22	1	0	FALSE
+GSE148810	systemic lupus erythematosus (childhood-onset)	subj_23	1	0	FALSE
+GSE14905	psoriasis	p1	0	1	FALSE
+GSE14905	psoriasis	p2	0	1	FALSE
+GSE14905	psoriasis	p3	0	1	FALSE
+GSE14905	psoriasis	p4	0	1	FALSE
+GSE14905	psoriasis	p5	0	1	FALSE
+GSE14905	psoriasis	p6	0	1	FALSE
+GSE14905	psoriasis	p7	0	1	FALSE
+GSE14905	psoriasis	p8	0	1	FALSE
+GSE14905	psoriasis	p9	0	1	FALSE
+GSE14905	psoriasis	p10	1	0	FALSE
+GSE14905	psoriasis	p11	0	1	FALSE
+GSE14905	psoriasis	p12	0	1	FALSE
+GSE14905	psoriasis	p13	0	1	FALSE
+GSE14905	psoriasis	p14	0	1	FALSE
+GSE14905	psoriasis	p15	1	0	FALSE
+GSE14905	psoriasis	p16	0	1	FALSE
+GSE14905	psoriasis	p17	0	1	FALSE
+GSE14905	psoriasis	p18	0	1	FALSE
+GSE14905	psoriasis	p19	0	1	FALSE
+GSE14905	psoriasis	p20	0	1	FALSE
+GSE14905	psoriasis	p21	0	1	FALSE
+GSE14905	psoriasis	p22	0	1	FALSE
+GSE14905	psoriasis	p23	0	1	FALSE
+GSE14905	psoriasis	p24	0	1	FALSE
+GSE14905	psoriasis	p25	0	1	FALSE
+GSE14905	psoriasis	p26	0	1	FALSE
+GSE14905	psoriasis	p27	0	1	FALSE
+GSE14905	psoriasis	p28	0	1	FALSE
+GSE14905	psoriasis	p29	0	1	FALSE
+GSE14905	psoriasis	p30	0	1	FALSE
+GSE14905	psoriasis	p31	1	0	FALSE
+GSE14905	psoriasis	p32	1	0	FALSE
+GSE14905	psoriasis	p33	1	0	FALSE
+GSE16161	atopic dermatitis	Patient_0002	1	0	FALSE
+GSE16161	atopic dermatitis	Patient_0004	1	0	FALSE
+GSE16161	atopic dermatitis	Patient_0005	1	0	FALSE
+GSE16161	atopic dermatitis	Patient_0006	1	0	FALSE
+GSE16161	atopic dermatitis	Patient_0007	1	0	FALSE
+GSE16161	atopic dermatitis	Patient_0008	1	0	FALSE
+GSE16161	atopic dermatitis	Patient_0009	1	0	FALSE
+GSE16161	atopic dermatitis	Patient_0010	1	0	FALSE
+GSE16161	atopic dermatitis	Patient_0011	1	0	FALSE
+GSE16161	psoriasis	Patient_A	1	0	FALSE
+GSE16161	psoriasis	Patient_B	1	0	FALSE
+GSE16161	psoriasis	Patient_C	1	0	FALSE
+GSE16161	psoriasis	Patient_D	1	0	FALSE
+GSE16161	psoriasis	Patient_E	1	0	FALSE
+GSE16161	psoriasis	Patient_F	1	0	FALSE
+GSE16161	psoriasis	Patient_G	1	0	FALSE
+GSE16161	psoriasis	Patient_H	1	0	FALSE
+GSE16161	psoriasis	Patient_I	1	0	FALSE
+GSE16161	psoriasis	Patient_J	1	0	FALSE
+GSE16161	psoriasis	Patient_K	1	0	FALSE
+GSE16161	psoriasis	Patient_L	1	0	FALSE
+GSE16161	psoriasis	Patient_M	1	0	FALSE
+GSE16161	psoriasis	Patient_N	1	0	FALSE
+GSE16161	psoriasis	Patient_O	1	0	FALSE
+GSE161683	psoriasis	Patient 1	0	1	FALSE
+GSE161683	psoriasis	Patient 2	0	1	FALSE
+GSE161683	psoriasis	Patient 3	0	1	FALSE
+GSE161683	psoriasis	Patient 4	0	1	FALSE
+GSE161683	psoriasis	Patient 5	0	1	FALSE
+GSE161683	psoriasis	Patient 6	0	1	FALSE
+GSE161683	psoriasis	Patient 7	0	1	FALSE
+GSE161683	psoriasis	Patient 8	0	1	FALSE
+GSE161683	psoriasis	Patient 9	0	1	FALSE
+GSE166388	psoriasis	p1	1	0	FALSE
+GSE166388	psoriasis	p2	1	0	FALSE
+GSE166388	psoriasis	p3	1	0	FALSE
+GSE166388	psoriasis	p4	1	0	FALSE
+GSE171244	crohn's disease	1	1	0	FALSE
+GSE171244	crohn's disease	2	1	0	FALSE
+GSE171244	crohn's disease	3	1	0	FALSE
+GSE171244	crohn's disease	4	1	0	FALSE
+GSE171244	crohn's disease	6	1	0	FALSE
+GSE171244	crohn's disease	7	1	0	FALSE
+GSE171244	crohn's disease	8	1	0	FALSE
+GSE171244	crohn's disease	9	1	0	FALSE
+GSE171244	crohn's disease	10	1	0	FALSE
+GSE171244	crohn's disease	13	1	0	FALSE
+GSE178197	psoriasis	subj_101	1	0	FALSE
+GSE178197	psoriasis	subj_102	1	0	FALSE
+GSE178197	psoriasis	subj_103	0	1	FALSE
+GSE178197	psoriasis	subj_104	1	0	FALSE
+GSE178197	psoriasis	subj_105	0	1	FALSE
+GSE178197	psoriasis	subj_106	0	1	FALSE
+GSE178197	psoriasis	subj_107	0	1	FALSE
+GSE178197	psoriasis	subj_108	0	1	FALSE
+GSE178197	psoriasis	subj_109	0	1	FALSE
+GSE178197	psoriasis	subj_110	0	1	FALSE
+GSE178753	ulcerative colitis	p1	1	0	FALSE
+GSE178753	ulcerative colitis	p2	1	0	FALSE
+GSE178753	ulcerative colitis	p3	1	0	FALSE
+GSE178753	ulcerative colitis	p4	1	0	FALSE
+GSE178753	ulcerative colitis	p5	1	0	FALSE
+GSE181318	psoriasis	p1	1	0	FALSE
+GSE181318	psoriasis	p2	1	0	FALSE
+GSE181318	psoriasis	p3	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp1	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp2	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp3	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp4	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp5	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp6	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp7	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp8	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp9	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp10	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp11	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp12	1	0	FALSE
+GSE183134	pityriasis rubra pilaris	prp13	1	0	FALSE
+GSE183134	psoriasis	pso1	1	0	FALSE
+GSE183134	psoriasis	pso2	1	0	FALSE
+GSE183134	psoriasis	pso3	1	0	FALSE
+GSE183134	psoriasis	pso4	1	0	FALSE
+GSE183134	psoriasis	pso5	1	0	FALSE
+GSE183134	psoriasis	pso6	1	0	FALSE
+GSE183134	psoriasis	pso7	1	0	FALSE
+GSE183134	psoriasis	pso8	1	0	FALSE
+GSE183134	psoriasis	pso9	1	0	FALSE
+GSE183134	psoriasis	pso10	1	0	FALSE
+GSE183134	psoriasis	pso11	1	0	FALSE
+GSE183134	psoriasis	pso12	1	0	FALSE
+GSE183134	psoriasis	pso13	1	0	FALSE
+GSE183134	psoriasis	pso14	1	0	FALSE
+GSE183134	psoriasis	pso15	1	0	FALSE
+GSE183134	psoriasis	pso16	1	0	FALSE
+GSE183134	psoriasis	pso17	1	0	FALSE
+GSE183134	psoriasis	pso18	1	0	FALSE
+GSE183134	psoriasis	pso19	1	0	FALSE
+GSE183134	psoriasis	pso20	1	0	FALSE
+GSE183134	psoriasis	pso21	1	0	FALSE
+GSE183134	psoriasis	pso22	1	0	FALSE
+GSE186117	psoriasis	subj_1	1	0	FALSE
+GSE186117	psoriasis	subj_3	1	0	FALSE
+GSE186117	psoriasis	subj_4	1	0	FALSE
+GSE186582	crohn's disease	P_16	1	0	FALSE
+GSE186582	crohn's disease	P_198	1	0	FALSE
+GSE186582	crohn's disease	P_20	1	0	FALSE
+GSE186582	crohn's disease	P_80	1	0	FALSE
+GSE186582	crohn's disease	P_84	1	0	FALSE
+GSE186582	crohn's disease	P_56	1	0	FALSE
+GSE186582	crohn's disease	P_21	1	0	FALSE
+GSE186582	crohn's disease	P_182	1	0	FALSE
+GSE186582	crohn's disease	P_151	1	0	FALSE
+GSE186582	crohn's disease	P_200	1	0	FALSE
+GSE186582	crohn's disease	P_153	1	0	FALSE
+GSE186582	crohn's disease	P_156	1	0	FALSE
+GSE186582	crohn's disease	P_89	1	0	FALSE
+GSE186582	crohn's disease	P_91	1	0	FALSE
+GSE186582	crohn's disease	P_201	1	0	FALSE
+GSE186582	crohn's disease	P_159	1	0	FALSE
+GSE186582	crohn's disease	P_203	1	0	FALSE
+GSE186582	crohn's disease	P_101	1	0	FALSE
+GSE186582	crohn's disease	P_205	1	0	FALSE
+GSE186582	crohn's disease	P_110	1	0	FALSE
+GSE186582	crohn's disease	P_206	1	0	FALSE
+GSE186582	crohn's disease	P_35	1	0	FALSE
+GSE186582	crohn's disease	P_207	1	0	FALSE
+GSE186582	crohn's disease	P_138	1	0	FALSE
+GSE186582	crohn's disease	P_208	1	0	FALSE
+GSE186582	crohn's disease	P_210	1	0	FALSE
+GSE186582	crohn's disease	P_139	1	0	FALSE
+GSE186582	crohn's disease	P_61	1	0	FALSE
+GSE186582	crohn's disease	P_31	1	0	FALSE
+GSE186582	crohn's disease	P_64	1	0	FALSE
+GSE186582	crohn's disease	P_211	1	0	FALSE
+GSE186582	crohn's disease	P_32	1	0	FALSE
+GSE186582	crohn's disease	P_134	1	0	FALSE
+GSE186582	crohn's disease	P_215	1	0	FALSE
+GSE186582	crohn's disease	P_25	1	0	FALSE
+GSE186582	crohn's disease	P_24	1	0	FALSE
+GSE186582	crohn's disease	P_49	1	0	FALSE
+GSE186582	crohn's disease	P_157	1	0	FALSE
+GSE186582	crohn's disease	P_184	1	0	FALSE
+GSE186582	crohn's disease	P_76	1	0	FALSE
+GSE186582	crohn's disease	P_74	1	0	FALSE
+GSE186582	crohn's disease	P_11	1	0	FALSE
+GSE186582	crohn's disease	P_28	1	0	FALSE
+GSE186582	crohn's disease	P_15	1	0	FALSE
+GSE186582	crohn's disease	P_120	1	0	FALSE
+GSE186582	crohn's disease	P_6	1	0	FALSE
+GSE186582	crohn's disease	P_5	1	0	FALSE
+GSE186582	crohn's disease	P_174	1	0	FALSE
+GSE186582	crohn's disease	P_40	1	0	FALSE
+GSE186582	crohn's disease	P_180	1	0	FALSE
+GSE186582	crohn's disease	P_149	1	0	FALSE
+GSE186582	crohn's disease	P_2	1	0	FALSE
+GSE186582	crohn's disease	P_150	1	0	FALSE
+GSE186582	crohn's disease	P_199	1	0	FALSE
+GSE186582	crohn's disease	P_189	1	0	FALSE
+GSE186582	crohn's disease	P_190	1	0	FALSE
+GSE186582	crohn's disease	P_185	1	0	FALSE
+GSE186582	crohn's disease	P_163	1	0	FALSE
+GSE186582	crohn's disease	P_103	1	0	FALSE
+GSE186582	crohn's disease	P_104	1	0	FALSE
+GSE186582	crohn's disease	P_191	1	0	FALSE
+GSE186582	crohn's disease	P_126	1	0	FALSE
+GSE186582	crohn's disease	P_192	1	0	FALSE
+GSE186582	crohn's disease	P_30	1	0	FALSE
+GSE186582	crohn's disease	P_193	1	0	FALSE
+GSE186582	crohn's disease	P_168	1	0	FALSE
+GSE186582	crohn's disease	P_36	1	0	FALSE
+GSE186582	crohn's disease	P_17	1	0	FALSE
+GSE186582	crohn's disease	P_197	1	0	FALSE
+GSE186582	crohn's disease	P_141	1	0	FALSE
+GSE186582	crohn's disease	P_119	1	0	FALSE
+GSE186582	crohn's disease	P_131	1	0	FALSE
+GSE186582	crohn's disease	P_144	1	0	FALSE
+GSE186582	crohn's disease	P_69	1	0	FALSE
+GSE186582	crohn's disease	P_176	1	0	FALSE
+GSE186582	crohn's disease	P_13	1	0	FALSE
+GSE186582	crohn's disease	P_98	1	0	FALSE
+GSE186582	crohn's disease	P_216	1	0	FALSE
+GSE186582	crohn's disease	P_99	1	0	FALSE
+GSE186582	crohn's disease	P_71	1	0	FALSE
+GSE186582	crohn's disease	P_111	1	0	FALSE
+GSE186582	crohn's disease	P_218	1	0	FALSE
+GSE186582	crohn's disease	P_165	1	0	FALSE
+GSE186582	crohn's disease	P_23	1	0	FALSE
+GSE186582	crohn's disease	P_1	1	0	FALSE
+GSE186582	crohn's disease	P_129	1	0	FALSE
+GSE186582	crohn's disease	P_4	1	0	FALSE
+GSE186582	crohn's disease	P_88	1	0	FALSE
+GSE186582	crohn's disease	P_92	1	0	FALSE
+GSE186582	crohn's disease	P_95	1	0	FALSE
+GSE186582	crohn's disease	P_109	1	0	FALSE
+GSE186582	crohn's disease	P_178	1	0	FALSE
+GSE186582	crohn's disease	P_33	1	0	FALSE
+GSE186582	crohn's disease	P_54	1	0	FALSE
+GSE186582	crohn's disease	P_82	1	0	FALSE
+GSE186582	crohn's disease	P_147	1	0	FALSE
+GSE186582	crohn's disease	P_97	1	0	FALSE
+GSE186582	crohn's disease	P_105	1	0	FALSE
+GSE186582	crohn's disease	P_19	1	0	FALSE
+GSE186582	crohn's disease	P_127	1	0	FALSE
+GSE186582	crohn's disease	P_128	1	0	FALSE
+GSE186582	crohn's disease	P_37	1	0	FALSE
+GSE186582	crohn's disease	P_118	1	0	FALSE
+GSE186582	crohn's disease	P_44	1	0	FALSE
+GSE186582	crohn's disease	P_145	1	0	FALSE
+GSE186582	crohn's disease	P_202	1	0	FALSE
+GSE186582	crohn's disease	P_100	1	0	FALSE
+GSE186582	crohn's disease	P_170	1	0	FALSE
+GSE186582	crohn's disease	P_124	1	0	FALSE
+GSE186582	crohn's disease	P_135	1	0	FALSE
+GSE186582	crohn's disease	P_72	1	0	FALSE
+GSE186582	crohn's disease	P_204	1	0	FALSE
+GSE186582	crohn's disease	P_79	1	0	FALSE
+GSE186582	crohn's disease	P_57	1	0	FALSE
+GSE186582	crohn's disease	P_75	1	0	FALSE
+GSE186582	crohn's disease	P_125	1	0	FALSE
+GSE186582	crohn's disease	P_194	1	0	FALSE
+GSE186582	crohn's disease	P_58	1	0	FALSE
+GSE186582	crohn's disease	P_59	1	0	FALSE
+GSE186582	crohn's disease	P_66	1	0	FALSE
+GSE186582	crohn's disease	P_140	1	0	FALSE
+GSE186582	crohn's disease	P_169	1	0	FALSE
+GSE186582	crohn's disease	P_62	1	0	FALSE
+GSE186582	crohn's disease	P_63	1	0	FALSE
+GSE186582	crohn's disease	P_171	1	0	FALSE
+GSE186582	crohn's disease	P_42	1	0	FALSE
+GSE186582	crohn's disease	P_48	1	0	FALSE
+GSE193128	psoriasis	subj_1	0	1	FALSE
+GSE193128	psoriasis	subj_2	0	1	FALSE
+GSE193128	psoriasis	subj_3	0	1	FALSE
+GSE193128	psoriasis	subj_4	0	1	FALSE
+GSE193128	psoriasis	subj_5	0	1	FALSE
+GSE193128	psoriasis	subj_6	0	1	FALSE
+GSE193128	psoriasis	subj_7	0	1	FALSE
+GSE193128	psoriasis	subj_8	0	1	FALSE
+GSE193128	psoriasis	subj_9	0	1	FALSE
+GSE193128	psoriasis	subj_10	0	1	FALSE
+GSE193128	psoriasis	subj_11	0	1	FALSE
+GSE193128	psoriasis	subj_12	0	1	FALSE
+GSE193128	psoriasis	subj_13	0	1	FALSE
+GSE208303	crohn's disease	subj_1	1	0	FALSE
+GSE208303	crohn's disease	subj_2	1	0	FALSE
+GSE208303	crohn's disease	subj_3	1	0	FALSE
+GSE208303	crohn's disease	subj_4	1	0	FALSE
+GSE208303	crohn's disease	subj_5	1	0	FALSE
+GSE208303	crohn's disease	subj_6	1	0	FALSE
+GSE208303	crohn's disease	subj_7	1	0	FALSE
+GSE208303	crohn's disease	subj_8	1	0	FALSE
+GSE208303	crohn's disease	subj_9	1	0	FALSE
+GSE208303	crohn's disease	subj_10	1	0	FALSE
+GSE208303	crohn's disease	subj_11	1	0	FALSE
+GSE208303	crohn's disease	subj_12	1	0	FALSE
+GSE208303	crohn's disease	subj_13	1	0	FALSE
+GSE214334	multiple sclerosis (relapsing-remitting)	RRMS_NAWM_02	0	1	FALSE
+GSE214334	multiple sclerosis (relapsing-remitting)	RRMS_NAWM_03	0	1	FALSE
+GSE214334	multiple sclerosis (relapsing-remitting)	RRMS_NAWM_05	0	1	FALSE
+GSE214334	multiple sclerosis (secondary progressive)	SPMS_NAWM_10	0	1	FALSE
+GSE214334	multiple sclerosis (secondary progressive)	SPMS_NAWM_12	0	1	FALSE
+GSE214334	multiple sclerosis (secondary progressive)	SPMS_NAWM_13	0	1	FALSE
+GSE214334	multiple sclerosis (secondary progressive)	SPMS_NAWM_15	0	1	FALSE
+GSE214334	multiple sclerosis (primary progressive)	PPMS_NAWM_06	0	1	FALSE
+GSE214334	multiple sclerosis (primary progressive)	PPMS_NAWM_07	0	1	FALSE
+GSE214334	multiple sclerosis (primary progressive)	PPMS_NAWM_08	0	1	FALSE
+GSE214334	multiple sclerosis (primary progressive)	PPMS_NAWM_09	0	1	FALSE
+GSE26927	multiple sclerosis	ms1	1	0	FALSE
+GSE26927	multiple sclerosis	ms2	1	0	FALSE
+GSE26927	multiple sclerosis	ms3	1	0	FALSE
+GSE26927	multiple sclerosis	ms4	1	0	FALSE
+GSE26927	multiple sclerosis	ms5	1	0	FALSE
+GSE26927	multiple sclerosis	ms6	1	0	FALSE
+GSE26927	multiple sclerosis	ms7	1	0	FALSE
+GSE26927	multiple sclerosis	ms8	1	0	FALSE
+GSE26927	multiple sclerosis	ms9	1	0	FALSE
+GSE26927	multiple sclerosis	ms10	1	0	FALSE
+GSE26927	multiple sclerosis	ms11	1	0	FALSE
+GSE26927	multiple sclerosis	ms12	1	0	FALSE
+GSE26927	multiple sclerosis	ms13	1	0	FALSE
+GSE26927	multiple sclerosis	ms14	1	0	FALSE
+GSE26927	multiple sclerosis	ms15	1	0	FALSE
+GSE26927	multiple sclerosis	ms16	1	0	FALSE
+GSE26927	multiple sclerosis	ms17	1	0	FALSE
+GSE26927	multiple sclerosis	ms18	1	0	FALSE
+GSE26927	multiple sclerosis	ms19	1	0	FALSE
+GSE26927	multiple sclerosis	ms20	1	0	FALSE
+GSE26952	atopic dermatitis	ad1	0	1	FALSE
+GSE26952	atopic dermatitis	ad2	0	1	FALSE
+GSE26952	atopic dermatitis	ad3	0	1	FALSE
+GSE26952	atopic dermatitis	ad4	0	1	FALSE
+GSE26952	atopic dermatitis	ad5	0	1	FALSE
+GSE26952	psoriasis	pso1	0	1	FALSE
+GSE26952	psoriasis	pso2	0	1	FALSE
+GSE26952	psoriasis	pso3	0	1	FALSE
+GSE26952	psoriasis	pso4	0	1	FALSE
+GSE30768	psoriasis	P4	0	1	FALSE
+GSE30768	psoriasis	P1	0	1	FALSE
+GSE30768	psoriasis	P3	1	0	FALSE
+GSE30768	psoriasis	P2	1	0	FALSE
+GSE30999	psoriasis	subj_00013	1	0	FALSE
+GSE30999	psoriasis	subj_00002	1	0	FALSE
+GSE30999	psoriasis	subj_00018	0	1	FALSE
+GSE30999	psoriasis	subj_00031	1	0	FALSE
+GSE30999	psoriasis	subj_00009	0	1	FALSE
+GSE30999	psoriasis	subj_00012	0	1	FALSE
+GSE30999	psoriasis	subj_00038	0	1	FALSE
+GSE30999	psoriasis	subj_00006	0	1	FALSE
+GSE30999	psoriasis	subj_00014	1	0	FALSE
+GSE30999	psoriasis	subj_00019	0	1	FALSE
+GSE30999	psoriasis	subj_00034	0	1	FALSE
+GSE30999	psoriasis	subj_00007	0	1	FALSE
+GSE30999	psoriasis	subj_00025	0	1	FALSE
+GSE30999	psoriasis	subj_00016	1	0	FALSE
+GSE30999	psoriasis	subj_00042	0	1	FALSE
+GSE30999	psoriasis	subj_00003	1	0	FALSE
+GSE30999	psoriasis	subj_00001	0	1	FALSE
+GSE30999	psoriasis	subj_00020	1	0	FALSE
+GSE30999	psoriasis	subj_00027	0	1	FALSE
+GSE30999	psoriasis	subj_00008	1	0	FALSE
+GSE30999	psoriasis	subj_00010	0	1	FALSE
+GSE30999	psoriasis	subj_00005	1	0	FALSE
+GSE30999	psoriasis	subj_00004	0	1	FALSE
+GSE30999	psoriasis	subj_00036	0	1	FALSE
+GSE30999	psoriasis	subj_00015	0	1	FALSE
+GSE30999	psoriasis	subj_00035	0	1	FALSE
+GSE30999	psoriasis	subj_00037	0	1	FALSE
+GSE30999	psoriasis	subj_00021	0	1	FALSE
+GSE30999	psoriasis	subj_00024	0	1	FALSE
+GSE30999	psoriasis	subj_00011	0	1	FALSE
+GSE30999	psoriasis	subj_00026	0	1	FALSE
+GSE30999	psoriasis	subj_00017	0	1	FALSE
+GSE30999	psoriasis	subj_00023	0	1	FALSE
+GSE31652	psoriasis	1207	1	0	FALSE
+GSE31652	psoriasis	1208	1	0	FALSE
+GSE31652	psoriasis	1209	1	0	FALSE
+GSE31652	psoriasis	1610	1	0	FALSE
+GSE31652	psoriasis	1611	1	0	FALSE
+GSE31652	psoriasis	1615	1	0	FALSE
+GSE31652	psoriasis	1710	1	0	FALSE
+GSE31652	psoriasis	1803	1	0	FALSE
+GSE31652	psoriasis	1108	1	0	FALSE
+GSE31652	psoriasis	1304	1	0	FALSE
+GSE31652	psoriasis	1405	1	0	FALSE
+GSE31652	psoriasis	1503	1	0	FALSE
+GSE31652	psoriasis	1507	1	0	FALSE
+GSE31652	psoriasis	1613	1	0	FALSE
+GSE31652	psoriasis	1614	1	0	FALSE
+GSE31652	psoriasis	1702	1	0	FALSE
+GSE32407	psoriasis	Psoriasis-1	0	1	FALSE
+GSE32407	psoriasis	Psoriasis-2	0	1	FALSE
+GSE32407	psoriasis	Psoriasis-3	0	1	FALSE
+GSE32407	psoriasis	Psoriasis-4	0	1	FALSE
+GSE32407	psoriasis	Psoriasis-5	0	1	FALSE
+GSE32407	psoriasis	Psoriasis-6	0	1	FALSE
+GSE32407	psoriasis	Psoriasis-7	0	1	FALSE
+GSE32407	psoriasis	Psoriasis-8	0	1	FALSE
+GSE32407	psoriasis	Psoriasis-9	0	1	FALSE
+GSE32407	psoriasis	Psoriasis-10	0	1	FALSE
+GSE32645	multiple sclerosis	ms1	1	0	FALSE
+GSE32645	multiple sclerosis	ms2	1	0	FALSE
+GSE32645	multiple sclerosis	ms3	1	0	FALSE
+GSE32645	meningitis tuberculosis	tb1	1	0	FALSE
+GSE32645	meningitis tuberculosis	tb2	1	0	FALSE
+GSE32645	meningitis tuberculosis	tb3	1	0	FALSE
+GSE32915	multiple sclerosis	ms4	1	0	FALSE
+GSE32915	multiple sclerosis	ms1	0	1	FALSE
+GSE32915	multiple sclerosis	ms2	0	1	FALSE
+GSE32915	multiple sclerosis	ms3	0	1	FALSE
+GSE34248	psoriasis	subj_42949	1	0	FALSE
+GSE34248	psoriasis	subj_43616	1	0	FALSE
+GSE34248	psoriasis	subj_43617	1	0	FALSE
+GSE34248	psoriasis	subj_40041	1	0	FALSE
+GSE34248	psoriasis	subj_38326	1	0	FALSE
+GSE34248	psoriasis	subj_43618	1	0	FALSE
+GSE34248	psoriasis	subj_45800	1	0	FALSE
+GSE34248	psoriasis	subj_45801	1	0	FALSE
+GSE34248	psoriasis	subj_45802	1	0	FALSE
+GSE34248	psoriasis	subj_45799	1	0	FALSE
+GSE34248	psoriasis	subj_45808	1	0	FALSE
+GSE34248	psoriasis	subj_45807	1	0	FALSE
+GSE34248	psoriasis	subj_45798	1	0	FALSE
+GSE34248	psoriasis	subj_45803	1	0	FALSE
+GSE41662	psoriasis	1134	1	0	FALSE
+GSE41662	psoriasis	1135	1	0	FALSE
+GSE41662	psoriasis	1138	1	0	FALSE
+GSE41662	psoriasis	1141	1	0	FALSE
+GSE41662	psoriasis	1139	1	0	FALSE
+GSE41662	psoriasis	3005	1	0	FALSE
+GSE41662	psoriasis	1145	1	0	FALSE
+GSE41662	psoriasis	3008	1	0	FALSE
+GSE41662	psoriasis	3002	1	0	FALSE
+GSE41662	psoriasis	3003	1	0	FALSE
+GSE41662	psoriasis	1147	1	0	FALSE
+GSE41662	psoriasis	1148	1	0	FALSE
+GSE41662	psoriasis	1153	1	0	FALSE
+GSE41662	psoriasis	3016	1	0	FALSE
+GSE41662	psoriasis	3019	1	0	FALSE
+GSE41662	psoriasis	3021	1	0	FALSE
+GSE41662	psoriasis	4002	1	0	FALSE
+GSE41662	psoriasis	4003	1	0	FALSE
+GSE41662	psoriasis	4007	1	0	FALSE
+GSE41662	psoriasis	4006	1	0	FALSE
+GSE41662	psoriasis	4013	1	0	FALSE
+GSE41662	psoriasis	4008	1	0	FALSE
+GSE41662	psoriasis	1156	1	0	FALSE
+GSE41662	psoriasis	4016	1	0	FALSE
+GSE41663	psoriasis	PsOEt-10	0	1	FALSE
+GSE41663	psoriasis	PsOEt-11	0	1	FALSE
+GSE41663	psoriasis	PsOEt-12	0	1	FALSE
+GSE41663	psoriasis	PsOEt-13	0	1	FALSE
+GSE41663	psoriasis	PsOEt-14	0	1	FALSE
+GSE41663	psoriasis	PsOEt-15	0	1	FALSE
+GSE41663	psoriasis	PsOEt-16	0	1	FALSE
+GSE41663	psoriasis	PsOEt-17	0	1	FALSE
+GSE41663	psoriasis	PsOEt-18	0	1	FALSE
+GSE41663	psoriasis	PsOEt-19	0	1	FALSE
+GSE41663	psoriasis	PsOEt-20	0	1	FALSE
+GSE41663	psoriasis	PsOEt-21	0	1	FALSE
+GSE41663	psoriasis	PsOEt-22	0	1	FALSE
+GSE41663	psoriasis	PsOEt-23	0	1	FALSE
+GSE41663	psoriasis	PsOEt-24	0	1	FALSE
+GSE41745	psoriasis	Patient 1	0	1	FALSE
+GSE41745	psoriasis	Patient 2	0	1	FALSE
+GSE41745	psoriasis	Patient 3	0	1	FALSE
+GSE47751	psoriasis	TLW18	0	1	FALSE
+GSE47751	psoriasis	CAB10	0	1	FALSE
+GSE47751	psoriasis	CEM11	0	1	FALSE
+GSE47751	psoriasis	EUR12	0	1	FALSE
+GSE47751	psoriasis	KPW13	0	1	FALSE
+GSE47751	psoriasis	CLS14	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 3	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 8	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 12	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 15	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 16	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 18	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 25	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 21	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 31	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 36	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 23	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 40	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 4	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 5	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 10	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 11	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 17	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 38	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 32	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 35	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 43	0	1	FALSE
+GSE50788	ulcerative colitis	SAMPLE 26	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 29	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 41	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 42	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 49	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 24	1	0	FALSE
+GSE50788	ulcerative colitis	SAMPLE 7	1	0	FALSE
+GSE50788	familial adenomatous polyposis	SAMPLE 13	0	1	FALSE
+GSE50788	familial adenomatous polyposis	SAMPLE 14	0	1	FALSE
+GSE50788	familial adenomatous polyposis	SAMPLE 19	1	0	FALSE
+GSE50788	familial adenomatous polyposis	SAMPLE 22	0	1	FALSE
+GSE50788	familial adenomatous polyposis	SAMPLE 37	0	1	FALSE
+GSE50788	familial adenomatous polyposis	SAMPLE 44	0	1	FALSE
+GSE50788	familial adenomatous polyposis	SAMPLE 45	1	0	FALSE
+GSE50788	familial adenomatous polyposis	SAMPLE 46	1	0	FALSE
+GSE50790	psoriasis	subj_6690	1	0	FALSE
+GSE50790	psoriasis	subj_7450	0	1	FALSE
+GSE50790	psoriasis	subj_7912	1	0	FALSE
+GSE50790	psoriasis	subj_8470	1	0	FALSE
+GSE51440	psoriasis	subj_1004-140007	1	0	FALSE
+GSE51440	psoriasis	subj_1004-140004	1	0	FALSE
+GSE51440	psoriasis	subj_1004-140006	1	0	FALSE
+GSE51440	psoriasis	subj_1005-150006	1	0	FALSE
+GSE51440	psoriasis	subj_1004-140005	1	0	FALSE
+GSE51440	psoriasis	subj_1005-150005	1	0	FALSE
+GSE51440	psoriasis	subj_1004-140003	1	0	FALSE
+GSE51440	psoriasis	subj_1003-130005	1	0	FALSE
+GSE51440	psoriasis	subj_1004-140002	1	0	FALSE
+GSE51440	psoriasis	subj_1007-170002	1	0	FALSE
+GSE51440	psoriasis	subj_1010-010001	1	0	FALSE
+GSE51440	psoriasis	subj_1010-010006	1	0	FALSE
+GSE51440	psoriasis	subj_1007-170004	1	0	FALSE
+GSE51440	psoriasis	subj_1007-170006	1	0	FALSE
+GSE51440	psoriasis	subj_1003-130001	1	0	FALSE
+GSE51440	psoriasis	subj_1003-130003	1	0	FALSE
+GSE51440	psoriasis	subj_1005-150001	1	0	FALSE
+GSE51440	psoriasis	subj_1005-150003	1	0	FALSE
+GSE51440	psoriasis	subj_1003-130004	1	0	FALSE
+GSE51440	psoriasis	subj_1004-140001	1	0	FALSE
+GSE51440	psoriasis	subj_1007-170007	1	0	FALSE
+GSE51440	psoriasis	subj_1007-170005	1	0	FALSE
+GSE51440	psoriasis	subj_1005-150002	0	1	FALSE
+GSE52471	psoriasis	PS-A	1	0	FALSE
+GSE52471	psoriasis	PS-B	1	0	FALSE
+GSE52471	psoriasis	PS-C	1	0	FALSE
+GSE52471	psoriasis	PS-D	1	0	FALSE
+GSE52471	psoriasis	PS-E	1	0	FALSE
+GSE52471	psoriasis	PS-F	1	0	FALSE
+GSE52471	psoriasis	PS-G	1	0	FALSE
+GSE52471	psoriasis	PS-H	1	0	FALSE
+GSE52471	psoriasis	PS-I	1	0	FALSE
+GSE52471	psoriasis	PS-J	1	0	FALSE
+GSE52471	psoriasis	PS-K	1	0	FALSE
+GSE52471	psoriasis	PS-L	1	0	FALSE
+GSE52471	psoriasis	PS-M	1	0	FALSE
+GSE52471	psoriasis	PS-N	1	0	FALSE
+GSE52471	psoriasis	PS-O	1	0	FALSE
+GSE52471	discoid lupus	L1	1	0	FALSE
+GSE52471	discoid lupus	L2	1	0	FALSE
+GSE52471	discoid lupus	L3	1	0	FALSE
+GSE52471	discoid lupus	L4	1	0	FALSE
+GSE52471	discoid lupus	L5	1	0	FALSE
+GSE52471	discoid lupus	L8	1	0	FALSE
+GSE52471	discoid lupus	L9	1	0	FALSE
+GSE52471	psoriasis	252	1	0	FALSE
+GSE52471	psoriasis	287	1	0	FALSE
+GSE52471	psoriasis	292	1	0	FALSE
+GSE53431	psoriasis	patient1	1	0	FALSE
+GSE53431	psoriasis	patient2	1	0	FALSE
+GSE53431	psoriasis	patient3	1	0	FALSE
+GSE53431	psoriasis	patient4	1	0	FALSE
+GSE53431	psoriasis	patient5	1	0	FALSE
+GSE53431	psoriasis	patient6	1	0	FALSE
+GSE53431	psoriasis	patient7	1	0	FALSE
+GSE53431	psoriasis	patient8	1	0	FALSE
+GSE53431	psoriasis	patient9	1	0	FALSE
+GSE53431	psoriasis	patient10	1	0	FALSE
+GSE53431	psoriasis	patient11	1	0	FALSE
+GSE53431	psoriasis	patient12	1	0	FALSE
+GSE53552	psoriasis	patient_K	1	0	FALSE
+GSE53552	psoriasis	patient_C	1	0	FALSE
+GSE53552	psoriasis	patient_F	1	0	FALSE
+GSE53552	psoriasis	patient_I	1	0	FALSE
+GSE53552	psoriasis	patient_X	1	0	FALSE
+GSE53552	psoriasis	patient_Z	1	0	FALSE
+GSE53552	psoriasis	patient_O	1	0	FALSE
+GSE53552	psoriasis	patient_W	1	0	FALSE
+GSE53552	psoriasis	patient_J	1	0	FALSE
+GSE53552	psoriasis	patient_D	1	0	FALSE
+GSE53552	psoriasis	patient_A	1	0	FALSE
+GSE53552	psoriasis	patient_R	1	0	FALSE
+GSE53552	psoriasis	patient_T	1	0	FALSE
+GSE53552	psoriasis	patient_M	1	0	FALSE
+GSE53552	psoriasis	patient_U	1	0	FALSE
+GSE53552	psoriasis	patient_E	1	0	FALSE
+GSE53552	psoriasis	patient_S	1	0	FALSE
+GSE53552	psoriasis	patient_G	1	0	FALSE
+GSE53552	psoriasis	patient_H	1	0	FALSE
+GSE53552	psoriasis	patient_L	1	0	FALSE
+GSE53552	psoriasis	patient_Q	1	0	FALSE
+GSE53552	psoriasis	patient_Y	1	0	FALSE
+GSE53552	psoriasis	patient_P	1	0	FALSE
+GSE53552	psoriasis	patient_B	1	0	FALSE
+GSE53552	psoriasis	patient_V	1	0	FALSE
+GSE57225	psoriasis, eczema	KP	0	1	FALSE
+GSE57225	psoriasis, eczema	LA	0	1	FALSE
+GSE57225	psoriasis, eczema	MOF	0	1	FALSE
+GSE57225	psoriasis, eczema	Mattes	0	1	FALSE
+GSE57225	psoriasis, eczema	SS2	0	1	FALSE
+GSE57225	psoriasis, eczema	Klose	0	1	FALSE
+GSE57225	psoriasis, eczema	JB	0	1	FALSE
+GSE57225	psoriasis, eczema	LI	0	1	FALSE
+GSE57225	psoriasis, eczema	SM	0	1	FALSE
+GSE57225	psoriasis, eczema	BS	0	1	FALSE
+GSE57225	psoriasis, eczema	VI	0	1	FALSE
+GSE57225	psoriasis, eczema	BA	0	1	FALSE
+GSE57376	psoriasis	Ps_308	1	0	FALSE
+GSE57376	psoriasis	Ps_305	1	0	FALSE
+GSE57376	psoriasis	Ps_301	1	0	FALSE
+GSE57376	psoriasis	Ps_309	1	0	FALSE
+GSE57376	psoriasis	Ps_303	1	0	FALSE
+GSE58121	psoriasis	SS2	0	1	FALSE
+GSE58121	psoriasis	Klose	0	1	FALSE
+GSE58121	psoriasis	LI	0	1	FALSE
+GSE58121	psoriasis	SM	0	1	FALSE
+GSE58121	psoriasis	BS	0	1	FALSE
+GSE58121	psoriasis	VI	0	1	FALSE
+GSE58121	psoriasis	BA	0	1	FALSE
+GSE58121	psoriasis	EB	0	1	FALSE
+GSE58121	lichen planus	FB	0	1	FALSE
+GSE58121	lichen planus	IS	0	1	FALSE
+GSE58121	lichen planus	RJ	0	1	FALSE
+GSE66511	psoriasis	subj_1	1	0	FALSE
+GSE66511	psoriasis	subj_2	1	0	FALSE
+GSE66511	psoriasis	subj_3	1	0	FALSE
+GSE66511	psoriasis	subj_4	1	0	FALSE
+GSE66511	psoriasis	subj_5	1	0	FALSE
+GSE66511	psoriasis	subj_6	1	0	FALSE
+GSE66511	psoriasis	subj_7	1	0	FALSE
+GSE66511	psoriasis	subj_8	1	0	FALSE
+GSE66511	psoriasis	subj_9	1	0	FALSE
+GSE66511	psoriasis	subj_10	1	0	FALSE
+GSE66511	psoriasis	subj_11	1	0	FALSE
+GSE66511	psoriasis	subj_12	1	0	FALSE
+GSE6710	psoriasis	patient_B	1	0	FALSE
+GSE6710	psoriasis	patient_C	1	0	FALSE
+GSE6710	psoriasis	patient_D	1	0	FALSE
+GSE6710	psoriasis	patient_E	1	0	FALSE
+GSE6710	psoriasis	patient_F	1	0	FALSE
+GSE6710	psoriasis	patient_G	1	0	FALSE
+GSE6710	psoriasis	patient_J	1	0	FALSE
+GSE6710	psoriasis	patient_L	1	0	FALSE
+GSE6710	psoriasis	patient_Z	1	0	FALSE
+GSE6710	psoriasis	patient_N	1	0	FALSE
+GSE6710	psoriasis	patient_P	1	0	FALSE
+GSE6710	psoriasis	patient_R	1	0	FALSE
+GSE6710	psoriasis	patient_W	1	0	FALSE
+GSE6731	crohn's disease	CD-33	1	0	FALSE
+GSE6731	crohn's disease	CD-49	1	0	FALSE
+GSE6731	crohn's disease	CD-51	1	0	FALSE
+GSE6731	crohn's disease	CD-53	1	0	FALSE
+GSE6731	crohn's disease	CD-58	1	0	FALSE
+GSE6731	crohn's disease	CD-76	1	0	FALSE
+GSE6731	crohn's disease	CD-45	0	1	FALSE
+GSE6731	crohn's disease	CD-48	0	1	FALSE
+GSE6731	crohn's disease	CD-59	0	1	FALSE
+GSE6731	ulcerative colitis	UC-32	1	0	FALSE
+GSE6731	ulcerative colitis	UC-35	1	0	FALSE
+GSE6731	ulcerative colitis	UC-38	1	0	FALSE
+GSE6731	ulcerative colitis	UC-55	1	0	FALSE
+GSE6731	ulcerative colitis	UC-71	1	0	FALSE
+GSE6731	ulcerative colitis	UC-33	0	1	FALSE
+GSE6731	bacterial infectious colitis	INF-156	1	0	FALSE
+GSE6731	bacterial infectious colitis	INF-157	1	0	FALSE
+GSE6731	indeterminate colitis	IC-44	1	0	FALSE
+GSE67785	psoriasis	subj_1	1	0	FALSE
+GSE67785	psoriasis	subj_2	1	0	FALSE
+GSE67785	psoriasis	subj_3	1	0	FALSE
+GSE67785	psoriasis	subj_4	1	0	FALSE
+GSE67785	psoriasis	subj_5	1	0	FALSE
+GSE67785	psoriasis	subj_6	1	0	FALSE
+GSE67785	psoriasis	subj_7	1	0	FALSE
+GSE67785	psoriasis	subj_8	1	0	FALSE
+GSE67785	psoriasis	subj_9	1	0	FALSE
+GSE67785	psoriasis	subj_10	1	0	FALSE
+GSE67785	psoriasis	subj_11	1	0	FALSE
+GSE67785	psoriasis	subj_12	1	0	FALSE
+GSE67785	psoriasis	subj_13	1	0	FALSE
+GSE67785	psoriasis	subj_14	1	0	FALSE
+GSE67853	asian intermediate plaque psoriasis	subj_35	1	0	FALSE
+GSE67853	asian intermediate plaque psoriasis	subj_24	1	0	FALSE
+GSE67853	asian intermediate plaque psoriasis	subj_25	0	1	FALSE
+GSE67853	asian intermediate plaque psoriasis	subj_22	0	1	FALSE
+GSE67853	asian intermediate plaque psoriasis	subj_12	0	1	FALSE
+GSE67853	asian intermediate plaque psoriasis	subj_50	0	1	FALSE
+GSE67853	asian small plaque psoriasis	subj_6	1	0	FALSE
+GSE67853	asian small plaque psoriasis	subj_47	0	1	FALSE
+GSE67853	asian intermediate plaque psoriasis	subj_46	0	1	FALSE
+GSE67853	asian intermediate plaque psoriasis	subj_54	0	1	FALSE
+GSE67853	asian small plaque psoriasis	subj_57	0	1	FALSE
+GSE67853	asian small plaque psoriasis	subj_52	0	1	FALSE
+GSE67853	asian small plaque psoriasis	subj_58	0	1	FALSE
+GSE67853	asian intermediate plaque psoriasis	subj_59	0	1	FALSE
+GSE67853	asian small plaque psoriasis	subj_53	0	1	FALSE
+GSE67853	asian small plaque psoriasis	subj_16	1	0	FALSE
+GSE68923	psoriasis	p1	1	0	FALSE
+GSE68923	psoriasis	p2	1	0	FALSE
+GSE68923	psoriasis	p3	1	0	FALSE
+GSE68924	psoriasis	p1	1	0	FALSE
+GSE68924	psoriasis	p2	1	0	FALSE
+GSE68924	psoriasis	p3	1	0	FALSE
+GSE68937	psoriasis	pso1	1	0	FALSE
+GSE68937	psoriasis	pso2	1	0	FALSE
+GSE68937	psoriasis	pso3	1	0	FALSE
+GSE68939	psoriasis	pso1	1	0	FALSE
+GSE68939	psoriasis	c1	1	0	FALSE
+GSE68939	psoriasis	pso2	1	0	FALSE
+GSE69967	psoriasis	subj_10011001	0	1	FALSE
+GSE69967	psoriasis	subj_10011003	0	1	FALSE
+GSE69967	psoriasis	subj_10011004	0	1	FALSE
+GSE69967	psoriasis	subj_10011005	0	1	FALSE
+GSE69967	psoriasis	subj_10021001	0	1	FALSE
+GSE69967	psoriasis	subj_10021002	0	1	FALSE
+GSE69967	psoriasis	subj_10021004	0	1	FALSE
+GSE69967	psoriasis	subj_10031001	0	1	FALSE
+GSE69967	psoriasis	subj_10031002	0	1	FALSE
+GSE69967	psoriasis	subj_10081001	0	1	FALSE
+GSE69967	psoriasis	subj_10081002	0	1	FALSE
+GSE69967	psoriasis	subj_10081003	0	1	FALSE
+GSE72246	psoriasis	subj_201	1	0	FALSE
+GSE72246	psoriasis	subj_101	1	0	FALSE
+GSE72246	psoriasis	subj_203	1	0	FALSE
+GSE72246	psoriasis	subj_104	1	0	FALSE
+GSE72246	psoriasis	subj_301	1	0	FALSE
+GSE72246	psoriasis	subj_702	1	0	FALSE
+GSE72246	psoriasis	subj_204	1	0	FALSE
+GSE72246	psoriasis	subj_206	1	0	FALSE
+GSE72246	psoriasis	subj_502	1	0	FALSE
+GSE72246	psoriasis	subj_207	1	0	FALSE
+GSE72246	psoriasis	subj_208	1	0	FALSE
+GSE72246	psoriasis	subj_106	1	0	FALSE
+GSE72246	psoriasis	subj_304	1	0	FALSE
+GSE72246	psoriasis	subj_801	1	0	FALSE
+GSE72246	psoriasis	subj_802	1	0	FALSE
+GSE72246	psoriasis	subj_308	1	0	FALSE
+GSE72246	psoriasis	subj_307	1	0	FALSE
+GSE72246	psoriasis	subj_107	1	0	FALSE
+GSE72246	psoriasis	subj_505	1	0	FALSE
+GSE72246	psoriasis	subj_705	1	0	FALSE
+GSE72246	psoriasis	subj_312	1	0	FALSE
+GSE72246	psoriasis	subj_209	1	0	FALSE
+GSE72246	psoriasis	subj_210	1	0	FALSE
+GSE72246	psoriasis	subj_506	1	0	FALSE
+GSE72535	discoid lupus erythematosus	DLE230	1	0	FALSE
+GSE72535	discoid lupus erythematosus	DLE258A	1	0	FALSE
+GSE72535	discoid lupus erythematosus	DLE254A	1	0	FALSE
+GSE72535	discoid lupus erythematosus	DLE250	1	0	FALSE
+GSE72535	discoid lupus erythematosus	DLE47(3)	1	0	FALSE
+GSE72535	discoid lupus erythematosus	DLE60A	1	0	FALSE
+GSE72535	discoid lupus erythematosus	DLE226A	1	0	FALSE
+GSE72535	discoid lupus erythematosus	DLE223	1	0	FALSE
+GSE72535	discoid lupus erythematosus	DLE224	1	0	FALSE
+GSE74697	psoriasis	subj_1	1	0	FALSE
+GSE74697	psoriasis	subj_2	1	0	FALSE
+GSE74697	psoriasis	subj_4	1	0	FALSE
+GSE74697	psoriasis	subj_5	1	0	FALSE
+GSE74697	psoriasis	subj_6	1	0	FALSE
+GSE74697	psoriasis	subj_8	1	0	FALSE
+GSE74697	psoriasis	subj_9	1	0	FALSE
+GSE74697	psoriasis	subj_14	1	0	FALSE
+GSE74697	psoriasis	subj_15	1	0	FALSE
+GSE74697	psoriasis	subj_17	1	0	FALSE
+GSE74697	psoriasis	subj_18	1	0	FALSE
+GSE74697	psoriasis	subj_19	1	0	FALSE
+GSE74697	psoriasis	subj_20	1	0	FALSE
+GSE74697	psoriasis	subj_22	1	0	FALSE
+GSE74697	psoriasis	subj_24	1	0	FALSE
+GSE74697	psoriasis	subj_25	1	0	FALSE
+GSE74697	psoriasis	subj_26	1	0	FALSE
+GSE74697	psoriasis	subj_30	1	0	FALSE
+GSE75343	psoriasis	Subject 1	0	1	FALSE
+GSE75343	psoriasis	Subject 2	0	1	FALSE
+GSE75343	psoriasis	Subject 3	0	1	FALSE
+GSE75343	psoriasis	Subject 4	0	1	FALSE
+GSE75343	psoriasis	Subject 5	0	1	FALSE
+GSE75343	psoriasis	Subject 6	0	1	FALSE
+GSE75343	psoriasis	Subject 7	0	1	FALSE
+GSE75343	psoriasis	Subject 8	0	1	FALSE
+GSE75343	psoriasis	Subject 9	0	1	FALSE
+GSE75343	psoriasis	Subject 10	0	1	FALSE
+GSE75343	psoriasis	Subject 11	0	1	FALSE
+GSE75343	psoriasis	Subject 12	0	1	FALSE
+GSE75343	psoriasis	Subject 13	1	0	FALSE
+GSE75343	psoriasis	Subject 14	1	0	FALSE
+GSE75343	psoriasis	Subject 15	1	0	FALSE
+GSE75343	psoriasis	Subject 16	1	0	FALSE
+GSE75343	psoriasis	Subject 17	1	0	FALSE
+GSE75343	psoriasis	Subject 18	1	0	FALSE
+GSE75343	psoriasis	Subject 19	1	0	FALSE
+GSE75343	psoriasis	Subject 20	1	0	FALSE
+GSE75890	psoriasis	PSO1	1	0	FALSE
+GSE75890	psoriasis	PSO2	1	0	FALSE
+GSE75890	psoriasis	PSO3	1	0	FALSE
+GSE75890	atopic dermatitis (extrinsic)	AD1	1	0	FALSE
+GSE75890	atopic dermatitis (extrinsic)	AD2	1	0	FALSE
+GSE75890	atopic dermatitis (intrinsic)	AD6	1	0	FALSE
+GSE75890	atopic dermatitis (extrinsic)	AD3	1	0	FALSE
+GSE75890	atopic dermatitis (intrinsic)	AD7	1	0	FALSE
+GSE75890	psoriasis	PSO4	1	0	FALSE
+GSE75890	psoriasis	PSO5	1	0	FALSE
+GSE75890	psoriasis	PSO6	1	0	FALSE
+GSE75890	psoriasis	PSO7	1	0	FALSE
+GSE75890	psoriasis	PSO8	1	0	FALSE
+GSE75890	psoriasis	PSO9	1	0	FALSE
+GSE75890	atopic dermatitis (extrinsic)	AD4	1	0	FALSE
+GSE75890	atopic dermatitis (extrinsic)	AD5	1	0	FALSE
+GSE75890	atopic dermatitis (intrinsic)	AD8	1	0	FALSE
+GSE75890	atopic dermatitis (intrinsic)	AD9	1	0	FALSE
+GSE75890	atopic dermatitis (intrinsic)	AD10	1	0	FALSE
+GSE75890	atopic dermatitis (intrinsic)	AD11	1	0	FALSE
+GSE75890	atopic dermatitis (intrinsic)	AD12	1	0	FALSE
+GSE75890	atopic dermatitis (intrinsic)	AD13	1	0	FALSE
+GSE75890	atopic dermatitis (intrinsic)	AD14	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 1	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 2	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 3	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 4	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 5	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 6	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 7	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 8	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 9	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 10	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 11	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 12	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 13	1	0	FALSE
+GSE78097	psoriasis (mild)	Patient 14	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 15	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 16	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 17	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 18	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 19	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 20	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 21	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 22	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 23	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 24	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 25	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 26	1	0	FALSE
+GSE78097	psoriasis (severe)	Patient 27	1	0	FALSE
+GSE79704	psoriasis	pso1	1	0	FALSE
+GSE79704	psoriasis	pso2	1	0	FALSE
+GSE79704	psoriasis	pso3	1	0	FALSE
+GSE79704	psoriasis	pso4	1	0	FALSE
+GSE79704	psoriasis	pso5	1	0	FALSE
+GSE79704	psoriasis	pso6	1	0	FALSE
+GSE79704	psoriasis	pso7	1	0	FALSE
+GSE79704	psoriasis	pso8	1	0	FALSE
+GSE79704	psoriasis	pso9	1	0	FALSE
+GSE79704	psoriasis	pso10	1	0	FALSE
+GSE79704	psoriasis	pso11	1	0	FALSE
+GSE79704	psoriasis	pso12	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp1	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp2	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp3	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp4	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp5	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp6	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp7	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp8	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp9	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp10	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp11	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp12	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp13	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp14	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp15	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp16	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp17	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp18	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp19	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp20	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp21	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp22	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp23	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp24	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp25	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp26	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp27	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp28	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp29	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp30	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp31	1	0	FALSE
+GSE79704	psoriasis (generalised pustular)	gpp32	1	0	FALSE
+GSE83448	crohn's disease	patient1	1	0	FALSE
+GSE83448	crohn's disease	patient2	1	0	FALSE
+GSE83448	crohn's disease	patient3	1	0	FALSE
+GSE83448	crohn's disease	patient4	1	0	FALSE
+GSE83448	crohn's disease	patient5	1	0	FALSE
+GSE83448	crohn's disease	patient6	1	0	FALSE
+GSE83448	crohn's disease	patient7	1	0	FALSE
+GSE83448	crohn's disease	patient8	1	0	FALSE
+GSE83448	crohn's disease	patient9	1	0	FALSE
+GSE83448	crohn's disease	patient10	1	0	FALSE
+GSE83448	crohn's disease	patient11	1	0	FALSE
+GSE83448	crohn's disease	patient12	1	0	FALSE
+GSE83448	crohn's disease	patient13	1	0	FALSE
+GSE83448	crohn's disease	patient14	1	0	FALSE
+GSE83448	crohn's disease	patient15	1	0	FALSE
+GSE83448	crohn's disease	patient16	1	0	FALSE
+GSE83448	crohn's disease	patient17	1	0	FALSE
+GSE83448	crohn's disease	patient18	1	0	FALSE
+GSE83448	crohn's disease	patient19	1	0	FALSE
+GSE83448	crohn's disease	patient20	0	1	FALSE
+GSE83448	crohn's disease	patient21	0	1	FALSE
+GSE83448	crohn's disease	patient22	0	1	FALSE
+GSE83448	crohn's disease	patient23	0	1	FALSE
+GSE83448	crohn's disease	patient24	0	1	FALSE
+GSE83448	crohn's disease	patient25	0	1	FALSE
+GSE83448	crohn's disease	patient26	0	1	FALSE
+GSE83448	crohn's disease	patient27	0	1	FALSE
+GSE83448	crohn's disease	patient28	0	1	FALSE
+GSE83448	crohn's disease	patient29	0	1	FALSE
+GSE83448	crohn's disease	patient30	0	1	FALSE
+GSE83448	crohn's disease	patient31	0	1	FALSE
+GSE83448	crohn's disease	patient32	0	1	FALSE
+GSE83448	crohn's disease	patient33	0	1	FALSE
+GSE83448	crohn's disease	patient34	0	1	FALSE
+GSE83448	crohn's disease	patient35	0	1	FALSE
+GSE83448	crohn's disease	patient36	0	1	FALSE
+GSE83448	crohn's disease	patient37	0	1	FALSE
+GSE83448	crohn's disease	patient38	0	1	FALSE
+GSE83448	crohn's disease	patient39	0	1	FALSE
+GSE83582	psoriasis	pso1	1	0	FALSE
+GSE83582	psoriasis	pso2	1	0	FALSE
+GSE83582	psoriasis	pso3	1	0	FALSE
+GSE83582	psoriasis	pso4	1	0	FALSE
+GSE83582	psoriasis	pso5	1	0	FALSE
+GSE83582	psoriasis	pso6	1	0	FALSE
+GSE83582	psoriasis	pso7	1	0	FALSE
+GSE83582	psoriasis	pso8	1	0	FALSE
+GSE83582	psoriasis	pso9	1	0	FALSE
+GSE83582	psoriasis	pso10	1	0	FALSE
+GSE83582	psoriasis	pso11	1	0	FALSE
+GSE83582	psoriasis	pso12	1	0	FALSE
+GSE83645	psoriasis	patient1	1	0	FALSE
+GSE83645	psoriasis	patient2	1	0	FALSE
+GSE83645	psoriasis	patient3	1	0	FALSE
+GSE83645	psoriasis	patient4	1	0	FALSE
+GSE83645	psoriasis	patient5	1	0	FALSE
+GSE83687	ulcerative colitis	S8	0	1	FALSE
+GSE83687	crohn's disease	S58	1	0	FALSE
+GSE83687	ulcerative colitis	S93	0	1	FALSE
+GSE83687	ulcerative colitis	S129	1	0	FALSE
+GSE85034	psoriasis	Subject_1	0	1	FALSE
+GSE85034	psoriasis	Subject_2	0	1	FALSE
+GSE85034	psoriasis	Subject_3	0	1	FALSE
+GSE85034	psoriasis	Subject_4	0	1	FALSE
+GSE85034	psoriasis	Subject_5	0	1	FALSE
+GSE85034	psoriasis	Subject_6	0	1	FALSE
+GSE85034	psoriasis	Subject_7	0	1	FALSE
+GSE85034	psoriasis	Subject_8	0	1	FALSE
+GSE85034	psoriasis	Subject_9	0	1	FALSE
+GSE85034	psoriasis	Subject_10	0	1	FALSE
+GSE85034	psoriasis	Subject_11	0	1	FALSE
+GSE85034	psoriasis	Subject_12	0	1	FALSE
+GSE85034	psoriasis	Subject_13	0	1	FALSE
+GSE85034	psoriasis	Subject_14	0	1	FALSE
+GSE85034	psoriasis	Subject_15	0	1	FALSE
+GSE85034	psoriasis	Subject_16	0	1	FALSE
+GSE85034	psoriasis	Subject_17	0	1	FALSE
+GSE85034	psoriasis	Subject_18	0	1	FALSE
+GSE85034	psoriasis	Subject_19	0	1	FALSE
+GSE85034	psoriasis	Subject_20	0	1	FALSE
+GSE85034	psoriasis	Subject_21	0	1	FALSE
+GSE85034	psoriasis	Subject_22	0	1	FALSE
+GSE85034	psoriasis	Subject_23	0	1	FALSE
+GSE85034	psoriasis	Subject_24	0	1	FALSE
+GSE85034	psoriasis	Subject_25	0	1	FALSE
+GSE85034	psoriasis	Subject_26	0	1	FALSE
+GSE85034	psoriasis	Subject_27	0	1	FALSE
+GSE85034	psoriasis	Subject_29	0	1	FALSE
+GSE85034	psoriasis	Subject_30	0	1	FALSE
+GSE9452	ulcerative colitis	subj_26	1	0	FALSE
+GSE9452	ulcerative colitis	subj_30	1	0	FALSE
+GSE9452	ulcerative colitis	subj_76	1	0	FALSE
+GSE9452	ulcerative colitis	subj_93	1	0	FALSE
+GSE9452	ulcerative colitis	subj_94	1	0	FALSE
+GSE9452	ulcerative colitis	subj_95	1	0	FALSE
+GSE9452	ulcerative colitis	subj_119	1	0	FALSE
+GSE9452	ulcerative colitis	subj_125	1	0	FALSE
+GSE9452	ulcerative colitis	subj_75	0	1	FALSE
+GSE9452	ulcerative colitis	subj_122	0	1	FALSE
+GSE9452	ulcerative colitis	subj_123	0	1	FALSE
+GSE9452	ulcerative colitis	subj_744	0	1	FALSE
+GSE9452	ulcerative colitis	subj_758	0	1	FALSE
+GSE9452	ulcerative colitis	subj_877	0	1	FALSE
+GSE9452	ulcerative colitis	subj_881	0	1	FALSE
+GSE95095	crohn's disease	subj_1	1	0	FALSE
+GSE95095	crohn's disease	subj_2	1	0	FALSE
+GSE95095	crohn's disease	subj_3	1	0	FALSE
+GSE95095	crohn's disease	subj_4	1	0	FALSE
+GSE95095	crohn's disease	subj_5	1	0	FALSE
+GSE95095	crohn's disease	subj_6	1	0	FALSE
+GSE95095	crohn's disease	subj_7	1	0	FALSE
+GSE95095	crohn's disease	subj_8	1	0	FALSE
+GSE95095	crohn's disease	subj_9	1	0	FALSE
+GSE95095	crohn's disease	subj_10	1	0	FALSE
+GSE95095	crohn's disease	subj_11	1	0	FALSE
+GSE95095	crohn's disease	subj_12	1	0	FALSE
+GSE95095	crohn's disease	subj_13	1	0	FALSE
+GSE95095	crohn's disease	subj_14	1	0	FALSE
+GSE95095	crohn's disease	subj_15	1	0	FALSE
+GSE95095	crohn's disease	subj_16	1	0	FALSE
+GSE95095	crohn's disease	subj_17	1	0	FALSE
+GSE95095	crohn's disease	subj_18	1	0	FALSE
+GSE95095	crohn's disease	subj_19	1	0	FALSE
+GSE95095	crohn's disease	subj_20	1	0	FALSE
+GSE95095	crohn's disease	subj_21	1	0	FALSE
+GSE95095	crohn's disease	subj_22	1	0	FALSE
+GSE95095	crohn's disease	subj_23	1	0	FALSE
+GSE95095	crohn's disease	subj_24	1	0	FALSE

@@ -1,0 +1,72 @@
+series_id	cluster_label	disease	n_samples	proportion
+GSE100833	High	crohn's disease	77	0.9625
+GSE100833	High	inflammatory bowel disease	3	0.0375
+GSE100833	Low	crohn's disease	120	0.967741935483871
+GSE100833	Low	inflammatory bowel disease	4	0.032258064516129
+GSE103106	Low	multiple sclerosis (secondary progressive)	5	0.454545454545455
+GSE103106	Low	multiple sclerosis (primary progressive)	1	0.0909090909090909
+GSE103106	Low	multiple sclerosis (relapsing-remitting)	5	0.454545454545455
+GSE103106	High	multiple sclerosis (secondary progressive)	18	0.818181818181818
+GSE103106	High	multiple sclerosis (primary progressive)	4	0.181818181818182
+GSE110169	Low	systemic lupus erythematosus	26	0.302325581395349
+GSE110169	Low	rheumatoid arthritis	60	0.697674418604651
+GSE110169	High	rheumatoid arthritis	24	0.3
+GSE110169	High	systemic lupus erythematosus	56	0.7
+GSE112057	Low	crohn's disease	20	0.246913580246914
+GSE112057	Low	ulcerative colitis	7	0.0864197530864198
+GSE112057	Low	juvenile idiopathic arthritis (polyarticular)	20	0.246913580246914
+GSE112057	Low	juvenile idiopathic arthritis (oligoarticular)	22	0.271604938271605
+GSE112057	Low	juvenile idiopathic arthritis (systemic)	12	0.148148148148148
+GSE112057	High	crohn's disease	40	0.36697247706422
+GSE112057	High	juvenile idiopathic arthritis (polyarticular)	26	0.238532110091743
+GSE112057	High	juvenile idiopathic arthritis (systemic)	14	0.128440366972477
+GSE112057	High	juvenile idiopathic arthritis (oligoarticular)	21	0.192660550458716
+GSE112057	High	ulcerative colitis	8	0.073394495412844
+GSE119600	High	primary biliary cholangitis	50	0.29940119760479
+GSE119600	High	primary sclerosing cholangitis	24	0.143712574850299
+GSE119600	High	crohn's disease	50	0.29940119760479
+GSE119600	High	ulcerative colitis	43	0.25748502994012
+GSE119600	Low	primary biliary cholangitis	40	0.256410256410256
+GSE119600	Low	primary sclerosing cholangitis	21	0.134615384615385
+GSE119600	Low	crohn's disease	45	0.288461538461538
+GSE119600	Low	ulcerative colitis	50	0.320512820512821
+GSE126124	High	crohn's disease	25	0.714285714285714
+GSE126124	High	pancolitis	7	0.2
+GSE126124	High	ulcerative colitis (left-sided)	3	0.0857142857142857
+GSE126124	Low	crohn's disease	14	0.583333333333333
+GSE126124	Low	pancolitis	7	0.291666666666667
+GSE126124	Low	inflammatory bowel disease	1	0.0416666666666667
+GSE126124	Low	inflammatory bowel disease unclassified	1	0.0416666666666667
+GSE126124	Low	ulcerative colitis (left-sided)	1	0.0416666666666667
+GSE167923	High	subacute cutaneous lupus	5	0.121951219512195
+GSE167923	High	discoid lupus erythematosus	27	0.658536585365854
+GSE167923	High	tumid lupus erythematosus	8	0.195121951219512
+GSE167923	High	lichen planus	1	0.024390243902439
+GSE167923	Low	subacute cutaneous lupus	2	0.0952380952380952
+GSE167923	Low	tumid lupus erythematosus	2	0.0952380952380952
+GSE167923	Low	lichen planus	1	0.0476190476190476
+GSE167923	Low	discoid lupus erythematosus	16	0.761904761904762
+GSE17048	Low	multiple sclerosis (relapsing-remitting)	9	0.272727272727273
+GSE17048	Low	multiple sclerosis (secondary progressive)	7	0.212121212121212
+GSE17048	Low	multiple sclerosis (primary progressive)	17	0.515151515151515
+GSE17048	High	multiple sclerosis (relapsing-remitting)	27	0.409090909090909
+GSE17048	High	multiple sclerosis (secondary progressive)	13	0.196969696969697
+GSE17048	High	multiple sclerosis (primary progressive)	26	0.393939393939394
+GSE186507	High	crohn's disease	218	0.527845036319613
+GSE186507	High	ulcerative colitis	195	0.472154963680387
+GSE186507	Low	ulcerative colitis	194	0.475490196078431
+GSE186507	Low	crohn's disease	214	0.524509803921569
+GSE22098	Low	still disease	17	0.178947368421053
+GSE22098	Low	systemic lupus erythematosus	26	0.273684210526316
+GSE22098	Low	systemic lupus erythematosus (pediatric)	52	0.547368421052632
+GSE22098	High	still disease	14	0.304347826086957
+GSE22098	High	systemic lupus erythematosus	2	0.0434782608695652
+GSE22098	High	systemic lupus erythematosus (pediatric)	30	0.652173913043478
+GSE94648	Low	ulcerative colitis (active)	3	0.09375
+GSE94648	Low	ulcerative colitis (inactive)	4	0.125
+GSE94648	Low	crohn's disease (active)	18	0.5625
+GSE94648	Low	crohn's disease (inactive)	7	0.21875
+GSE94648	High	ulcerative colitis (active)	14	0.333333333333333
+GSE94648	High	ulcerative colitis (inactive)	4	0.0952380952380952
+GSE94648	High	crohn's disease (active)	22	0.523809523809524
+GSE94648	High	crohn's disease (inactive)	2	0.0476190476190476

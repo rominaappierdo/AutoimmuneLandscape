@@ -1,0 +1,38 @@
+series_id	correlation_with_consensus	silhouette	n_samples	diseases
+GSE15258	0.984579570111284	0.277986359533515	86	rheumatoid arthritis
+GSE126124	0.97684641857699	0.252834961445781	59	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE93272	0.975109343140087	0.361678485739008	66	rheumatoid arthritis
+GSE112087	0.97481860615353	0.361591563970923	31	systemic lupus erythematosus
+GSE58795	0.973879800191785	0.404626839159927	59	rheumatoid arthritis
+GSE51092	0.969714196382719	0.241645139284243	190	sjogren's syndrome
+GSE54629	0.967900711796294	0.366327563328425	69	rheumatoid arthritis
+GSE74143	0.967664709520756	0.277253377087523	377	rheumatoid arthritis
+GSE45291	0.964816520454572	0.228163271229643	292	systemic lupus erythematosus
+GSE55201	0.958765991733855	0.322190345349453	45	psoriasis
+GSE103106	0.958080323865042	0.326971280195214	33	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE186507	0.957709486832852	0.317264840290826	821	crohn's disease | ulcerative colitis
+GSE94648	0.957399479493591	0.287466489510459	74	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE167923	0.956961309960556	0.339423192429618	62	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE66795	0.951012755535927	0.241988886856756	74	sjogren's syndrome (primary)
+GSE100833	0.947524794888064	0.249005825688454	204	crohn's disease | inflammatory bowel disease
+GSE65391	0.942938821136099	0.217231861320976	139	systemic lupus erythematosus
+GSE84844	0.931976901882941	0.3016428169676	30	sjogren's syndrome (primary)
+GSE41846	0.927218720895961	0.240892878183294	111	multiple sclerosis
+GSE110169	0.922462873355025	0.343187981937108	166	rheumatoid arthritis | systemic lupus erythematosus
+GSE61240	0.922205388315348	0.309405638694566	550	multiple sclerosis (relapsing-remitting)
+GSE112057	0.920824666072762	0.214463403184837	190	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE151161	0.917788495070961	0.2581979844065	38	rheumatoid arthritis
+GSE112594	0.914198123035237	0.386103512492186	42	type 1 diabetes (newly diagnosed)
+GSE119600	0.907743146935112	0.224856130385986	323	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE61635	0.902828713911573	0.249472187996736	64	systemic lupus erythematosus
+GSE100164	0.898846233367933	0.273026291066774	62	systemic-onset juvenile idiopathic arthritis
+GSE17048	0.883187310049102	0.295968287999243	99	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE130953	0.882887103763971	0.314153208787318	62	systemic sclerosis
+GSE41847	0.876248046392758	0.258956653047992	59	multiple sclerosis
+GSE143507	0.866400888395865	0.309915172070816	101	crohn's disease
+GSE22098	0.858209104263928	0.233268517168666	141	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE12051	0.825414629119849	0.211853412112401	44	rheumatoid arthritis
+GSE100163	0.818442080259941	0.24028954012045	55	systemic lupus erythematosus
+GSE129705	0.784608261248834	0.343768807210068	63	rheumatoid arthritis
+GSE72326	0.701542763297605	0.247833369255614	58	systemic lupus erythematosus
+GSE20690	0.665228409362891	0.290736429461767	68	rheumatoid arthritis

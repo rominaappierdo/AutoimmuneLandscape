@@ -1,0 +1,130 @@
+series_id	disease	n_female	n_male	n_total	eligible
+GSE193677	crohn's disease	231	267	498	TRUE
+GSE193677	ulcerative colitis	209	212	421	TRUE
+GSE150961	ulcerative colitis	161	170	331	TRUE
+GSE101794	crohn's disease	105	149	254	TRUE
+GSE109142	ulcerative colitis	94	112	206	TRUE
+GSE186582	crohn's disease	107	97	204	TRUE
+GSE111889	crohn's disease	67	60	127	TRUE
+GSE181549	systemic sclerosis	89	24	113	TRUE
+GSE137344	crohn's disease	58	54	112	TRUE
+GSE100833	crohn's disease	41	34	75	TRUE
+GSE111889	ulcerative colitis	46	28	74	TRUE
+GSE58095	systemic sclerosis	45	16	61	TRUE
+GSE48780	rheumatoid arthritis	41	8	49	TRUE
+GSE198520	rheumatoid arthritis	35	11	46	TRUE
+GSE137344	ulcerative colitis	23	21	44	TRUE
+GSE154926	sjogren's syndrome (primary)	43	0	43	FALSE
+GSE83687	crohn's disease	16	26	42	TRUE
+GSE126124	crohn's disease	14	23	37	TRUE
+GSE151686	crohn's disease	19	15	34	TRUE
+GSE83687	ulcerative colitis	12	20	32	TRUE
+GSE136757	psoriasis	3	27	30	FALSE
+GSE130038	ulcerative colitis	12	14	26	TRUE
+GSE150851	psoriasis	15	11	26	TRUE
+GSE48634	ulcerative colitis	8	15	23	TRUE
+GSE57225	psoriasis, eczema	15	7	22	TRUE
+GSE26927	huntington's disease	5	15	20	TRUE
+GSE26927	multiple sclerosis	9	11	20	TRUE
+GSE26927	schizophrenia	8	12	20	TRUE
+GSE66207	crohn's disease	14	6	20	TRUE
+GSE26927	parkinson's disease	8	11	19	TRUE
+GSE97165	rheumatoid arthritis (early)	8	11	19	TRUE
+GSE114286	psoriasis	6	12	18	TRUE
+GSE159008	collagenous colitis (active)	16	2	18	FALSE
+GSE160306	non-proliferative diabetic retinopathy	6	11	17	TRUE
+GSE26927	alzheimer's disease	8	9	17	TRUE
+GSE38713	ulcerative colitis (active)	13	4	17	FALSE
+GSE26927	amyotrophic lateral sclerosis	3	13	16	FALSE
+GSE36807	ulcerative colitis	7	8	15	TRUE
+GSE126124	pancolitis	5	9	14	TRUE
+GSE137218	psoriasis	6	8	14	TRUE
+GSE34248	psoriasis	4	10	14	FALSE
+GSE67785	psoriasis	6	8	14	TRUE
+GSE107499	ulcerative colitis	6	7	13	TRUE
+GSE36807	crohn's disease	4	9	13	FALSE
+GSE48634	crohn's disease	7	6	13	TRUE
+GSE52746	crohn's disease (active)	6	7	13	TRUE
+GSE6710	psoriasis	2	11	13	FALSE
+GSE160306	diabetes	7	5	12	TRUE
+GSE24742	rheumatoid arthritis	9	3	12	FALSE
+GSE45867	rheumatoid arthritis (early)	9	3	12	FALSE
+GSE53431	psoriasis	6	6	12	TRUE
+GSE66511	psoriasis	5	7	12	TRUE
+GSE47726	rheumatoid arthritis	8	3	11	FALSE
+GSE153015	rheumatoid arthritis	10	0	10	FALSE
+GSE39340	rheumatoid arthritis	7	3	10	FALSE
+GSE72492	type 1 diabetes	3	7	10	FALSE
+GSE159008	collagenous colitis (inactive/in remission)	7	2	9	FALSE
+GSE45980	hypertensive nephropathy	1	8	9	FALSE
+GSE45980	membranous nephropathy	4	5	9	FALSE
+GSE110008	coronary artery disease	1	7	8	FALSE
+GSE110008	coronary artery disease, rheumatoid arthritis	3	5	8	FALSE
+GSE127952	sjogren's syndrome (primary)	8	0	8	FALSE
+GSE38713	ulcerative colitis (remission)	5	3	8	FALSE
+GSE45980	minimal change disease	6	2	8	FALSE
+GSE52139	multiple sclerosis (secondary progressive)	6	2	8	FALSE
+GSE58121	psoriasis	8	0	8	FALSE
+GSE36700	rheumatoid arthritis	2	5	7	FALSE
+GSE39340	osteoarthritis	5	2	7	FALSE
+GSE93698	rheumatoid arthritis	2	5	7	FALSE
+GSE137619	multiple sclerosis (primary progressive)	2	4	6	FALSE
+GSE172188	rheumatoid arthritis	6	0	6	FALSE
+GSE72492	AAB+	3	3	6	FALSE
+GSE123496	multiple sclerosis	5	0	5	FALSE
+GSE178753	ulcerative colitis	3	2	5	FALSE
+GSE26952	atopic dermatitis	3	2	5	FALSE
+GSE36700	osteoarthritis	4	1	5	FALSE
+GSE36700	microcrystalline arthritis	1	4	5	FALSE
+GSE39340	ankylosing spondylitis	2	3	5	FALSE
+GSE40568	sjogren's syndrome	5	0	5	FALSE
+GSE40568	IgG4-related disease	5	0	5	FALSE
+GSE42911	ulcerative colitis	3	2	5	FALSE
+GSE45980	diabetic nephropathy	0	5	5	FALSE
+GSE45980	focal segmental glomerulosclerosis	3	2	5	FALSE
+GSE57376	psoriasis	3	2	5	FALSE
+GSE60860	lupus nephritis (class 4)	4	1	5	FALSE
+GSE60860	vasculitis	2	3	5	FALSE
+GSE93698	osteoarthritis	4	1	5	FALSE
+GSE93698	microcrystalline arthritis	1	4	5	FALSE
+GSE126124	ulcerative colitis (left-sided)	2	2	4	FALSE
+GSE153015	osteoarthritis	3	1	4	FALSE
+GSE159008	ulcerative colitis (active)	3	1	4	FALSE
+GSE26952	psoriasis	2	2	4	FALSE
+GSE36700	systemic lupus erythematosus	4	0	4	FALSE
+GSE36700	seronegative arthritis	2	2	4	FALSE
+GSE57376	psoriatic arthritis	1	3	4	FALSE
+GSE60860	lupus nephritis (class 5)	4	0	4	FALSE
+GSE93698	systemic lupus erythematosus	4	0	4	FALSE
+GSE93698	seronegative arthritis	2	2	4	FALSE
+GSE160804	ulcerative colitis	1	2	3	FALSE
+GSE181318	psoriasis	2	1	3	FALSE
+GSE2461	ulcerative colitis	1	2	3	FALSE
+GSE57376	rheumatoid arthritis	2	1	3	FALSE
+GSE58121	lichen planus	3	0	3	FALSE
+GSE60860	membranous nephropathy	1	2	3	FALSE
+GSE68923	psoriasis	3	0	3	FALSE
+GSE68924	psoriasis	3	0	3	FALSE
+GSE68937	psoriasis	0	3	3	FALSE
+GSE68939	psoriasis	0	3	3	FALSE
+GSE100833	inflammatory bowel disease	1	1	2	FALSE
+GSE131281	multiple sclerosis (progressive relapsing)	1	1	2	FALSE
+GSE131281	multiple sclerosis (secondary progressive)	1	1	2	FALSE
+GSE160306	proliferative diabetic retinopathy	2	0	2	FALSE
+GSE26305	crohn's disease	0	2	2	FALSE
+GSE26305	intestinal tuberculosis	2	0	2	FALSE
+GSE45980	IgA nephropathy	0	2	2	FALSE
+GSE52746	crohn's disease (inactive)	2	0	2	FALSE
+GSE60860	IgA nephropathy	0	2	2	FALSE
+GSE60860	membranoproliferative glomerulonephritis	0	2	2	FALSE
+GSE60860	focal segmental glomerulosclerosis	0	2	2	FALSE
+GSE60860	lupus nephritis (class 3)	2	0	2	FALSE
+GSE60860	minimal change disease	0	2	2	FALSE
+GSE80805	sjogren's syndrome	2	0	2	FALSE
+GSE126124	inflammatory bowel disease	0	1	1	FALSE
+GSE126124	inflammatory bowel disease unclassified	0	1	1	FALSE
+GSE131281	multiple sclerosis (primary progressive)	1	0	1	FALSE
+GSE137344	inflammatory bowel disease unclassified	0	1	1	FALSE
+GSE137344	irritable bowel syndrome	0	1	1	FALSE
+GSE60860	glomerulonephritis	1	0	1	FALSE
+GSE60860	diabetic nephropathy	0	1	1	FALSE

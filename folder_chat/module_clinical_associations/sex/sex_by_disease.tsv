@@ -1,0 +1,43 @@
+disease	n_female	n_male	n_total
+healthy	691	386	1077
+crohn's disease	428	476	904
+rheumatoid arthritis	572	131	703
+systemic lupus erythematosus	423	56	479
+ulcerative colitis	203	222	425
+multiple sclerosis	118	52	170
+sjogren's syndrome (primary)	103	1	104
+systemic lupus erythematosus (pediatric)	69	13	82
+juvenile idiopathic arthritis (polyarticular)	40	6	46
+type 1 diabetes	24	22	46
+juvenile idiopathic arthritis (oligoarticular)	25	18	43
+discoid lupus erythematosus	30	13	43
+type 1 diabetes (newly diagnosed)	16	26	42
+staphylococcus infection	20	20	40
+crohn's disease (active)	21	19	40
+juvenile idiopathic arthritis (systemic)	18	14	32
+still disease	15	16	31
+down syndrome	12	11	23
+systemic-onset juvenile idiopathic arthritis	14	8	22
+prediabetic	7	11	18
+ulcerative colitis (active)	5	12	17
+pancolitis	5	9	14
+streptococcus infection	6	6	12
+enthesitis-related arthritis	5	6	11
+tumid lupus erythematosus	6	4	10
+type 1 diabetes (fulminant)	8	2	10
+type 1A diabetes	8	2	10
+lupus nephritis	9	1	10
+irritable bowel syndrome	5	5	10
+crohn's disease (inactive)	5	4	9
+inflammatory bowel disease	6	2	8
+ulcerative colitis (inactive)	4	4	8
+subacute cutaneous lupus	7	0	7
+ulcerative colitis (left-sided)	2	2	4
+multiple sclerosis (secondary progressive)	2	1	3
+kawasaki disease	1	2	3
+lichen planus	2	0	2
+fever without source	1	1	2
+multiple sclerosis (relapsing-remitting)	0	1	1
+inflammatory bowel disease unclassified	0	1	1
+other	0	1	1
+diverticular disease	0	1	1

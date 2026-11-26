@@ -1,0 +1,102 @@
+series_id	disease	n_samples
+GSE100162	multiple sclerosis	34
+GSE100163	systemic lupus erythematosus	55
+GSE100164	systemic-onset juvenile idiopathic arthritis	62
+GSE100191	rheumatoid arthritis	7
+GSE100833	crohn's disease	197
+GSE100833	inflammatory bowel disease	7
+GSE103005	multiple sclerosis (secondary progressive)	3
+GSE103005	multiple sclerosis (relapsing-remitting)	1
+GSE103106	multiple sclerosis (secondary progressive)	23
+GSE103106	multiple sclerosis (primary progressive)	5
+GSE103106	multiple sclerosis (relapsing-remitting)	5
+GSE110169	rheumatoid arthritis	84
+GSE110169	systemic lupus erythematosus	82
+GSE110396	systemic lupus erythematosus	4
+GSE112057	crohn's disease	60
+GSE112057	juvenile idiopathic arthritis (polyarticular)	46
+GSE112057	juvenile idiopathic arthritis (oligoarticular)	43
+GSE112057	juvenile idiopathic arthritis (systemic)	26
+GSE112057	ulcerative colitis	15
+GSE112087	systemic lupus erythematosus	31
+GSE112594	type 1 diabetes (newly diagnosed)	42
+GSE11499	ulcerative colitis	6
+GSE11499	crohn's disease	5
+GSE119600	crohn's disease	95
+GSE119600	ulcerative colitis	93
+GSE119600	primary biliary cholangitis	90
+GSE119600	primary sclerosing cholangitis	45
+GSE12051	rheumatoid arthritis	44
+GSE126124	crohn's disease	39
+GSE126124	pancolitis	14
+GSE126124	ulcerative colitis (left-sided)	4
+GSE126124	inflammatory bowel disease	1
+GSE126124	inflammatory bowel disease unclassified	1
+GSE129705	rheumatoid arthritis	63
+GSE130953	systemic sclerosis	62
+GSE131526	type 1 diabetes	4
+GSE143507	crohn's disease	101
+GSE147339	psoriasis	10
+GSE151161	rheumatoid arthritis	38
+GSE15258	rheumatoid arthritis	86
+GSE154851	systemic lupus erythematosus	38
+GSE167923	discoid lupus erythematosus	43
+GSE167923	tumid lupus erythematosus	10
+GSE167923	subacute cutaneous lupus	7
+GSE167923	lichen planus	2
+GSE169568	crohn's disease	52
+GSE17048	multiple sclerosis (primary progressive)	43
+GSE17048	multiple sclerosis (relapsing-remitting)	36
+GSE17048	multiple sclerosis (secondary progressive)	20
+GSE17590	systemic-onset juvenile idiopathic arthritis	22
+GSE183701	type 1 diabetes	26
+GSE186507	crohn's disease	432
+GSE186507	ulcerative colitis	389
+GSE186724	psoriasis	7
+GSE20690	rheumatoid arthritis	68
+GSE22098	systemic lupus erythematosus (pediatric)	82
+GSE22098	still disease	31
+GSE22098	systemic lupus erythematosus	28
+GSE30208	type 1 diabetes	6
+GSE30209	type 1 diabetes	4
+GSE37107	rheumatoid arthritis	14
+GSE39088	systemic lupus erythematosus	26
+GSE41846	multiple sclerosis	111
+GSE41847	multiple sclerosis	59
+GSE44313	type 1 diabetes (fulminant)	5
+GSE44313	type 1A diabetes	5
+GSE44314	type 1 diabetes (fulminant)	5
+GSE44314	type 1A diabetes	5
+GSE45291	systemic lupus erythematosus	292
+GSE45536	systemic sclerosis	25
+GSE50635	systemic lupus erythematosus	33
+GSE51092	sjogren's syndrome	190
+GSE54629	rheumatoid arthritis	69
+GSE55201	psoriasis	45
+GSE57183	juvenile idiopathic arthritis (systemic)	6
+GSE57183	kawasaki disease	3
+GSE58667	enthesitis-related arthritis	11
+GSE58795	rheumatoid arthritis	59
+GSE61240	multiple sclerosis (relapsing-remitting)	550
+GSE61635	systemic lupus erythematosus	64
+GSE65391	systemic lupus erythematosus	139
+GSE66573	multiple sclerosis (relapsing-remitting)	6
+GSE66795	sjogren's syndrome (primary)	74
+GSE68689	rheumatoid arthritis	10
+GSE72326	systemic lupus erythematosus	58
+GSE72747	lupus nephritis	10
+GSE72754	systemic lupus erythematosus	6
+GSE74143	rheumatoid arthritis	377
+GSE75173	systemic sclerosis, pulmonary arterial hypertension	10
+GSE78193	systemic lupus erythematosus	26
+GSE80183	systemic lupus erythematosus	12
+GSE84844	sjogren's syndrome (primary)	30
+GSE86434	crohn's disease	23
+GSE86434	ulcerative colitis	21
+GSE89022	type 1 diabetes	10
+GSE93272	rheumatoid arthritis	66
+GSE94648	crohn's disease (active)	40
+GSE94648	ulcerative colitis (active)	17
+GSE94648	crohn's disease (inactive)	9
+GSE94648	ulcerative colitis (inactive)	8
+GSE99967	systemic lupus erythematosus	38

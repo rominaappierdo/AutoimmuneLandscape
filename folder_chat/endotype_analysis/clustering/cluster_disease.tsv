@@ -1,0 +1,79 @@
+cluster	disease	N	percentage_within_disease	percentage_within_cluster
+C1	multiple sclerosis	112	54.9019607843137	3.54094214353462
+C2	multiple sclerosis	92	45.0980392156863	3.86067981535879
+C1	systemic lupus erythematosus	469	50.3218884120172	14.8276952260512
+C2	systemic lupus erythematosus	463	49.6781115879828	19.4292908099035
+C2	systemic-onset juvenile idiopathic arthritis	30	35.7142857142857	1.25891733109526
+C1	systemic-onset juvenile idiopathic arthritis	54	64.2857142857143	1.70723996206133
+C2	rheumatoid arthritis	441	44.7715736040609	18.5060847671003
+C1	rheumatoid arthritis	544	55.2284263959391	17.1988618400253
+C1	crohn's disease	618	61.5537848605578	19.5384128991464
+C2	crohn's disease	386	38.4462151394422	16.1980696600923
+C2	inflammatory bowel disease	1	12.5	0.0419639110365086
+C1	inflammatory bowel disease	7	87.5	0.221308883970914
+C2	multiple sclerosis (relapsing-remitting)	243	40.6354515050167	10.1972303818716
+C2	multiple sclerosis (secondary progressive)	16	34.7826086956522	0.671422576584138
+C1	multiple sclerosis (secondary progressive)	30	65.2173913043478	0.94846664558963
+C1	multiple sclerosis (primary progressive)	26	54.1666666666667	0.822004426177679
+C2	multiple sclerosis (primary progressive)	22	45.8333333333333	0.923206042803189
+C2	ulcerative colitis	235	44.8473282442748	9.86151909357952
+C1	juvenile idiopathic arthritis (polyarticular)	27	58.6956521739131	0.853619981030667
+C2	juvenile idiopathic arthritis (polyarticular)	19	41.304347826087	0.797314309693664
+C2	juvenile idiopathic arthritis (oligoarticular)	21	48.8372093023256	0.881242131766681
+C2	juvenile idiopathic arthritis (systemic)	12	37.5	0.503566932438103
+C1	juvenile idiopathic arthritis (systemic)	20	62.5	0.632311097059754
+C1	juvenile idiopathic arthritis (oligoarticular)	22	51.1627906976744	0.695542206765729
+C1	ulcerative colitis	289	55.1526717557252	9.13689535251344
+C1	type 1 diabetes (newly diagnosed)	25	59.5238095238095	0.790388871324692
+C2	type 1 diabetes (newly diagnosed)	17	40.4761904761905	0.713386487620646
+C1	primary biliary cholangitis	59	65.5555555555556	1.86531773632627
+C2	primary biliary cholangitis	31	34.4444444444444	1.30088124213177
+C1	primary sclerosing cholangitis	27	60	0.853619981030667
+C2	primary sclerosing cholangitis	18	40	0.755350398657155
+C2	pancolitis	7	50	0.29374737725556
+C1	pancolitis	7	50	0.221308883970914
+C1	ulcerative colitis (left-sided)	3	75	0.094846664558963
+C2	inflammatory bowel disease unclassified	1	100	0.0419639110365086
+C2	ulcerative colitis (left-sided)	1	25	0.0419639110365086
+C2	systemic sclerosis	35	40.2298850574713	1.4687368862778
+C1	systemic sclerosis	52	59.7701149425287	1.64400885235536
+C2	type 1 diabetes	24	48	1.00713386487621
+C1	type 1 diabetes	26	52	0.822004426177679
+C1	psoriasis	41	66.1290322580645	1.29623774897249
+C2	psoriasis	21	33.8709677419355	0.881242131766681
+C1	subacute cutaneous lupus	5	71.4285714285714	0.158077774264938
+C2	subacute cutaneous lupus	2	28.5714285714286	0.0839278220730172
+C1	discoid lupus erythematosus	25	58.1395348837209	0.790388871324692
+C1	tumid lupus erythematosus	8	80	0.252924438823901
+C2	tumid lupus erythematosus	2	20	0.0839278220730172
+C2	lichen planus	1	50	0.0419639110365086
+C2	discoid lupus erythematosus	18	41.8604651162791	0.755350398657155
+C1	lichen planus	1	50	0.0316155548529877
+C1	multiple sclerosis (relapsing-remitting)	355	59.3645484949833	11.2235219728106
+C1	still disease	27	87.0967741935484	0.853619981030667
+C2	still disease	4	12.9032258064516	0.167855644146034
+C1	systemic lupus erythematosus (pediatric)	62	75.609756097561	1.96016440088524
+C2	systemic lupus erythematosus (pediatric)	20	24.390243902439	0.839278220730172
+C2	type 1 diabetes (fulminant)	5	50	0.209819555182543
+C1	type 1 diabetes (fulminant)	5	50	0.158077774264938
+C1	type 1A diabetes	8	80	0.252924438823901
+C2	type 1A diabetes	2	20	0.0839278220730172
+C2	sjogren's syndrome	89	46.8421052631579	3.73478808224927
+C1	sjogren's syndrome	101	53.1578947368421	3.19317104015176
+C2	kawasaki disease	3	100	0.125891733109526
+C1	enthesitis-related arthritis	8	72.7272727272727	0.252924438823901
+C2	enthesitis-related arthritis	3	27.2727272727273	0.125891733109526
+C1	sjogren's syndrome (primary)	47	45.1923076923077	1.48593107809042
+C2	sjogren's syndrome (primary)	57	54.8076923076923	2.39194292908099
+C2	lupus nephritis	4	40	0.167855644146034
+C1	lupus nephritis	6	60	0.189693329117926
+C2	systemic sclerosis, pulmonary arterial hypertension	4	40	0.167855644146034
+C1	systemic sclerosis, pulmonary arterial hypertension	6	60	0.189693329117926
+C2	ulcerative colitis (active)	3	17.6470588235294	0.125891733109526
+C1	ulcerative colitis (active)	14	82.3529411764706	0.442617767941827
+C2	ulcerative colitis (inactive)	4	50	0.167855644146034
+C1	ulcerative colitis (inactive)	4	50	0.126462219411951
+C2	crohn's disease (active)	19	47.5	0.797314309693664
+C1	crohn's disease (active)	21	52.5	0.663926651912741
+C2	crohn's disease (inactive)	7	77.7777777777778	0.29374737725556
+C1	crohn's disease (inactive)	2	22.2222222222222	0.0632311097059754

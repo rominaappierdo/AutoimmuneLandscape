@@ -1,0 +1,60 @@
+disease	n_female	n_male	n_total
+crohn's disease	683	748	1431
+ulcerative colitis	586	615	1201
+healthy	435	388	823
+psoriasis	74	111	185
+systemic sclerosis	134	40	174
+rheumatoid arthritis	122	39	161
+sjogren's syndrome (primary)	51	0	51
+rheumatoid arthritis (early)	17	14	31
+multiple sclerosis	14	11	25
+psoriasis, eczema	15	7	22
+osteoarthritis	16	5	21
+ulcerative colitis (active)	16	5	21
+huntington's disease	5	15	20
+schizophrenia	8	12	20
+parkinson's disease	8	11	19
+collagenous colitis (active)	16	2	18
+non-proliferative diabetic retinopathy	6	11	17
+alzheimer's disease	8	9	17
+amyotrophic lateral sclerosis	3	13	16
+pancolitis	5	9	14
+crohn's disease (active)	6	7	13
+diabetes	7	5	12
+membranous nephropathy	5	7	12
+multiple sclerosis (secondary progressive)	7	3	10
+microcrystalline arthritis	2	8	10
+minimal change disease	6	4	10
+type 1 diabetes	3	7	10
+collagenous colitis (inactive/in remission)	7	2	9
+hypertensive nephropathy	1	8	9
+coronary artery disease	1	7	8
+coronary artery disease, rheumatoid arthritis	3	5	8
+systemic lupus erythematosus	8	0	8
+seronegative arthritis	4	4	8
+ulcerative colitis (remission)	5	3	8
+multiple sclerosis (primary progressive)	3	4	7
+sjogren's syndrome	7	0	7
+focal segmental glomerulosclerosis	3	4	7
+diabetic nephropathy	0	6	6
+AAB+	3	3	6
+atopic dermatitis	3	2	5
+ankylosing spondylitis	2	3	5
+IgG4-related disease	5	0	5
+lupus nephritis (class 4)	4	1	5
+vasculitis	2	3	5
+ulcerative colitis (left-sided)	2	2	4
+IgA nephropathy	0	4	4
+psoriatic arthritis	1	3	4
+lupus nephritis (class 5)	4	0	4
+inflammatory bowel disease	1	2	3
+lichen planus	3	0	3
+inflammatory bowel disease unclassified	0	2	2
+multiple sclerosis (progressive relapsing)	1	1	2
+proliferative diabetic retinopathy	2	0	2
+intestinal tuberculosis	2	0	2
+crohn's disease (inactive)	2	0	2
+membranoproliferative glomerulonephritis	0	2	2
+lupus nephritis (class 3)	2	0	2
+irritable bowel syndrome	0	1	1
+glomerulonephritis	1	0	1

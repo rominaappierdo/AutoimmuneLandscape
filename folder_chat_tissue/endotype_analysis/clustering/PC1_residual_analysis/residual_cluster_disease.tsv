@@ -1,0 +1,238 @@
+residual_cluster	disease	N	percentage_within_disease
+R1	multiple sclerosis	22	33.8461538461539
+R2	multiple sclerosis	43	66.1538461538462
+R2	crohn's disease	1067	53.8616860171631
+R1	crohn's disease	914	46.138313982837
+R1	inflammatory bowel disease	16	59.2592592592593
+R2	inflammatory bowel disease	11	40.7407407407407
+R1	ulcerative colitis	1014	42.1972534332085
+R2	ulcerative colitis	1389	57.8027465667915
+R2	crohn's disease (post-operative)	3	100
+R2	crohn's disease (late stage)	8	57.1428571428572
+R1	crohn's disease (late stage)	6	42.8571428571429
+R2	crohn's disease (newly diagnosed)	11	61.1111111111111
+R1	crohn's disease (newly diagnosed)	7	38.8888888888889
+R1	crohn's disease (post-operative recurrent)	16	53.3333333333333
+R2	crohn's disease (post-operative recurrent)	14	46.6666666666667
+R2	psoriasis	505	49.6070726915521
+R1	psoriasis	513	50.3929273084479
+R1	diabetic nephropathy	30	55.5555555555556
+R2	diabetic nephropathy	24	44.4444444444444
+R1	minimal change disease	17	26.1538461538462
+R2	minimal change disease	48	73.8461538461538
+R2	thin membrane disease	8	66.6666666666667
+R1	thin membrane disease	4	33.3333333333333
+R2	hypertensive nephropathy	44	72.1311475409836
+R1	hypertensive nephropathy	17	27.8688524590164
+R2	tumor nephrectomy	15	78.9473684210526
+R2	IgA nephropathy	89	69.53125
+R1	IgA nephropathy	39	30.46875
+R1	focal segmental glomerular sclerosis	9	50
+R2	focal segmental glomerular sclerosis	9	50
+R2	membranous glomerulonephropathy	14	66.6666666666667
+R1	membranous glomerulonephropathy	7	33.3333333333333
+R1	systemic lupus erythematosus	73	73
+R2	systemic lupus erythematosus	27	27
+R2	focal segmental glomerular sclerosis, minimal change disease	3	50
+R1	focal segmental glomerular sclerosis, minimal change disease	3	50
+R1	ANCA-associated vasculitis	13	59.0909090909091
+R2	ANCA-associated vasculitis	9	40.9090909090909
+R1	tumor nephrectomy	4	21.0526315789474
+R1	cutaneous lupus (chronic)	6	100
+R2	cutaneous lupus (subacute)	35	50
+R1	cutaneous lupus (subacute)	35	50
+R2	cutaneous lupus (acute)	4	57.1428571428572
+R1	cutaneous lupus (acute)	3	42.8571428571429
+R2	coronary artery disease	5	62.5
+R1	coronary artery disease	3	37.5
+R2	coronary artery disease, rheumatoid arthritis	5	62.5
+R1	coronary artery disease, rheumatoid arthritis	3	37.5
+R1	cutaneous lupus erythematosus (chronic)	6	100
+R2	lupus nephritis	35	70
+R2	crohn's disease (colonic)	20	62.5
+R1	crohn's disease (colonic)	12	37.5
+R2	crohn's disease (ileal)	31	51.6666666666667
+R1	crohn's disease (ileal)	29	48.3333333333333
+R2	systemic sclerosis (diffuse cutaneous)	28	58.3333333333333
+R1	systemic sclerosis (diffuse cutaneous)	20	41.6666666666667
+R1	discoid lupus erythematosus	40	63.4920634920635
+R2	discoid lupus erythematosus	23	36.5079365079365
+R1	atopic dermatitis	18	41.8604651162791
+R2	atopic dermatitis	25	58.1395348837209
+R1	pancolitis	20	60.6060606060606
+R2	pancolitis	13	39.3939393939394
+R1	ulcerative colitis (left-sided)	2	50
+R2	ulcerative colitis (left-sided)	2	50
+R2	inflammatory bowel disease unclassified	5	62.5
+R1	sjogren's syndrome (primary)	52	61.9047619047619
+R2	sjogren's syndrome (primary)	32	38.0952380952381
+R2	ulcerative colitis (remission)	30	78.9473684210526
+R1	ulcerative colitis (remission)	8	21.0526315789474
+R2	multiple sclerosis (primary progressive)	11	57.8947368421053
+R1	multiple sclerosis (secondary progressive)	17	48.5714285714286
+R2	multiple sclerosis (secondary progressive)	18	51.4285714285714
+R2	multiple sclerosis (progressive relapsing)	2	66.6666666666667
+R1	multiple sclerosis (primary progressive)	8	42.1052631578947
+R1	multiple sclerosis (progressive relapsing)	1	33.3333333333333
+R1	collagen colitis	1	100
+R1	juvenile myositis	3	20
+R2	juvenile myositis	12	80
+R2	systemic lupus erythematosus (childhood-onset)	2	40
+R1	systemic lupus erythematosus (childhood-onset)	3	60
+R1	rheumatoid arthritis	112	51.1415525114155
+R2	rheumatoid arthritis	107	48.8584474885845
+R2	osteoarthritis	22	70.9677419354839
+R1	osteoarthritis	9	29.0322580645161
+R2	collagenous colitis (active)	7	38.8888888888889
+R1	collagenous colitis (active)	11	61.1111111111111
+R1	collagenous colitis (inactive/in remission)	2	22.2222222222222
+R2	collagenous colitis (inactive/in remission)	7	77.7777777777778
+R2	ulcerative colitis (active)	61	45.5223880597015
+R1	ulcerative colitis (active)	73	54.4776119402985
+R2	diabetes	7	58.3333333333333
+R1	diabetes	5	41.6666666666667
+R2	non-proliferative diabetic retinopathy	11	64.7058823529412
+R1	non-proliferative diabetic retinopathy	6	35.2941176470588
+R1	proliferative diabetic retinopathy	1	50
+R2	proliferative diabetic retinopathy	1	50
+R2	focal segmental glomerulosclerosis	5	45.4545454545455
+R1	focal segmental glomerulosclerosis	6	54.5454545454546
+R1	lupus nephritis	15	30
+R1	membranous nephropathy	6	37.5
+R2	membranous nephropathy	10	62.5
+R1	crohn's disease (active)	60	77.9220779220779
+R1	ulcerative colitis (inactive)	3	8.57142857142857
+R2	ulcerative colitis (inactive)	32	91.4285714285714
+R2	crohn's disease (inactive)	15	65.2173913043478
+R2	crohn's disease (active)	17	22.0779220779221
+R1	crohn's disease (inactive)	8	34.7826086956522
+R2	systemic sclerosis	95	54.2857142857143
+R1	systemic sclerosis	80	45.7142857142857
+R2	pityriasis rubra pilaris	13	100
+R2	idiopathic pulmonary fibrosis, usual interstitial pneumonia	12	60
+R1	rheumatoid arthritis, usual interstitial pneumonia	2	66.6666666666667
+R1	idiopathic pulmonary fibrosis, usual interstitial pneumonia	8	40
+R2	rheumatoid arthritis, usual interstitial pneumonia	1	33.3333333333333
+R2	osteoarthritis (late stage)	4	57.1428571428572
+R1	osteoarthritis (late stage)	3	42.8571428571429
+R2	rheumatoid arthritis (late stage)	2	100
+R1	multiple sclerosis (relapsing-remitting)	2	66.6666666666667
+R2	multiple sclerosis (relapsing-remitting)	1	33.3333333333333
+R1	sjogren's syndrome (advanced)	2	100
+R2	sjogren's syndrome (early)	2	40
+R1	sjogren's syndrome (early)	3	60
+R1	sjogren's syndrome (moderate)	3	100
+R1	intestinal tuberculosis	2	100
+R2	alzheimer's disease	6	30
+R1	alzheimer's disease	14	70
+R1	amyotrophic lateral sclerosis	14	87.5
+R2	amyotrophic lateral sclerosis	2	12.5
+R1	huntington's disease	13	65
+R2	huntington's disease	7	35
+R1	parkinson's disease	14	73.6842105263158
+R2	parkinson's disease	5	26.3157894736842
+R2	schizophrenia	19	95
+R1	schizophrenia	1	5
+R2	meningitis tuberculosis	2	66.6666666666667
+R1	meningitis tuberculosis	1	33.3333333333333
+R2	ulcerative colitis, colorectal cancer	10	100
+R1	colorectal cancer	52	86.6666666666667
+R2	colorectal cancer	8	13.3333333333333
+R1	ulcerative colitis associated colorectal cancer	6	100
+R2	microcrystalline arthritis	9	90
+R2	seronegative arthritis	8	100
+R2	ulcerative colitis (quiescent)	4	100
+R2	ulcerative colitis, neoplasia	3	27.2727272727273
+R1	ulcerative colitis, neoplasia	8	72.7272727272727
+R2	ankylosing spondylitis	3	60
+R1	ankylosing spondylitis	2	40
+R2	sjogren's syndrome	3	42.8571428571429
+R1	sjogren's syndrome	4	57.1428571428572
+R1	IgG4-related disease	1	20
+R2	IgG4-related disease	4	80
+R2	non-sjogren's sicca	13	92.8571428571429
+R1	non-sjogren's sicca	1	7.14285714285714
+R2	adenoma	8	53.3333333333333
+R1	adenoma	7	46.6666666666667
+R1	colorectal carcinoma	7	46.6666666666667
+R2	colorectal carcinoma	8	53.3333333333333
+R1	rheumatoid arthritis (early)	15	48.3870967741936
+R2	rheumatoid arthritis (early)	16	51.6129032258065
+R2	ulcerative colitis-associated dysplasia	6	100
+R2	left-sided coltis	6	30
+R1	left-sided coltis	14	70
+R1	idiopathic pulmonary fibrosis	11	84.6153846153846
+R2	idiopathic pulmonary fibrosis	2	15.3846153846154
+R1	idiopathic pulmonary arterial hypertension	3	37.5
+R2	idiopathic pulmonary arterial hypertension	5	62.5
+R1	systemic sclerosis, pulmonary fibrosis	5	38.4615384615385
+R2	systemic sclerosis, pulmonary fibrosis	8	61.5384615384615
+R1	systemic sclerosis, pulmonary arterial hypertension	6	60
+R2	systemic sclerosis, pulmonary arterial hypertension	4	40
+R2	familial adenomatous polyposis	5	62.5
+R1	familial adenomatous polyposis	3	37.5
+R1	inflammatory bowel disease unclassified	3	37.5
+R1	discoid lupus	7	100
+R1	psoriasis, eczema	9	40.9090909090909
+R2	psoriasis, eczema	13	59.0909090909091
+R2	psoriatic arthritis	3	75
+R1	psoriatic arthritis	1	25
+R2	lichen planus	2	66.6666666666667
+R1	lichen planus	1	33.3333333333333
+R1	glomerulonephritis	1	100
+R1	lupus nephritis (class 4)	4	80
+R1	lupus nephritis (class 5)	1	25
+R2	lupus nephritis (class 5)	3	75
+R1	membranoproliferative glomerulonephritis	1	50
+R2	membranoproliferative glomerulonephritis	1	50
+R1	vasculitis	2	40
+R2	vasculitis	3	60
+R2	lupus nephritis (class 3)	1	50
+R2	lupus nephritis (class 4)	1	20
+R1	lupus nephritis (class 3)	1	50
+R1	bacterial infectious colitis	2	100
+R2	indeterminate colitis	1	100
+R1	asian intermediate plaque psoriasis	3	33.3333333333333
+R2	asian intermediate plaque psoriasis	6	66.6666666666667
+R1	asian small plaque psoriasis	6	85.7142857142857
+R2	asian small plaque psoriasis	1	14.2857142857143
+R1	membranous glomerulonephritis	22	55
+R1	chronic kidney disease	1	100
+R1	AAB+	3	50
+R2	AAB+	3	50
+R1	type 1 diabetes	4	40
+R2	type 1 diabetes	6	60
+R2	atopic dermatitis (extrinsic)	4	80
+R2	atopic dermatitis (intrinsic)	7	77.7777777777778
+R1	atopic dermatitis (extrinsic)	1	20
+R1	atopic dermatitis (intrinsic)	2	22.2222222222222
+R2	rheumatoid arthritis (end-stage)	8	50
+R1	rheumatoid arthritis (end-stage)	8	50
+R1	psoriasis (mild)	11	78.5714285714286
+R2	psoriasis (mild)	3	21.4285714285714
+R2	psoriasis (severe)	6	46.1538461538462
+R1	psoriasis (severe)	7	53.8461538461539
+R2	psoriasis (generalised pustular)	17	53.125
+R1	psoriasis (generalised pustular)	15	46.875
+R1	palmoplantar pustulosis	3	100
+R1	systemic sclerosis, interstitial lung disease	7	43.75
+R2	systemic sclerosis, interstitial lung disease	9	56.25
+R1	psoriasis (erythrodermic)	13	43.3333333333333
+R2	psoriasis (erythrodermic)	17	56.6666666666667
+R2	psoriasis (inverse)	24	60
+R1	psoriasis (inverse)	16	40
+R2	ulcerative colitis (extensive)	8	61.5384615384615
+R1	ulcerative colitis (extensive)	5	38.4615384615385
+R2	ulcerative colitis (limited)	3	50
+R1	ulcerative colitis (limited)	3	50
+R1	microcrystalline arthritis	1	10
+R1	discoid lupus erythematosus (chronic)	6	100
+R2	cadaveric donor	1	25
+R1	cadaveric donor	3	75
+R2	focal and segmental glomerulosclerosis	25	73.5294117647059
+R1	focal and segmental glomerulosclerosis	9	26.4705882352941
+R2	membranous glomerulonephritis	18	45
+R1	focal and segmental glomerulosclerosis, minimal change disease	1	25
+R2	focal and segmental glomerulosclerosis, minimal change disease	3	75
+R1	rapidly progressive glomerulonephritis	24	54.5454545454546
+R2	rapidly progressive glomerulonephritis	20	45.4545454545455

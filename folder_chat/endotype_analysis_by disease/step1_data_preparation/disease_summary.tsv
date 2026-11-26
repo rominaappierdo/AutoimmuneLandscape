@@ -1,0 +1,41 @@
+disease	n_samples	n_datasets
+crohn's disease	1004	9
+rheumatoid arthritis	985	13
+systemic lupus erythematosus	932	16
+multiple sclerosis (relapsing-remitting)	598	5
+ulcerative colitis	524	5
+multiple sclerosis	204	3
+sjogren's syndrome	190	1
+sjogren's syndrome (primary)	104	2
+primary biliary cholangitis	90	1
+systemic sclerosis	87	2
+systemic-onset juvenile idiopathic arthritis	84	2
+systemic lupus erythematosus (pediatric)	82	1
+psoriasis	62	3
+type 1 diabetes	50	5
+multiple sclerosis (primary progressive)	48	2
+multiple sclerosis (secondary progressive)	46	3
+juvenile idiopathic arthritis (polyarticular)	46	1
+primary sclerosing cholangitis	45	1
+juvenile idiopathic arthritis (oligoarticular)	43	1
+discoid lupus erythematosus	43	1
+type 1 diabetes (newly diagnosed)	42	1
+crohn's disease (active)	40	1
+juvenile idiopathic arthritis (systemic)	32	2
+still disease	31	1
+ulcerative colitis (active)	17	1
+pancolitis	14	1
+enthesitis-related arthritis	11	1
+tumid lupus erythematosus	10	1
+type 1 diabetes (fulminant)	10	2
+type 1A diabetes	10	2
+lupus nephritis	10	1
+systemic sclerosis, pulmonary arterial hypertension	10	1
+crohn's disease (inactive)	9	1
+inflammatory bowel disease	8	2
+ulcerative colitis (inactive)	8	1
+subacute cutaneous lupus	7	1
+ulcerative colitis (left-sided)	4	1
+kawasaki disease	3	1
+lichen planus	2	1
+inflammatory bowel disease unclassified	1	1

@@ -1,0 +1,556 @@
+series_id	module	module_name	Low	High	delta	silhouette	n_samples	n_diseases	diseases
+GSE100163	mod1	Th1 response	0.0551768925577349	0.105188609443806	0.0500117168860714	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod10	Lipid metabolism	0.0342592927872946	-0.119351980928636	-0.15361127371593	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod11	Inflammation / Wound healing	-0.199064118331284	0.304270033219206	0.503334151550491	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod12	B cell response	-0.077740727153735	0.204440141876526	0.282180869030261	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod13	Impaired cell proliferation	0.0203697198799448	0.0641212485834162	0.0437515287034713	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod14	Integrins	-0.0119868662934848	-0.0126420412761563	-0.000655174982671532	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod15	ECM remodeling	0.0133493261735695	0.10890978528519	0.0955604591116209	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod2	Monocyte/macrophage-NK crosstalk	0.127048117357387	-0.265017361278995	-0.392065478636382	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod3	T cell activation and recruitment	-0.0140837389980453	0.0245479940196308	0.0386317330176761	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod4	Anti-inflammatory response	-0.0538148517915218	0.122007648124963	0.175822499916484	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod5	IFN response	0.0285252961435519	0.237411134505919	0.208885838362368	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod6	IL6 trans-signaling / Transendothelial migration	-0.222626233778591	0.384883709316652	0.607509943095243	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod7	Lymphoid cell development	0.0274641952843842	0.0413211221236795	0.0138569268392953	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod8	Endothelial dysfunction	-0.123270007805271	0.292153128943695	0.415423136748966	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100163	mod9	TLR / NF-kB / Innate response	-0.0898044413358954	0.418866746484927	0.508671187820823	0.24028954012045	55	1	systemic lupus erythematosus
+GSE100164	mod1	Th1 response	-0.106350722697457	0.14993321649437	0.256283939191827	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod10	Lipid metabolism	0.0540787359803366	-0.0293695329825536	-0.0834482689628902	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod11	Inflammation / Wound healing	-0.253826134273886	0.397284668199785	0.651110802473672	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod12	B cell response	-0.117394229276561	0.0381213075813936	0.155515536857955	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod13	Impaired cell proliferation	-0.114340182318013	0.142875629751782	0.257215812069795	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod14	Integrins	0.00909687950026806	-0.0294467468131105	-0.0385436263133786	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod15	ECM remodeling	-0.0615041211015	-0.0240777333936506	0.0374263877078495	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod2	Monocyte/macrophage-NK crosstalk	0.0867395263724596	-0.210623745853893	-0.297363272226353	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod3	T cell activation and recruitment	-0.113535027516388	-0.0252858024145946	0.0882492251017933	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod4	Anti-inflammatory response	0.0436396074803529	0.0105662793008226	-0.0330733281795303	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod5	IFN response	-0.0353026564059479	0.189198151626693	0.224500808032641	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod6	IL6 trans-signaling / Transendothelial migration	-0.213173753622965	0.408551485524686	0.621725239147652	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod7	Lymphoid cell development	-0.0327340953938205	0.0459022424183812	0.0786363378122017	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod8	Endothelial dysfunction	-0.201739593325436	0.300781770352311	0.502521363677747	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100164	mod9	TLR / NF-kB / Innate response	-0.224867258486277	0.462951389853783	0.68781864834006	0.273026291066774	62	1	systemic-onset juvenile idiopathic arthritis
+GSE100833	mod1	Th1 response	0.109408866696653	0.272337926548809	0.162929059852156	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod10	Lipid metabolism	0.0411102957285423	-0.0566826633803355	-0.0977929591088777	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod11	Inflammation / Wound healing	-0.060927160081222	0.317856658408389	0.378783818489611	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod12	B cell response	-0.069369497226256	0.00493326132504709	0.0743027585513031	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod13	Impaired cell proliferation	0.0833917180868749	0.138017610064312	0.0546258919774367	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod14	Integrins	0.0188283492132479	0.120330774050433	0.101502424837185	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod15	ECM remodeling	0.0107299363758498	0.0809311405756337	0.070201204199784	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod2	Monocyte/macrophage-NK crosstalk	0.124506988149531	0.0409429229980525	-0.0835640651514781	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod3	T cell activation and recruitment	0.0560775664538833	0.163630304423453	0.107552737969569	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod4	Anti-inflammatory response	-0.0433832716794911	-0.0617051175303046	-0.0183218458508135	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod5	IFN response	0.0898911396747794	0.124987028372141	0.0350958886973617	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod6	IL6 trans-signaling / Transendothelial migration	-0.00373393737095308	0.423869397922755	0.427603335293708	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod7	Lymphoid cell development	-0.0654467761466957	-0.0127284072659865	0.0527183688807092	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod8	Endothelial dysfunction	-0.0562314117628418	0.208073355615021	0.264304767377863	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE100833	mod9	TLR / NF-kB / Innate response	0.0434562005144262	0.338441012007238	0.294984811492812	0.249005825688454	204	2	crohn's disease | inflammatory bowel disease
+GSE103106	mod1	Th1 response	-0.261121616757831	0.130560808378916	0.391682425136747	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod10	Lipid metabolism	0.0270114245111858	-0.0135057122555929	-0.0405171367667788	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod11	Inflammation / Wound healing	-0.492114762166938	0.246057381083469	0.738172143250407	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod12	B cell response	-0.136950822412789	0.0684754112063947	0.205426233619184	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod13	Impaired cell proliferation	-0.140263375088966	0.0701316875444831	0.210395062633449	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod14	Integrins	-0.0390134467633654	0.0195067233816827	0.0585201701450481	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod15	ECM remodeling	-0.143121676734793	0.0715608383673966	0.21468251510219	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod2	Monocyte/macrophage-NK crosstalk	0.146517350532045	-0.0732586752660227	-0.219776025798068	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod3	T cell activation and recruitment	-0.221462868917036	0.110731434458518	0.332194303375555	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod4	Anti-inflammatory response	0.0854743496354294	-0.0427371748177147	-0.128211524453144	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod5	IFN response	-0.219787212464188	0.109893606232094	0.329680818696283	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod6	IL6 trans-signaling / Transendothelial migration	-0.456914301454397	0.228457150727198	0.685371452181595	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod7	Lymphoid cell development	0.0624585268042894	-0.0312292634021447	-0.093687790206434	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod8	Endothelial dysfunction	-0.311028658231032	0.155514329115516	0.466542987346548	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE103106	mod9	TLR / NF-kB / Innate response	-0.429340811845334	0.214670405922667	0.644011217768001	0.326971280195214	33	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE110169	mod1	Th1 response	-0.417610491465587	0.309315068166301	0.726925559631888	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod10	Lipid metabolism	-0.0646470804498992	0.0094530607305831	0.0741001411804823	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod11	Inflammation / Wound healing	-0.505345106209545	0.321107035351035	0.82645214156058	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod12	B cell response	-0.188343562728306	0.182065172892052	0.370408735620359	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod13	Impaired cell proliferation	-0.187007950756757	0.242514249677658	0.429522200434415	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod14	Integrins	-0.116859495048478	0.0559097405865047	0.172769235634983	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod15	ECM remodeling	-0.0969823359429021	0.108137660923193	0.205119996866095	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod2	Monocyte/macrophage-NK crosstalk	-0.191456488665695	0.0958919458592095	0.287348434524904	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod3	T cell activation and recruitment	-0.388829692786854	0.260471687741667	0.649301380528521	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod4	Anti-inflammatory response	-0.0326532783653529	0.0425547192477516	0.0752079976131044	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod5	IFN response	-0.106444974529776	0.263681875281094	0.37012684981087	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod6	IL6 trans-signaling / Transendothelial migration	-0.424934643765871	0.331748104824092	0.756682748589963	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod7	Lymphoid cell development	-0.123429124345299	0.062645974923987	0.186075099269286	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod8	Endothelial dysfunction	-0.239292143140981	0.221754953906686	0.461047097047667	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE110169	mod9	TLR / NF-kB / Innate response	-0.311613476184766	0.34985824503379	0.661471721218557	0.343187981937108	166	2	rheumatoid arthritis | systemic lupus erythematosus
+GSE112057	mod1	Th1 response	-0.178865654966577	0.0975007121566264	0.276366367123203	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod10	Lipid metabolism	0.0365358615906537	-0.0348864156414569	-0.0714222772321106	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod11	Inflammation / Wound healing	-0.284728865835602	0.228619448309124	0.513348314144725	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod12	B cell response	-0.144589009978973	0.0883893247901685	0.232978334769141	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod13	Impaired cell proliferation	-0.128816063030457	0.0822219023188607	0.211037965349318	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod14	Integrins	-0.0690969767674009	0.0423619746210987	0.1114589513885	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod15	ECM remodeling	-0.0790844767985661	0.0476985870450079	0.126783063843574	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod2	Monocyte/macrophage-NK crosstalk	0.105705549982256	-0.134070568068802	-0.239776118051058	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod3	T cell activation and recruitment	-0.104831991981638	0.0374001096924793	0.142232101674117	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod4	Anti-inflammatory response	0.0226561771249289	-0.0533382502923297	-0.0759944274172586	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod5	IFN response	-0.142983535093922	0.112761277650914	0.255744812744837	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod6	IL6 trans-signaling / Transendothelial migration	-0.3920852070727	0.328064236294781	0.720149443367481	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod7	Lymphoid cell development	0.01483108232189	-0.0178732028314209	-0.0327042851533109	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod8	Endothelial dysfunction	-0.269807006214136	0.216271457233772	0.486078463447908	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112057	mod9	TLR / NF-kB / Innate response	-0.34111451022044	0.281525223459327	0.622639733679768	0.214463403184837	190	5	crohn's disease | juvenile idiopathic arthritis (oligoarticular) | juvenile idiopathic arthritis (polyarticular) | juvenile idiopathic arthritis (systemic) | ulcerative colitis
+GSE112087	mod1	Th1 response	-0.441533117490742	0.228322623930674	0.669855741421416	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod10	Lipid metabolism	0.0608270144164062	-0.121862970455841	-0.182689984872247	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod11	Inflammation / Wound healing	-0.566139974837374	0.320986560000028	0.887126534837402	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod12	B cell response	-0.244850523644977	0.181392666593677	0.426243190238654	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod13	Impaired cell proliferation	-0.123493399303885	0.0628517004846934	0.186345099788578	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod14	Integrins	-0.0499579015150731	0.00369961155604968	0.0536575130711228	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod15	ECM remodeling	-0.107885739701517	0.0689182617586098	0.176804001460126	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod2	Monocyte/macrophage-NK crosstalk	0.0141230160838594	-0.228724749759247	-0.242847765843107	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod3	T cell activation and recruitment	-0.513398457964756	0.0867385093562999	0.600136967321056	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod4	Anti-inflammatory response	-0.0264593659489503	-0.15707072738463	-0.13061136143568	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod5	IFN response	0.0931599282702009	0.248883883336431	0.15572395506623	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod6	IL6 trans-signaling / Transendothelial migration	-0.559822212281895	0.446204452787664	1.00602666506956	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod7	Lymphoid cell development	-0.0461786432459241	0.0484519498832652	0.0946305931291893	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod8	Endothelial dysfunction	-0.277169442539615	0.267747029503338	0.544916472042953	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112087	mod9	TLR / NF-kB / Innate response	-0.34346645891341	0.453906866841856	0.797373325755266	0.361591563970923	31	1	systemic lupus erythematosus
+GSE112594	mod1	Th1 response	-0.586572559186342	0.183303924745732	0.769876483932074	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod10	Lipid metabolism	-0.0983948358651331	0.0307483862078541	0.129143222072987	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod11	Inflammation / Wound healing	-0.715163570852859	0.223488615891518	0.938652186744377	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod12	B cell response	-0.276006624093856	0.0862520700293299	0.362258694123185	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod13	Impaired cell proliferation	-0.302161378434631	0.0944254307608221	0.396586809195453	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod14	Integrins	-0.237802500705258	0.0743132814703932	0.312115782175652	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod15	ECM remodeling	-0.138400432660851	0.043250135206516	0.181650567867367	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod2	Monocyte/macrophage-NK crosstalk	-0.147105806973013	0.0459705646790667	0.19307637165208	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod3	T cell activation and recruitment	-0.463568409322715	0.144865127913348	0.608433537236063	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod4	Anti-inflammatory response	0.254460570037478	-0.0795189281367119	-0.33397949817419	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod5	IFN response	-0.356821256382914	0.111506642619661	0.468327899002575	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod6	IL6 trans-signaling / Transendothelial migration	-0.738882936457916	0.230900917643099	0.969783854101015	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod7	Lymphoid cell development	-0.0696571926227012	0.0217678726945941	0.0914250653172953	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod8	Endothelial dysfunction	-0.463654750787972	0.144892109621241	0.608546860409213	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE112594	mod9	TLR / NF-kB / Innate response	-0.609388819795052	0.190434006185954	0.799822825981006	0.386103512492186	42	1	type 1 diabetes (newly diagnosed)
+GSE119600	mod1	Th1 response	-0.0946421306240632	0.147277908881798	0.241920039505862	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod10	Lipid metabolism	0.0384597530684804	-0.039651506759375	-0.0781112598278553	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod11	Inflammation / Wound healing	-0.253971557039057	0.311810337382511	0.565781894421568	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod12	B cell response	-0.0903115743325299	0.126826249227279	0.217137823559809	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod13	Impaired cell proliferation	-0.010945368037157	0.00908956331010636	0.0200349313472634	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod14	Integrins	-0.0300642378919221	0.0400726358277255	0.0701368737196476	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod15	ECM remodeling	-0.0345602468899501	0.0624608907698073	0.0970211376597574	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod2	Monocyte/macrophage-NK crosstalk	0.116497094238648	-0.120823889994995	-0.237320984233643	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod3	T cell activation and recruitment	-0.081101709548802	0.140951780265783	0.222053489814585	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod4	Anti-inflammatory response	-0.0824097558655112	0.0682230177018109	0.150632773567322	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod5	IFN response	-0.133742986334337	0.151632414841679	0.285375401176016	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod6	IL6 trans-signaling / Transendothelial migration	-0.300515112366861	0.350388606832186	0.650903719199047	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod7	Lymphoid cell development	-0.00250439338903165	0.0304641808029061	0.0329685741919377	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod8	Endothelial dysfunction	-0.188629277520832	0.22423688967237	0.412866167193203	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE119600	mod9	TLR / NF-kB / Innate response	-0.235951680355075	0.279462173894872	0.515413854249947	0.224856130385986	323	4	crohn's disease | primary biliary cholangitis | primary sclerosing cholangitis | ulcerative colitis
+GSE12051	mod1	Th1 response	-0.241832446958299	0.183792659688307	0.425625106646606	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod10	Lipid metabolism	-0.0126952827756054	0.00964841490946009	0.0223436976850655	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod11	Inflammation / Wound healing	-0.220265835290726	0.167402034820952	0.387667870111677	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod12	B cell response	-0.147864910636495	0.112377332083736	0.260242242720231	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod13	Impaired cell proliferation	-0.112516904990354	0.0855128477926692	0.198029752783024	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod14	Integrins	-0.0375498013522005	0.0285378490276724	0.0660876503798729	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod15	ECM remodeling	-0.069555151792551	0.0528619153623388	0.12241706715489	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod2	Monocyte/macrophage-NK crosstalk	0.0176878125008334	-0.0134427375006334	-0.0311305500014667	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod3	T cell activation and recruitment	-0.19317996288433	0.14681677179209	0.33999673467642	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod4	Anti-inflammatory response	0.164944117803076	-0.125357529530338	-0.290301647333414	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod5	IFN response	-0.0865339309841396	0.0657657875479461	0.152299718532086	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod6	IL6 trans-signaling / Transendothelial migration	-0.179135579284372	0.136143040256123	0.315278619540495	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod7	Lymphoid cell development	-0.0280614612633574	0.0213267105601516	0.049388171823509	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod8	Endothelial dysfunction	-0.139693545184235	0.106167094340019	0.245860639524254	0.211853412112401	44	1	rheumatoid arthritis
+GSE12051	mod9	TLR / NF-kB / Innate response	-0.177521968538504	0.134916696089263	0.312438664627767	0.211853412112401	44	1	rheumatoid arthritis
+GSE126124	mod1	Th1 response	-0.178382035926689	0.059053945649264	0.237435981575953	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod10	Lipid metabolism	-0.0817219370085025	-0.0980355263857643	-0.0163135893772618	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod11	Inflammation / Wound healing	-0.302410128321154	0.304924141843459	0.607334270164612	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod12	B cell response	-0.119906208796117	0.113221674523242	0.233127883319359	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod13	Impaired cell proliferation	-0.114064572761279	0.153481299743405	0.267545872504684	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod14	Integrins	-0.137092881897185	0.0204356581321811	0.157528540029366	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod15	ECM remodeling	-0.0642314802560351	0.0813223812826427	0.145553861538678	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod2	Monocyte/macrophage-NK crosstalk	-0.101813494874209	-0.0731975514683078	0.0286159434059009	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod3	T cell activation and recruitment	-0.190058929728866	0.150046016197852	0.340104945926718	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod4	Anti-inflammatory response	0.00624045410999441	-0.0335037042089013	-0.0397441583188957	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod5	IFN response	-0.0484778086820085	0.176371771973857	0.224849580655866	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod6	IL6 trans-signaling / Transendothelial migration	-0.282097122074967	0.306388237502381	0.588485359577347	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod7	Lymphoid cell development	-0.023849846289629	-0.0151540124587514	0.00869583383087764	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod8	Endothelial dysfunction	-0.135944002703285	0.241791584707708	0.377735587410993	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE126124	mod9	TLR / NF-kB / Innate response	-0.158483293565367	0.363137317451353	0.52162061101672	0.252834961445781	59	5	crohn's disease | inflammatory bowel disease | inflammatory bowel disease unclassified | pancolitis | ulcerative colitis (left-sided)
+GSE129705	mod1	Th1 response	-0.151868731520702	0.113901548640527	0.265770280161229	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod10	Lipid metabolism	-0.175009539615149	0.131257154711362	0.306266694326511	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod11	Inflammation / Wound healing	-0.480051353550035	0.360038515162526	0.840089868712561	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod12	B cell response	-0.0190170590186248	0.0142627942639686	0.0332798532825934	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod13	Impaired cell proliferation	-0.220445102311117	0.165333826733338	0.385778929044455	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod14	Integrins	-0.127612783807654	0.0957095878557403	0.223322371663394	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod15	ECM remodeling	0.0145231796103212	-0.0108923847077409	-0.0254155643180621	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod2	Monocyte/macrophage-NK crosstalk	0.0058050181953453	-0.00435376364650898	-0.0101587818418543	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod3	T cell activation and recruitment	-0.193655294350631	0.145241470762973	0.338896765113605	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod4	Anti-inflammatory response	0.348944844411537	-0.261708633308652	-0.610653477720189	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod5	IFN response	-0.249365771040795	0.187024328280596	0.436390099321391	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod6	IL6 trans-signaling / Transendothelial migration	-0.549226385632756	0.411919789224567	0.961146174857323	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod7	Lymphoid cell development	-0.105873007167495	0.079404755375621	0.185277762543116	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod8	Endothelial dysfunction	-0.295175161784016	0.221381371338012	0.516556533122028	0.343768807210068	63	1	rheumatoid arthritis
+GSE129705	mod9	TLR / NF-kB / Innate response	-0.377355583893685	0.283016687920264	0.660372271813948	0.343768807210068	63	1	rheumatoid arthritis
+GSE130953	mod1	Th1 response	-0.221905593064858	0.111542566540968	0.333448159605827	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod10	Lipid metabolism	0.0514116546173924	-0.00360874345745676	-0.0550203980748492	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod11	Inflammation / Wound healing	-0.520580228851813	0.12390727999781	0.644487508849624	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod12	B cell response	-0.321283417852284	0.0537617409065932	0.375045158758877	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod13	Impaired cell proliferation	-0.206457560274362	0.0453140262610832	0.251771586535445	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod14	Integrins	-0.14073741616738	-0.0680571133500717	0.0726803028173079	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod15	ECM remodeling	-0.113610651024426	0.0321419520704521	0.145752603094878	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod2	Monocyte/macrophage-NK crosstalk	0.0427638221422609	-0.123057470909146	-0.165821293051407	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod3	T cell activation and recruitment	-0.283289908879869	0.049766711512669	0.333056620392538	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod4	Anti-inflammatory response	-0.124745530254403	0.0126880680416573	0.137433598296061	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod5	IFN response	-0.312875601314652	0.279881579509753	0.592757180824404	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod6	IL6 trans-signaling / Transendothelial migration	-0.638622625028159	0.094369815149266	0.732992440177425	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod7	Lymphoid cell development	0.0884400514936791	0.0819665213306156	-0.00647353016306349	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod8	Endothelial dysfunction	-0.364627578646779	0.110921338874028	0.475548917520807	0.314153208787318	62	1	systemic sclerosis
+GSE130953	mod9	TLR / NF-kB / Innate response	-0.563451259904409	0.195707834119624	0.759159094024033	0.314153208787318	62	1	systemic sclerosis
+GSE143507	mod1	Th1 response	-0.0370616452436345	0.118906111823327	0.155967757066962	0.309915172070816	101	1	crohn's disease
+GSE143507	mod10	Lipid metabolism	-0.0281507731451848	0.0903170638408012	0.118467836985986	0.309915172070816	101	1	crohn's disease
+GSE143507	mod11	Inflammation / Wound healing	-0.196131341342281	0.629254720139817	0.825386061482098	0.309915172070816	101	1	crohn's disease
+GSE143507	mod12	B cell response	-0.0757527860805213	0.243040188675006	0.318792974755527	0.309915172070816	101	1	crohn's disease
+GSE143507	mod13	Impaired cell proliferation	-0.0708515488374379	0.227315385853447	0.298166934690884	0.309915172070816	101	1	crohn's disease
+GSE143507	mod14	Integrins	-0.0268535402670401	0.0861551083567535	0.113008648623794	0.309915172070816	101	1	crohn's disease
+GSE143507	mod15	ECM remodeling	-0.0183343454032948	0.0588226915022376	0.0771570369055324	0.309915172070816	101	1	crohn's disease
+GSE143507	mod2	Monocyte/macrophage-NK crosstalk	-0.0292328914785587	0.0937888601603759	0.123021751638935	0.309915172070816	101	1	crohn's disease
+GSE143507	mod3	T cell activation and recruitment	-0.150915796441181	0.48418818024879	0.635103976689971	0.309915172070816	101	1	crohn's disease
+GSE143507	mod4	Anti-inflammatory response	0.0447069007191108	-0.143434639807147	-0.188141540526258	0.309915172070816	101	1	crohn's disease
+GSE143507	mod5	IFN response	-0.0207248556834037	0.0664922453175871	0.0872171010009908	0.309915172070816	101	1	crohn's disease
+GSE143507	mod6	IL6 trans-signaling / Transendothelial migration	-0.141766244048374	0.454833366321868	0.596599610370242	0.309915172070816	101	1	crohn's disease
+GSE143507	mod7	Lymphoid cell development	-0.00398461953436062	0.0127839876727403	0.016768607207101	0.309915172070816	101	1	crohn's disease
+GSE143507	mod8	Endothelial dysfunction	-0.0790598410961983	0.25365032351697	0.332710164613168	0.309915172070816	101	1	crohn's disease
+GSE143507	mod9	TLR / NF-kB / Innate response	-0.10856994122992	0.348328561445992	0.456898502675911	0.309915172070816	101	1	crohn's disease
+GSE151161	mod1	Th1 response	-0.228691901949963	0.133403609470812	0.362095511420775	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod10	Lipid metabolism	0.119929924639317	-0.0699591227062682	-0.189889047345585	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod11	Inflammation / Wound healing	-0.444059762383453	0.259034861390348	0.703094623773801	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod12	B cell response	-0.293880298225635	0.171430173964954	0.465310472190589	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod13	Impaired cell proliferation	-0.0359852028701562	0.0209913683409245	0.0569765712110807	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod14	Integrins	-0.0513423730343853	0.0299497176033914	0.0812920906377768	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod15	ECM remodeling	-0.185506074808252	0.10821187697148	0.293717951779732	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod2	Monocyte/macrophage-NK crosstalk	0.233141690460674	-0.135999319435393	-0.369141009896067	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod3	T cell activation and recruitment	-0.26648395635577	0.155448974540866	0.421932930896636	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod4	Anti-inflammatory response	0.0583105195419723	-0.0340144697328172	-0.0923249892747895	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod5	IFN response	0.059500278307227	-0.0347084956792157	-0.0942087739864427	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod6	IL6 trans-signaling / Transendothelial migration	-0.476880211723841	0.278180123505574	0.755060335229416	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod7	Lymphoid cell development	-0.0261863654213563	0.0152753798291245	0.0414617452504807	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod8	Endothelial dysfunction	-0.294335134481592	0.171695495114262	0.466030629595855	0.2581979844065	38	1	rheumatoid arthritis
+GSE151161	mod9	TLR / NF-kB / Innate response	-0.30492045114587	0.177870263168424	0.482790714314294	0.2581979844065	38	1	rheumatoid arthritis
+GSE15258	mod1	Th1 response	-0.294914221286126	0.166224379270362	0.461138600556488	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod10	Lipid metabolism	0.0593983286052792	-0.0334790579411574	-0.0928773865464365	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod11	Inflammation / Wound healing	-0.45830691967863	0.258318445637046	0.716625365315676	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod12	B cell response	-0.175270077873613	0.0987885893469456	0.274058667220559	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod13	Impaired cell proliferation	-0.149561096473348	0.0842980725577049	0.233859169031052	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod14	Integrins	-0.123649725934831	0.0696934818905409	0.193343207825372	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod15	ECM remodeling	-0.0893759472023727	0.050375533877701	0.139751481080074	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod2	Monocyte/macrophage-NK crosstalk	-0.0086213437475811	0.00485930283954571	0.0134806465871268	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod3	T cell activation and recruitment	-0.279273304834002	0.157408589997347	0.436681894831349	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod4	Anti-inflammatory response	-0.0157892741248138	0.00889940905216778	0.0246886831769816	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod5	IFN response	-0.123872752701982	0.0698191878865719	0.193691940588554	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod6	IL6 trans-signaling / Transendothelial migration	-0.417686087099171	0.235423067274078	0.653109154373249	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod7	Lymphoid cell development	-0.0230525049892192	0.0129932300848326	0.0360457350740518	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod8	Endothelial dysfunction	-0.245351117638988	0.138288811760157	0.383639929399145	0.277986359533515	86	1	rheumatoid arthritis
+GSE15258	mod9	TLR / NF-kB / Innate response	-0.346899997516621	0.195525453145732	0.542425450662354	0.277986359533515	86	1	rheumatoid arthritis
+GSE167923	mod1	Th1 response	-0.409542893659353	0.209765872362107	0.61930876602146	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod10	Lipid metabolism	-0.0627225331123425	0.0321261754965657	0.0948487086089081	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod11	Inflammation / Wound healing	-0.572252548210161	0.293104963717399	0.86535751192756	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod12	B cell response	-0.265668440381141	0.136074079219609	0.40174251960075	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod13	Impaired cell proliferation	-0.21195868212023	0.108564203037191	0.32052288515742	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod14	Integrins	-0.221350710592261	0.113374754205792	0.334725464798054	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod15	ECM remodeling	-0.177276445721537	0.0908001307354215	0.268076576456959	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod2	Monocyte/macrophage-NK crosstalk	0.0257414964868496	-0.0131846689322888	-0.0389261654191385	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod3	T cell activation and recruitment	-0.414655983344854	0.21238477195712	0.627040755301975	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod4	Anti-inflammatory response	0.0174536113333132	-0.00893965458535549	-0.0263932659186687	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod5	IFN response	-0.0881436318100245	0.0451467382441589	0.133290370054183	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod6	IL6 trans-signaling / Transendothelial migration	-0.581382830943206	0.297781449995301	0.879164280938507	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod7	Lymphoid cell development	-0.144022230970082	0.0737674841554078	0.21778971512549	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod8	Endothelial dysfunction	-0.37628384755362	0.192730751186	0.56901459873962	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE167923	mod9	TLR / NF-kB / Innate response	-0.414402404979194	0.212254890355197	0.626657295334392	0.339423192429618	62	4	discoid lupus erythematosus | lichen planus | subacute cutaneous lupus | tumid lupus erythematosus
+GSE17048	mod1	Th1 response	-0.425534422697109	0.201043378931927	0.626577801629036	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod10	Lipid metabolism	-0.0182928194672298	0.0211780136921395	0.0394708331593693	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod11	Inflammation / Wound healing	-0.547264121848401	0.186132608649243	0.733396730497644	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod12	B cell response	-0.220298397752764	0.0867113160906044	0.307009713843368	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod13	Impaired cell proliferation	-0.0779789050316197	0.0533495468609764	0.131328451892596	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod14	Integrins	-0.144006674322541	0.060472578074945	0.204479252397486	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod15	ECM remodeling	-0.0758689762070785	0.066151017429743	0.142019993636822	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod2	Monocyte/macrophage-NK crosstalk	-0.0228150323088375	0.0697607097495045	0.092575742058342	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod3	T cell activation and recruitment	-0.390591110542129	0.162247403239317	0.552838513781446	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod4	Anti-inflammatory response	0.0807862428084251	-0.0307728998031881	-0.111559142611613	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod5	IFN response	-0.129221762122448	0.0735516443108399	0.202773406433288	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod6	IL6 trans-signaling / Transendothelial migration	-0.4385678867109	0.105979799581803	0.544547686292704	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod7	Lymphoid cell development	-0.0855222183971705	0.0389536688671991	0.12447588726437	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod8	Endothelial dysfunction	-0.244074459232118	0.0637869822412265	0.307861441473344	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE17048	mod9	TLR / NF-kB / Innate response	-0.323117844683622	0.108385006863718	0.43150285154734	0.295968287999243	99	3	multiple sclerosis (primary progressive) | multiple sclerosis (relapsing-remitting) | multiple sclerosis (secondary progressive)
+GSE186507	mod1	Th1 response	-0.254821909245518	0.274541489755059	0.529363399000577	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod10	Lipid metabolism	0.0338755006408006	-0.0649994433489863	-0.0988749439897868	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod11	Inflammation / Wound healing	-0.384808634978285	0.426341235052216	0.811149870030501	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod12	B cell response	-0.162350060007674	0.17915392234725	0.341503982354924	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod13	Impaired cell proliferation	-0.204677042832472	0.22229864830942	0.426975691141893	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod14	Integrins	-0.12539406185113	0.116559174284899	0.241953236136029	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod15	ECM remodeling	-0.158987262461707	0.184642152328175	0.343629414789882	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod2	Monocyte/macrophage-NK crosstalk	-0.0846577109057865	0.04113690105602	0.125794611961806	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod3	T cell activation and recruitment	-0.321908710423384	0.340969090610912	0.662877801034296	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod4	Anti-inflammatory response	0.0571627192338996	-0.074704772196756	-0.131867491430656	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod5	IFN response	-0.141847266954121	0.1546612967414	0.296508563695521	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod6	IL6 trans-signaling / Transendothelial migration	-0.396836966972765	0.451820392213405	0.84865735918617	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod7	Lymphoid cell development	-0.0173257915987198	0.00666643788818078	0.0239922294869005	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod8	Endothelial dysfunction	-0.257078350222618	0.295623361026863	0.552701711249481	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE186507	mod9	TLR / NF-kB / Innate response	-0.315939286903201	0.367472540279529	0.68341182718273	0.317264840290826	821	2	crohn's disease | ulcerative colitis
+GSE20690	mod1	Th1 response	-0.0741108049949243	0.0833746556192897	0.157485460614214	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod10	Lipid metabolism	-0.150369170904837	0.169165317267941	0.319534488172778	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod11	Inflammation / Wound healing	-0.298090457598248	0.335351764798029	0.633442222396277	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod12	B cell response	0.0563902911774401	-0.0634390775746201	-0.11982936875206	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod13	Impaired cell proliferation	-0.207783275212473	0.233756184614032	0.441539459826505	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod14	Integrins	-0.134263717842723	0.151046682573064	0.285310400415787	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod15	ECM remodeling	-0.0284596776963181	0.0320171374083579	0.060476815104676	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod2	Monocyte/macrophage-NK crosstalk	-0.0584048625379429	0.0657054703551858	0.124110332893129	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod3	T cell activation and recruitment	-0.138419456761385	0.155721888856559	0.294141345617944	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod4	Anti-inflammatory response	-0.0860300100067095	0.0967837612575481	0.182813771264258	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod5	IFN response	-0.163561217089328	0.184006369225494	0.347567586314822	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod6	IL6 trans-signaling / Transendothelial migration	-0.358949070650118	0.403817704481383	0.7627667751315	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod7	Lymphoid cell development	-0.0828365852274939	0.0931911583809307	0.176027743608425	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod8	Endothelial dysfunction	-0.212497370757409	0.239059542102086	0.451556912859495	0.290736429461767	68	1	rheumatoid arthritis
+GSE20690	mod9	TLR / NF-kB / Innate response	-0.325552411410848	0.366246462837204	0.691798874248052	0.290736429461767	68	1	rheumatoid arthritis
+GSE22098	mod1	Th1 response	0.0540024189296688	0.301021876982721	0.247019458053052	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod10	Lipid metabolism	0.0812894842158208	-0.034981234459194	-0.116270718675015	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod11	Inflammation / Wound healing	-0.0697783994746859	0.387585235038364	0.45736363451305	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod12	B cell response	-0.0787584523382991	0.140186500732409	0.218944953070708	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod13	Impaired cell proliferation	0.136475733252645	0.075707806381292	-0.0607679268713534	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod14	Integrins	0.0510935433160786	-0.00916980883213826	-0.0602633521482169	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod15	ECM remodeling	0.0692543496498347	0.0609153824698674	-0.00833896717996733	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod2	Monocyte/macrophage-NK crosstalk	0.140867619343376	-0.210581587076915	-0.351449206420291	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod3	T cell activation and recruitment	-0.0424232258644736	0.0633616526374468	0.10578487850192	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod4	Anti-inflammatory response	-0.0336500610270361	0.0932825685276102	0.126932629554646	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod5	IFN response	0.185917407454977	0.319365877923349	0.133448470468372	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod6	IL6 trans-signaling / Transendothelial migration	-0.0601758750698756	0.50866057022083	0.568836445290706	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod7	Lymphoid cell development	0.0323656947288434	0.121712181486086	0.0893464867572429	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod8	Endothelial dysfunction	-0.0672102502866509	0.339567286474554	0.406777536761205	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE22098	mod9	TLR / NF-kB / Innate response	0.0361556804613999	0.527413662341304	0.491257981879904	0.233268517168666	141	3	still disease | systemic lupus erythematosus | systemic lupus erythematosus (pediatric)
+GSE41846	mod1	Th1 response	-0.118995556773322	0.0842122401780429	0.203207796951364	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod10	Lipid metabolism	0.0497307169756404	-0.035194045859684	-0.0849247628353244	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod11	Inflammation / Wound healing	-0.403822249485774	0.285781899636086	0.68960414912186	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod12	B cell response	-0.164539185229251	0.116443115700701	0.280982300929952	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod13	Impaired cell proliferation	-0.0517732060710771	0.0366394996810699	0.088412705752147	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod14	Integrins	-0.0421371234724197	0.0298201181497124	0.0719572416221321	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod15	ECM remodeling	-0.0343002221678099	0.0242740033802962	0.0585742255481061	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod2	Monocyte/macrophage-NK crosstalk	0.0335738389484298	-0.0237599475635042	-0.057333786511934	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod3	T cell activation and recruitment	-0.228137799278736	0.161451365643413	0.389589164922149	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod4	Anti-inflammatory response	0.0411674229522089	-0.029133868550794	-0.0703012915030029	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod5	IFN response	0.0459511436349814	-0.0325192708801407	-0.0784704145151221	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod6	IL6 trans-signaling / Transendothelial migration	-0.32733588943276	0.231653090983184	0.558988980415945	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod7	Lymphoid cell development	-0.0251075259190828	0.0177684029581201	0.042875928877203	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod8	Endothelial dysfunction	-0.176355139271838	0.124805175484685	0.301160314756523	0.240892878183294	111	1	multiple sclerosis
+GSE41846	mod9	TLR / NF-kB / Innate response	-0.14618056395924	0.103450860648078	0.249631424607318	0.240892878183294	111	1	multiple sclerosis
+GSE41847	mod1	Th1 response	-0.142787010422189	0.120476540043722	0.263263550465911	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod10	Lipid metabolism	0.0902098555148057	-0.0761145655906174	-0.166324421105423	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod11	Inflammation / Wound healing	-0.343894659229089	0.290161118724544	0.634055777953633	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod12	B cell response	-0.239444995457678	0.202031714917416	0.441476710375094	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod13	Impaired cell proliferation	-0.177913805958572	0.150114773777545	0.328028579736116	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod14	Integrins	-0.0777657963051188	0.0656148906324439	0.143380686937563	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod15	ECM remodeling	-0.0609418387176442	0.0514196764180123	0.112361515135656	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod2	Monocyte/macrophage-NK crosstalk	-0.0987127663969764	0.0832888966474489	0.182001663044425	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod3	T cell activation and recruitment	-0.227520015365573	0.191970012964702	0.419490028330275	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod4	Anti-inflammatory response	-0.0163415479158902	0.0137881810540324	0.0301297289699226	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod5	IFN response	-0.0852987494455293	0.0719708198446653	0.157269569290195	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod6	IL6 trans-signaling / Transendothelial migration	-0.255199205520309	0.215324329657761	0.47052353517807	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod7	Lymphoid cell development	0.0357112316747682	-0.0301313517255857	-0.0658425834003539	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod8	Endothelial dysfunction	-0.171193628723545	0.144444624235491	0.315638252959036	0.258956653047992	59	1	multiple sclerosis
+GSE41847	mod9	TLR / NF-kB / Innate response	-0.214902440807698	0.181323934431495	0.396226375239193	0.258956653047992	59	1	multiple sclerosis
+GSE45291	mod1	Th1 response	-0.198095834808166	0.0176810821497448	0.215776916957911	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod10	Lipid metabolism	-0.0238342655824997	-0.170723876686391	-0.146889611103891	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod11	Inflammation / Wound healing	-0.233636164483548	0.340639978907681	0.574276143391229	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod12	B cell response	-0.266631481431085	0.0781171767556173	0.344748658186703	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod13	Impaired cell proliferation	-0.578389261347409	-0.38846001145543	0.189929249891979	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod14	Integrins	-0.292928849707004	-0.199009080719143	0.0939197689878615	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod15	ECM remodeling	-0.0841250862068839	0.0342939745491656	0.11841906075605	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod2	Monocyte/macrophage-NK crosstalk	-0.0704642231051347	-0.180127114600427	-0.109662891495293	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod3	T cell activation and recruitment	-0.423092784655017	-0.0579135227746814	0.365179261880335	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod4	Anti-inflammatory response	-0.124382415327832	-0.103021812964125	0.0213606023637068	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod5	IFN response	-0.149899830911182	-0.0644097753185771	0.0854900555926046	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod6	IL6 trans-signaling / Transendothelial migration	-0.318274756233313	0.178967096624515	0.497241852857828	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod7	Lymphoid cell development	0.0582532897329004	0.00890955747675833	-0.0493437322561421	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod8	Endothelial dysfunction	-0.401230697610256	-0.0553600258096004	0.345870671800655	0.228163271229643	292	1	systemic lupus erythematosus
+GSE45291	mod9	TLR / NF-kB / Innate response	-0.56671187057732	-0.116457426491806	0.450254444085514	0.228163271229643	292	1	systemic lupus erythematosus
+GSE51092	mod1	Th1 response	-0.240019106300751	0.197826528483677	0.437845634784427	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod10	Lipid metabolism	0.00546681633075722	0.01770896097485	0.0122421446440927	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod11	Inflammation / Wound healing	-0.362156110875883	0.315088609254481	0.677244720130364	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod12	B cell response	-0.215250615534282	0.206540967929343	0.421791583463625	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod13	Impaired cell proliferation	-0.135829855564619	0.135968980092844	0.271798835657463	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod14	Integrins	-0.10895707959633	0.104145363320939	0.213102442917269	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod15	ECM remodeling	-0.107688815294298	0.108521800247671	0.216210615541969	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod2	Monocyte/macrophage-NK crosstalk	-0.0306992088861768	0.0344617281608696	0.0651609370470463	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod3	T cell activation and recruitment	-0.272069991143805	0.218591288680783	0.490661279824589	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod4	Anti-inflammatory response	0.0782693283779371	-0.0219303842265657	-0.100199712604503	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod5	IFN response	-0.0368982158233928	0.134901046240835	0.171799262064228	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod6	IL6 trans-signaling / Transendothelial migration	-0.380781168950554	0.336645080379133	0.717426249329687	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod7	Lymphoid cell development	-0.0477770488183276	0.0622030054577906	0.109980054276118	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod8	Endothelial dysfunction	-0.236065020980391	0.232014389355027	0.468079410335418	0.241645139284243	190	1	sjogren's syndrome
+GSE51092	mod9	TLR / NF-kB / Innate response	-0.245505554002294	0.272267974226861	0.517773528229155	0.241645139284243	190	1	sjogren's syndrome
+GSE54629	mod1	Th1 response	-0.189338612648964	0.0719486728066062	0.26128728545557	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod10	Lipid metabolism	0.211080147623246	-0.0802104560968335	-0.29129060372008	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod11	Inflammation / Wound healing	-0.676599417098985	0.257107778497614	0.933707195596599	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod12	B cell response	-0.265618788637914	0.100935139682407	0.366553928320321	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod13	Impaired cell proliferation	-0.289685358790029	0.110080436340211	0.399765795130241	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod14	Integrins	-0.0578509049691805	0.0219833438882886	0.079834248857469	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod15	ECM remodeling	-0.154752965856508	0.0588061270254732	0.213559092881982	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod2	Monocyte/macrophage-NK crosstalk	0.0607906259869748	-0.0231004378750504	-0.0838910638620252	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod3	T cell activation and recruitment	-0.367041578277545	0.139475799745467	0.506517378023013	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod4	Anti-inflammatory response	0.102628020025968	-0.0389986476098679	-0.141626667635836	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod5	IFN response	-0.157874884946208	0.0599924562795591	0.217867341225767	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod6	IL6 trans-signaling / Transendothelial migration	-0.588642565055365	0.223684174721039	0.812326739776403	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod7	Lymphoid cell development	0.07195335002025	-0.027342273007695	-0.099295623027945	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod8	Endothelial dysfunction	-0.388703698877951	0.147707405573621	0.536411104451572	0.366327563328425	69	1	rheumatoid arthritis
+GSE54629	mod9	TLR / NF-kB / Innate response	-0.564032628653071	0.214332398888167	0.778365027541237	0.366327563328425	69	1	rheumatoid arthritis
+GSE55201	mod1	Th1 response	-0.194386797454941	0.227071999464565	0.421458796919505	0.322190345349453	45	1	psoriasis
+GSE55201	mod10	Lipid metabolism	-0.0158050312880514	-0.0443400759758011	-0.0285350446877497	0.322190345349453	45	1	psoriasis
+GSE55201	mod11	Inflammation / Wound healing	-0.180190750718945	0.657326893744694	0.837517644463639	0.322190345349453	45	1	psoriasis
+GSE55201	mod12	B cell response	-0.105474696207341	0.234584586209782	0.340059282417122	0.322190345349453	45	1	psoriasis
+GSE55201	mod13	Impaired cell proliferation	-0.0970050347110624	0.113224128492272	0.210229163203334	0.322190345349453	45	1	psoriasis
+GSE55201	mod14	Integrins	-0.0377896993542768	0.22518321889761	0.262972918251887	0.322190345349453	45	1	psoriasis
+GSE55201	mod15	ECM remodeling	-0.0635759848251483	0.0683894985835745	0.131965483408723	0.322190345349453	45	1	psoriasis
+GSE55201	mod2	Monocyte/macrophage-NK crosstalk	-0.0535280969918392	-0.0689800326876457	-0.0154519356958065	0.322190345349453	45	1	psoriasis
+GSE55201	mod3	T cell activation and recruitment	-0.153386793154484	0.294660535500893	0.448047328655378	0.322190345349453	45	1	psoriasis
+GSE55201	mod4	Anti-inflammatory response	-0.102131221401159	0.143720325632816	0.245851547033975	0.322190345349453	45	1	psoriasis
+GSE55201	mod5	IFN response	-0.0453019452099798	0.226170772416909	0.271472717626889	0.322190345349453	45	1	psoriasis
+GSE55201	mod6	IL6 trans-signaling / Transendothelial migration	-0.195653062455601	0.591263456364007	0.786916518819607	0.322190345349453	45	1	psoriasis
+GSE55201	mod7	Lymphoid cell development	-0.0251668386727109	0.10039643347993	0.125563272152641	0.322190345349453	45	1	psoriasis
+GSE55201	mod8	Endothelial dysfunction	-0.0733627434579679	0.353533983239953	0.426896726697921	0.322190345349453	45	1	psoriasis
+GSE55201	mod9	TLR / NF-kB / Innate response	-0.108962472981102	0.543943763743337	0.652906236724439	0.322190345349453	45	1	psoriasis
+GSE58795	mod1	Th1 response	-0.496484671981752	0.154461897949878	0.65094656993163	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod10	Lipid metabolism	0.0983816184408473	-0.0306076146260414	-0.128989233066889	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod11	Inflammation / Wound healing	-0.722916826496732	0.224907457132317	0.947824283629048	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod12	B cell response	-0.296087150977751	0.0921160025264114	0.388203153504163	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod13	Impaired cell proliferation	-0.29118528008181	0.090590976025452	0.381776256107262	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod14	Integrins	-0.17047272870169	0.0530359600405258	0.223508688742216	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod15	ECM remodeling	-0.113252063301383	0.0352339752493192	0.148486038550703	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod2	Monocyte/macrophage-NK crosstalk	0.0763307179085442	-0.023747334460436	-0.10007805236898	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod3	T cell activation and recruitment	-0.441186855205026	0.137258132730452	0.578444987935478	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod4	Anti-inflammatory response	-0.109658248120725	0.0341158994153368	0.143774147536062	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod5	IFN response	-0.283011601589411	0.0880480538278168	0.371059655417228	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod6	IL6 trans-signaling / Transendothelial migration	-0.687578034503446	0.213913166289961	0.901491200793407	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod7	Lymphoid cell development	-0.111883107366749	0.034808077847433	0.146691185214182	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod8	Endothelial dysfunction	-0.403951920398981	0.125673930790794	0.529625851189775	0.404626839159927	59	1	rheumatoid arthritis
+GSE58795	mod9	TLR / NF-kB / Innate response	-0.634856576745805	0.197510934987584	0.832367511733389	0.404626839159927	59	1	rheumatoid arthritis
+GSE61240	mod1	Th1 response	-0.390505411457375	0.199543973986461	0.590049385443836	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod10	Lipid metabolism	0.0157687594928709	-0.00805766281778569	-0.0238264223106566	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod11	Inflammation / Wound healing	-0.530958842640384	0.27131413387668	0.802272976517064	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod12	B cell response	-0.16189341341954	0.0827257552088861	0.244619168628426	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod13	Impaired cell proliferation	-0.096940364999785	0.0495354612361539	0.146475826235939	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod14	Integrins	-0.15299578983803	0.0781791673348176	0.231174957172848	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod15	ECM remodeling	-0.0630252938458562	0.0322052325695858	0.095230526415442	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod2	Monocyte/macrophage-NK crosstalk	-0.0289578620551944	0.01479714929194	0.0437550113471343	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod3	T cell activation and recruitment	-0.392962943566841	0.200799745888551	0.593762689455392	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod4	Anti-inflammatory response	0.153624432086322	-0.0785003966155382	-0.23212482870186	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod5	IFN response	-0.123114892138489	0.0629103569718651	0.186025249110354	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod6	IL6 trans-signaling / Transendothelial migration	-0.460486167607325	0.235303371359787	0.695789538967112	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod7	Lymphoid cell development	-0.0864176203179576	0.044158454338297	0.130576074656255	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod8	Endothelial dysfunction	-0.239106452250689	0.122180769556671	0.361287221807359	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61240	mod9	TLR / NF-kB / Innate response	-0.325033367998618	0.166088479252041	0.491121847250658	0.309405638694566	550	1	multiple sclerosis (relapsing-remitting)
+GSE61635	mod1	Th1 response	-0.276151933241258	0.210102867446644	0.486254800687902	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod10	Lipid metabolism	0.0547754786051395	-0.0769090540570845	-0.131684532662224	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod11	Inflammation / Wound healing	-0.365158822575161	0.206460412297055	0.571619234872216	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod12	B cell response	-0.391520715593089	0.0948340476768428	0.486354763269931	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod13	Impaired cell proliferation	-0.100497878392778	0.115717220012333	0.216215098405111	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod14	Integrins	0.0201841392442311	0.0575864030585626	0.0374022638143315	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod15	ECM remodeling	-0.213995211497805	0.0108610393178342	0.224856250815639	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod2	Monocyte/macrophage-NK crosstalk	-0.0497294899589374	-0.100107103208186	-0.0503776132492484	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod3	T cell activation and recruitment	-0.431446123963779	0.0793598231733942	0.510805947137173	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod4	Anti-inflammatory response	0.00823151851051243	0.0519962193886481	0.0437647008781357	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod5	IFN response	0.0681823786273425	0.171244991758804	0.103062613131462	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod6	IL6 trans-signaling / Transendothelial migration	-0.291689102646511	0.228020887852962	0.519709990499473	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod7	Lymphoid cell development	0.0528296750965296	-0.0589339775162348	-0.111763652612764	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod8	Endothelial dysfunction	-0.204577595210371	0.221061144888941	0.425638740099312	0.249472187996736	64	1	systemic lupus erythematosus
+GSE61635	mod9	TLR / NF-kB / Innate response	-0.180787807023676	0.361023261639997	0.541811068663674	0.249472187996736	64	1	systemic lupus erythematosus
+GSE65391	mod1	Th1 response	-0.141859256365901	0.156496940378032	0.298356196743933	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod10	Lipid metabolism	0.0228731299028246	-0.0346984206376461	-0.0575715505404707	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod11	Inflammation / Wound healing	-0.279716767960159	0.248370096712989	0.528086864673148	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod12	B cell response	-0.106016693253102	0.122028422028546	0.228045115281647	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod13	Impaired cell proliferation	-0.0280456659955646	0.0820855407756247	0.110131206771189	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod14	Integrins	-0.0562310561839729	0.0140378232513346	0.0702688794353075	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod15	ECM remodeling	-0.058534952471761	0.0761655301480813	0.134700482619842	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod2	Monocyte/macrophage-NK crosstalk	0.0748094019911781	-0.102309647516922	-0.1771190495081	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod3	T cell activation and recruitment	-0.099144492089787	0.0365398455116768	0.135684337601464	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod4	Anti-inflammatory response	0.0434439882857801	-0.0287505700228615	-0.0721945583086416	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod5	IFN response	-0.00724047263173791	0.215932747683749	0.223173220315487	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod6	IL6 trans-signaling / Transendothelial migration	-0.276343947054486	0.277330083571043	0.553674030625529	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod7	Lymphoid cell development	0.0312990104430423	0.0112737868181653	-0.0200252236248769	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod8	Endothelial dysfunction	-0.159325860086964	0.196345605186945	0.35567146527391	0.217231861320976	139	1	systemic lupus erythematosus
+GSE65391	mod9	TLR / NF-kB / Innate response	-0.223429711317768	0.328437131446166	0.551866842763934	0.217231861320976	139	1	systemic lupus erythematosus
+GSE66795	mod1	Th1 response	-0.275023633032515	0.174478484294802	0.449502117327317	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod10	Lipid metabolism	-0.0324100040543627	0.0492957856109944	0.081705789665357	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod11	Inflammation / Wound healing	-0.379820205828716	0.257723446998959	0.637543652827675	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod12	B cell response	-0.155125895874866	0.135962481594166	0.291088377469032	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod13	Impaired cell proliferation	-0.0373788215997006	0.111812127424586	0.149190949024287	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod14	Integrins	-0.0942889591836548	0.049777999226961	0.144066958410616	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod15	ECM remodeling	-0.0894775828932891	0.0809654258664277	0.170443008759717	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod2	Monocyte/macrophage-NK crosstalk	-0.0394651483057884	0.0344307652299227	0.0738959135357111	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod3	T cell activation and recruitment	-0.296834503013961	0.16611246399846	0.462946967012421	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod4	Anti-inflammatory response	-0.00631804655633535	-0.0143979258637299	-0.0080798793073946	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod5	IFN response	0.00430183248399249	0.203384401944168	0.199082569460176	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod6	IL6 trans-signaling / Transendothelial migration	-0.286334435619657	0.202580326667325	0.488914762286983	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod7	Lymphoid cell development	-0.0312459279581907	0.0348626408316295	0.0661085687898202	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod8	Endothelial dysfunction	-0.218400169864641	0.194154682553066	0.412554852417706	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE66795	mod9	TLR / NF-kB / Innate response	-0.171355536192453	0.273263561788968	0.444619097981421	0.241988886856756	74	1	sjogren's syndrome (primary)
+GSE72326	mod1	Th1 response	-0.0868264111918032	0.00405417840945544	0.0908805896012586	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod10	Lipid metabolism	0.0708904127264767	0.00405870333039452	-0.0668317093960822	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod11	Inflammation / Wound healing	-0.179858495566629	0.138229919534871	0.318088415101499	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod12	B cell response	-0.170540819413478	0.0293723570977399	0.199913176511218	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod13	Impaired cell proliferation	0.0370510444816546	0.0457640855706374	0.00871304108898278	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod14	Integrins	-0.00807944933103238	-0.0377097189451204	-0.029630269614088	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod15	ECM remodeling	0.0174716886991234	0.0658374649353642	0.0483657762362408	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod2	Monocyte/macrophage-NK crosstalk	0.123959053090855	-0.15535976097685	-0.279318814067705	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod3	T cell activation and recruitment	-0.0678056385911535	-0.144999274444485	-0.0771936358533315	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod4	Anti-inflammatory response	-0.00808783018848028	0.103567468655225	0.111655298843705	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod5	IFN response	0.100306872428135	0.451283285838695	0.35097641341056	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod6	IL6 trans-signaling / Transendothelial migration	-0.225355922858069	0.240214733609922	0.465570656467992	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod7	Lymphoid cell development	-0.00696630442394411	0.0975770453320126	0.104543349755957	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod8	Endothelial dysfunction	-0.162433870518689	0.212814440843672	0.375248311362361	0.247833369255614	58	1	systemic lupus erythematosus
+GSE72326	mod9	TLR / NF-kB / Innate response	-0.128490392275319	0.391305530232232	0.51979592250755	0.247833369255614	58	1	systemic lupus erythematosus
+GSE74143	mod1	Th1 response	-0.171118611049189	0.133181937844887	0.304300548894076	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod10	Lipid metabolism	0.0657601287419286	-0.0511812322755576	-0.116941361017486	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod11	Inflammation / Wound healing	-0.403143437172466	0.313767297799325	0.716910734971792	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod12	B cell response	-0.162705919304135	0.126634323986709	0.289340243290845	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod13	Impaired cell proliferation	-0.170922707937371	0.133029466083331	0.303952174020702	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod14	Integrins	-0.114200238693793	0.0888822612475273	0.20308249994132	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod15	ECM remodeling	-0.068517007549898	0.0533269162534583	0.121843923803356	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod2	Monocyte/macrophage-NK crosstalk	0.0190689976455286	-0.0148414368467558	-0.0339104344922843	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod3	T cell activation and recruitment	-0.212667746790429	0.16551970858689	0.378187455377319	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod4	Anti-inflammatory response	-0.086635606278367	0.0674286558298611	0.154064262108228	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod5	IFN response	-0.1137528191452	0.0885340337686697	0.202286852913869	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod6	IL6 trans-signaling / Transendothelial migration	-0.371451946665775	0.289101750942702	0.660553697608478	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod7	Lymphoid cell development	-0.042110301255587	0.0327745269206219	0.0748848281762089	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod8	Endothelial dysfunction	-0.252724762370461	0.196696159392104	0.449420921762566	0.277253377087523	377	1	rheumatoid arthritis
+GSE74143	mod9	TLR / NF-kB / Innate response	-0.305887634126597	0.23807292278721	0.543960556913806	0.277253377087523	377	1	rheumatoid arthritis
+GSE84844	mod1	Th1 response	-0.540505960709624	0.126758470566444	0.667264431276068	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod10	Lipid metabolism	0.149341301584635	0.0268525912219019	-0.122488710362733	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod11	Inflammation / Wound healing	-0.75086979227673	-0.0397808817067486	0.711088910569981	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod12	B cell response	-0.233287288884386	0.00591422005014998	0.239201508934536	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod13	Impaired cell proliferation	-0.0934472366145489	0.215461953452568	0.308909190067117	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod14	Integrins	-0.165494326927923	0.031093945613365	0.196588272541288	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod15	ECM remodeling	-0.0784320761972295	0.00828821688131632	0.0867202930785458	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod2	Monocyte/macrophage-NK crosstalk	-0.0307596838974175	0.0816892520997504	0.112448935997168	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod3	T cell activation and recruitment	-0.560802344094623	-0.0780376231658025	0.48276472092882	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod4	Anti-inflammatory response	-0.0892941118270483	0.0235353710561297	0.112829482883178	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod5	IFN response	0.0843833934162238	0.322242416378967	0.237859022962743	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod6	IL6 trans-signaling / Transendothelial migration	-0.632600057902147	0.0533623647080455	0.685962422610193	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod7	Lymphoid cell development	-0.104793567281132	-0.0524026613239664	0.0523909059571658	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod8	Endothelial dysfunction	-0.393714265293711	0.115579764345575	0.509294029639286	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE84844	mod9	TLR / NF-kB / Innate response	-0.363434401564342	0.249467120700071	0.612901522264412	0.3016428169676	30	1	sjogren's syndrome (primary)
+GSE93272	mod1	Th1 response	-0.563547086790813	0.0447373262989489	0.608284413089762	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod10	Lipid metabolism	0.143611058790131	-0.0253617876079175	-0.168972846398048	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod11	Inflammation / Wound healing	-0.887020501701438	0.120513501741974	1.00753400344341	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod12	B cell response	-0.301231918161956	0.0146220983843945	0.315854016546351	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod13	Impaired cell proliferation	-0.1589795817587	0.0934563462367817	0.252435927995482	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod14	Integrins	-0.23947577518041	0.0496384227838876	0.289114197964298	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod15	ECM remodeling	-0.142443079504934	-0.00837537167992229	0.134067707825011	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod2	Monocyte/macrophage-NK crosstalk	-0.0496824541038632	-0.0395600719476942	0.010122382156169	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod3	T cell activation and recruitment	-0.60173980885693	-0.0183401785494725	0.583399630307457	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod4	Anti-inflammatory response	0.0167001999574857	0.0529319770499314	0.0362317770924458	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod5	IFN response	-0.0269057049414503	0.153724716547591	0.180630421489041	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod6	IL6 trans-signaling / Transendothelial migration	-0.750213904297719	0.150515964068073	0.900729868365792	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod7	Lymphoid cell development	-0.0968642252966117	-0.0671462000029948	0.0297180252936169	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod8	Endothelial dysfunction	-0.411502562659217	0.137592410665833	0.54909497332505	0.361678485739008	66	1	rheumatoid arthritis
+GSE93272	mod9	TLR / NF-kB / Innate response	-0.443087501571218	0.200886255731294	0.643973757302512	0.361678485739008	66	1	rheumatoid arthritis
+GSE94648	mod1	Th1 response	-0.283921920805173	0.198575094627996	0.482497015433169	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod10	Lipid metabolism	-0.00465006949320365	-0.042389094362981	-0.0377390248697774	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod11	Inflammation / Wound healing	-0.546493880324445	0.348782118018526	0.89527599834297	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod12	B cell response	-0.0999731940532127	0.120741854310681	0.220715048363894	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod13	Impaired cell proliferation	-0.0911357767458822	0.118373257741187	0.209509034487069	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod14	Integrins	-0.097797725532362	0.0632835268582399	0.161081252390602	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod15	ECM remodeling	0.0381630080296305	0.0300988831374653	-0.00806412489216524	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod2	Monocyte/macrophage-NK crosstalk	0.0211009082093014	-0.0337309982442472	-0.0548319064535485	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod3	T cell activation and recruitment	-0.279654958348001	0.21541271177722	0.495067670125221	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod4	Anti-inflammatory response	0.0668544334911944	0.00527951586861386	-0.0615749176225805	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod5	IFN response	0.0208780895767851	0.0902575028577267	0.0693794132809416	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod6	IL6 trans-signaling / Transendothelial migration	-0.443076271784019	0.312407750730222	0.755484022514241	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod7	Lymphoid cell development	-0.0697078880304953	0.0252667422815886	0.0949746303120839	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod8	Endothelial dysfunction	-0.188576952061646	0.166463932882293	0.35504088494394	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)
+GSE94648	mod9	TLR / NF-kB / Innate response	-0.252352105429678	0.265335693733722	0.5176877991634	0.287466489510459	74	4	crohn's disease (active) | crohn's disease (inactive) | ulcerative colitis (active) | ulcerative colitis (inactive)

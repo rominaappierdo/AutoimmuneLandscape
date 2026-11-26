@@ -1,0 +1,43 @@
+series_id	n_samples	diseases	k	kmeans_silhouette	min_hierarchical_cluster_size	max_hierarchical_cluster_size	hierarchical_cluster_sizes
+GSE154851	38	systemic lupus erythematosus	2	0.725944951607104	1	37	37 / 1
+GSE58795	59	rheumatoid arthritis	2	0.404626839159927	12	47	47 / 12
+GSE112594	42	type 1 diabetes (newly diagnosed)	2	0.386103512492186	7	35	35 / 7
+GSE54629	69	rheumatoid arthritis	2	0.366327563328425	15	54	15 / 54
+GSE93272	66	rheumatoid arthritis	2	0.361678485739008	17	49	17 / 49
+GSE112087	31	systemic lupus erythematosus	2	0.361591563970923	13	18	18 / 13
+GSE129705	63	rheumatoid arthritis	2	0.343768807210068	24	39	24 / 39
+GSE110169	166	rheumatoid arthritis / systemic lupus erythematosus	2	0.343187981937108	75	91	91 / 75
+GSE167923	62	discoid lupus erythematosus / lichen planus / subacute cutaneous lupus / tumid lupus erythematosus	2	0.339423192429618	14	48	48 / 14
+GSE103106	33	multiple sclerosis (primary progressive) / multiple sclerosis (relapsing-remitting) / multiple sclerosis (secondary progressive)	2	0.326971280195214	16	17	17 / 16
+GSE55201	45	psoriasis	2	0.322190345349453	15	30	30 / 15
+GSE186507	821	crohn's disease / ulcerative colitis	2	0.317264840290826	259	562	259 / 562
+GSE130953	62	systemic sclerosis	2	0.314153208787318	17	45	17 / 45
+GSE143507	101	crohn's disease	2	0.309915172070816	22	79	22 / 79
+GSE61240	550	multiple sclerosis (relapsing-remitting)	2	0.309405638694566	131	419	131 / 419
+GSE84844	30	sjogren's syndrome (primary)	2	0.3016428169676	4	26	26 / 4
+GSE17048	99	multiple sclerosis (primary progressive) / multiple sclerosis (relapsing-remitting) / multiple sclerosis (secondary progressive)	2	0.295968287999243	33	66	66 / 33
+GSE20690	68	rheumatoid arthritis	2	0.290736429461767	28	40	28 / 40
+GSE94648	74	crohn's disease (active) / crohn's disease (inactive) / ulcerative colitis (active) / ulcerative colitis (inactive)	2	0.287466489510459	36	38	36 / 38
+GSE169568	52	crohn's disease	3	0.283669427014411	12	25	15 / 25 / 12
+GSE15258	86	rheumatoid arthritis	2	0.277986359533515	19	67	67 / 19
+GSE74143	377	rheumatoid arthritis	2	0.277253377087523	125	252	125 / 252
+GSE100164	62	systemic-onset juvenile idiopathic arthritis	2	0.273026291066774	27	35	27 / 35
+GSE41847	59	multiple sclerosis	2	0.258956653047992	10	49	49 / 10
+GSE151161	38	rheumatoid arthritis	2	0.2581979844065	13	25	25 / 13
+GSE126124	59	crohn's disease / inflammatory bowel disease / inflammatory bowel disease unclassified / pancolitis / ulcerative colitis (left-sided)	2	0.252834961445781	9	50	50 / 9
+GSE61635	64	systemic lupus erythematosus	2	0.249472187996736	16	48	48 / 16
+GSE100833	204	crohn's disease / inflammatory bowel disease	2	0.249005825688454	92	112	112 / 92
+GSE72326	58	systemic lupus erythematosus	2	0.247833369255614	20	38	20 / 38
+GSE50635	33	systemic lupus erythematosus	4	0.245732521271182	3	14	3 / 10 / 6 / 14
+GSE66795	74	sjogren's syndrome (primary)	2	0.241988886856756	25	49	25 / 49
+GSE51092	190	sjogren's syndrome	2	0.241645139284243	69	121	121 / 69
+GSE41846	111	multiple sclerosis	2	0.240892878183294	43	68	68 / 43
+GSE100163	55	systemic lupus erythematosus	2	0.24028954012045	16	39	39 / 16
+GSE86434	44	crohn's disease / ulcerative colitis	3	0.236702268700141	1	29	14 / 29 / 1
+GSE22098	141	still disease / systemic lupus erythematosus / systemic lupus erythematosus (pediatric)	2	0.233268517168666	31	110	110 / 31
+GSE45291	292	systemic lupus erythematosus	2	0.228163271229643	89	203	203 / 89
+GSE119600	323	crohn's disease / primary biliary cholangitis / primary sclerosing cholangitis / ulcerative colitis	2	0.224856130385986	116	207	207 / 116
+GSE65391	139	systemic lupus erythematosus	2	0.217231861320976	61	78	78 / 61
+GSE112057	190	crohn's disease / juvenile idiopathic arthritis (oligoarticular) / juvenile idiopathic arthritis (polyarticular) / juvenile idiopathic arthritis (systemic) / ulcerative colitis	2	0.214463403184837	43	147	147 / 43
+GSE12051	44	rheumatoid arthritis	2	0.211853412112401	17	27	27 / 17
+GSE100162	34	multiple sclerosis	3	0.191618740500924	5	23	6 / 23 / 5

@@ -1,0 +1,12 @@
+series_id	disease	n_samples	n_subjects_with_id	n_paired_subjects	fully_paired	pairing_status
+GSE117239	psoriasis	89	89	0	FALSE	No confirmed pairing
+GSE121212	atopic dermatitis	27	27	0	FALSE	No confirmed pairing
+GSE131279	multiple sclerosis (secondary progressive)	21	21	0	FALSE	No confirmed pairing
+GSE13367	ulcerative colitis	17	17	0	FALSE	No confirmed pairing
+GSE148810	juvenile myositis	15	15	0	FALSE	No confirmed pairing
+GSE14905	psoriasis	33	33	0	FALSE	No confirmed pairing
+GSE30999	psoriasis	33	33	0	FALSE	No confirmed pairing
+GSE50788	ulcerative colitis	28	28	0	FALSE	No confirmed pairing
+GSE75343	psoriasis	20	20	0	FALSE	No confirmed pairing
+GSE83448	crohn's disease	39	39	0	FALSE	No confirmed pairing
+GSE9452	ulcerative colitis	15	15	0	FALSE	No confirmed pairing

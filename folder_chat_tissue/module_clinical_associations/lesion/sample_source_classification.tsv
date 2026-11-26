@@ -1,0 +1,385 @@
+disease	sample_source	lesion_status	N
+AAB+	pancreas head		3
+AAB+	pancreas tail		2
+AAB+	pancreas body		1
+ANCA-associated vasculitis	kidney (glomerulus)		22
+IgA nephropathy	kidney (glomerulus)		53
+IgA nephropathy	kidney, tubulointerstium		46
+IgA nephropathy	kidney (tubulo interstitium)		24
+IgA nephropathy	kidney		4
+IgA nephropathy	kidney (tubulointerstitium)		1
+IgG4-related disease	labial salivary gland		5
+adenoma	colon		15
+alzheimer's disease	entorhinal cortex		17
+alzheimer's disease	brain, cortex		3
+amyotrophic lateral sclerosis	cervical spinal cord		16
+ankylosing spondylitis	synovial membrane		5
+asian intermediate plaque psoriasis	skin (lesional)	Affected	2
+asian intermediate plaque psoriasis	skin (non-lesional)	Unaffected	7
+asian small plaque psoriasis	skin (lesional)	Affected	2
+asian small plaque psoriasis	skin (non-lesional)	Unaffected	5
+atopic dermatitis	skin (lesional)	Affected	30
+atopic dermatitis	skin (non-lesional)	Unaffected	6
+atopic dermatitis	epidermis (non-lesional)	Unaffected	5
+atopic dermatitis	skin (epidermis+dermis)		2
+atopic dermatitis (extrinsic)	skin (lesional)	Affected	5
+atopic dermatitis (intrinsic)	skin (lesional)	Affected	9
+bacterial infectious colitis	colon (affected)	Affected	2
+cadaveric donor	kidney (tubulo interstitium)		4
+chronic kidney disease	kidney (tubulointerstitium)		1
+collagen colitis	colon		1
+collagenous colitis (active)	colon (whole mucosa)		18
+collagenous colitis (inactive/in remission)	colon (whole mucosa)		9
+colorectal cancer	colorectal cancer		60
+colorectal carcinoma	colon		15
+coronary artery disease	ascending aorta		8
+coronary artery disease, rheumatoid arthritis	ascending aorta		8
+crohn's disease	ileum (inflamed)	Affected	137
+crohn's disease	intestinal tissue (involved)	Affected	24
+crohn's disease	terminal ileum (inflamed)	Affected	21
+crohn's disease	intestinal mucosa (inflamed margin)	Affected	19
+crohn's disease	colonic mucosa (inflamed)	Affected	13
+crohn's disease	rectum (uninvolved)	Affected	10
+crohn's disease	terminal ileum (uninvolved)	Affected	9
+crohn's disease	ascending colon (uninvolved)	Affected	8
+crohn's disease	rectum (inflamed)	Affected	8
+crohn's disease	colon (affected)	Affected	6
+crohn's disease	descending colon (inflamed)	Affected	4
+crohn's disease	sigmoid colon (inflamed)	Affected	4
+crohn's disease	descending colon (uninvolved)	Affected	3
+crohn's disease	sigmoid colon (uninvolved)	Affected	3
+crohn's disease	ascending colon (inflamed)	Affected	2
+crohn's disease	transverse colon (uninvolved)	Affected	2
+crohn's disease	transverse colon (inflamed)	Affected	1
+crohn's disease	right colon (inflamed)	Affected	1
+crohn's disease	ileal mucosa (uninflamed)	Unaffected	65
+crohn's disease	intestinal mucosa (non-inflamed margin)	Unaffected	20
+crohn's disease	colon (unaffected)	Unaffected	3
+crohn's disease	ileum		878
+crohn's disease	rectum		322
+crohn's disease	colon		99
+crohn's disease	ileal margin		77
+crohn's disease	right colon		51
+crohn's disease	cecum		33
+crohn's disease	left colon		28
+crohn's disease	sigmoid		22
+crohn's disease	colonic mucosa		21
+crohn's disease	sigmoid colon		13
+crohn's disease	intestinum		13
+crohn's disease	transverse		12
+crohn's disease	small bowel		11
+crohn's disease	ileal mucosa		6
+crohn's disease	transverse colon		5
+crohn's disease	descending (left-sided) colon		4
+crohn's disease	ascending (right-sided) colon		4
+crohn's disease	creeping fat		4
+crohn's disease	jejunum upper		4
+crohn's disease	terminal ileum		3
+crohn's disease	transversum		3
+crohn's disease	descendens		1
+crohn's disease	coecum		1
+crohn's disease	sigmoideum		1
+crohn's disease	ileum-cecum		1
+crohn's disease	ascending colon		1
+crohn's disease (active)	ileum		51
+crohn's disease (active)	colon		21
+crohn's disease (active)	colon epithelium		5
+crohn's disease (colonic)	rectum		32
+crohn's disease (ileal)	rectum		60
+crohn's disease (inactive)	ileum		16
+crohn's disease (inactive)	colon epithelium		5
+crohn's disease (inactive)	colon		2
+crohn's disease (late stage)	ileum		14
+crohn's disease (newly diagnosed)	ileum		18
+crohn's disease (post-operative recurrent)	ileum		30
+crohn's disease (post-operative)	ileum		3
+cutaneous lupus (acute)	skin		7
+cutaneous lupus (chronic)	skin		6
+cutaneous lupus (subacute)	skin		70
+cutaneous lupus erythematosus (chronic)	skin		6
+diabetes	retina macula		10
+diabetes	retina periphery		2
+diabetic nephropathy	kidney (glomerulus)		26
+diabetic nephropathy	kidney (tubulo interstitium)		18
+diabetic nephropathy	kidney		6
+diabetic nephropathy	kidney, tubulointerstium		3
+diabetic nephropathy	kidney (tubulointerstitium)		1
+discoid lupus	skin (lesional)	Affected	7
+discoid lupus erythematosus	skin (lesional)	Affected	16
+discoid lupus erythematosus	skin		47
+discoid lupus erythematosus (chronic)	skin		6
+familial adenomatous polyposis	pouch mucosa (inflamed)	Affected	3
+familial adenomatous polyposis	pouch mucosa (uninflamed)	Unaffected	5
+focal and segmental glomerulosclerosis	kidney (glomerulus)		22
+focal and segmental glomerulosclerosis	kidney (tubulo interstitium)		12
+focal and segmental glomerulosclerosis, minimal change disease	kidney (tubulo interstitium)		4
+focal segmental glomerular sclerosis	kidney (glomerulus)		18
+focal segmental glomerular sclerosis, minimal change disease	kidney (glomerulus)		6
+focal segmental glomerulosclerosis	kidney		7
+focal segmental glomerulosclerosis	kidney, tubulointerstium		3
+focal segmental glomerulosclerosis	kidney (tubulointerstitium)		1
+glomerulonephritis	kidney		1
+huntington's disease	ventral head of the caudate nucleus		20
+hypertensive nephropathy	kidney (glomerulus)		31
+hypertensive nephropathy	kidney (tubulo interstitium)		20
+hypertensive nephropathy	kidney		9
+hypertensive nephropathy	kidney (tubulointerstitium)		1
+idiopathic pulmonary arterial hypertension	lung		8
+idiopathic pulmonary fibrosis	lung		13
+idiopathic pulmonary fibrosis, usual interstitial pneumonia	lung		20
+indeterminate colitis	colon (affected)	Affected	1
+inflammatory bowel disease	terminal ileum (uninvolved)	Affected	4
+inflammatory bowel disease	terminal ileum (inflamed)	Affected	2
+inflammatory bowel disease	rectum (uninvolved)	Affected	2
+inflammatory bowel disease	descending colon (inflamed)	Affected	1
+inflammatory bowel disease	ascending colon (uninvolved)	Affected	1
+inflammatory bowel disease	transverse colon (uninvolved)	Affected	1
+inflammatory bowel disease	colon		16
+inflammatory bowel disease unclassified	colon		7
+inflammatory bowel disease unclassified	ileum		1
+intestinal tuberculosis	colon		2
+irritable bowel syndrome	ileum		1
+juvenile myositis	skin (lesional)	Affected	9
+juvenile myositis	skin (non-lesional)	Unaffected	6
+left-sided coltis	colonic mucosa		20
+lichen planus	skin (non-lesional)	Unaffected	3
+lupus nephritis	kidney (tubulointerstitium)		33
+lupus nephritis	kidney		14
+lupus nephritis	kidney, tubulointerstium		3
+lupus nephritis (class 3)	kidney (glomerulus)		10
+lupus nephritis (class 3)	kidney (tubulointerstitium)		2
+lupus nephritis (class 3)	kidney		2
+lupus nephritis (class 3+5)	kidney (glomerulus)		4
+lupus nephritis (class 4)	kidney (glomerulus)		24
+lupus nephritis (class 4)	kidney (tubulointerstitium)		9
+lupus nephritis (class 4)	kidney		5
+lupus nephritis (class 4+5)	kidney (glomerulus)		4
+lupus nephritis (class 5)	kidney		4
+lupus nephritis (mixed 3/4+5)	kidney (glomerulus)		6
+lupus nephritis (mixed 3/4+5)	kidney (tubulointerstitium)		2
+membranoproliferative glomerulonephritis	kidney		2
+membranous glomerulonephritis	kidney (glomerulus)		21
+membranous glomerulonephritis	kidney (tubulo interstitium)		18
+membranous glomerulonephritis	kidney (tubulointerstitium)		1
+membranous glomerulonephropathy	kidney (glomerulus)		21
+membranous nephropathy	kidney		12
+membranous nephropathy	kidney, tubulointerstium		4
+meningitis tuberculosis	brain, cortex lesion	Affected	3
+microcrystalline arthritis	knee, synovium		5
+microcrystalline arthritis	synovium		5
+minimal change disease	kidney (glomerulus)		33
+minimal change disease	kidney (tubulo interstitium)		12
+minimal change disease	kidney		10
+minimal change disease	kidney, tubulointerstium		9
+minimal change disease	kidney (tubulointerstitium)		1
+multiple sclerosis	grey matter (lesional), motor cortex	Affected	20
+multiple sclerosis	subpial grey matter lesions from the frontal gyri	Affected	20
+multiple sclerosis	brain, cortex lesion	Affected	3
+multiple sclerosis	white matter (initial lesion)	Affected	1
+multiple sclerosis	white matter (non-lesional)	Unaffected	3
+multiple sclerosis	optic chiasm		5
+multiple sclerosis	corpus callosum		5
+multiple sclerosis	brain		3
+multiple sclerosis	brain (chronice active plaque)		2
+multiple sclerosis	brain (chronic plaque)		2
+multiple sclerosis	brain (active plaque)		1
+multiple sclerosis (primary progressive)	grey matter (non-lesional), parietal cortex	Unaffected	6
+multiple sclerosis (primary progressive)	white matter (non-lesional)	Unaffected	4
+multiple sclerosis (primary progressive)	grey matter (non-lesional), frontal cortex	Unaffected	3
+multiple sclerosis (primary progressive)	whole choroid plexus		6
+multiple sclerosis (progressive relapsing)	grey matter (non-lesional), parietal cortex	Unaffected	3
+multiple sclerosis (relapsing-remitting)	white matter (non-lesional)	Unaffected	3
+multiple sclerosis (secondary progressive)	grey matter  (lesional), frontal cortex	Affected	9
+multiple sclerosis (secondary progressive)	grey matter  (lesional), parietal cortex	Affected	5
+multiple sclerosis (secondary progressive)	grey matter (non-lesional), parietal cortex	Unaffected	5
+multiple sclerosis (secondary progressive)	grey matter (non-lesional), frontal cortex	Unaffected	4
+multiple sclerosis (secondary progressive)	white matter (non-lesional)	Unaffected	4
+multiple sclerosis (secondary progressive)	spinal cord (periplaque region)		8
+non-proliferative diabetic retinopathy	retina macula		14
+non-proliferative diabetic retinopathy	retina periphery		3
+non-sjogren's sicca	parotid		14
+osteoarthritis	synovium		15
+osteoarthritis	synovial membrane		7
+osteoarthritis	knee, synovium		5
+osteoarthritis	large joint, knee		4
+osteoarthritis (late stage)	synovium, knee		7
+palmoplantar pustulosis	sole skin		3
+pancolitis	colonic mucosa		19
+pancolitis	colon		14
+parkinson's disease	substantia nigra		19
+pityriasis rubra pilaris	skin (lesional)	Affected	13
+proliferative diabetic retinopathy	retina macula		2
+psoriasis	skin (lesional)	Affected	482
+psoriasis	epidermis (lesional)	Affected	18
+psoriasis	scalp skin (lesional)	Affected	8
+psoriasis	dermis (lesional)	Affected	6
+psoriasis	tissue (lesional)	Affected	5
+psoriasis	skin epidermis (lesional)	Affected	4
+psoriasis	center of plaque skin (lesional)	Affected	3
+psoriasis	arm skin (lesional)	Affected	3
+psoriasis	back skin (lesional)	Affected	1
+psoriasis	abdomen skin (lesional)	Affected	1
+psoriasis	skin (non-lesional)	Unaffected	286
+psoriasis	tissue (non-lesional)	Unaffected	84
+psoriasis	scalp skin (non-lesional)	Unaffected	12
+psoriasis	epidermis (non-lesional)	Unaffected	4
+psoriasis	skin		38
+psoriasis	sigmoidal colon		26
+psoriasis	epidermis		17
+psoriasis	skin (trunk)		13
+psoriasis	skin (limb)		5
+psoriasis	skin (epidermis+dermis)		2
+psoriasis (erythrodermic)	skin		30
+psoriasis (generalised pustular)	skin (lesional)	Affected	32
+psoriasis (inverse)	skin		40
+psoriasis (mild)	skin (lesional)	Affected	14
+psoriasis (severe)	skin (lesional)	Affected	13
+psoriasis, eczema	skin (non-lesional)	Unaffected	12
+psoriasis, eczema	skin (psoriasis)		7
+psoriasis, eczema	skin (eczema)		3
+psoriatic arthritis	knee		4
+rapidly progressive glomerulonephritis	kidney (glomerulus)		23
+rapidly progressive glomerulonephritis	kidney (tubulo interstitium)		21
+rheumatoid arthritis	synovium		126
+rheumatoid arthritis	synovium, knee		24
+rheumatoid arthritis	synovium, hand		13
+rheumatoid arthritis	synovial membrane		10
+rheumatoid arthritis	small joint, metacarpo-phalangeal joint or wrist		9
+rheumatoid arthritis	knee, synovium		7
+rheumatoid arthritis	synovium (CD21L+/IL-17A+)		5
+rheumatoid arthritis	synovium (CD21L-/IL-17A-)		5
+rheumatoid arthritis	synovium, hip		5
+rheumatoid arthritis	synovium, wrist		3
+rheumatoid arthritis	knee		3
+rheumatoid arthritis	synovium, finger		2
+rheumatoid arthritis	large joint, knee		1
+rheumatoid arthritis	synovium, elbow		1
+rheumatoid arthritis	synovial fluid		1
+rheumatoid arthritis	synovium, tka		1
+rheumatoid arthritis	synovium, foot		1
+rheumatoid arthritis	synovium, thumb		1
+rheumatoid arthritis	synovium, flexor tenosynovium		1
+rheumatoid arthritis (early)	synovium		19
+rheumatoid arthritis (early)	synovium, knee		12
+rheumatoid arthritis (end-stage)	synovium		16
+rheumatoid arthritis (late stage)	synovium, knee		2
+rheumatoid arthritis, usual interstitial pneumonia	lung		3
+schizophrenia	grey matter in brodmann area 22		1
+schizophrenia	grey matter in brodmann area 23		1
+schizophrenia	grey matter in brodmann area 24		1
+schizophrenia	grey matter in brodmann area 25		1
+schizophrenia	grey matter in brodmann area 26		1
+schizophrenia	grey matter in brodmann area 27		1
+schizophrenia	grey matter in brodmann area 28		1
+schizophrenia	grey matter in brodmann area 29		1
+schizophrenia	grey matter in brodmann area 30		1
+schizophrenia	grey matter in brodmann area 31		1
+schizophrenia	grey matter in brodmann area 32		1
+schizophrenia	grey matter in brodmann area 33		1
+schizophrenia	grey matter in brodmann area 34		1
+schizophrenia	grey matter in brodmann area 35		1
+schizophrenia	grey matter in brodmann area 36		1
+schizophrenia	grey matter in brodmann area 37		1
+schizophrenia	grey matter in brodmann area 38		1
+schizophrenia	grey matter in brodmann area 39		1
+schizophrenia	grey matter in brodmann area 40		1
+schizophrenia	grey matter in brodmann area 41		1
+seronegative arthritis	knee, synovium		4
+seronegative arthritis	synovium		4
+sjogren's syndrome	labial salivary gland		5
+sjogren's syndrome	minor salivary glands of the lower lip		2
+sjogren's syndrome (advanced)	minor salivary gland		2
+sjogren's syndrome (early)	minor salivary gland		5
+sjogren's syndrome (keratoconjunctivitis sicca)	conjunctiva		7
+sjogren's syndrome (moderate)	minor salivary gland		3
+sjogren's syndrome (primary)	minor salivary gland		51
+sjogren's syndrome (primary)	parotid		17
+sjogren's syndrome (primary)	salivary glands		16
+systemic lupus erythematosus	kidney (glomerulus)		62
+systemic lupus erythematosus	kidney (tubulo interstitium)		30
+systemic lupus erythematosus	knee, synovium		4
+systemic lupus erythematosus	synovium		4
+systemic lupus erythematosus (childhood-onset)	skin (lesional)	Affected	5
+systemic sclerosis	forearm skin		113
+systemic sclerosis	skin		62
+systemic sclerosis (diffuse cutaneous)	skin		48
+systemic sclerosis, interstitial lung disease	lung (lower lobe)		8
+systemic sclerosis, interstitial lung disease	lung		5
+systemic sclerosis, interstitial lung disease	lung (middle lobe)		3
+systemic sclerosis, pulmonary arterial hypertension	lung		10
+systemic sclerosis, pulmonary fibrosis	lung		13
+thin membrane disease	kidney (glomerulus)		6
+thin membrane disease	kidney (tubulo interstitium)		6
+tumor nephrectomy	kidney (glomerulus)		13
+tumor nephrectomy	kidney (tubulo interstitium)		6
+type 1 diabetes	pancreas body		6
+type 1 diabetes	pancreas head		4
+ulcerative colitis	pouch mucosa (inflamed)	Affected	13
+ulcerative colitis	colon (inflamed)	Affected	8
+ulcerative colitis	descending colon (inflammed)	Affected	8
+ulcerative colitis	colonic mucosa (inflamed)	Affected	5
+ulcerative colitis	colon (affected)	Affected	5
+ulcerative colitis	descending colon (inflamed)	Affected	3
+ulcerative colitis	sigmoid colon (inflamed)	Affected	2
+ulcerative colitis	rectum (inflamed)	Affected	1
+ulcerative colitis	large (inflamed)	Affected	1
+ulcerative colitis	tranverse colon (inflamed)	Affected	1
+ulcerative colitis	ileum slightly inflamed	Affected	1
+ulcerative colitis	pouch mucosa (uninflamed)	Unaffected	15
+ulcerative colitis	colon (non-inflamed)	Unaffected	9
+ulcerative colitis	descending colon (non-inflammed)	Unaffected	3
+ulcerative colitis	sigmoideum (non-inflammed)	Unaffected	3
+ulcerative colitis	ascending colon (non-inflamed)	Unaffected	2
+ulcerative colitis	right colon (noninflamed)	Unaffected	2
+ulcerative colitis	tranverse colon (non-inflamed)	Unaffected	1
+ulcerative colitis	descending colon (non-inflamed)	Unaffected	1
+ulcerative colitis	non-inflamed	Unaffected	1
+ulcerative colitis	colon (unaffected)	Unaffected	1
+ulcerative colitis	colon (non-inflammed)	Unaffected	1
+ulcerative colitis	colonic mucosa (uninflamed)	Unaffected	1
+ulcerative colitis	colon		835
+ulcerative colitis	rectum		774
+ulcerative colitis	ileum		199
+ulcerative colitis	colon mucosa		159
+ulcerative colitis	right colon		52
+ulcerative colitis	left colon		45
+ulcerative colitis	sigmoid		44
+ulcerative colitis	non-neoplastic rectal mucosa		43
+ulcerative colitis	sigmoid colon		40
+ulcerative colitis	cecum		35
+ulcerative colitis	sigmoideum		16
+ulcerative colitis	intestinum		15
+ulcerative colitis	transverse		12
+ulcerative colitis	descendens		12
+ulcerative colitis	descending colon		6
+ulcerative colitis	transverse colon		6
+ulcerative colitis	colonic mucosa		5
+ulcerative colitis	descending (left-sided) colon		4
+ulcerative colitis	ascending (right-sided) colon		3
+ulcerative colitis	coecum		3
+ulcerative colitis	transversum		3
+ulcerative colitis	ascendens		2
+ulcerative colitis	large		1
+ulcerative colitis	ascending colon		1
+ulcerative colitis	""		1
+ulcerative colitis	valvula		1
+ulcerative colitis	small bowel		1
+ulcerative colitis (active)	colon		103
+ulcerative colitis (active)	colonic mucosa		20
+ulcerative colitis (active)	colon epithelium		7
+ulcerative colitis (active)	colon (whole mucosa)		4
+ulcerative colitis (active)	caecum		4
+ulcerative colitis (extensive)	colon		13
+ulcerative colitis (inactive)	colon		23
+ulcerative colitis (inactive)	colon epithelium		6
+ulcerative colitis (inactive)	colonic mucosa		6
+ulcerative colitis (left-sided)	colon		4
+ulcerative colitis (limited)	colon		6
+ulcerative colitis (quiescent)	colon		4
+ulcerative colitis (remission)	colon		22
+ulcerative colitis (remission)	colonic mucosa		16
+ulcerative colitis associated colorectal cancer	colorectal cancer		6
+ulcerative colitis, colorectal cancer	non-neoplastic rectal mucosa		10
+ulcerative colitis, neoplasia	colon		11
+ulcerative colitis-associated dysplasia	colonic mucosa		6
+vasculitis	kidney		5
