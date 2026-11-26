@@ -132,9 +132,9 @@ for (module in list_modules) {
   
 }
 
-jpeg(file = 'boxplot_all_modules_colon.jpeg', units = 'cm', width = 57, height = 30, res = 200)
-do.call(grid.arrange,c(list_plot, ncol = 5))
-dev.off()
+# jpeg(file = 'boxplot_all_modules_colon.jpeg', units = 'cm', width = 57, height = 30, res = 200)
+# do.call(grid.arrange,c(list_plot, ncol = 5))
+# dev.off()
 
 #saveRDS(list_plot, 'list_plot_before_treat_colon.rds')
 
@@ -176,13 +176,13 @@ for (i in 1:length(list_plot_new)) {
 }
 
 
-jpeg(file = 'boxplot_sig_modules_colon_after_treatment.jpeg', units = 'cm', width = 68, height = 47, res = 600)
-do.call(grid.arrange,c(list_plot_new, ncol = 4))
-dev.off()
+# jpeg(file = 'boxplot_sig_modules_colon_after_treatment.jpeg', units = 'cm', width = 68, height = 47, res = 600)
+# do.call(grid.arrange,c(list_plot_new, ncol = 4))
+# dev.off()
 
-jpeg(file = 'boxplot_sig_modules_colon_after_treatment_only_six_for_phdmeeting.jpeg', units = 'cm', width = 50, height = 35, res = 600)
-do.call(grid.arrange,c(list_plot_new[1:6], ncol = 3))
-dev.off()
+# jpeg(file = 'boxplot_sig_modules_colon_after_treatment_only_six_for_phdmeeting.jpeg', units = 'cm', width = 50, height = 35, res = 600)
+# do.call(grid.arrange,c(list_plot_new[1:6], ncol = 3))
+# dev.off()
 
 
 ################################################################################################################################################

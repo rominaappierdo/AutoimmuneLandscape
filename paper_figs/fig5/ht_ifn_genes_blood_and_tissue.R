@@ -121,3 +121,27 @@ mean(unlist(merged['Lupus (Skin)', ]))
 # jpeg("fig5_ht.jpeg", width = 38,height = 18, units = "cm", res = 600)
 # draw(ht)
 # dev.off()
+
+
+ht <- Heatmap(as.matrix(t(merged)),
+              column_split = split,
+              col = circlize::colorRamp2(c(-2, 0, 2), c('blue', "#FFFFFF", "red")),
+              column_gap = unit(3.5, "mm"),
+              na_col = 'black',
+              heatmap_height = unit(1.2, "cm")*nrow(merged),
+              heatmap_width = unit(0.055, "cm")*ncol(merged),
+              rect_gp = gpar(col = "black", lwd = 0.1),
+              show_row_names = F,cluster_row_slices = F,
+              heatmap_legend_param = list(title = "Effect Size"),
+              row_title = "IFN genes",
+              column_title_side = "bottom",
+              column_names_rot = 45
+              
+)
+
+draw(ht)
+
+jpeg("fig5_ht_tesi.jpeg", width = 18,height = 30, units = "cm", res = 600)
+draw(ht)
+dev.off()
+

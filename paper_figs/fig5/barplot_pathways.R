@@ -1,4 +1,4 @@
-setwd("paper_figs/fig5")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/fig5")
 source("../../utils_functions/functions_to_process_RNAseq_Data.R")
 options(repr.plot.width=15, repr.plot.height=15)
 library(ComplexHeatmap)
@@ -40,9 +40,7 @@ for (file in files) {
   data<-rbind(data, df)
 }
 
-survcomp::combine.test(data[data$gene == 'WP_TYPE_II_INTERFERON_SIGNALING_IFNG', ]$effectSizeFDR, method = 'fisher')
-
-
+data <- data[, !colnames(data) == 'effectSizeFDR']
 #reshaping
 data<-tidyr::spread(data, "disease", "effectSize")
 rownames(data)<-data$gene
@@ -77,9 +75,6 @@ rownames(data) <- unlist(lapply(
 )
 )
 
-data
-
-
 data <- as.data.frame(rowMeans(data))
 data$diseases <- rownames(data)
 colnames(data) <- c("mean", "diseases")
@@ -91,7 +86,9 @@ p <- ggplot(data, aes(y = reorder(diseases, mean), x = mean)) +
   theme_classic() +
   xlab("mean effect size across diseases")+
   theme(axis.title.x = element_text(size = 13),
-        axis.text.y = element_markdown()
+        axis.text.y = element_markdown(),
+        legend.text = element_text(size = 15),   # ← increases legend label size
+        legend.title = element_text(size = 16) 
   ) +
   ylab("") +
   scale_y_discrete(labels = c(
@@ -105,10 +102,15 @@ p <- ggplot(data, aes(y = reorder(diseases, mean), x = mean)) +
   )) +
   scale_fill_discrete(labels=c('upregulated', 'downregulated'), type=c("#F28E2B","#76B7B2"))
 
+p
 
-rownames(data)[grepl("ifn|interf", rownames(data), ignore.case = T)]
 
-jpeg("fig5D_ht_path_all.jpeg", units = 'in', width = 15, height = 12, res = 600)
+#rownames(data)[grepl("ifn|interf", rownames(data), ignore.case = T)]
+
+# jpeg("fig5D_ht_path_all.jpeg", units = 'in', width = 15, height = 12, res = 600)
+# p
+# dev.off()
+
+jpeg("fig5D_ht_path_all_phd_thesis.jpeg", units = 'in', width = 15, height = 12, res = 600)
 p
 dev.off()
-

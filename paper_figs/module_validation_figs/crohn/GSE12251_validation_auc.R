@@ -83,6 +83,26 @@ ggroc(roc_obj) +
            label = paste("AUC =", round(auc_value, 3)), 
            size = 5, color = "blue")
 
+
+#increase text
+ggroc(roc_obj) +
+  ggtitle("GSE12251 validation - UC - before treatment Inflammation Module - response label") +
+  xlab("False Positive Rate") +
+  ylab("True Positive Rate") +
+  theme_classic(base_size = 18) +  # increase base text size
+  theme(
+    axis.title = element_text(size = 20, face = "bold"),
+    axis.text = element_text(size = 16),
+    plot.title = element_text(size = 20, hjust = 0.5, face = "bold")
+  ) +
+  annotate(
+    "text",
+    x = 0.8, y = 1,
+    label = paste("AUC =", round(auc_value, 3)),
+    size = 9,       # increased annotation text size
+    color = "blue"
+  )
+
 stop()
 
 

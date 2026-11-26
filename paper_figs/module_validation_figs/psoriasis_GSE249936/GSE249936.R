@@ -212,8 +212,11 @@ for (i in 1:length(list_boxplot_new)) {
 }
 
 
-jpeg(file = 'Fig7C_boxplot_psoriasis.jpeg', width = 68 , units = 'cm', height = 35, res = 600)
-do.call(grid.arrange,c(list_boxplot_new, ncol = 4))
-dev.off()
+# jpeg(file = 'Fig7C_boxplot_psoriasis.jpeg', width = 68 , units = 'cm', height = 35, res = 600)
+# do.call(grid.arrange,c(list_boxplot_new, ncol = 4))
+# dev.off()
 
+jpeg(file = 'Fig7C_boxplot_psoriasis_phd_thesis.jpeg', width = 45 , units = 'cm', height = 65, res = 600)
+do.call(grid.arrange,c(list_boxplot_new, ncol = 2))
+dev.off()
 

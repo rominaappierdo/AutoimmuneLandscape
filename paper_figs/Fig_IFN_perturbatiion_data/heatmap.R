@@ -1,4 +1,4 @@
-setwd("paper_figs/Fig_IFN_perturbatiion_data")
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/Fig_IFN_perturbatiion_data")
 library(MetaIntegrator)
 library(data.table)
 library(ComplexHeatmap)
@@ -8,7 +8,9 @@ library(ggthemes)
 library(ggpubr)
 library(factoextra)
 source("/mnt/data3/appierdo/AutoimmuneLandscape/utils_functions/functions_to_process_RNAseq_Data.R")
-source("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/module_validation_figs/psoriasis_GSE117239/Untitled.R")
+#source("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/module_validation_figs/psoriasis_GSE117239/Untitled.R")
+source("/mnt/data3/appierdo/AutoimmuneLandscape/utils_functions/function_compute_all_features_for_module.R")
+
 gse<-'GSE78193'
 
 ########## set module
@@ -65,7 +67,8 @@ p <- Heatmap(as.matrix(total_df),
              heatmap_width = unit(0.7, "cm")*ncol(total_df),
              heatmap_legend_param = list(
                title = "Zscores",
-               labels_gp = grid::gpar(fontsize = 40)  # Change legend labels size
+               title_gp = grid::gpar(fontsize = 40, fontface = "bold"),  # title size
+               labels_gp = grid::gpar(fontsize = 30) 
              ),
              cluster_column_slices = F,
              #col = circlize::colorRamp2(c(-1, 0, 1), c("orange1", "#FFFFFF", "purple")),
@@ -82,7 +85,10 @@ p <- Heatmap(as.matrix(total_df),
 )
 p<-draw(p, annotation_legend_side = "left", heatmap_legend_side = "bottom")
 
-
-png(filename = 'ht_new.png', res = 600, width = 10000, height = 7000)
+p
+# png(filename = 'ht_new.png', res = 600, width = 10000, height = 7000)
+# p
+# dev.off()
+png(filename = 'ht_new_phd_thesis.png', res = 600, width = 10000, height = 7000)
 p
 dev.off()

@@ -8,8 +8,8 @@ library(ggthemes)
 library(ggpubr)
 library(factoextra)
 source("/mnt/data3/appierdo/AutoimmuneLandscape/utils_functions/functions_to_process_RNAseq_Data.R")
-source("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/module_validation_figs/psoriasis_GSE117239/Untitled.R")
-
+#source("/mnt/data3/appierdo/AutoimmuneLandscape/paper_figs/module_validation_figs/psoriasis_GSE117239/Untitled.R")
+source("/mnt/data3/appierdo/AutoimmuneLandscape/utils_functions/function_compute_all_features_for_module.R")
 gse<-'GSE78193'
 
 ########## set module
@@ -69,7 +69,7 @@ my_comparisons <- list(c("IFN-gamma", "unstimulated"))
 score_df$stimulation <- factor(score_df$stimulation, levels = c("unstimulated", "IFN-gamma"))
 box <- ggplot(score_df, aes(x = stimulation, y = module)) +
   geom_boxplot(aes(fill = stimulation)) +
-  stat_compare_means(comparisons = my_comparisons,  method = "wilcox.test") +
+  stat_compare_means(comparisons = my_comparisons,  method = "wilcox.test", size = 4) +
   ggtitle("IFN module")+
   ylab("module score")+
   xlab("") +
@@ -100,6 +100,35 @@ for (i in strip_both) {
 grid.draw(g)
 
 
-png(filename = 'boxplot_new.png', res = 600, width = 4000, height = 3000)
+# png(filename = 'boxplot_new.png', res = 600, width = 4000, height = 3000)
+# grid.draw(g)
+# dev.off()
+
+box <- box +
+  theme(
+    axis.text = element_text(size = 14),        # axis tick labels
+    axis.title = element_text(size = 20),       # axis titles
+    legend.text = element_text(size = 18),      # legend labels
+    legend.title = element_text(size = 20),     # legend title
+    strip.text = element_text(size = 18),       # facet strip labels
+    plot.title = element_text(size = 22, hjust = 0.5)  # optional: main title
+  )
+
+
+
+# Now build and edit colors as before
+g <- ggplot_gtable(ggplot_build(box))
+strip_both <- which(grepl('strip-', g$layout$name))
+fills <- c("#377eb8", "#e41a1b", "#4eaf4a")
+k <- 1
+for (i in strip_both) {
+  j <- which(grepl('rect', g$grobs[[i]]$grobs[[1]]$childrenOrder))
+  g$grobs[[i]]$grobs[[1]]$children[[j]]$gp$fill <- fills[k]
+  k <- k + 1
+}
+
+
+png(filename = 'boxplot_phd_thesis.png', res = 600, width = 4000, height = 3000)
 grid.draw(g)
 dev.off()
+

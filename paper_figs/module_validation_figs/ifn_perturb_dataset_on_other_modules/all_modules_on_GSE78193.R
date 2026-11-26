@@ -39,7 +39,7 @@ counter_mod <- 0 #keep track of module number
 list_plot <- list() # list of heatmaps plots
 
 
-for (module in list_modules[5]) { #for each module
+for (module in list_modules) { #for each module
   counter_mod <- counter_mod+1
   
   ########## get gene expression data
