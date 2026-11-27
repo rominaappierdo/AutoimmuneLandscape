@@ -1,0 +1,7 @@
+context	feature_type	n_diseases	n_features_pooled	n_robust	n_robust_male	n_robust_female	n_robust_non_sex_linked
+BLOOD	genes	7	20459	2	0	2	0
+BLOOD	hallmarks	7	50	3	2	1	3
+BLOOD	kegg	7	186	4	1	3	4
+BLOOD	wikipathways	7	663	0	0	0	0
+TISSUE	genes	5	22843	0	0	0	0
+TISSUE	wikipathways	3	642	0	0	0	0
