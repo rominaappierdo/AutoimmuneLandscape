@@ -1,0 +1,111 @@
+nohup: ignoring input
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.4.4     ✔ tibble    3.3.0
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.0.4     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:lubridate’:
+
+    hour, isoweek, mday, minute, month, quarter, second, wday, week,
+    yday, year
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+
+Attaching package: ‘rlang’
+
+The following object is masked from ‘package:data.table’:
+
+    :=
+
+The following objects are masked from ‘package:purrr’:
+
+    %@%, flatten, flatten_chr, flatten_dbl, flatten_int, flatten_lgl,
+    flatten_raw, invoke, splice
+
+ℹ Loading metapipeline
+Sani per GSE e sesso (servono almeno 2 M e 2 F per ogni GSE):
+           
+             F  M
+  GSE110169 54 23
+  GSE112087 54  4
+  GSE113342 12  4
+  GSE119207  2  2
+  GSE126307  7  2
+  GSE154851 32  0
+  GSE22098  52 29
+  GSE39088  34 12
+  GSE49454  17  3
+  GSE50635  16  0
+  GSE65391  57 15
+  GSE72326  32 28
+  GSE72754   9  1
+  GSE81622  20  5
+  GSE8650   30 12
+  GSE99967  14  3
+########## ssGSEA maschi vs femmine SANI - gene set: HALLMARKS
+Setting options('download.file.method.GEOquery'='auto')
+Setting options('GEOquery.inmemory.gpl'=FALSE)
+Found 1 file(s)
+GSE110169_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE110169_series_matrix.txt.gz
+Using locally cached version of GPL13667 found here:
+../../../../../geo_data//GPL13667.soft.gz 
+Found 1 file(s)
+GSE49454_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE49454_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE65391_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE65391_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE72326_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE72326_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE99967_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE99967_series_matrix.txt.gz
+Using locally cached version of GPL21970 found here:
+../../../../../geo_data//GPL21970.soft.gz 
+Found 1 file(s)
+GSE39088_series_matrix.txt.gz
+Using locally cached version of GPL570 found here:
+../../../../../geo_data//GPL570.soft.gz 
+Found 1 file(s)
+GSE22098_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE22098_series_matrix.txt.gz
+Using locally cached version of GPL6947 found here:
+../../../../../geo_data//GPL6947.soft.gz 
+          Length Class  Mode
+GSE110169 1      -none- list
+GSE49454  1      -none- list
+GSE65391  1      -none- list
+GSE72326  1      -none- list
+GSE99967  1      -none- list
+GSE39088  1      -none- list
+GSE22098  1      -none- list
+[1] "GSE110169_series_matrix.txt.gz"
+[1] "GSE49454_series_matrix.txt.gz"
+[1] "GSE65391_series_matrix.txt.gz"
+[1] "GSE72326_series_matrix.txt.gz"
+[1] "GSE99967_series_matrix.txt.gz"
+[1] "GSE39088_series_matrix.txt.gz"
+[1] "GSE22098_series_matrix.txt.gz"
