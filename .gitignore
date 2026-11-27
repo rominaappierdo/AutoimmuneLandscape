@@ -1,5 +1,5 @@
 *readme.txt
-**/nohup*
+#**/nohup*
 *Rplots.pdf
 # Ignore all hidden files except .gitignore and .gitattributes
 .*
