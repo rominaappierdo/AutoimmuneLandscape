@@ -121,19 +121,20 @@ print(table(data$GSE, data$gender))
 
 
 for (gs in names(gene_sets)) {
+  dir.create(gene_sets[[gs]]$wd, recursive = TRUE, showWarnings = FALSE)  # ricrea la cartella se e' sparita durante la corsa
   setwd(gene_sets[[gs]]$wd)
   pathways_list <- readRDS(gene_sets[[gs]]$file)
   message("########## ssGSEA maschi vs femmine - gene set: ", gs)
-
+  
   results <- run_pipeline(data, confronti,sample.tissue="tissue", timepoint.id=c('baseline', 'pre', NA,"NA", 'rep1', 'unstimulated','untreated', "visit 1",'T0', 't0', "biopsy 1", "GPL96", "visit day 0", "week 0", "at-diagnosis (for progressor)","day 0" , "at diagnosis" , "untreated, rep 1", "baseline, rep1", "early"),
-                      genes.of.interest = NULL,
-                      dest.dir = "../../../../../geo_data/",
-                      from.cache = c(),
-                      aggregate.subject.data = FALSE,
-                      path_to_rnaseq_datasets = directory_downloaded_rnaseq,
-                      rnaseq_series_file = rnaseq_series,
-                      specify_tissue_subtypes = TRUE,
-                      list_tissue_subtypes = list(tissues, tissues),
+                          genes.of.interest = NULL,
+                          dest.dir = "../../../../../geo_data/",
+                          from.cache = c(),
+                          aggregate.subject.data = FALSE,
+                          path_to_rnaseq_datasets = directory_downloaded_rnaseq,
+                          rnaseq_series_file = rnaseq_series,
+                          specify_tissue_subtypes = TRUE,
+                          list_tissue_subtypes = list(tissues, tissues),
                           pathways = pathways_list,
                           gs = gs
   )
