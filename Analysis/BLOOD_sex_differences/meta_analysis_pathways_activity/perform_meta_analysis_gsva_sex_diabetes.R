@@ -1,0 +1,113 @@
+## =====================================================================
+## ssGSEA + META-ANALISI SUI PATHWAY: MASCHI vs FEMMINE NEI SOLI PAZIENTI
+## Derivato da: Analysis/BLOOD_sex_differences/meta_analysis_gene_expression/diabetes/perform_meta_analysis_sex.R
+## - stessi pazienti, filtri su GSE/tessuto/timepoint e confronto M vs F dello script sull'espressione genica
+## - per ogni GSE: ssGSEA (GSVA, method = 'ssgsea') + scale() sui campioni selezionati, poi meta-analisi dei punteggi
+##   con metapipeline-master_gsva (la stessa pipeline dei pathway "vs healthy")
+## - cicla su 3 gene set: HALLMARKS, KEGG, WIKIPATHWAYS
+## - effect size > 0  =>  attivita' del pathway piu' alta nei MASCHI
+## Risultati: Analysis/BLOOD_sex_differences/meta_analysis_pathways_activity/<gene set>/diabetes/
+## Punteggi per campione: Analysis/BLOOD_sex_differences/gene_set_variation_analysis/  (cartella NUOVA: non tocca quella originale)
+## =====================================================================
+# Percorsi assoluti (radice del progetto: /mnt/data3/appierdo/AutoimmuneLandscape)
+gene_sets <- list(
+  HALLMARKS    = list(file = "/mnt/data3/appierdo/AutoimmuneLandscape/gene_sets/hallmarks_list_GENE_SYMBOL.RData",
+                      wd   = "/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD_sex_differences/meta_analysis_pathways_activity/hallmarks/diabetes"),
+  KEGG         = list(file = "/mnt/data3/appierdo/AutoimmuneLandscape/gene_sets/KEGG_list_GENE_SYMBOL.RData",
+                      wd   = "/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD_sex_differences/meta_analysis_pathways_activity/kegg/diabetes"),
+  WIKIPATHWAYS = list(file = "/mnt/data3/appierdo/AutoimmuneLandscape/gene_sets/WIKIPATHWAYS_list_GENE_SYMBOL.RData",
+                      wd   = "/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD_sex_differences/meta_analysis_pathways_activity/wikipathways/diabetes")
+)
+for (g in gene_sets) dir.create(g$wd, recursive = TRUE, showWarnings = FALSE)
+dir.create("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD_sex_differences/gene_set_variation_analysis", recursive = TRUE, showWarnings = FALSE)
+setwd("/mnt/data3/appierdo/AutoimmuneLandscape/Analysis/BLOOD_sex_differences/meta_analysis_pathways_activity/hallmarks/diabetes")
+source("../../../../../utils_functions/functions_to_process_RNAseq_Data.R")
+devtools::load_all("../../../../../metapipeline-master_gsva/")
+library(GSVA)
+
+
+options(timeout = max(300, getOption("timeout")))
+options(download.file.method.GEOquery = "wget")
+
+data<-read.csv("../../../../../Data_Collection/raw_data/step6_starting_manage_data/annotated_metadata_8.1.2023/diabetes_metadata.tsv", sep="\t", header=T)
+setDT(data) #turn dataset into data.table object
+data <- data[, check:treatment] #subset dataset until treatment column
+data[data==""] <- NA
+data <- data[!grepl("x",data$check),]
+data[,check:=NULL] #drop check column
+#drop cultured cells e sscrnaseq
+data <- data[!grepl("cultured",data$cell_type),]
+data <- data[!grepl("single",data$sample_source),]
+data <- data[is.na(data$cell_type),]
+
+names(data)<-c("GSE", "geo_accession", "subject.id","sample.type", "sample.tissue","sample_source","age", "gender", "cell_type", "timepoint.id","treatment")
+directory_downloaded_rnaseq<- "../../../../../Data_Collection/downloaded_datasets/diabetes/downloaded_RNAseq/"
+rnaseq_series <- "../../../../../Data_Collection/gse_and_gsm_lists/diabetes/rnaseq_series_diabetes.txt"
+microarray_series<-readLines("../../../../../Data_Collection/gse_and_gsm_lists/diabetes/microarray_series_diabetes.txt")
+
+series <- unname(unlist(sapply(microarray_series, function(x) strsplit(x, "_"))))
+series<-unique(series[!grepl("GPL", series)])
+
+#Add to "series" the RNAseq series
+series<-append(series, readLines(rnaseq_series))
+data<-data[data$GSE %in% series,]
+
+comp<-list(c("type 1 diabetes", "type 1 diabetes (fulminant)", "type 1 diabetes (long duration)", "type 1 diabetes (newly diagnosed)", 
+             "type 1 diabetes (recent onset)", "type 1 diabetes (short duration)", "type 1A diabetes", "diabetes"), c("control, type 1 diabetes (new-onset)", "healthy"))
+names(comp)<-c("cases", "controls")
+confronti<- list(comp)
+names(confronti)<-c("diabetes_vs_healthy")
+
+
+data[data == "blood"] <- "whole blood"
+
+
+
+
+## =====================================================================
+## CONFRONTO MASCHI vs FEMMINE NEI SOLI PAZIENTI  (derivato dallo script originale)
+## - tiene solo i pazienti, con le STESSE etichette di malattia dello script originale
+## - sample.type diventa il sesso: casi = "M", controlli = "F"
+## - effect size > 0  =>  espressione piu' alta nei maschi
+## =====================================================================
+new_name <- sub("vs_healthy", "male_vs_female", names(confronti)[1])
+if (identical(new_name, names(confronti)[1])) new_name <- paste0(new_name, "_male_vs_female")
+
+patient_labels <- comp$cases
+data <- data[data$sample.type %in% patient_labels, ]
+
+data$gender <- toupper(trimws(as.character(data$gender)))
+data$gender[data$gender == "MALE"]   <- "M"
+data$gender[data$gender == "FEMALE"] <- "F"
+data <- data[data$gender %in% c("M", "F"), ]      # scarta sesso mancante o non valido
+
+data$sample.type <- data$gender
+comp_sex <- list(cases = "M", controls = "F")
+confronti <- list(comp_sex)
+names(confronti) <- new_name
+# stesso schema dei nomi degli script dei pathway esistenti (gsva_<malattia>_..., oppure <TESSUTO>_gsva_<malattia>_...)
+names(confronti) <- sub("^((GUT|SKIN|SYNOVIUM)_)?", "\\1gsva_", names(confronti))
+
+message("Pazienti per GSE e sesso (servono almeno 2 M e 2 F per ogni GSE):")
+print(table(data$GSE, data$gender))
+## =====================================================================
+
+
+for (gs in names(gene_sets)) {
+  setwd(gene_sets[[gs]]$wd)
+  pathways_list <- readRDS(gene_sets[[gs]]$file)
+  message("########## ssGSEA maschi vs femmine - gene set: ", gs)
+
+  results <- run_pipeline(data, confronti,sample.tissue=c("whole blood"), timepoint.id=c('baseline', 'pre', NA,"NA", 'rep1', 'unstimulated','untreated', "visit 1",'T0', 't0', "biopsy 1", "GPL96", "visit day 0", "week 0", "at-diagnosis (for progressor)","day 0" , "at diagnosis" , "untreated, rep 1", "baseline, rep1", "early"),
+                      genes.of.interest = NULL,
+                      dest.dir = "../../../../../geo_data/",
+                      from.cache = c(),
+                      aggregate.subject.data = FALSE,
+                      path_to_rnaseq_datasets = directory_downloaded_rnaseq,
+                      rnaseq_series_file = rnaseq_series,
+                          pathways = pathways_list,
+                          gs = gs
+  )
+}
+
+print("###############DONE! (ssGSEA sex differences)")
