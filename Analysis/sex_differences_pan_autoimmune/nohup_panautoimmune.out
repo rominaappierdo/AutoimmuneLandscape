@@ -19,7 +19,6 @@ BLOOD kegg                      1               3                       4
 BLOOD wikipathways              0               0                       0
 TISSUE genes                    0               0                       0
 TISSUE wikipathways             0               0                       0
-Error in rbind(deparse.level, ...) : 
-  numbers of columns of arguments do not match
-Calls: do.call -> <Anonymous> -> rbind
-Execution halted
+QC: i geni Y (RPS4Y1, DDX3Y, KDM5D, ...) devono essere > 0 e XIST < 0 in TUTTE le malattie (guarda QC_sex_genes_positive_controls.tsv)
+   sani TISSUE wikipathways: meno di 3 malattie, salto
+[1] "###############DONE! (pan-autoimmune sex differences)"

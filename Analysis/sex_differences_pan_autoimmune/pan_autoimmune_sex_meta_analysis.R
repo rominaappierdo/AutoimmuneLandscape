@@ -43,7 +43,7 @@ QC_GENES <- c("XIST","RPS4Y1","DDX3Y","KDM5D","UTY","USP9Y","EIF1AY","ZFY","TXLN
 read_res <- function(f) {
   r <- read.delim(f, stringsAsFactors = FALSE, check.names = FALSE)
   r <- r[!is.na(r$effectSize) & !is.na(r$effectSizeStandardError) & r$effectSizeStandardError > 0 &
-         !is.na(r$numStudies) & r$numStudies >= min_studies_per_disease, c("gene", "effectSize", "effectSizeStandardError", "numStudies")]
+           !is.na(r$numStudies) & r$numStudies >= min_studies_per_disease, c("gene", "effectSize", "effectSizeStandardError", "numStudies")]
   r[!duplicated(r$gene), ]
 }
 
@@ -164,8 +164,10 @@ for (ctx in c("BLOOD", "TISSUE")) {
     all_res[[paste(ctx, ft)]] <- res
     write.table(res, sprintf("pan_autoimmune_%s_%s.tsv", ctx, ft), sep = "\t", quote = FALSE, row.names = FALSE)
     if (ft == "genes") {
-      q <- res[res$feature %in% QC_GENES, c("feature", "k", "ES", "n_pos", "n_neg", grep("^ES_", colnames(res), value = TRUE))]
-      q$context <- ctx; qc[[ctx]] <- q
+      q <- res[res$feature %in% QC_GENES, ]
+      # formato lungo (le malattie cambiano tra sangue e tessuto, quindi non si puo' fare rbind in formato largo)
+      qc[[ctx]] <- do.call(rbind, lapply(grep("^ES_", colnames(q), value = TRUE), function(cn)
+        data.frame(context = ctx, gene = q$feature, disease = sub("^ES_", "", cn), ES = q[[cn]], stringsAsFactors = FALSE)))
     }
     top <- rownames(res)[which(res$robust)]
     top <- top[seq_len(min(length(top), 60))]
@@ -189,7 +191,11 @@ summ <- do.call(rbind, lapply(all_res, function(r) data.frame(
 write.table(summ, "summary_pan_autoimmune.tsv", sep = "\t", quote = FALSE, row.names = FALSE)
 print(summ)
 if (length(qc) > 0) {
-  qc_all <- do.call(rbind, qc); write.table(qc_all, "QC_sex_genes_positive_controls.tsv", sep = "\t", quote = FALSE, row.names = FALSE)
+  qc_all <- do.call(rbind, qc)
+  qc_all$expected <- ifelse(qc_all$gene == "XIST", "female (ES<0)", "male (ES>0)")
+  qc_all$ok <- ifelse(is.na(qc_all$ES), NA, ifelse(qc_all$gene == "XIST", qc_all$ES < 0, qc_all$ES > 0))
+  qc_all <- qc_all[!is.na(qc_all$ES), ]
+  write.table(qc_all, "QC_sex_genes_positive_controls.tsv", sep = "\t", quote = FALSE, row.names = FALSE)
   message("QC: i geni Y (RPS4Y1, DDX3Y, KDM5D, ...) devono essere > 0 e XIST < 0 in TUTTE le malattie (guarda QC_sex_genes_positive_controls.tsv)")
 }
 
