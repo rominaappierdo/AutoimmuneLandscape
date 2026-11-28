@@ -1,0 +1,39 @@
+2026-11-27 16:26:17 START perform_meta_analysis_sexstrat_genes_blood_crohn
+2026-11-27 16:28:56 END   perform_meta_analysis_sexstrat_genes_blood_crohn exit=0
+2026-11-27 16:28:56 START perform_meta_analysis_sexstrat_genes_blood_diabetes
+2026-11-27 16:30:12 END   perform_meta_analysis_sexstrat_genes_blood_diabetes exit=0
+2026-11-27 16:30:12 START perform_meta_analysis_sexstrat_genes_blood_lupus
+2026-11-27 16:39:30 END   perform_meta_analysis_sexstrat_genes_blood_lupus exit=0
+2026-11-27 16:39:30 START perform_meta_analysis_sexstrat_genes_blood_ra
+2026-11-27 16:42:23 END   perform_meta_analysis_sexstrat_genes_blood_ra exit=0
+2026-11-27 16:42:23 START perform_meta_analysis_sexstrat_genes_blood_uc
+2026-11-27 16:44:46 END   perform_meta_analysis_sexstrat_genes_blood_uc exit=0
+2026-11-27 16:44:46 START perform_meta_analysis_sexstrat_pathways_blood_crohn
+2026-11-27 18:53:26 END   perform_meta_analysis_sexstrat_pathways_blood_crohn exit=0
+2026-11-27 18:53:26 START perform_meta_analysis_sexstrat_pathways_blood_diabetes
+2026-11-27 19:07:02 END   perform_meta_analysis_sexstrat_pathways_blood_diabetes exit=0
+2026-11-27 19:07:02 START perform_meta_analysis_sexstrat_pathways_blood_lupus
+2026-11-27 20:20:56 END   perform_meta_analysis_sexstrat_pathways_blood_lupus exit=0
+2026-11-27 20:20:56 START perform_meta_analysis_sexstrat_pathways_blood_ra
+2026-11-27 20:49:33 END   perform_meta_analysis_sexstrat_pathways_blood_ra exit=0
+2026-11-27 20:49:33 START perform_meta_analysis_sexstrat_pathways_blood_uc
+2026-11-27 23:10:01 END   perform_meta_analysis_sexstrat_pathways_blood_uc exit=0
+2026-11-27 23:10:01 START perform_meta_analysis_sexstrat_genes_tissue_crohn
+2026-11-27 23:11:59 END   perform_meta_analysis_sexstrat_genes_tissue_crohn exit=0
+2026-11-27 23:11:59 START perform_meta_analysis_sexstrat_genes_tissue_psoriasis
+2026-11-27 23:13:28 END   perform_meta_analysis_sexstrat_genes_tissue_psoriasis exit=0
+2026-11-27 23:13:28 START perform_meta_analysis_sexstrat_genes_tissue_scleroderma
+2026-11-27 23:14:08 END   perform_meta_analysis_sexstrat_genes_tissue_scleroderma exit=0
+2026-11-27 23:14:08 START perform_meta_analysis_sexstrat_genes_tissue_uc
+2026-11-27 23:16:47 END   perform_meta_analysis_sexstrat_genes_tissue_uc exit=0
+2026-11-27 23:16:47 START perform_meta_analysis_sexstrat_pathways_tissue_crohn
+2026-11-27 23:30:27 END   perform_meta_analysis_sexstrat_pathways_tissue_crohn exit=0
+2026-11-27 23:30:27 START perform_meta_analysis_sexstrat_pathways_tissue_psoriasis
+2026-11-27 23:47:23 END   perform_meta_analysis_sexstrat_pathways_tissue_psoriasis exit=0
+2026-11-27 23:47:23 START perform_meta_analysis_sexstrat_pathways_tissue_scleroderma
+2026-11-27 23:48:08 END   perform_meta_analysis_sexstrat_pathways_tissue_scleroderma exit=0
+2026-11-27 23:48:08 START perform_meta_analysis_sexstrat_pathways_tissue_uc
+2026-11-28 00:58:24 END   perform_meta_analysis_sexstrat_pathways_tissue_uc exit=0
+2026-11-28 00:58:24 START compare
+2026-11-28 00:58:42 END   compare exit=0
+ALL_DONE

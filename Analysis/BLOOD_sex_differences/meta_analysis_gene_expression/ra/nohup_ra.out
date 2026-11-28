@@ -1,0 +1,137 @@
+nohup: ignoring input
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.4.4     ✔ tibble    3.3.0
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.0.4     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:lubridate’:
+
+    hour, isoweek, mday, minute, month, quarter, second, wday, week,
+    yday, year
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+
+Attaching package: ‘rlang’
+
+The following object is masked from ‘package:data.table’:
+
+    :=
+
+The following objects are masked from ‘package:purrr’:
+
+    %@%, flatten, flatten_chr, flatten_dbl, flatten_int, flatten_lgl,
+    flatten_raw, invoke, splice
+
+ℹ Loading metapipeline
+Pazienti per GSE e sesso (servono almeno 2 M e 2 F per ogni GSE):
+           
+              F   M
+  GSE100191   5   2
+  GSE110169  65  14
+  GSE112809   4   4
+  GSE11827   25   2
+  GSE12051   39   5
+  GSE126476  18   1
+  GSE13026   18   6
+  GSE151161  64  12
+  GSE153015  20   0
+  GSE15573   14   4
+  GSE172188  12   0
+  GSE198520  70  22
+  GSE20690   58  10
+  GSE24742   18   6
+  GSE27390    9   0
+  GSE30023    7   0
+  GSE36700    2   5
+  GSE37107   12   2
+  GSE39340    7   3
+  GSE45867   30  10
+  GSE47726    8   3
+  GSE48780   41   8
+  GSE57376    5   2
+  GSE68689   13   3
+  GSE74143  296  81
+  GSE93272  205  27
+  GSE93698    2   5
+  GSE97165   16  22
+Setting options('download.file.method.GEOquery'='auto')
+Setting options('GEOquery.inmemory.gpl'=FALSE)
+Found 1 file(s)
+GSE100191_series_matrix.txt.gz
+Found 1 file(s)
+GSE12051_series_matrix.txt.gz
+Found 1 file(s)
+GSE20690_series_matrix.txt.gz
+Found 1 file(s)
+GSE37107_series_matrix.txt.gz
+Found 1 file(s)
+GSE68689_series_matrix.txt.gz
+Found 1 file(s)
+GSE74143_series_matrix.txt.gz
+Using locally cached version of GPL13158 found here:
+../../../../geo_data//GPL13158.soft.gz 
+Found 1 file(s)
+GSE93272_series_matrix.txt.gz
+Found 1 file(s)
+GSE110169_series_matrix.txt.gz
+Using locally cached version: ../../../../geo_data//GSE110169_series_matrix.txt.gz
+Using locally cached version of GPL13667 found here:
+../../../../geo_data//GPL13667.soft.gz 
+          Length Class  Mode
+GSE100191 1      -none- list
+GSE12051  1      -none- list
+GSE20690  1      -none- list
+GSE37107  1      -none- list
+GSE68689  1      -none- list
+GSE74143  1      -none- list
+GSE93272  1      -none- list
+GSE110169 1      -none- list
+[1] "GSE100191_series_matrix.txt.gz"
+[1] "GSE12051_series_matrix.txt.gz"
+[1] "GSE20690_series_matrix.txt.gz"
+[1] "GSE37107_series_matrix.txt.gz"
+[1] "GSE68689_series_matrix.txt.gz"
+[1] "GSE74143_series_matrix.txt.gz"
+[1] "GSE93272_series_matrix.txt.gz"
+[1] "GSE110169_series_matrix.txt.gz"
+ [1] "GSE100191" "GSE12051"  "GSE20690"  "GSE37107"  "GSE68689"  "GSE74143" 
+ [7] "GSE93272"  "GSE110169" "GSE112656" "GSE116899" "GSE117769" "GSE118829"
+[13] "GSE122616" "GSE122624" "GSE123492" "GSE129705" "GSE151161" "GSE198520"
+[19] "GSE199152" "GSE90081"  "GSE94897"  "GSE97165" 
+[1] "GSE100191" "GSE12051"  "GSE20690"  "GSE37107"  "GSE68689"  "GSE74143" 
+[7] "GSE93272"  "GSE110169" "GSE151161"
+Found common probes in 7 
+Found common probes in 8 
+Computing effect sizes...
+Computing summary effect sizes...
+Computing Fisher's output...[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "#########DONE! (sex differences)"
