@@ -1,0 +1,145 @@
+- The project is out-of-sync -- use `renv::status()` for details.
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.5.2     ✔ tibble    3.3.0
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.0.4     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ purrr::%||%()   masks base::%||%()
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:lubridate’:
+
+    hour, isoweek, mday, minute, month, quarter, second, wday, week,
+    yday, year
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+
+Attaching package: ‘rlang’
+
+The following object is masked from ‘package:data.table’:
+
+    :=
+
+The following objects are masked from ‘package:purrr’:
+
+    %@%, flatten, flatten_chr, flatten_dbl, flatten_int, flatten_lgl,
+    flatten_raw, invoke, splice
+
+The following object is masked from ‘package:base’:
+
+    %||%
+
+ℹ Loading metapipeline
+Campioni per GSE, gruppo e sesso (servono >= 2 casi e >= 2 sani per sesso in ogni GSE):
+, ,  = F
+
+           
+            case control
+  GSE112594   69       0
+  GSE156035   12      13
+  GSE160306   12      12
+  GSE182494    8       8
+  GSE183701   13      14
+  GSE30208    17      14
+  GSE30209    13      13
+  GSE30210     0      47
+  GSE44313     8       0
+  GSE44314     8       4
+  GSE72492     3       7
+  GSE84934    14       4
+  GSE89022     6       0
+  GSE9006     90      28
+
+, ,  = M
+
+           
+            case control
+  GSE112594  126       0
+  GSE156035    8       7
+  GSE160306    8       8
+  GSE182494    0       0
+  GSE183701   13      12
+  GSE30208    20      12
+  GSE30209    16      16
+  GSE30210     0      75
+  GSE44313     2       0
+  GSE44314     2       2
+  GSE72492     7       0
+  GSE84934    19       9
+  GSE89022     4       0
+  GSE9006     72      20
+
+######## FIRMA DI MALATTIA - SOLO MASCHI (297 casi, 161 sani)
+Setting options('download.file.method.GEOquery'='auto')
+Setting options('GEOquery.inmemory.gpl'=FALSE)
+Found 1 file(s)
+GSE30208_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE30208_series_matrix.txt.gz
+Using locally cached version of GPL6102 found here:
+../../../../../geo_data//GPL6102.soft.gz 
+Found 1 file(s)
+GSE30209_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE30209_series_matrix.txt.gz
+Using locally cached version of GPL6102 found here:
+../../../../../geo_data//GPL6102.soft.gz 
+Found 1 file(s)
+GSE44314_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE44314_series_matrix.txt.gz
+Using locally cached version of GPL6480 found here:
+../../../../../geo_data//GPL6480.soft.gz 
+         Length Class  Mode
+GSE30208 1      -none- list
+GSE30209 1      -none- list
+GSE44314 1      -none- list
+[1] "GSE30208_series_matrix.txt.gz"
+[1] "GSE30209_series_matrix.txt.gz"
+[1] "GSE44314_series_matrix.txt.gz"
+ [1] "GSE30208"  "GSE30209"  "GSE44314"  "GSE111876" "GSE112594" "GSE131526"
+ [7] "GSE131527" "GSE160306" "GSE183701" "GSE185190"
+[1] "GSE30208"  "GSE30209"  "GSE44314"  "GSE183701"
+Found common probes in 2 
+Computing effect sizes...
+Computing summary effect sizes...
+Computing Fisher's output...######## FIRMA DI MALATTIA - SOLO FEMMINE (273 casi, 164 sani)
+Found 1 file(s)
+GSE30208_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE30208_series_matrix.txt.gz
+Using locally cached version of GPL6102 found here:
+../../../../../geo_data//GPL6102.soft.gz 
+Found 1 file(s)
+GSE30209_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE30209_series_matrix.txt.gz
+Using locally cached version of GPL6102 found here:
+../../../../../geo_data//GPL6102.soft.gz 
+Found 1 file(s)
+GSE44314_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE44314_series_matrix.txt.gz
+Using locally cached version of GPL6480 found here:
+../../../../../geo_data//GPL6480.soft.gz 
+         Length Class  Mode
+GSE30208 1      -none- list
+GSE30209 1      -none- list
+GSE44314 1      -none- list
+[1] "GSE30208_series_matrix.txt.gz"
+[1] "GSE30209_series_matrix.txt.gz"
+[1] "GSE44314_series_matrix.txt.gz"
+ [1] "GSE30208"  "GSE30209"  "GSE44314"  "GSE111876" "GSE112594" "GSE131526"
+ [7] "GSE131527" "GSE160306" "GSE183701" "GSE185190"
+[1] "GSE30208"  "GSE30209"  "GSE44314"  "GSE183701"
+Found common probes in 2 
+Computing effect sizes...
+Computing summary effect sizes...
+Computing Fisher's output...[1] "###############DONE! (sex-stratified disease signature, genes)"

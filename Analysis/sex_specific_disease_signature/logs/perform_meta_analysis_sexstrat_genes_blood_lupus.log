@@ -1,0 +1,556 @@
+- The project is out-of-sync -- use `renv::status()` for details.
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.5.2     ✔ tibble    3.3.0
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.0.4     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ purrr::%||%()   masks base::%||%()
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:lubridate’:
+
+    hour, isoweek, mday, minute, month, quarter, second, wday, week,
+    yday, year
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+
+Attaching package: ‘rlang’
+
+The following object is masked from ‘package:data.table’:
+
+    :=
+
+The following objects are masked from ‘package:purrr’:
+
+    %@%, flatten, flatten_chr, flatten_dbl, flatten_int, flatten_lgl,
+    flatten_raw, invoke, splice
+
+The following object is masked from ‘package:base’:
+
+    %||%
+
+ℹ Loading metapipeline
+Campioni per GSE, gruppo e sesso (servono >= 2 casi e >= 2 sani per sesso in ogni GSE):
+, ,  = F
+
+           
+            case control
+  GSE110169   69      54
+  GSE112087   58      54
+  GSE113342    0      12
+  GSE11908    46       0
+  GSE119207    0       2
+  GSE126307   20       7
+  GSE154851   36      32
+  GSE22098    93      52
+  GSE36700     4       0
+  GSE39088    78      34
+  GSE49454   131      17
+  GSE50635    33      16
+  GSE65391   817      57
+  GSE72326   131      32
+  GSE72754    42       9
+  GSE81622    26      20
+  GSE8650     66      30
+  GSE93698     4       0
+  GSE99967    34      14
+
+, ,  = M
+
+           
+            case control
+  GSE110169   13      23
+  GSE112087    4       4
+  GSE113342    0       4
+  GSE11908     7       0
+  GSE119207    0       2
+  GSE126307   10       2
+  GSE154851    2       0
+  GSE22098    17      29
+  GSE36700     0       0
+  GSE39088     0      12
+  GSE49454    26       3
+  GSE50635     0       0
+  GSE65391   107      15
+  GSE72326    26      28
+  GSE72754     0       1
+  GSE81622     4       5
+  GSE8650     10      12
+  GSE93698     0       0
+  GSE99967     8       3
+
+######## FIRMA DI MALATTIA - SOLO MASCHI (234 casi, 143 sani)
+Setting options('download.file.method.GEOquery'='auto')
+Setting options('GEOquery.inmemory.gpl'=FALSE)
+Found 1 file(s)
+GSE110169_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE110169_series_matrix.txt.gz
+Using locally cached version of GPL13667 found here:
+../../../../../geo_data//GPL13667.soft.gz 
+Found 1 file(s)
+GSE49454_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE49454_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE65391_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE65391_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE72326_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE72326_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE99967_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE99967_series_matrix.txt.gz
+Using locally cached version of GPL21970 found here:
+../../../../../geo_data//GPL21970.soft.gz 
+Found 1 file(s)
+GSE22098_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE22098_series_matrix.txt.gz
+Using locally cached version of GPL6947 found here:
+../../../../../geo_data//GPL6947.soft.gz 
+          Length Class  Mode
+GSE110169 1      -none- list
+GSE49454  1      -none- list
+GSE65391  1      -none- list
+GSE72326  1      -none- list
+GSE99967  1      -none- list
+GSE22098  1      -none- list
+[1] "GSE110169_series_matrix.txt.gz"
+[1] "GSE49454_series_matrix.txt.gz"
+[1] "GSE65391_series_matrix.txt.gz"
+[1] "GSE72326_series_matrix.txt.gz"
+[1] "GSE99967_series_matrix.txt.gz"
+[1] "GSE22098_series_matrix.txt.gz"
+ [1] "GSE110169" "GSE49454"  "GSE65391"  "GSE72326"  "GSE99967"  "GSE22098" 
+ [7] "GSE101437" "GSE110999" "GSE112087" "GSE139350" "GSE149050" "GSE153781"
+[13] "GSE162828" "GSE167923" "GSE169080" "GSE175759" "GSE175839" "GSE80183" 
+[19] "GSE97264" 
+[1] "GSE110169" "GSE49454"  "GSE65391"  "GSE72326"  "GSE99967"  "GSE22098" 
+[7] "GSE112087"
+Found common probes in 3 
+Found common probes in 4 
+Found common probes in 6 
+Computing effect sizes...
+Computing summary effect sizes...
+Computing Fisher's output...[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+######## FIRMA DI MALATTIA - SOLO FEMMINE (1688 casi, 442 sani)
+Found 1 file(s)
+GSE110169_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE110169_series_matrix.txt.gz
+Using locally cached version of GPL13667 found here:
+../../../../../geo_data//GPL13667.soft.gz 
+Found 1 file(s)
+GSE154851_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE154851_series_matrix.txt.gz
+Using locally cached version of GPL16699 found here:
+../../../../../geo_data//GPL16699.soft.gz 
+Found 1 file(s)
+GSE49454_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE49454_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE50635_series_matrix.txt.gz
+Using locally cached version of GPL6244 found here:
+../../../../../geo_data//GPL6244.soft.gz 
+Found 1 file(s)
+GSE65391_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE65391_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE72326_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE72326_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE72754_series_matrix.txt.gz
+Using locally cached version of GPL570 found here:
+../../../../../geo_data//GPL570.soft.gz 
+Found 1 file(s)
+GSE99967_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE99967_series_matrix.txt.gz
+Using locally cached version of GPL21970 found here:
+../../../../../geo_data//GPL21970.soft.gz 
+Found 1 file(s)
+GSE39088_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE39088_series_matrix.txt.gz
+Using locally cached version of GPL570 found here:
+../../../../../geo_data//GPL570.soft.gz 
+Found 1 file(s)
+GSE22098_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE22098_series_matrix.txt.gz
+Using locally cached version of GPL6947 found here:
+../../../../../geo_data//GPL6947.soft.gz 
+          Length Class  Mode
+GSE110169 1      -none- list
+GSE154851 1      -none- list
+GSE49454  1      -none- list
+GSE50635  1      -none- list
+GSE65391  1      -none- list
+GSE72326  1      -none- list
+GSE72754  1      -none- list
+GSE99967  1      -none- list
+GSE39088  1      -none- list
+GSE22098  1      -none- list
+[1] "GSE110169_series_matrix.txt.gz"
+[1] "GSE154851_series_matrix.txt.gz"
+[1] "GSE49454_series_matrix.txt.gz"
+[1] "GSE50635_series_matrix.txt.gz"
+[1] "GSE65391_series_matrix.txt.gz"
+[1] "GSE72326_series_matrix.txt.gz"
+[1] "GSE72754_series_matrix.txt.gz"
+[1] "GSE99967_series_matrix.txt.gz"
+[1] "GSE39088_series_matrix.txt.gz"
+[1] "GSE22098_series_matrix.txt.gz"
+ [1] "GSE110169" "GSE154851" "GSE49454"  "GSE50635"  "GSE65391"  "GSE72326" 
+ [7] "GSE72754"  "GSE99967"  "GSE39088"  "GSE22098"  "GSE101437" "GSE110999"
+[13] "GSE112087" "GSE139350" "GSE149050" "GSE153781" "GSE162828" "GSE167923"
+[19] "GSE169080" "GSE175759" "GSE175839" "GSE80183"  "GSE97264" 
+ [1] "GSE110169" "GSE154851" "GSE49454"  "GSE50635"  "GSE65391"  "GSE72326" 
+ [7] "GSE72754"  "GSE99967"  "GSE39088"  "GSE22098"  "GSE112087"
+Found common probes in 5 
+Found common probes in 6 
+Found common probes in 7 
+Found common probes in 8 
+Found common probes in 9 
+Found common probes in 10 
+Computing effect sizes...
+Computing summary effect sizes...
+Computing Fisher's output...[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "###############DONE! (sex-stratified disease signature, genes)"

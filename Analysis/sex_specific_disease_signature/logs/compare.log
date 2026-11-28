@@ -1,0 +1,135 @@
+- The project is out-of-sync -- use `renv::status()` for details.
+BLOOD | genes | crohn: 19950 feature
+BLOOD | genes | diabetes: 16456 feature
+BLOOD | genes | lupus: 20227 feature
+BLOOD | genes | ra: 16648 feature
+BLOOD | genes | uc: 19830 feature
+BLOOD | hallmarks | crohn: 50 feature
+BLOOD | hallmarks | diabetes: 50 feature
+BLOOD | hallmarks | lupus: 50 feature
+BLOOD | hallmarks | ra: 50 feature
+BLOOD | hallmarks | uc: 50 feature
+BLOOD | kegg | crohn: 186 feature
+BLOOD | kegg | diabetes: 186 feature
+BLOOD | kegg | lupus: 186 feature
+BLOOD | kegg | ra: 186 feature
+BLOOD | kegg | uc: 186 feature
+BLOOD | wikipathways | crohn: 661 feature
+BLOOD | wikipathways | diabetes: 660 feature
+BLOOD | wikipathways | lupus: 664 feature
+BLOOD | wikipathways | ra: 660 feature
+BLOOD | wikipathways | uc: 661 feature
+TISSUE | genes | crohn: 21998 feature
+TISSUE | genes | psoriasis: 13997 feature
+   TISSUE/genes/scleroderma: mancano i risultati di un sesso, salto
+   TISSUE/genes/uc: mancano i risultati di un sesso, salto
+   TISSUE/hallmarks/crohn: mancano i risultati di un sesso, salto
+TISSUE | hallmarks | psoriasis: 50 feature
+   TISSUE/hallmarks/scleroderma: mancano i risultati di un sesso, salto
+   TISSUE/hallmarks/uc: mancano i risultati di un sesso, salto
+   TISSUE/kegg/crohn: mancano i risultati di un sesso, salto
+TISSUE | kegg | psoriasis: 186 feature
+   TISSUE/kegg/scleroderma: mancano i risultati di un sesso, salto
+   TISSUE/kegg/uc: mancano i risultati di un sesso, salto
+   TISSUE/wikipathways/crohn: mancano i risultati di un sesso, salto
+TISSUE | wikipathways | psoriasis: 647 feature
+   TISSUE/wikipathways/scleroderma: mancano i risultati di un sesso, salto
+   TISSUE/wikipathways/uc: mancano i risultati di un sesso, salto
+   context feature_type   disease n_features spearman_ES_M_vs_F n_sig_M n_sig_F
+1    BLOOD        genes     crohn      19950          0.6871599     811    1549
+2    BLOOD        genes  diabetes      16456          0.2488759       0       0
+3    BLOOD        genes     lupus      20227          0.5761417     852    1835
+4    BLOOD        genes        ra      16648          0.6887482    4553     926
+5    BLOOD        genes        uc      19830          0.5483115     474      81
+6    BLOOD    hallmarks     crohn         50          0.8917647      11       6
+7    BLOOD    hallmarks  diabetes         50          0.5086675       0       1
+8    BLOOD    hallmarks     lupus         50          0.9223049      32      30
+9    BLOOD    hallmarks        ra         50          0.7429052      18       4
+10   BLOOD    hallmarks        uc         50          0.8019688      12       0
+11   BLOOD         kegg     crohn        186          0.8488407      21       8
+12   BLOOD         kegg  diabetes        186          0.4664043       1       0
+13   BLOOD         kegg     lupus        186          0.7669643      24      47
+14   BLOOD         kegg        ra        186          0.6980955      38      17
+15   BLOOD         kegg        uc        186          0.7221527      32       5
+16   BLOOD wikipathways     crohn        661          0.8500343      83      76
+17   BLOOD wikipathways  diabetes        660          0.3756572       0       0
+18   BLOOD wikipathways     lupus        664          0.7947385     148     197
+19   BLOOD wikipathways        ra        660          0.7249784     193      60
+20   BLOOD wikipathways        uc        661          0.6762119      75      14
+21  TISSUE        genes     crohn      21998          0.7744736    2336    1119
+22  TISSUE        genes psoriasis      13997          0.8145098    1439     758
+23  TISSUE    hallmarks psoriasis         50          0.8974310      21      21
+24  TISSUE         kegg psoriasis        186          0.8623594      36      43
+25  TISSUE wikipathways psoriasis        647          0.8898953     186     201
+   n_shared n_opposite n_male_specific n_female_specific n_interaction_fdr05
+1       390          0               0                 1                   1
+2         0          0               0                 0                   0
+3       538          0               0                 0                   0
+4       529          0            1232                 2                1450
+5        19          0               0                 0                   0
+6         3          0               0                 0                   0
+7         0          0               0                 0                   0
+8        24          0               0                 0                   0
+9         4          0               1                 0                   2
+10        0          0               0                 0                   0
+11        5          0               0                 0                   0
+12        0          0               0                 0                   0
+13       13          0               0                 0                   0
+14        7          0               1                 0                   1
+15        2          0               0                 0                   0
+16       37          0               0                 0                   0
+17        0          0               0                 0                   0
+18       98          0               0                 0                   0
+19       32          0              13                 0                  17
+20        8          0               0                 0                   0
+21      809          0               0                 0                   0
+22      427          0               0                 0                   0
+23       16          0               0                 0                   0
+24       21          0               0                 0                   0
+25      125          0               0                 0                   0
+   n_one_sex_only_no_interaction
+1                           1579
+2                              0
+3                           1611
+4                           3187
+5                            517
+6                             11
+7                              1
+8                             14
+9                             13
+10                            12
+11                            19
+12                             1
+13                            45
+14                            40
+15                            33
+16                            85
+17                             0
+18                           149
+19                           176
+20                            73
+21                          1837
+22                          1343
+23                            10
+24                            37
+25                           137
+   pan TISSUE genes: solo 2 malattie, salto
+   pan TISSUE hallmarks: solo 1 malattie, salto
+   pan TISSUE kegg: solo 1 malattie, salto
+   pan TISSUE wikipathways: solo 1 malattie, salto
+                   context feature_type n_diseases n_pooled n_robust
+BLOOD genes          BLOOD        genes          5    19001        0
+BLOOD hallmarks      BLOOD    hallmarks          5       50        0
+BLOOD kegg           BLOOD         kegg          5      186        0
+BLOOD wikipathways   BLOOD wikipathways          5      663        0
+                   n_robust_non_sex_linked n_stronger_in_males
+BLOOD genes                              0                   0
+BLOOD hallmarks                          0                   0
+BLOOD kegg                               0                   0
+BLOOD wikipathways                       0                   0
+                   n_stronger_in_females
+BLOOD genes                            0
+BLOOD hallmarks                        0
+BLOOD kegg                             0
+BLOOD wikipathways                     0
+[1] "###############DONE! (sex-specific disease signature)"

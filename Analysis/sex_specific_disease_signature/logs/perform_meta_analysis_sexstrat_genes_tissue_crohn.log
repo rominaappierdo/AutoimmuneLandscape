@@ -1,0 +1,218 @@
+- The project is out-of-sync -- use `renv::status()` for details.
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.5
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.5.2     ✔ tibble    3.3.0
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.0.4     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ purrr::%||%()   masks base::%||%()
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:lubridate’:
+
+    hour, isoweek, mday, minute, month, quarter, second, wday, week,
+    yday, year
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+The following object is masked from ‘package:purrr’:
+
+    transpose
+
+
+Attaching package: ‘rlang’
+
+The following object is masked from ‘package:data.table’:
+
+    :=
+
+The following objects are masked from ‘package:purrr’:
+
+    %@%, flatten, flatten_chr, flatten_dbl, flatten_int, flatten_lgl,
+    flatten_raw, invoke, splice
+
+The following object is masked from ‘package:base’:
+
+    %||%
+
+ℹ Loading metapipeline
+Campioni per GSE, gruppo e sesso (servono >= 2 casi e >= 2 sani per sesso in ogni GSE):
+, ,  = F
+
+           
+            case control
+  GSE100833  360       0
+  GSE101794  105      19
+  GSE111889   65      26
+  GSE126124   14      10
+  GSE137344   58      18
+  GSE151686   19       0
+  GSE186582  239       0
+  GSE193677  440     170
+  GSE26305     0       1
+  GSE36807     4       0
+  GSE48634    16      26
+  GSE52746    11       6
+  GSE66207    14       6
+  GSE77387     1       1
+  GSE83687    11      23
+
+, ,  = M
+
+           
+            case control
+  GSE100833  268       0
+  GSE101794  149      31
+  GSE111889   58      24
+  GSE126124   23      11
+  GSE137344   54      19
+  GSE151686   15       0
+  GSE186582  225       0
+  GSE193677  514     200
+  GSE26305     2       1
+  GSE36807     9       0
+  GSE48634    18      43
+  GSE52746    12      10
+  GSE66207     6       7
+  GSE77387     2       2
+  GSE83687    17      12
+
+######## FIRMA DI MALATTIA - SOLO MASCHI (1372 casi, 360 sani)
+Setting options('download.file.method.GEOquery'='auto')
+Setting options('GEOquery.inmemory.gpl'=FALSE)
+Found 1 file(s)
+GSE126124_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE126124_series_matrix.txt.gz
+Using locally cached version of GPL6244 found here:
+../../../../../geo_data//GPL6244.soft.gz 
+Found 1 file(s)
+GSE48634_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE48634_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE52746_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE52746_series_matrix.txt.gz
+Using locally cached version of GPL17996 found here:
+../../../../../geo_data//GPL17996.soft.gz 
+Found 1 file(s)
+GSE77387_series_matrix.txt.gz
+          Length Class  Mode
+GSE126124 1      -none- list
+GSE48634  1      -none- list
+GSE52746  1      -none- list
+GSE77387  1      -none- list
+[1] "GSE126124_series_matrix.txt.gz"
+[1] "GSE48634_series_matrix.txt.gz"
+[1] "GSE52746_series_matrix.txt.gz"
+[1] "GSE77387_series_matrix.txt.gz"
+ [1] "GSE126124" "GSE48634"  "GSE52746"  "GSE77387"  "GSE101794" "GSE111889"
+ [7] "GSE112057" "GSE117993" "GSE137344" "GSE138364" "GSE143507" "GSE151686"
+[13] "GSE156044" "GSE171244" "GSE179128" "GSE186507" "GSE193677" "GSE208303"
+[19] "GSE66207"  "GSE83687"  "GSE85499" 
+ [1] "GSE126124" "GSE48634"  "GSE52746"  "GSE77387"  "GSE101794" "GSE111889"
+ [7] "GSE137344" "GSE193677" "GSE66207"  "GSE83687" 
+Found common probes in 6 
+Found common probes in 7 
+Found common probes in 8 
+Found common probes in 9 
+Found common probes in 10 
+Computing effect sizes...
+Computing summary effect sizes...
+Computing Fisher's output...[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+######## FIRMA DI MALATTIA - SOLO FEMMINE (1357 casi, 306 sani)
+Found 1 file(s)
+GSE126124_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE126124_series_matrix.txt.gz
+Using locally cached version of GPL6244 found here:
+../../../../../geo_data//GPL6244.soft.gz 
+Found 1 file(s)
+GSE48634_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE48634_series_matrix.txt.gz
+Using locally cached version of GPL10558 found here:
+../../../../../geo_data//GPL10558.soft.gz 
+Found 1 file(s)
+GSE52746_series_matrix.txt.gz
+Using locally cached version: ../../../../../geo_data//GSE52746_series_matrix.txt.gz
+Using locally cached version of GPL17996 found here:
+../../../../../geo_data//GPL17996.soft.gz 
+          Length Class  Mode
+GSE126124 1      -none- list
+GSE48634  1      -none- list
+GSE52746  1      -none- list
+[1] "GSE126124_series_matrix.txt.gz"
+[1] "GSE48634_series_matrix.txt.gz"
+[1] "GSE52746_series_matrix.txt.gz"
+ [1] "GSE126124" "GSE48634"  "GSE52746"  "GSE101794" "GSE111889" "GSE112057"
+ [7] "GSE117993" "GSE137344" "GSE138364" "GSE143507" "GSE151686" "GSE156044"
+[13] "GSE171244" "GSE179128" "GSE186507" "GSE193677" "GSE208303" "GSE66207" 
+[19] "GSE83687"  "GSE85499" 
+[1] "GSE126124" "GSE48634"  "GSE52746"  "GSE101794" "GSE111889" "GSE137344"
+[7] "GSE193677" "GSE66207"  "GSE83687" 
+Found common probes in 5 
+Found common probes in 6 
+Found common probes in 7 
+Found common probes in 8 
+Found common probes in 9 
+Computing effect sizes...
+Computing summary effect sizes...
+Computing Fisher's output...[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "character"
+[1] "###############DONE! (sex-stratified disease signature, genes)"
