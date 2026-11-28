@@ -1,0 +1,2 @@
+context	gene_set	disease	pathway	effectSize_pat	effectSizeFDR_pat	numStudies_pat	effectSize_healthy	effectSizeFDR_healthy	numStudies_healthy	diff	z	p_int	FDR_int	class
+BLOOD	wikipathways	ra	WP_STEROL_REGULATORY_ELEMENTBINDING_PROTEINS_SREBP_SIGNALING	0.410676088808704	0.0107911296906799	9	-0.516030985967975	0.0905796796899035	2	0.926707074776679	3.720343323613	0.000198952135421668	0.00876715743424818	disease_specific

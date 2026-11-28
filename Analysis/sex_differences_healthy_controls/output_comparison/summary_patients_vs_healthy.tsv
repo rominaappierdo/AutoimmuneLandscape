@@ -1,0 +1,12 @@
+context	gene_set	disease	n_pathways	spearman_pat_vs_healthy	n_sig_pat	n_sig_healthy	n_sig_interaction	n_disease_specific	n_shared	n_opposite	n_healthy_only
+BLOOD	hallmarks	diabetes	50	0.197214885954382	0	0	0	0	0	0	0
+BLOOD	hallmarks	lupus	50	0.460072028811525	0	5	0	0	0	0	5
+BLOOD	hallmarks	multiple_sclerosis	50	0.550348139255702	0	0	0	0	0	0	0
+BLOOD	hallmarks	ra	50	0.280672268907563	2	15	12	0	0	0	15
+BLOOD	kegg	diabetes	186	0.456688221773611	0	0	0	0	0	0	0
+BLOOD	kegg	multiple_sclerosis	186	0.501162297367231	4	0	0	0	0	0	0
+BLOOD	kegg	ra	186	0.178313106965858	2	25	15	0	1	0	24
+BLOOD	wikipathways	diabetes	661	0.281096500192442	0	3	0	0	0	0	3
+BLOOD	wikipathways	multiple_sclerosis	663	0.601409454667964	9	0	0	0	0	0	0
+BLOOD	wikipathways	ra	661	0.235827933583272	11	123	82	1	2	0	121
+TISSUE	wikipathways	scleroderma	664	0.561274426919713	51	33	0	0	7	0	26

@@ -1,0 +1,5 @@
+context	feature_type	n_diseases	n_pooled	n_robust	n_robust_non_sex_linked	n_stronger_in_males	n_stronger_in_females
+BLOOD	genes	5	19001	0	0	0	0
+BLOOD	hallmarks	5	50	0	0	0	0
+BLOOD	kegg	5	186	0	0	0	0
+BLOOD	wikipathways	5	663	0	0	0	0
